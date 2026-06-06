@@ -1,0 +1,575 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Industry Watcher — German Mittelstand Digital & KI</title>
+<meta name="description" content="Wöchentliches KI-Intelligence-Briefing für deutsche Mittelständler. Trends, Opportunities, Action Items." />
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:opsz,wght@14..32,400;500;600;700;800&family=Inter:wght@400;500;600&family=Noto+Serif+JP:wght@400;700;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+/* ============================================
+   DESIGN TOKENS — Monochrome Japanese Editorial
+   (reusing editorial-portfolio aesthetic)
+   ============================================ */
+:root {
+  --paper: #f5f3ef;
+  --paper-warm: #eeebe4;
+  --paper-dark: #dedad2;
+  --ink: #0a0a0a;
+  --ink-soft: #2b2b2b;
+  --ink-mute: #6b6b6b;
+  --ink-faint: #a0a09a;
+  --silver: #c0bdb6;
+  --silver-dark: #8a8781;
+  --line: rgba(10, 10, 10, .12);
+  --line-soft: rgba(10, 10, 10, .06);
+  --accent: #b8b09a;
+  --signal-high: #b01a1a;
+  --signal-mid: #c08a30;
+  --signal-low: #6b9b3a;
+  --serif-jp: "Noto Serif JP", "Hiragino Mincho Pro", "Yu Mincho", serif;
+  --sans: "Inter Tight", "Inter", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+  --body: "Inter", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+  --mono: "JetBrains Mono", "SF Mono", Menlo, monospace;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+body {
+  font-family: var(--body);
+  background: var(--paper);
+  color: var(--ink);
+  line-height: 1.6;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--line); transition: border-color .2s; }
+a:hover { border-color: var(--ink); }
+img, svg { max-width: 100%; display: block; }
+
+/* === LAYOUT === */
+.container { max-width: 980px; margin: 0 auto; padding: 0 32px; }
+.container-narrow { max-width: 720px; margin: 0 auto; padding: 0 32px; }
+
+/* === MASTHEAD === */
+.masthead {
+  border-bottom: 1px solid var(--ink);
+  padding: 20px 0;
+  margin-bottom: 0;
+  background: var(--paper);
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  backdrop-filter: blur(8px);
+}
+.masthead .row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 24px;
+}
+.brand {
+  font-family: var(--sans);
+  font-weight: 800;
+  font-size: 14px;
+  letter-spacing: -.02em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+}
+.brand .jp { font-family: var(--serif-jp); font-weight: 400; font-size: 18px; letter-spacing: 0; }
+.brand .num {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--ink-mute);
+  font-weight: 500;
+}
+.nav { display: flex; gap: 24px; font-size: 13px; font-weight: 500; }
+.nav a { border: none; color: var(--ink-soft); }
+.nav a:hover { color: var(--ink); }
+
+/* === HERO === */
+.hero {
+  padding: 80px 0 60px;
+  border-bottom: 2px solid var(--ink);
+}
+.kicker {
+  font-family: var(--mono);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: .15em;
+  color: var(--ink-mute);
+  margin-bottom: 24px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.kicker .dot { width: 6px; height: 6px; background: var(--ink); border-radius: 50%; }
+.headline {
+  font-family: var(--sans);
+  font-weight: 700;
+  font-size: clamp(34px, 5.5vw, 60px);
+  line-height: 1.05;
+  letter-spacing: -.025em;
+  margin-bottom: 24px;
+  color: var(--ink);
+}
+.subheadline {
+  font-family: var(--serif-jp);
+  font-weight: 400;
+  font-size: clamp(18px, 2vw, 22px);
+  line-height: 1.5;
+  color: var(--ink-soft);
+  max-width: 720px;
+  margin-bottom: 32px;
+}
+.hero-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  font-family: var(--mono);
+  font-size: 12px;
+  color: var(--ink-mute);
+  border-top: 1px solid var(--line);
+  padding-top: 20px;
+}
+.hero-meta .pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--paper-warm);
+  padding: 4px 10px;
+  border-radius: 2px;
+  color: var(--ink-soft);
+  font-weight: 500;
+}
+
+/* === SECTIONS === */
+.section { padding: 64px 0; border-bottom: 1px solid var(--line); }
+.section:last-child { border-bottom: none; }
+.section-header {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+  margin-bottom: 40px;
+}
+.section-num {
+  font-family: var(--mono);
+  font-size: 12px;
+  color: var(--ink-mute);
+  font-weight: 500;
+}
+.section-title {
+  font-family: var(--sans);
+  font-weight: 700;
+  font-size: 28px;
+  letter-spacing: -.02em;
+}
+.section-jp {
+  font-family: var(--serif-jp);
+  font-size: 18px;
+  color: var(--ink-faint);
+  margin-left: auto;
+  font-weight: 400;
+}
+
+/* === EXEC SUMMARY === */
+.exec-summary {
+  font-family: var(--serif-jp);
+  font-size: 20px;
+  line-height: 1.7;
+  color: var(--ink-soft);
+  border-left: 3px solid var(--ink);
+  padding-left: 32px;
+}
+
+/* === TRENDS === */
+.trend-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 24px;
+}
+.trend {
+  background: white;
+  border: 1px solid var(--line);
+  padding: 28px;
+  position: relative;
+  transition: transform .2s, box-shadow .2s;
+}
+.trend:hover { transform: translateY(-2px); box-shadow: 0 12px 32px -16px rgba(0,0,0,.12); }
+.trend h3 {
+  font-family: var(--sans);
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.3;
+  margin-bottom: 12px;
+  letter-spacing: -.01em;
+}
+.trend p { font-size: 14px; color: var(--ink-soft); margin-bottom: 8px; }
+.trend .why { color: var(--ink); font-weight: 500; }
+.trend .signal {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  font-family: var(--mono);
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  padding: 2px 8px;
+  border-radius: 2px;
+  font-weight: 600;
+}
+.signal-high { background: var(--signal-high); color: white; }
+.signal-mittel, .signal-mid { background: var(--signal-mid); color: white; }
+.signal-niedrig, .signal-low { background: var(--signal-low); color: white; }
+
+/* === OPPORTUNITIES (this is the moneymaker) === */
+.opp-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+}
+.opp {
+  background: var(--paper-warm);
+  border-left: 4px solid var(--ink);
+  padding: 28px 32px;
+  position: relative;
+}
+.opp h3 {
+  font-family: var(--sans);
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 1.3;
+  margin-bottom: 16px;
+  letter-spacing: -.015em;
+}
+.opp .row { display: flex; gap: 32px; flex-wrap: wrap; margin-top: 16px; }
+.opp .field { flex: 1; min-width: 200px; }
+.opp .label {
+  font-family: var(--mono);
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  color: var(--ink-mute);
+  margin-bottom: 4px;
+  font-weight: 600;
+}
+.opp .value { font-size: 14px; color: var(--ink); font-weight: 500; }
+.opp .price { font-family: var(--mono); color: var(--signal-high); font-weight: 600; }
+.opp .how { font-family: var(--mono); font-size: 11px; padding: 2px 8px; border-radius: 2px; display: inline-block; }
+.how-hoch, .how-high { background: var(--signal-high); color: white; }
+.how-mittel, .how-mid { background: var(--signal-mid); color: white; }
+.how-niedrig, .how-low { background: var(--signal-low); color: white; }
+
+/* === ARTICLES === */
+.article-list { display: flex; flex-direction: column; }
+.article {
+  display: grid;
+  grid-template-columns: 80px 1fr;
+  gap: 24px;
+  padding: 24px 0;
+  border-bottom: 1px solid var(--line-soft);
+}
+.article:last-child { border-bottom: none; }
+.article .date {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--ink-mute);
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  padding-top: 4px;
+}
+.article h4 {
+  font-family: var(--sans);
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.35;
+  margin-bottom: 6px;
+  letter-spacing: -.01em;
+}
+.article h4 a { border: none; color: var(--ink); }
+.article h4 a:hover { color: var(--ink-soft); text-decoration: underline; }
+.article .meta {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--ink-mute);
+  margin-bottom: 8px;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+}
+.article .why { font-size: 14px; color: var(--ink-soft); line-height: 1.6; }
+.article .tag {
+  display: inline-block;
+  background: var(--paper-warm);
+  padding: 1px 6px;
+  border-radius: 2px;
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--ink-mute);
+  margin-right: 4px;
+  text-transform: lowercase;
+}
+
+/* === ACTIONS === */
+.actions {
+  background: var(--ink);
+  color: var(--paper);
+  padding: 48px 40px;
+  margin: 0;
+}
+.actions h2 {
+  font-family: var(--sans);
+  font-weight: 700;
+  font-size: 28px;
+  margin-bottom: 32px;
+  letter-spacing: -.02em;
+  color: var(--paper);
+}
+.actions ol {
+  list-style: none;
+  counter-reset: action;
+}
+.actions li {
+  counter-increment: action;
+  position: relative;
+  padding-left: 56px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--paper);
+}
+.actions li::before {
+  content: counter(action, decimal-leading-zero);
+  position: absolute;
+  left: 0;
+  top: 2px;
+  font-family: var(--mono);
+  font-size: 12px;
+  color: var(--ink-faint);
+  font-weight: 500;
+}
+
+/* === CTA === */
+.cta {
+  background: var(--paper-warm);
+  padding: 80px 0;
+  text-align: center;
+  border-top: 2px solid var(--ink);
+}
+.cta h2 {
+  font-family: var(--sans);
+  font-weight: 700;
+  font-size: clamp(28px, 4vw, 42px);
+  line-height: 1.1;
+  margin-bottom: 16px;
+  letter-spacing: -.02em;
+}
+.cta p {
+  font-family: var(--serif-jp);
+  font-size: 18px;
+  color: var(--ink-soft);
+  margin-bottom: 32px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cta .btn {
+  display: inline-block;
+  background: var(--ink);
+  color: var(--paper);
+  padding: 14px 28px;
+  font-family: var(--sans);
+  font-weight: 600;
+  font-size: 15px;
+  border: none;
+  cursor: pointer;
+  transition: all .2s;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+}
+.cta .btn:hover { background: var(--ink-soft); transform: translateY(-1px); }
+.cta .btn-secondary {
+  background: transparent;
+  color: var(--ink);
+  border: 1px solid var(--ink);
+  margin-left: 12px;
+}
+.cta .btn-secondary:hover { background: var(--ink); color: var(--paper); }
+
+/* === FOOTER === */
+.footer {
+  padding: 40px 0;
+  border-top: 1px solid var(--line);
+  font-size: 12px;
+  color: var(--ink-mute);
+  font-family: var(--mono);
+}
+.footer .row { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16px; }
+.footer a { color: var(--ink-soft); border: none; }
+.footer a:hover { text-decoration: underline; }
+
+/* === LOADING/ERROR STATE === */
+.loading {
+  text-align: center;
+  padding: 80px 0;
+  font-family: var(--mono);
+  color: var(--ink-mute);
+}
+.loading .spinner {
+  width: 24px;
+  height: 24px;
+  border: 2px solid var(--line);
+  border-top-color: var(--ink);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin: 0 auto 16px;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* === RESPONSIVE === */
+@media (max-width: 720px) {
+  .container, .container-narrow { padding: 0 20px; }
+  .hero { padding: 48px 0 40px; }
+  .section { padding: 48px 0; }
+  .article { grid-template-columns: 1fr; gap: 8px; }
+  .article .date { padding-top: 0; }
+  .trend-grid { grid-template-columns: 1fr; }
+  .masthead .row { flex-direction: column; align-items: flex-start; gap: 12px; }
+  .nav { gap: 16px; }
+  .actions { padding: 40px 24px; }
+  .actions li { padding-left: 40px; }
+  .cta { padding: 56px 20px; }
+}
+</style>
+</head>
+<body>
+
+<!-- MASTHEAD -->
+<header class="masthead">
+  <div class="container">
+    <div class="row">
+      <div class="brand">
+        <span>Industry Watcher</span>
+        <span class="jp">観察</span>
+        <span class="num" id="issue-num">—</span>
+      </div>
+      <nav class="nav">
+        <a href="#trends">Trends</a>
+        <a href="#opportunities">Opportunities</a>
+        <a href="#articles">Artikel</a>
+        <a href="#actions">Actions</a>
+        <a href="#cta">Demo buchen</a>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="container">
+    <div class="kicker">
+      <span class="dot"></span>
+      <span id="kicker-vertical">German Mittelstand · Digital & KI</span>
+      <span id="kicker-date">—</span>
+    </div>
+    <h1 class="headline" id="headline">Lade…</h1>
+    <p class="subheadline" id="subheadline"></p>
+    <div class="hero-meta" id="hero-meta"></div>
+  </div>
+</section>
+
+<!-- EXEC SUMMARY -->
+<section class="section" id="summary">
+  <div class="container-narrow">
+    <div class="section-header">
+      <span class="section-num">01</span>
+      <h2 class="section-title">Executive Summary</h2>
+      <span class="section-jp">要約</span>
+    </div>
+    <div class="exec-summary" id="exec-summary">—</div>
+  </div>
+</section>
+
+<!-- TRENDS -->
+<section class="section" id="trends">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-num">02</span>
+      <h2 class="section-title">Trends</h2>
+      <span class="section-jp">傾向</span>
+    </div>
+    <div class="trend-grid" id="trends-grid">
+      <div class="loading"><div class="spinner"></div>Lade Trends…</div>
+    </div>
+  </div>
+</section>
+
+<!-- OPPORTUNITIES (THE MONEYMAKER) -->
+<section class="section" id="opportunities">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-num">03</span>
+      <h2 class="section-title">Opportunities</h2>
+      <span class="section-jp">機会</span>
+    </div>
+    <p style="font-family: var(--serif-jp); font-size: 16px; color: var(--ink-mute); margin-bottom: 32px; max-width: 600px;">
+      Konkrete Bedarfe, die aus den Quellen dieser Woche sichtbar werden — wer würde zahlen, was kostet es, wie schnell umsetzbar.
+    </p>
+    <div class="opp-grid" id="opps-grid">
+      <div class="loading"><div class="spinner"></div>Lade Opportunities…</div>
+    </div>
+  </div>
+</section>
+
+<!-- TOP ARTICLES -->
+<section class="section" id="articles">
+  <div class="container">
+    <div class="section-header">
+      <span class="section-num">04</span>
+      <h2 class="section-title">Top Artikel</h2>
+      <span class="section-jp">記事</span>
+    </div>
+    <div class="article-list" id="article-list">
+      <div class="loading"><div class="spinner"></div>Lade Artikel…</div>
+    </div>
+  </div>
+</section>
+
+<!-- ACTION ITEMS -->
+<section class="section" id="actions">
+  <div class="container">
+    <div class="actions" style="margin: 0 -32px;">
+      <h2>Diese Woche tun <span style="font-family: var(--serif-jp); color: var(--ink-faint); font-weight: 400;">今週</span></h2>
+      <ol id="actions-list"></ol>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<section class="cta" id="cta">
+  <div class="container-narrow">
+    <h2>Willst du das für deine Branche?</h2>
+    <p>Jede Woche ein kuratiertes Intelligence-Briefing, zugeschnitten auf deine Industrie, deine Wettbewerber, deine Pain-Points. Kein manuelles Lesen mehr — die KI extrahiert, was relevant ist.</p>
+    <a href="mailto:hallo@floshiddenlabs.me?subject=Industry%20Watcher%20Demo%20f%C3%BCr%20meine%20Branche" class="btn">Demo anfragen</a>
+    <a href="https://github.com/igoingtodevx/ai-industry-watcher" class="btn btn-secondary">GitHub Repo</a>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <span>Industry Watcher · <span id="footer-vertical">—</span></span>
+      <span id="footer-build">—</span>
+      <span>Built by <a href="https://floshiddenlabs.me">Flo's Hidden Labs</a></span>
+    </div>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

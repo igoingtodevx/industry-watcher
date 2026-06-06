@@ -1,0 +1,85 @@
+# Industry Watcher — Source list
+# Vertical: German Mittelstand Digital & KI-Automation
+# Each entry: name, url, type, weight (1-5), lang, category, keywords (optional filter)
+
+sources:
+  # --- Big general feeds (need keyword filter to stay on-topic)
+  - name: Heise Online (Hauptfeed, gefiltert auf KI/Digital)
+    url: https://www.heise.de/rss/heise-atom.xml
+    type: rss
+    weight: 5
+    lang: de
+    category: tech-press
+    keywords: [ki, künstlich, ai, agent, automatisierung, automation, llm, gpt, claude, openai, anthropic, digital, mittelstand, smb, saas, workflow, api, business, digitalisierung]
+
+  - name: Golem.de (Hauptfeed, gefiltert)
+    url: https://rss.golem.de/rss.php?feed=RSS2.0
+    type: rss
+    weight: 4
+    lang: de
+    category: tech-press
+    keywords: [ki, künstlich, ai, agent, automatisierung, automation, llm, openai, claude, mittelstand, smb, digital, digitalisierung]
+
+  # --- On-topic feeds (no filter needed)
+  - name: The Decoder
+    url: https://the-decoder.de/feed/
+    type: rss
+    weight: 5
+    lang: de
+    category: ai-research
+
+  - name: t3n Digital Pioneers
+    url: https://t3n.de/rss.xml
+    type: rss
+    weight: 4
+    lang: de
+    category: digital-business
+
+  - name: Elektroniknet / Industry
+    url: https://www.elektroniknet.de/rss/
+    type: rss
+    weight: 3
+    lang: de
+    category: manufacturing
+
+  - name: Ingenieur.de
+    url: https://www.ingenieur.de/feed/
+    type: rss
+    weight: 3
+    lang: de
+    category: manufacturing
+
+  # --- Mittelstand-specific (try multiple URL variants)
+  - name: Bitkom (try)
+    url: https://www.bitkom.org/Presse/Presseinformation.rss
+    type: rss
+    weight: 4
+    lang: de
+    category: industry-association
+    optional: true
+
+  - name: Industrie 4.0 Magazin
+    url: https://industrie40-magazin.de/feed/
+    type: rss
+    weight: 3
+    lang: de
+    category: manufacturing
+    optional: true
+
+  # --- International high-signal
+  - name: Hacker News (AI only)
+    url: https://hnrss.org/newest?q=AI+OR+agent+OR+automation&count=40
+    type: rss
+    weight: 3
+    lang: en
+    category: tech-press
+    optional: true
+
+# --- Aggregation / scoring params
+scoring:
+  recency_half_life_hours: 48   # 50% weight loss per 48h
+  max_articles_per_source: 20
+  min_articles_total: 20
+  max_articles_total: 50        # Cap to keep brief focused
+  lookback_hours: 168           # 7 days
+  request_timeout_seconds: 8
