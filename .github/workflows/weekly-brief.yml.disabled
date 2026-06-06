@@ -36,7 +36,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add web/data/latest.json
+          # Force-add the generated brief (it's in .gitignore to keep the dev tree clean)
+          git add -f web/data/latest.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
             exit 0
