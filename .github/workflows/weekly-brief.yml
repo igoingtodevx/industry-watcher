@@ -1,0 +1,46 @@
+name: Weekly Industry Brief
+
+on:
+  # Run every Monday at 06:00 UTC
+  schedule:
+    - cron: "0 6 * * 1"
+  # Allow manual trigger from Actions tab
+  workflow_dispatch:
+
+jobs:
+  generate-brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+        run: python scripts/run_pipeline.py
+
+      - name: Commit + push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Force-add the generated brief (it's in .gitignore to keep the dev tree clean)
+          git add -f web/data/latest.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: weekly brief $(date -u +%Y-%m-%d)"
+          git push
