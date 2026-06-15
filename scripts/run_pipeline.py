@@ -14,6 +14,8 @@ from pipeline.scraper import run as run_scraper
 from pipeline.brief import generate_brief
 from pipeline.storage import assemble_latest
 
+log = logging.getLogger("pipeline")
+
 
 def main() -> int:
     logging.basicConfig(
