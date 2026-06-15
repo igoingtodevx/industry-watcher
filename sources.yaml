@@ -3,24 +3,24 @@
 # Each entry: name, url, type, weight (1-5), lang, category, keywords (optional filter)
 
 sources:
-  # --- Big general feeds (need keyword filter to stay on-topic)
-  - name: Heise Online (Hauptfeed, gefiltert auf KI/Digital)
+  # === Tier 1: Big general feeds (keyword filter needed) ===
+  - name: Heise Online (Hauptfeed)
     url: https://www.heise.de/rss/heise-atom.xml
     type: rss
     weight: 5
     lang: de
     category: tech-press
-    keywords: [ki, künstlich, ai, agent, automatisierung, automation, llm, gpt, claude, openai, anthropic, digital, mittelstand, smb, saas, workflow, api, business, digitalisierung]
+    keywords: [ki, künstlich, ai, agent, automatisierung, automation, llm, gpt, claude, openai, anthropic, digital, mittelstand, smb, saas, workflow, api, business, digitalisierung, software, roboter, daten, cloud, security, chip, prozessor, halbleiter, elektronik, iot, edge, open source, devops, ki-tool, prompt, training, modell, gpu, hardware, netzwerk, 5g, blockchain, web3, metaversum, ar, vr, mixed]
 
-  - name: Golem.de (Hauptfeed, gefiltert)
+  - name: Golem.de (Hauptfeed)
     url: https://rss.golem.de/rss.php?feed=RSS2.0
     type: rss
     weight: 4
     lang: de
     category: tech-press
-    keywords: [ki, künstlich, ai, agent, automatisierung, automation, llm, openai, claude, mittelstand, smb, digital, digitalisierung]
+    keywords: [ki, künstlich, ai, agent, automatisierung, automation, llm, openai, claude, mittelstand, smb, digital, digitalisierung, software, cloud, saas, sicherheit, daten, datenschutz, api, web, dev, programmierung, startup, invest, fintech, roboter, iot, smart, edge, blockchain, ml, training, modell, prompt, gpu, hardware, server, netzwerk, it, open source, github, vscode, container, kubernetes, docker, microservice, devops, cicd, observability]
 
-  # --- On-topic feeds (no filter needed)
+  # === Tier 1: On-topic German AI feeds (no filter) ===
   - name: The Decoder
     url: https://the-decoder.de/feed/
     type: rss
@@ -35,6 +35,21 @@ sources:
     lang: de
     category: digital-business
 
+  - name: Heise iX (Magazin-Feed)
+    url: https://www.heise.de/ix/feed.xml
+    type: rss
+    weight: 4
+    lang: de
+    category: it-magazin
+
+  - name: Computerwoche
+    url: https://www.computerwoche.de/feed.rdf
+    type: rss
+    weight: 4
+    lang: de
+    category: it-business
+
+  # === Tier 2: Industry / Manufacturing / Mittelstand-specific ===
   - name: Elektroniknet / Industry
     url: https://www.elektroniknet.de/rss/
     type: rss
@@ -49,8 +64,7 @@ sources:
     lang: de
     category: manufacturing
 
-  # --- Mittelstand-specific (try multiple URL variants)
-  - name: Bitkom (try)
+  - name: Bitkom (Pressemitteilungen)
     url: https://www.bitkom.org/Presse/Presseinformation.rss
     type: rss
     weight: 4
@@ -66,20 +80,102 @@ sources:
     category: manufacturing
     optional: true
 
-  # --- International high-signal
-  - name: Hacker News (AI only)
-    url: https://hnrss.org/newest?q=AI+OR+agent+OR+automation&count=40
+  - name: Produktion (Wirtschaftsmagazin)
+    url: https://www.produktion.de/rss/feed.xml
+    type: rss
+    weight: 3
+    lang: de
+    category: manufacturing
+
+  # === Tier 3: International high-signal ===
+  - name: Hacker News (AI / agent / automation filter)
+    url: https://hnrss.org/newest?q=AI+OR+agent+OR+automation+OR+LLM&count=50
     type: rss
     weight: 3
     lang: en
     category: tech-press
     optional: true
 
-# --- Aggregation / scoring params
+  - name: Hacker News (automation / business filter)
+    url: https://hnrss.org/newest?q=automation+OR+saas+OR+enterprise&count=50
+    type: rss
+    weight: 2
+    lang: en
+    category: tech-press
+    optional: true
+
+  - name: Ars Technica (AI section)
+    url: https://feeds.arstechnica.com/arstechnica/ai
+    type: rss
+    weight: 3
+    lang: en
+    category: tech-press
+
+  - name: TechCrunch (AI category)
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    type: rss
+    weight: 3
+    lang: en
+    category: tech-press
+
+  - name: VentureBeat (AI)
+    url: https://venturebeat.com/category/ai/feed/
+    type: rss
+    weight: 3
+    lang: en
+    category: tech-press
+
+  - name: The Verge (AI)
+    url: https://www.theverge.com/ai-artificial-intelligence/rss/index.xml
+    type: rss
+    weight: 3
+    lang: en
+    category: tech-press
+
+  - name: MIT Technology Review (AI)
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+    type: rss
+    weight: 3
+    lang: en
+    category: tech-press
+
+  - name: OpenAI Blog
+    url: https://openai.com/blog/rss.xml
+    type: rss
+    weight: 4
+    lang: en
+    category: ai-vendor
+    optional: true
+
+  - name: Google AI Blog
+    url: https://blog.google/technology/ai/rss/
+    type: rss
+    weight: 4
+    lang: en
+    category: ai-vendor
+    optional: true
+
+  - name: Anthropic News
+    url: https://www.anthropic.com/news/rss.xml
+    type: rss
+    weight: 4
+    lang: en
+    category: ai-vendor
+    optional: true
+
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    type: rss
+    weight: 3
+    lang: en
+    category: ai-vendor
+    optional: true
+
+# === Scoring / aggregation params ===
 scoring:
   recency_half_life_hours: 48   # 50% weight loss per 48h
-  max_articles_per_source: 20
-  min_articles_total: 20
-  max_articles_total: 50        # Cap to keep brief focused
+  max_articles_per_source: 50
+  min_articles_total: 30
+  max_articles_total: 150       # high cap — LLM filters to top 50
   lookback_hours: 168           # 7 days
   request_timeout_seconds: 8

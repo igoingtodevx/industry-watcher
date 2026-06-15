@@ -18,8 +18,20 @@ def assemble_latest(articles_path: Path, brief_path: Path, out_path: Path) -> di
     with brief_path.open() as f:
         brief = json.load(f)
 
-    # Take top 15 articles for the frontend (don't ship 60 to the browser)
-    top_articles = articles_data.get("articles", [])[:15]
+    # Take top 30 articles for the frontend (don't ship 150 to the browser)
+    top_articles = articles_data.get("articles", [])[:30]
+    # Strip full content — keep summary only, no giant blobs
+    top_articles_slim = []
+    for a in top_articles:
+        top_articles_slim.append({
+            "title": a.get("title", ""),
+            "url": a.get("url", ""),
+            "source": a.get("source", ""),
+            "lang": a.get("lang", "de"),
+            "published": a.get("published", ""),
+            "summary": (a.get("summary", "") or "")[:600],
+            "keywords": (a.get("keywords", []) or [])[:6],
+        })
 
     payload = {
         "generated_at": brief.get("_meta", {}).get("generated_at")
@@ -38,7 +50,7 @@ def assemble_latest(articles_path: Path, brief_path: Path, out_path: Path) -> di
             "top_articles": brief.get("top_articles", []),
             "action_items": brief.get("action_items", []),
         },
-        "raw_articles": top_articles,
+        "raw_articles": top_articles_slim,
     }
 
     out_path.parent.mkdir(parents=True, exist_ok=True)

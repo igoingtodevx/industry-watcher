@@ -24,29 +24,30 @@ DEIN OUTPUT-STIL:
 DEIN BRIEF-AUFBAU (HTML-Fragmente, kein komplettes HTML-Dokument):
 1. **headline** — Eine Zeile, max 100 Zeichen, der eigentliche Insight der Woche
 2. **subheadline** — Max 200 Zeichen, Kontext
-3. **executive_summary** — 3-4 Sätze als <p>...</p>, was diese Woche wirklich wichtig war
-4. **trends** — 3-5 Trends, jeder als:
+3. **executive_summary** — 5-6 Sätze als <p>...</p>, was diese Woche wirklich wichtig war (mehr Tiefe, mehr Details)
+4. **trends** — 7-9 Trends, jeder als:
    <div class="trend">
      <h3>Trend-Titel</h3>
-     <p>Was passiert (1-2 Sätze)</p>
+     <p>Was passiert (2-3 Sätze)</p>
      <p><strong>Warum relevant für Mittelstand:</strong> ...</p>
      <p><strong>Signal-Stärke:</strong> niedrig/mittel/hoch — basierend auf Anzahl Quellen + Konsistenz</p>
    </div>
-5. **opportunities** — 3-5 Opportunities, jede als:
+5. **opportunities** — 6-8 Opportunities, jede als:
    <div class="opportunity">
      <h3>Opportunity-Titel</h3>
-     <p><strong>Was:</strong> Konkreter Bedarf/Gap den ich gesehen habe (1-2 Sätze)</p>
+     <p><strong>Was:</strong> Konkreter Bedarf/Gap den ich gesehen habe (2-3 Sätze)</p>
      <p><strong>Wer würde zahlen:</strong> Zielgruppe (1 Satz)</p>
      <p><strong>Wie umsetzbar:</strong> niedrig/mittel/hoch — kann ein Solopreneur/Freelancer das in Tagen oder Wochen bauen?</p>
      <p><strong>Realistischer Preis:</strong> Range in EUR (z.B. 1.500-5.000€ Setup + 200-500€/Monat Retainer)</p>
+     <p><strong>Time-to-Market:</strong> Tagen/Wochen/Monaten — wie lange dauert die Umsetzung?</p>
    </div>
-6. **top_articles** — Top 8 Artikel der Woche, jeder als:
+6. **top_articles** — Top 15 Artikel der Woche, jeder als:
    <div class="article">
      <h4><a href="URL">Titel</a></h4>
      <p class="meta">Quelle · Datum · 1-2 Schlagwörter</p>
-     <p>Warum das wichtig ist (1-2 Sätze)</p>
+     <p>Warum das wichtig ist (2-3 Sätze)</p>
    </div>
-7. **action_items** — 3-5 konkrete Dinge, die ein KI-Automation-Freelancer DIESE WOCHE tun sollte:
+7. **action_items** — 5-7 konkrete Dinge, die ein KI-Automation-Freelancer DIESE WOCHE tun sollte:
    <ul><li>...</li></ul>
 
 REGELN:
@@ -54,7 +55,8 @@ REGELN:
 - Wenn du etwas nicht aus den Artikeln belegen kannst, schreib "Signal aus X Artikel" oder lass es weg.
 - Keine Clickbait-Überschriften. Kein "Sie werden nicht glauben...".
 - Preise/Range: ehrlich und basierend auf typischen KMU-SaaS/Automation-Märkten.
-- Antworte als reines JSON-Objekt, kein Markdown-Wrapper, kein Code-Block. Felder: headline, subheadline, executive_summary, trends (Array), opportunities (Array), top_articles (Array), action_items (Array).
+- Antworte als reines JSON-Objekt, kein Markdown-Wrapper, kein Code-Block. Felder: headline, subheadline, executivo_summary, trends (Array), opportunities (Array), top_articles (Array), action_items (Array).
+- WICHTIG: Sei UMFASSEND. Du MUSST mindestens 7 Trends, 6 Opportunities, 15 Top-Articles und 5 Action-Items liefern. Lieber 1-2 mehr als zu wenig. Der User will MEHR Inhalt, nicht weniger. Wenn du weniger lieferst, ist die Antwort UNZUREICHEND.
 
 JSON-FORMAT EXAKT:
 {
@@ -69,17 +71,17 @@ JSON-FORMAT EXAKT:
 """
 
 
-def build_user_prompt(articles: list[dict], vertical: str, n_articles: int = 25) -> str:
+def build_user_prompt(articles: list[dict], vertical: str, n_articles: int = 50) -> str:
     """Build the user prompt with the actual articles."""
     sample = articles[:n_articles]
     items = []
     for i, a in enumerate(sample, 1):
-        kw = ", ".join(a.get("keywords", [])[:5])
+        kw = ", ".join(a.get("keywords", [])[:6])
         items.append(
             f"{i}. [{a['source']} | {a['lang']} | {a['published'][:10]}] {a['title']}\n"
             f"   URL: {a['url']}\n"
             f"   KW: {kw}\n"
-            f"   Zusammenfassung: {a.get('summary', '')[:400]}"
+            f"   Zusammenfassung: {a.get('summary', '')[:500]}"
         )
     body = "\n\n".join(items)
     return f"""VERTICAL: {vertical}
@@ -91,7 +93,7 @@ ARTIKEL DIESE WOCHE ({len(sample)} von {len(articles)} insgesamt, sortiert nach 
 Erstelle jetzt den Wochen-Brief im exakt spezifizierten JSON-Format. Achte auf:
 - Trends MÜSSEN quer durch mehrere Quellen sichtbar sein, sonst sind sie kein Trend
 - Opportunities MÜSSEN einen echten Bedarf adressieren, nicht "man könnte mal"
-- Top-Articles sollten die mit höchstem Score sein, kuratiere auf max 8
+- Top-Articles sollten die mit höchstem Score sein, kuratiere auf max 15
 - Action-Items müssen KONKRET und INNERHALB von 7 Tagen umsetzbar sein"""
 
 
@@ -122,7 +124,7 @@ def generate_brief(articles_path: Path, out_path: Path, model: str = "gpt-4o-min
             {"role": "user", "content": user_prompt},
         ],
         temperature=0.5,
-        max_tokens=4500,
+        max_tokens=16000,  # high limit — 7-9 trends × 6-8 opps × 15 articles × 5-7 actions all need full text
         response_format={"type": "json_object"},
     )
     raw = resp.choices[0].message.content

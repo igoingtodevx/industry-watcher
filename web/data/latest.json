@@ -1,68 +1,231 @@
 {
-  "generated_at": "2026-06-15T04:39:12.097704+00:00",
+  "generated_at": "2026-06-15T06:35:38.671826+00:00",
   "vertical": "German Mittelstand Digital & KI-Automation",
   "model": "gpt-4o-mini",
-  "tokens_used": 6362,
-  "input_articles": 50,
-  "input_sources": 9,
+  "tokens_used": 12548,
+  "input_articles": 150,
+  "input_sources": 22,
   "brief": {
-    "headline": "Google Cloud adressiert Kontextproblem von KI-Agenten mit neuem Format",
-    "subheadline": "Das Open Knowledge Format (OKF) könnte die Effizienz von KI-Anwendungen im Mittelstand steigern.",
-    "executive_summary": "Diese Woche kündigte Google Cloud an, das Open Knowledge Format (OKF) einzuführen, um das Kontextproblem von KI-Agenten zu lösen. Der Fokus auf standardisierte Wissensdarstellung könnte insbesondere für den deutschen Mittelstand von Bedeutung sein, da viele Unternehmen mit der Integration von KI kämpfen. Gleichzeitig wurden Berichte über KI in Unternehmen kritisch beleuchtet, was die Notwendigkeit von vertrauenswürdigen Datenquellen unterstreicht.",
+    "headline": "Künstliche Intelligenz: Herausforderungen und Chancen für den Mittelstand",
+    "subheadline": "Diese Woche stehen KI-Einsatz und digitale Transformation im Fokus, mit Blick auf neue Technologien und deren Implementierung.",
+    "executive_summary": "<p>In dieser Woche konzentriert sich die Berichterstattung auf die Entwicklungen im Bereich Künstliche Intelligenz (KI) und deren Einfluss auf den deutschen Mittelstand. Besondere Aufmerksamkeit gilt der Diskussion um die Nutzung von KI in Unternehmen, die sowohl Chancen als auch Herausforderungen mit sich bringt. Die Probleme von KI-generierten Inhalten und deren Auswirkungen auf die Glaubwürdigkeit sind ebenfalls ein zentrales Thema. Zudem wird die Notwendigkeit eines flächendeckenden Breitbandausbaus in Deutschland hervorgehoben, um digitale Innovationen voranzutreiben.</p>",
     "trends": [
       {
-        "title": "Standardisierung von KI-Wissen",
-        "what": "Google Cloud führt das Open Knowledge Format (OKF) ein, um Wissen für KI-Agenten nutzbar zu machen.",
-        "why": "Die Standardisierung könnte es Unternehmen erleichtern, KI effizienter zu implementieren und zu nutzen.",
+        "title": "Zunehmende Regulierung von KI-Technologien",
+        "what": "Die Diskussion um die Regulierung von KI-Technologien gewinnt an Fahrt, insbesondere nach dem Vorfall mit KPMG, wo gefälschte Fallstudien in einem Bericht über KI veröffentlicht wurden.",
+        "why": "Für den Mittelstand ist es wichtig, sich auf mögliche regulatorische Änderungen vorzubereiten und Transparenz in ihren KI-Anwendungen zu gewährleisten.",
         "signal": "hoch"
       },
       {
-        "title": "Vertrauen in KI-generierte Inhalte",
-        "what": "KPMG musste einen Bericht über KI zurückziehen, der gefälschte Fallstudien enthielt.",
-        "why": "Diese Vorfälle zeigen die Risiken und Herausforderungen bei der Nutzung von KI-generierten Inhalten in Unternehmen.",
+        "title": "Breitbandausbau als Schlüssel zur Digitalisierung",
+        "what": "Eine Marktanalyse zeigt, dass Millionen Menschen in Deutschland keinen Zugang zu schnellem Internet haben, was die digitale Transformation behindert.",
+        "why": "Für viele Mittelständler ist ein schneller Internetzugang essenziell, um digitale Lösungen und KI-Technologien effektiv zu nutzen.",
         "signal": "hoch"
       },
       {
-        "title": "KI-Agenten in der Softwareentwicklung",
-        "what": "KI-Coding-Agenten haben Schwierigkeiten, relevanten Code präzise zu finden.",
-        "why": "Die Effizienz dieser Technologien ist entscheidend für die Automatisierung von Softwareentwicklungsprozessen.",
+        "title": "KI-Generierung von Inhalten und deren Risiken",
+        "what": "Das Thema der KI-generierten Inhalte und deren Glaubwürdigkeit wird durch die Entfernung eines Gastbeitrags im Handelsblatt aufgegriffen, der nicht kenntlich gemacht wurde.",
+        "why": "Mittelständler müssen sicherstellen, dass ihre Inhalte authentisch sind und rechtlichen Anforderungen entsprechen, um Reputationsschäden zu vermeiden.",
+        "signal": "hoch"
+      },
+      {
+        "title": "Wachsende Nachfrage nach KI-Agenten",
+        "what": "Die Nachfrage nach KI-Agenten zur Automatisierung von Geschäftsprozessen steigt, wie in einem Workshop zu Make.com und n8n diskutiert.",
+        "why": "Mittelständler haben die Möglichkeit, durch den Einsatz von KI-Agenten Effizienzgewinne zu erzielen und ihre Prozesse zu optimieren.",
         "signal": "mittel"
+      },
+      {
+        "title": "Technologische Innovationen im Bereich KI",
+        "what": "Neue Entwicklungen wie das Open Knowledge Format von Google Cloud zeigen, wie KI-Agenten besser mit Informationen umgehen können.",
+        "why": "Mittelständler sollten solche Technologien in Betracht ziehen, um ihre Daten besser zu nutzen und KI-Anwendungen zu verbessern.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Herausforderungen bei der Implementierung von KI",
+        "what": "Der Einsatz von KI in Unternehmen wird durch technische und ethische Herausforderungen erschwert, wie die Schwierigkeiten bei der Identifizierung relevanter Informationen zeigen.",
+        "why": "Mittelständler müssen diese Herausforderungen adressieren, um KI erfolgreich zu implementieren und Nutzen zu ziehen.",
+        "signal": "hoch"
+      },
+      {
+        "title": "Internationale Reaktionen auf KI-Regulierungen",
+        "what": "Der US-Bann für Anthropics KI-Technologie hat weltweit Besorgnis ausgelöst und Diskussionen über Abhängigkeiten und Sicherheitsbedenken angestoßen.",
+        "why": "Mittelständler sollten sich der globalen Trends und politischen Entwicklungen in Bezug auf KI bewusst sein, um strategisch zu planen.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Vertrauen in KI-Technologien",
+        "what": "Die Diskussion über den Einsatz von KI in der Verwaltung und deren Effektivität zeigt, dass Vertrauen in KI-Technologien entscheidend ist.",
+        "why": "Mittelständler müssen Strategien entwickeln, um das Vertrauen in ihre KI-Anwendungen zu stärken und Akzeptanz zu schaffen.",
+        "signal": "hoch"
       }
     ],
     "opportunities": [
       {
-        "title": "Entwicklung von OKF-basierten KI-Anwendungen",
-        "what": "Unternehmen benötigen maßgeschneiderte Lösungen, um das neue Open Knowledge Format zu implementieren.",
-        "who": "Mittelständische Unternehmen, die bereits KI-Lösungen nutzen oder einführen möchten.",
+        "title": "Entwicklung eines KI-Transparenz-Tools",
+        "what": "Es besteht ein Bedarf an Tools, die den Einsatz von KI in Unternehmen transparenter gestalten und rechtliche Anforderungen erfüllen.",
+        "who": "Mittelständische Unternehmen, die KI einsetzen.",
         "how": "hoch",
-        "price": "5.000-15.000€ Setup + 500-1.000€/Monat Retainer"
+        "price": "5.000-15.000€",
+        "time": "Monate"
       },
       {
-        "title": "Beratung zur Vertrauenswürdigkeit von KI-Inhalten",
-        "what": "Ein Bedarf an Beratungsdiensten, die Unternehmen helfen, vertrauenswürdige KI-Inhalte zu generieren und zu überprüfen.",
-        "who": "Unternehmen, die KI für Marketing und Kommunikation einsetzen.",
+        "title": "Beratung zur Breitbandanbindung",
+        "what": "Die Notwendigkeit einer umfassenden Beratung zur Verbesserung der Breitbandanbindung in Unternehmen wird immer deutlicher.",
+        "who": "Unternehmen in ländlichen Regionen ohne schnelles Internet.",
+        "how": "hoch",
+        "price": "2.000-5.000€",
+        "time": "Wochen"
+      },
+      {
+        "title": "Workshop zur KI-Implementierung",
+        "what": "Ein Bedarf an Workshops zur effektiven Implementierung von KI-Technologien in Unternehmen zeigt sich, um deren Nutzen zu maximieren.",
+        "who": "Mittelständler, die KI einführen möchten.",
+        "how": "hoch",
+        "price": "1.500-3.000€",
+        "time": "Tagen"
+      },
+      {
+        "title": "Erstellung von KI-Content-Richtlinien",
+        "what": "Unternehmen benötigen Richtlinien für den Umgang mit KI-generierten Inhalten, um rechtliche Risiken zu minimieren.",
+        "who": "Unternehmen, die Inhalte erstellen.",
         "how": "mittel",
-        "price": "3.000-10.000€ Setup + 300-700€/Monat Retainer"
+        "price": "1.000-2.500€",
+        "time": "Wochen"
       },
       {
-        "title": "Schulung für KI-Coding-Agenten",
-        "what": "Schulungen zur effektiven Nutzung und Integration von KI-Coding-Agenten in den Entwicklungsprozess.",
-        "who": "Softwareentwickler und IT-Abteilungen in Unternehmen.",
+        "title": "Entwicklung von KI-Agenten für spezifische Branchen",
+        "what": "Es gibt eine Nachfrage nach maßgeschneiderten KI-Agenten, die auf spezifische Branchenbedürfnisse zugeschnitten sind.",
+        "who": "Branchen wie Logistik, Produktion und Gesundheitswesen.",
         "how": "hoch",
-        "price": "1.500-5.000€ pro Schulung"
+        "price": "10.000-50.000€",
+        "time": "Monate"
+      },
+      {
+        "title": "Schulung für KI-Tools",
+        "what": "Ein Bedarf an Schulungen für Mitarbeiter im Umgang mit KI-Tools und deren Anwendung in der täglichen Arbeit ist erkennbar.",
+        "who": "Unternehmen, die KI-Tools einsetzen.",
+        "how": "hoch",
+        "price": "1.000-4.000€",
+        "time": "Wochen"
+      },
+      {
+        "title": "Entwicklung eines KI-gestützten Analysesystems",
+        "what": "Mittelständler benötigen Systeme zur Analyse von Daten, die durch KI generiert werden, um fundierte Entscheidungen zu treffen.",
+        "who": "Unternehmen, die große Datenmengen verarbeiten.",
+        "how": "hoch",
+        "price": "15.000-30.000€",
+        "time": "Monate"
       }
     ],
     "top_articles": [
       {
-        "title": "Google Cloud wird mit offenem Markdown-Format das Kontextproblem von KI-Agenten lösen",
+        "title": "Breitbandausbau: Millionen Menschen ohne schnelles Internet",
+        "url": "https://www.golem.de/news/breitbandausbau-millionen-menschen-ohne-schnelles-internet-2606-209758.html",
+        "source": "Golem.de",
+        "date": "2026-06-15",
+        "why": "Die Analyse zeigt, wie wichtig eine gute Internetverbindung für die Digitalisierung ist.",
+        "tags": [
+          "Infrastruktur",
+          "DSL"
+        ]
+      },
+      {
+        "title": "KI-Einsatz nicht kenntlich gemacht: Handelsblatt entfernt KI-Gastbeitrag von Karsten Wildberger",
+        "url": "https://www.golem.de/news/ki-einsatz-nicht-kenntlich-gemacht-handelsblatt-entfernt-ki-gastbeitrag-von-karsten-wildberger-2606-209755.html",
+        "source": "Golem.de",
+        "date": "2026-06-15",
+        "why": "Der Vorfall wirft Fragen zur Transparenz und Glaubwürdigkeit von KI-Inhalten auf.",
+        "tags": [
+          "KI",
+          "Transparenz"
+        ]
+      },
+      {
+        "title": "VW setzt auf die Telekom: T-Systems baut weltweite Cloud für Volkswagen",
+        "url": "https://www.heise.de/news/VW-setzt-auf-die-Telekom-T-Systems-baut-weltweite-Cloud-fuer-Volkswagen-11331601.html",
+        "source": "Heise Online",
+        "date": "2026-06-15",
+        "why": "Der Deal zeigt die Abhängigkeit von Cloud-Anbietern und deren Bedeutung für die Industrie.",
+        "tags": [
+          "Cloud",
+          "Telekommunikation"
+        ]
+      },
+      {
+        "title": "Digitalminister Wildberger ließ Reden und Gastbeiträge von KI schreiben",
+        "url": "https://www.heise.de/news/Digitalminister-Wildberger-liess-Reden-und-Gastbeitraege-von-KI-schreiben-11331531.html",
+        "source": "Heise Online",
+        "date": "2026-06-14",
+        "why": "Die Diskussion um den Einsatz von KI in der Politik und Verwaltung wird angestoßen.",
+        "tags": [
+          "KI",
+          "Politik"
+        ]
+      },
+      {
+        "title": "KI-Agenten im Unternehmen: Workshop mit Praxisdemos",
+        "url": "https://www.golem.de/news/anzeige-ki-agenten-im-unternehmen-workshop-mit-praxisdemos-2606-209735.html",
+        "source": "Golem.de",
+        "date": "2026-06-15",
+        "why": "Der Workshop bietet Einblicke in die Anwendung von KI-Agenten zur Prozessautomatisierung.",
+        "tags": [
+          "Workshop",
+          "KI"
+        ]
+      },
+      {
+        "title": "Missing Link: Warum Deutschlands Behörden bei der Digitalisierung stagnieren",
+        "url": "https://www.heise.de/hintergrund/Missing-Link-Warum-Deutschlands-Behoerden-bei-der-Digitalisierung-stagnieren-11331433.html",
+        "source": "Heise Online",
+        "date": "2026-06-14",
+        "why": "Die Analyse zeigt, dass strukturelle Probleme die Digitalisierung behindern.",
+        "tags": [
+          "Digitalisierung",
+          "Verwaltung"
+        ]
+      },
+      {
+        "title": "KI-Schockwelle: Der US-Bann für Anthropic alarmiert Europa und Asien",
+        "url": "https://t3n.de/news/anthropic-bann-globale-reaktionen-ki-abhaengigkeit-1747587/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+        "source": "t3n Digital Pioneers",
+        "date": "2026-06-14",
+        "why": "Der Bann hat weltweite Diskussionen über Abhängigkeiten und Sicherheitsbedenken ausgelöst.",
+        "tags": [
+          "KI",
+          "Regulierung"
+        ]
+      },
+      {
+        "title": "Halluzinationen stoppen: Mit diesem System-Prompt minimierst du KI-Lügen",
+        "url": "https://t3n.de/news/system-prompt-ki-halluzinationen-stoppen-1747136/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+        "source": "t3n Digital Pioneers",
+        "date": "2026-06-15",
+        "why": "Der Artikel bietet praktische Tipps zur Verbesserung von KI-Antworten.",
+        "tags": [
+          "KI",
+          "Tipps"
+        ]
+      },
+      {
+        "title": "Fritz, Devolo, Lancom und TDT: Routerhersteller fordern Kontrolle importierter Geräte",
+        "url": "https://www.golem.de/news/fritz-devolo-lancom-und-tdt-routerhersteller-fordern-kontrolle-importierter-geraete-2606-209757.html",
+        "source": "Golem.de",
+        "date": "2026-06-15",
+        "why": "Die Forderung nach Sicherheitsvorschriften zeigt die Bedenken bezüglich importierter Technologien.",
+        "tags": [
+          "Sicherheit",
+          "Netzwerk"
+        ]
+      },
+      {
+        "title": "Google Cloud will mit offenem Markdown-Format das Kontextproblem von KI-Agenten lösen",
         "url": "https://the-decoder.de/google-cloud-will-mit-offenem-markdown-format-das-kontextproblem-von-ki-agenten-loesen/",
         "source": "The Decoder",
         "date": "2026-06-14",
-        "why": "Das neue Format könnte die Integration von KI in Unternehmen revolutionieren.",
+        "why": "Die Initiative könnte die Effizienz von KI-Agenten erheblich steigern.",
         "tags": [
-          "google",
-          "cloud",
-          "ki-agenten"
+          "Google Cloud",
+          "KI"
         ]
       },
       {
@@ -70,45 +233,291 @@
         "url": "https://the-decoder.de/blamage-fuer-kpmg-bericht-ueber-ki-in-unternehmen-enthielt-erfundene-fallstudien/",
         "source": "The Decoder",
         "date": "2026-06-14",
-        "why": "Der Vorfall zeigt die Gefahren von unzuverlässigen Quellen in der KI-Forschung.",
+        "why": "Die Enthüllung hat das Vertrauen in Beratungsberichte über KI in Frage gestellt.",
         "tags": [
-          "kpmg",
-          "bericht",
-          "ki"
+          "KPMG",
+          "KI"
         ]
       },
       {
-        "title": "KI-Coding-Agenten finden die richtige Datei, aber nicht die richtige Zeile",
-        "url": "https://the-decoder.de/ki-coding-agenten-finden-die-richtige-datei-aber-nicht-die-richtige-zeile/",
-        "source": "The Decoder",
+        "title": "Anzeige: USB-Ladegerät mit 100 W und 3 Ports für unter 33 Euro",
+        "url": "https://www.golem.de/news/anzeige-usb-ladegeraet-mit-100-w-und-3-ports-fuer-unter-33-euro-2606-209732.html",
+        "source": "Golem.de",
         "date": "2026-06-14",
-        "why": "Effizienzprobleme bei KI-Coding-Agenten könnten die Softwareentwicklung behindern.",
+        "why": "Das Ladegerät ist ein Beispiel für kosteneffiziente Technologie, die im Unternehmensalltag nützlich sein kann.",
         "tags": [
-          "ki",
-          "coding",
-          "agenten"
+          "Technik",
+          "Hardware"
+        ]
+      },
+      {
+        "title": "Training zu Hause: KI-Coach erkennt falsche Bewegungen und korrigiert deine Haltung in Echtzeit",
+        "url": "https://t3n.de/news/von-kniebeugen-bis-liegestuetz-ki-analysiert-dein-training-und-liefert-ein-3d-skelett-von-dir-in-echtzeit-1746399/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+        "source": "t3n Digital Pioneers",
+        "date": "2026-06-14",
+        "why": "Der KI-Coach zeigt, wie KI im Gesundheits- und Fitnessbereich eingesetzt werden kann.",
+        "tags": [
+          "KI",
+          "Fitness"
         ]
       }
     ],
     "action_items": [
-      "Informiere dich über das Open Knowledge Format (OKF) und dessen Anwendungsmöglichkeiten für deine Kunden.",
-      "Erstelle ein Konzept für Schulungen zur Nutzung von KI-Coding-Agenten in der Softwareentwicklung.",
-      "Überprüfe aktuelle KI-Inhalte und entwickle einen Prozess zur Sicherstellung ihrer Vertrauenswürdigkeit."
+      "Führen Sie eine Analyse der aktuellen KI-Nutzung in Ihrem Unternehmen durch und identifizieren Sie Verbesserungsmöglichkeiten.",
+      "Organisieren Sie einen internen Workshop zur Sensibilisierung für die Risiken von KI-generierten Inhalten.",
+      "Prüfen Sie die Internetanbindung Ihres Unternehmens und erstellen Sie einen Plan zur Verbesserung der Breitbandverbindung.",
+      "Setzen Sie sich mit einem Experten für KI-Transparenz in Verbindung, um Richtlinien für den Umgang mit KI-Inhalten zu entwickeln.",
+      "Erstellen Sie einen Plan zur Schulung Ihrer Mitarbeiter im Umgang mit KI-Tools und deren Anwendung."
     ]
   },
   "raw_articles": [
     {
-      "id": "5e6b1b1c150d",
+      "title": "Rekordbörsengang geglückt: SpaceX jetzt über zwei Billionen US-Dollar wert",
+      "url": "https://www.heise.de/news/Rekordboersengang-geglueckt-SpaceX-jetzt-ueber-zwei-Billionen-US-Dollar-wert-11331787.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-06-15T05:53:00+00:00",
+      "summary": "Der Aktienkurs von SpaceX ist nach dem Börsengang am Freitag um fast 20 Prozent gestiegen. Das Unternehmen ist damit mehr als zwei Billionen US-Dollar wert.",
+      "keywords": [
+        "spacex",
+        "zwei",
+        "billionen",
+        "us-dollar",
+        "wert",
+        "rekordbörsengang"
+      ]
+    },
+    {
+      "title": "heise+ | Indach- statt Aufdach-Photovoltaik: Vor- und Nachteile im Realitätscheck",
+      "url": "https://www.heise.de/ratgeber/Indach-statt-Aufdach-Photovoltaik-Vor-und-Nachteile-im-Realitaetscheck-11328929.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-06-15T05:30:00+00:00",
+      "summary": "Schutz und Stromerzeugung in einem System: Indach-PV ist charmant, aber planerisch anspruchsvoll. Was Bauherren zu Technik, Kosten und Markt wissen müssen.",
+      "keywords": [
+        "heise",
+        "indach-",
+        "statt",
+        "aufdach-photovoltaik",
+        "vor-",
+        "nachteile"
+      ]
+    },
+    {
+      "title": "Sperre von Anthropics KI-Modellen: China soll Zugriff auf Mythos gehabt haben",
+      "url": "https://www.heise.de/news/Sperre-von-Anthropics-KI-Modellen-China-soll-Zugriff-auf-Mythos-gehabt-haben-11331767.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-06-15T05:04:00+00:00",
+      "summary": "Hinter der Sperre von Fable und Mythos soll nicht nur der angebliche Jailbreak stecken. Laut einer anonymen Quelle soll China Zugriff auf Mythos gehabt haben.",
+      "keywords": [
+        "soll",
+        "mythos",
+        "sperre",
+        "china",
+        "zugriff",
+        "gehabt"
+      ]
+    },
+    {
+      "title": "Firefox bietet im Sommer kostenloses VPN im Browser ohne Datenlimit",
+      "url": "https://www.heise.de/news/Firefox-bietet-im-Sommer-kostenloses-VPN-im-Browser-ohne-Datenlimit-11331753.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-06-15T03:03:00+00:00",
+      "summary": "Das im Firefox integrierte VPN besitzt ein Datenvolumen von 50 GByte monatlich. Doch bis Ende August wurde das Limit aufgehoben und weitere Länder hinzugefügt.",
+      "keywords": [
+        "firefox",
+        "bietet",
+        "sommer",
+        "kostenloses",
+        "browser",
+        "ohne"
+      ]
+    },
+    {
+      "title": "Top 10: Display für Carplay und Android Auto",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-display-fuer-carplay-und-android-auto-im-test-nachruesten-ab-50-euro/xns29ee?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-06-14T18:00:00+00:00",
+      "summary": "Apple Carplay und Android Auto nachrüsten: Mobile Auto-Displays sind die perfekte Lösung. Wir zeigen die besten Modelle.",
+      "keywords": [
+        "carplay",
+        "android",
+        "auto",
+        "display",
+        "apple",
+        "nachrüsten"
+      ]
+    },
+    {
+      "title": "Breitbandausbau: Millionen Menschen ohne schnelles Internet",
+      "url": "https://www.golem.de/news/breitbandausbau-millionen-menschen-ohne-schnelles-internet-2606-209758.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-06-15T06:10:02+00:00",
+      "summary": "Eine Marktanalyse zeigt erhebliche Versorgungslücken beim Mindeststandard von 50 MBit/s in deutschen Gemeinden. ( Infrastruktur , DSL )",
+      "keywords": [
+        "breitbandausbau",
+        "millionen",
+        "menschen",
+        "ohne",
+        "schnelles",
+        "internet"
+      ]
+    },
+    {
+      "title": "5 Dinge, die du diese Woche wissen musst: Das Hin und Her um Claude Mythos",
+      "url": "https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-das-hin-und-her-um-claude-mythos-1747315/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-06-15T06:00:54+00:00",
+      "summary": "Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um das neueste Modell von Anthropic, die Auswirkungen von KI auf unsere mentale Gesundheit, ein deutsches Robotik-Startup, Gmail und darum, wer für Falschaussagen von KI haftet. weiterlesen auf t3n.de",
+      "keywords": [
+        "dinge",
+        "diese",
+        "woche",
+        "wissen",
+        "musst",
+        "claude"
+      ]
+    },
+    {
+      "title": "Fritz, Devolo, Lancom und TDT: Routerhersteller fordern Kontrolle importierter Geräte",
+      "url": "https://www.golem.de/news/fritz-devolo-lancom-und-tdt-routerhersteller-fordern-kontrolle-importierter-geraete-2606-209757.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-06-15T05:52:02+00:00",
+      "summary": "Aus Misstrauen gegen China verlangen fünf europäische Routerhersteller EU-weite Sicherheitsvorschriften für den Einsatz importierter Netzwerkgeräte. ( Router , Netzwerk )",
+      "keywords": [
+        "routerhersteller",
+        "importierter",
+        "fritz",
+        "devolo",
+        "lancom",
+        "fordern"
+      ]
+    },
+    {
+      "title": "VW setzt auf die Telekom: T-Systems baut weltweite Cloud für Volkswagen",
+      "url": "https://www.heise.de/news/VW-setzt-auf-die-Telekom-T-Systems-baut-weltweite-Cloud-fuer-Volkswagen-11331601.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-06-14T14:12:00+00:00",
+      "summary": "Großer Deal gegen die Abhängigkeit von US-Hyperscalern: T-Systems übernimmt die neue Cloud-Infrastruktur der ganzen Volkswagen-Gruppe. Doch es bleiben Risiken.",
+      "keywords": [
+        "t-systems",
+        "setzt",
+        "telekom",
+        "baut",
+        "weltweite",
+        "cloud"
+      ]
+    },
+    {
+      "title": "Gewerkschaft warnt: Italo-Züge könnten kleinere Städte vom Fernverkehr abkoppeln",
+      "url": "https://www.golem.de/news/gewerkschaft-warnt-italo-zuege-koennten-kleinere-staedte-vom-fernverkehr-abkoppeln-2606-209756.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-06-15T05:36:02+00:00",
+      "summary": "Italo plant Fernverkehrsfahrten in Deutschland. Dadurch könnten kleinere Städte ihre Bahnanbindungen verlieren. ( Deutsche Bahn , ÖPNV )",
+      "keywords": [
+        "könnten",
+        "kleinere",
+        "städte",
+        "gewerkschaft",
+        "warnt",
+        "italo-züge"
+      ]
+    },
+    {
+      "title": "Soft-Off-Day: Freshfields-Anwalt erklärt, was Arbeitszeitbetrug ist – und was nicht",
+      "url": "https://t3n.de/news/soft-off-day-freshfields-anwalt-erklaert-was-arbeitszeitbetrug-ist-und-was-nicht-1747052/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-06-15T05:30:17+00:00",
+      "summary": "Beim „Soft Off Day“ wird die eigene Leistung bewusst heruntergefahren und während der Arbeitszeit beispielsweise Tennis gespielt oder andere private Dinge weiterlesen auf t3n.de",
+      "keywords": [
+        "soft-off-day",
+        "freshfields-anwalt",
+        "erklärt",
+        "arbeitszeitbetrug",
+        "nicht",
+        "beim"
+      ]
+    },
+    {
+      "title": "Saugroboter Dreame Matrix 10 Ultra im Test: Wechselt Mopps & Reinigungsmittel",
+      "url": "https://www.heise.de/bestenlisten/testbericht/saugroboter-dreame-matrix-10-ultra-im-test-wechselt-mopps-und-reinigungsmittel/y8xfm4y?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-06-14T14:00:00+00:00",
+      "summary": "Der Saugroboter Dreame Matrix 10 Ultra wechselt seine Wischmopps automatisch mit einer Art Aufzug und dosiert drei verschiedene Reinigungsmittel je nach Raum.",
+      "keywords": [
+        "saugroboter",
+        "dreame",
+        "matrix",
+        "ultra",
+        "wechselt",
+        "reinigungsmittel"
+      ]
+    },
+    {
+      "title": "Routerhersteller fordern Kontrolle importierter Geräte",
+      "url": "https://www.heise.de/news/Routerhersteller-fordern-Kontrolle-importierter-Geraete-11331799.html",
+      "source": "Heise iX (Magazin-Feed)",
+      "lang": "de",
+      "published": "2026-06-15T05:26:00+00:00",
+      "summary": "EU-Sicherheitsvorschriften für 5G-Mobilfunk sollen Spionage vorbeugen. Für Heimnetzwerke gibt es keine entsprechenden Regeln, kritisieren nun Hersteller.",
+      "keywords": [
+        "routerhersteller",
+        "fordern",
+        "kontrolle",
+        "importierter",
+        "geräte",
+        "eu-sicherheitsvorschriften"
+      ]
+    },
+    {
+      "title": "KI-Einsatz nicht kenntlich gemacht: Handelsblatt entfernt KI-Gastbeitrag von Karsten Wildberger",
+      "url": "https://www.golem.de/news/ki-einsatz-nicht-kenntlich-gemacht-handelsblatt-entfernt-ki-gastbeitrag-von-karsten-wildberger-2606-209755.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-06-15T05:18:01+00:00",
+      "summary": "Wildbergers Ministerium räumt den Einsatz von KI für Gastbeiträge in Zeitungen ein und verteidigt den Einsatz. ( Karsten Wildberger , KI )",
+      "keywords": [
+        "karsten",
+        "wildberger",
+        "einsatz",
+        "ki-einsatz",
+        "nicht",
+        "kenntlich"
+      ]
+    },
+    {
+      "title": "Anzeige: KI-Agenten im Unternehmen: Workshop mit Praxisdemos",
+      "url": "https://www.golem.de/news/anzeige-ki-agenten-im-unternehmen-workshop-mit-praxisdemos-2606-209735.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-06-15T05:15:01+00:00",
+      "summary": "KI-Agenten versprechen mehr Autonomie als Chatbots. Für Unternehmen zählt, ob Sicherheit, Kosten und Nutzen belastbar sind. Ein Workshop ordnet die Praxis ein. ( Golem Karrierewelt , Programmiersprachen )",
+      "keywords": [
+        "ki-agenten",
+        "unternehmen",
+        "workshop",
+        "anzeige",
+        "praxisdemos",
+        "versprechen"
+      ]
+    },
+    {
       "title": "Google Cloud will mit offenem Markdown-Format das Kontextproblem von KI-Agenten lösen",
       "url": "https://the-decoder.de/google-cloud-will-mit-offenem-markdown-format-das-kontextproblem-von-ki-agenten-loesen/",
       "source": "The Decoder",
-      "source_category": "ai-research",
       "lang": "de",
-      "weight": 5,
       "published": "2026-06-14T13:20:52+00:00",
       "summary": "Google Cloud will mit dem Open Knowledge Format (OKF) das verstreute Wissen in Organisationen für KI-Agenten nutzbar machen. Die minimalistische Spezifikation standardisiert Wissen als Markdown-Dateien mit YAML-Frontmatter. OKF formalisiert damit ein Muster, das Andrej Karpathy kürzlich als \"LLM-Wiki\" populär gemacht hat. Der Artikel Google Cloud will mit offenem Markdown-Format das Kontextproblem von KI-Agenten lösen erschien zuerst auf The Decoder .",
-      "content": "Google Cloud will mit dem Open Knowledge Format (OKF) das verstreute Wissen in Organisationen für KI-Agenten nutzbar machen. Die minimalistische Spezifikation standardisiert Wissen als Markdown-Dateien mit YAML-Frontmatter. OKF formalisiert damit ein Muster, das Andrej Karpathy kürzlich als \"LLM-Wiki\" populär gemacht hat. Der Artikel Google Cloud will mit offenem Markdown-Format das Kontextproblem von KI-Agenten lösen erschien zuerst auf The Decoder .",
-      "score": 4.1888,
       "keywords": [
         "google",
         "cloud",
@@ -116,21 +525,31 @@
         "ki-agenten",
         "offenem",
         "markdown-format"
-      ],
-      "fetched_at": "2026-06-15T04:38:53.728835+00:00"
+      ]
     },
     {
-      "id": "0b91d8dbca7f",
+      "title": "Halluzinationen stoppen: Mit diesem System-Prompt minimierst du KI-Lügen",
+      "url": "https://t3n.de/news/system-prompt-ki-halluzinationen-stoppen-1747136/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-06-15T04:05:00+00:00",
+      "summary": "KI-Tools erfinden Fakten, Quellen und Zahlen, das ist ein bekanntes Problem im Büroalltag. Der passende System-Prompt reduziert jedoch die KI-Halluzinationen. Bei t3n MeisterPrompter gibt es die Vorlage zum Kopieren. weiterlesen auf t3n.de",
+      "keywords": [
+        "system-prompt",
+        "halluzinationen",
+        "stoppen",
+        "diesem",
+        "minimierst",
+        "ki-lügen"
+      ]
+    },
+    {
       "title": "Digitalminister Wildberger ließ Reden und Gastbeiträge von KI schreiben",
       "url": "https://www.heise.de/news/Digitalminister-Wildberger-liess-Reden-und-Gastbeitraege-von-KI-schreiben-11331531.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed, gefiltert auf KI/Digital)",
-      "source_category": "tech-press",
+      "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "weight": 5,
       "published": "2026-06-14T10:33:00+00:00",
       "summary": "Manchmal teilweise, manchmal komplett – einige Beiträge von Karsten Wildberger stammen aus einem Chatbot. Sein Haus hat das bestätigt.",
-      "content": "Manchmal teilweise, manchmal komplett – einige Beiträge von Karsten Wildberger stammen aus einem Chatbot. Sein Haus hat das bestätigt.",
-      "score": 4.03,
       "keywords": [
         "wildberger",
         "manchmal",
@@ -138,21 +557,15 @@
         "ließ",
         "reden",
         "gastbeiträge"
-      ],
-      "fetched_at": "2026-06-15T04:38:52.835273+00:00"
+      ]
     },
     {
-      "id": "6066e749a3a5",
       "title": "Mirage zeigt, wie Video-KI ein räumliches Langzeitgedächtnis bekommt",
       "url": "https://the-decoder.de/mirage-zeigt-wie-video-ki-ein-raeumliches-langzeitgedaechtnis-bekommt/",
       "source": "The Decoder",
-      "source_category": "ai-research",
       "lang": "de",
-      "weight": 5,
       "published": "2026-06-14T09:51:17+00:00",
       "summary": "Mirage, ein von Microsoft Research und mehreren Universitäten entwickeltes Video-Weltmodell, speichert Szeneninformationen direkt im latenten Raum statt in pixelbasierten Punktwolken. Das spart massiv Rechenzeit und Grafikspeicher, während die räumliche Konsistenz auch bei langen Kamerafahrten stabil bleibt. Bewegte Objekte kann das System allerdings noch nicht zuverlässig erinnern. Der Artikel Mirage zeigt, wie Video-KI ein räumliches Langzeitgedächtnis bekommt erschien zuerst auf The Decoder .",
-      "content": "Mirage, ein von Microsoft Research und mehreren Universitäten entwickeltes Video-Weltmodell, speichert Szeneninformationen direkt im latenten Raum statt in pixelbasierten Punktwolken. Das spart massiv Rechenzeit und Grafikspeicher, während die räumliche Konsistenz auch bei langen Kamerafahrten stabil bleibt. Bewegte Objekte kann das System allerdings noch nicht zuverlässig erinnern. Der Artikel Mirage zeigt, wie Video-KI ein räumliches Langzeitgedächtnis bekommt erschien zuerst auf The Decoder .",
-      "score": 3.9916,
       "keywords": [
         "mirage",
         "zeigt",
@@ -160,21 +573,15 @@
         "räumliches",
         "langzeitgedächtnis",
         "bekommt"
-      ],
-      "fetched_at": "2026-06-15T04:38:53.728835+00:00"
+      ]
     },
     {
-      "id": "28f2a4be30c6",
       "title": "Blamage für KPMG: Bericht über KI in Unternehmen enthielt erfundene Fallstudien",
       "url": "https://the-decoder.de/blamage-fuer-kpmg-bericht-ueber-ki-in-unternehmen-enthielt-erfundene-fallstudien/",
       "source": "The Decoder",
-      "source_category": "ai-research",
       "lang": "de",
-      "weight": 5,
       "published": "2026-06-14T09:33:37+00:00",
       "summary": "KPMG hat einen Bericht über KI in Unternehmen veröffentlicht, der erfundene KI-Fallstudien zu UBS, NHS und anderen Organisationen enthielt. Der an der Analyse beteiligte GPTZero-Chef Edward Tian warnt vor \"Sekundär-Halluzinationen\", die entstehen, wenn Berichte großer Beratungsfirmen ungeprüft weiterverbreitet werden. KPMG hat den Bericht inzwischen entfernt. Der Artikel Blamage für KPMG: Bericht über KI in Unternehmen enthielt erfundene Fallstudien erschien zuerst auf The Decoder .",
-      "content": "KPMG hat einen Bericht über KI in Unternehmen veröffentlicht, der erfundene KI-Fallstudien zu UBS, NHS und anderen Organisationen enthielt. Der an der Analyse beteiligte GPTZero-Chef Edward Tian warnt vor \"Sekundär-Halluzinationen\", die entstehen, wenn Berichte großer Beratungsfirmen ungeprüft weiterverbreitet werden. KPMG hat den Bericht inzwischen entfernt. Der Artikel Blamage für KPMG: Bericht über KI in Unternehmen enthielt erfundene Fallstudien erschien zuerst auf The Decoder .",
-      "score": 3.9754,
       "keywords": [
         "kpmg",
         "bericht",
@@ -182,21 +589,15 @@
         "enthielt",
         "erfundene",
         "blamage"
-      ],
-      "fetched_at": "2026-06-15T04:38:53.728835+00:00"
+      ]
     },
     {
-      "id": "aa40f213a527",
       "title": "Fable-5-Verbot: Angeblich warnte Amazon die US-Regierung vor Anthropics KI-Modell",
       "url": "https://the-decoder.de/fable-5-verbot-angeblich-warnte-amazon-die-us-regierung-vor-anthropics-ki-modell/",
       "source": "The Decoder",
-      "source_category": "ai-research",
       "lang": "de",
-      "weight": 5,
       "published": "2026-06-14T08:11:02+00:00",
       "summary": "Amazon-CEO Andy Jassy und andere Tech-Unternehmen hatten offenbar die Trump-Regierung auf Sicherheitslücken in Anthropics Fable-Modell hingewiesen, obwohl Amazon einer der größten Investoren von Anthropic ist. Innerhalb weniger Stunden erzwang das Weiße Haus die Sperrung des Modells per Exportkontrollanordnung. Beobachter sehen darin weniger Sicherheitspolitik als eine Machtdemonstration gegenüber einem unbequemen Unternehmen. Der Artikel Fable-5-Verbot: Angeblich warnte Amazon die US-Regierung vor Anthropics KI-Modell erschien zuerst auf The Decoder .",
-      "content": "Amazon-CEO Andy Jassy und andere Tech-Unternehmen hatten offenbar die Trump-Regierung auf Sicherheitslücken in Anthropics Fable-Modell hingewiesen, obwohl Amazon einer der größten Investoren von Anthropic ist. Innerhalb weniger Stunden erzwang das Weiße Haus die Sperrung des Modells per Exportkontrollanordnung. Beobachter sehen darin weniger Sicherheitspolitik als eine Machtdemonstration gegenüber einem unbequemen Unternehmen. Der Artikel Fable-5-Verbot: Angeblich warnte Amazon die US-Regierung vor Anthropics KI-Modell erschien zuerst auf The Decoder .",
-      "score": 3.9007,
       "keywords": [
         "amazon",
         "anthropics",
@@ -204,21 +605,15 @@
         "angeblich",
         "warnte",
         "us-regierung"
-      ],
-      "fetched_at": "2026-06-15T04:38:53.728835+00:00"
+      ]
     },
     {
-      "id": "5bbbc9592cd5",
       "title": "heise-Angebot: iX-Workshop: Make.com und n8n – Geschäftsprozesse mit KI-Agenten automatisieren",
       "url": "https://www.heise.de/news/iX-Workshop-Make-com-und-n8n-Geschaeftsprozesse-mit-KI-Agenten-automatisieren-11321274.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed, gefiltert auf KI/Digital)",
-      "source_category": "tech-press",
+      "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "weight": 5,
       "published": "2026-06-14T08:00:00+00:00",
       "summary": "Lernen Sie, wie Sie mit Make.com und n8n intelligente KI-Agenten für die Automatisierung Ihrer Geschäftsprozesse einsetzen, ohne selbst zu programmieren.",
-      "content": "Lernen Sie, wie Sie mit Make.com und n8n intelligente KI-Agenten für die Automatisierung Ihrer Geschäftsprozesse einsetzen, ohne selbst zu programmieren.",
-      "score": 3.8908,
       "keywords": [
         "make",
         "geschäftsprozesse",
@@ -226,21 +621,15 @@
         "heise-angebot",
         "ix-workshop",
         "automatisieren"
-      ],
-      "fetched_at": "2026-06-15T04:38:52.835273+00:00"
+      ]
     },
     {
-      "id": "f583f7af372d",
       "title": "KI-Coding-Agenten finden die richtige Datei, aber nicht die richtige Zeile",
       "url": "https://the-decoder.de/ki-coding-agenten-finden-die-richtige-datei-aber-nicht-die-richtige-zeile/",
       "source": "The Decoder",
-      "source_category": "ai-research",
       "lang": "de",
-      "weight": 5,
       "published": "2026-06-14T07:07:47+00:00",
       "summary": "Der Benchmark SWE-Explore eines internationalen Forschungsteams prüft erstmals isoliert, wie gut KI-Coding-Agenten relevanten Code finden, getrennt von der eigentlichen Reparatur. Agenten wie Claude Code oder Codex lokalisieren zwar die richtige Datei, übersehen auf Zeilenebene aber die meisten entscheidenden Stellen. Ohne ausreichenden Kontext scheitert auch die beste Reparatur. Der Artikel KI-Coding-Agenten finden die richtige Datei, aber nicht die richtige Zeile erschien zuerst auf The Decoder .",
-      "content": "Der Benchmark SWE-Explore eines internationalen Forschungsteams prüft erstmals isoliert, wie gut KI-Coding-Agenten relevanten Code finden, getrennt von der eigentlichen Reparatur. Agenten wie Claude Code oder Codex lokalisieren zwar die richtige Datei, übersehen auf Zeilenebene aber die meisten entscheidenden Stellen. Ohne ausreichenden Kontext scheitert auch die beste Reparatur. Der Artikel KI-Coding-Agenten finden die richtige Datei, aber nicht die richtige Zeile erschien zuerst auf The Decoder .",
-      "score": 3.8445,
       "keywords": [
         "richtige",
         "ki-coding-agenten",
@@ -248,21 +637,31 @@
         "datei",
         "aber",
         "nicht"
-      ],
-      "fetched_at": "2026-06-15T04:38:53.728835+00:00"
+      ]
     },
     {
-      "id": "34b214314d46",
+      "title": "heise+ | ThinkTab X11 Gen 1 im Test: Android-Tablet für den Arbeitsalltag",
+      "url": "https://www.heise.de/tests/ThinkTab-X11-Gen-1-im-Test-Android-Tablet-fuer-den-Arbeitsalltag-11307617.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-06-14T06:00:00+00:00",
+      "summary": "Das ThinkTab X11 punktet mit Robustheit und verlässlicher Performance – passend für allerlei Office-Aufgaben.",
+      "keywords": [
+        "thinktab",
+        "heise",
+        "test",
+        "android-tablet",
+        "arbeitsalltag",
+        "punktet"
+      ]
+    },
+    {
       "title": "Missing Link: Warum Deutschlands Behörden bei der Digitalisierung stagnieren",
       "url": "https://www.heise.de/hintergrund/Missing-Link-Warum-Deutschlands-Behoerden-bei-der-Digitalisierung-stagnieren-11331433.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed, gefiltert auf KI/Digital)",
-      "source_category": "tech-press",
+      "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "weight": 5,
       "published": "2026-06-14T06:00:00+00:00",
       "summary": "Trotz hoher Investitionen bleibt die digitale Verwaltung in Deutschland hinter den Erwartungen zurück. Das Problem sind nicht die Mittel, sondern die Strukturen",
-      "content": "Trotz hoher Investitionen bleibt die digitale Verwaltung in Deutschland hinter den Erwartungen zurück. Das Problem sind nicht die Mittel, sondern die Strukturen",
-      "score": 3.7852,
       "keywords": [
         "missing",
         "link",
@@ -270,21 +669,15 @@
         "deutschlands",
         "behörden",
         "digitalisierung"
-      ],
-      "fetched_at": "2026-06-15T04:38:52.835273+00:00"
+      ]
     },
     {
-      "id": "485f5aa1d7f7",
       "title": "Nach IPO: Ex-SpaceX-Schweißer wird Millionär – arbeitet jetzt aber für Blue Origin",
       "url": "https://t3n.de/news/ipo-spacex-schweisser-millionaer-1747602/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
       "source": "t3n Digital Pioneers",
-      "source_category": "digital-business",
       "lang": "de",
-      "weight": 4,
       "published": "2026-06-14T20:42:34+00:00",
       "summary": "Als Einwanderer Juan Hernandez 2015 bei SpaceX anheuerte, will er noch nie von dem Unternehmen gehört haben. Nach dem erfolgreichen Börsengang von Elon Musks Raumfahrtfirma ist Hernandez Millionär. Dabei arbeitet er mittlerweile für Blue Origin. weiterlesen auf t3n.de",
-      "content": "Als Einwanderer Juan Hernandez 2015 bei SpaceX anheuerte, will er noch nie von dem Unternehmen gehört haben. Nach dem erfolgreichen Börsengang von Elon Musks Raumfahrtfirma ist Hernandez Millionär. Dabei arbeitet er mittlerweile für Blue Origin. weiterlesen auf t3n.de",
-      "score": 3.7467,
       "keywords": [
         "millionär",
         "arbeitet",
@@ -292,21 +685,15 @@
         "origin",
         "hernandez",
         "ex-spacex-schweißer"
-      ],
-      "fetched_at": "2026-06-15T04:38:53.768562+00:00"
+      ]
     },
     {
-      "id": "da82fba07298",
       "title": "Amazon Prime Day 2026: Diese Produkte sind echte Schnäppchen – und diese solltest du meiden",
       "url": "https://t3n.de/news/amazon-prime-day-2026-schnaeppchen-diese-meiden-1746502/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
       "source": "t3n Digital Pioneers",
-      "source_category": "digital-business",
       "lang": "de",
-      "weight": 4,
       "published": "2026-06-14T18:00:00+00:00",
       "summary": "Bereits in der letzten Juniwoche wird in diesem Jahr der Amazon Prime Day – und das wiederum gleich über vier Tage. Was in diesem Jahr besonders ist und wie du dich schon jetzt auf das Shopping-Event vorbereiten kannst, erklären wir in diesem Ratgeber. weiterlesen auf t3n.de",
-      "content": "Bereits in der letzten Juniwoche wird in diesem Jahr der Amazon Prime Day – und das wiederum gleich über vier Tage. Was in diesem Jahr besonders ist und wie du dich schon jetzt auf das Shopping-Event vorbereiten kannst, erklären wir in diesem Ratgeber. weiterlesen auf t3n.de",
-      "score": 3.6099,
       "keywords": [
         "diesem",
         "amazon",
@@ -314,21 +701,15 @@
         "diese",
         "jahr",
         "2026"
-      ],
-      "fetched_at": "2026-06-15T04:38:53.768562+00:00"
+      ]
     },
     {
-      "id": "d99a18512378",
       "title": "Google und Bezos träumten davon, SpaceX macht es: KI-Satelliten im All sollen 2028 starten",
       "url": "https://t3n.de/news/spacex-ki-satelliten-rechenzentren-weltall-2028-tests-1746800/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
       "source": "t3n Digital Pioneers",
-      "source_category": "digital-business",
       "lang": "de",
-      "weight": 4,
       "published": "2026-06-14T17:05:00+00:00",
       "summary": "SpaceX plant im kommenden Jahr erste Tests mit Rechenzentren im All. Das haben die Verantwortlichen Investor:innen kurz vor dem anstehenden Börsengang versprochen. Was das Raumfahrtunternehmen plant. weiterlesen auf t3n.de",
-      "content": "SpaceX plant im kommenden Jahr erste Tests mit Rechenzentren im All. Das haben die Verantwortlichen Investor:innen kurz vor dem anstehenden Börsengang versprochen. Was das Raumfahrtunternehmen plant. weiterlesen auf t3n.de",
-      "score": 3.5648,
       "keywords": [
         "spacex",
         "plant",
@@ -336,21 +717,31 @@
         "bezos",
         "träumten",
         "davon"
-      ],
-      "fetched_at": "2026-06-15T04:38:53.768562+00:00"
+      ]
     },
     {
-      "id": "8c6e3e35e178",
+      "title": "Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "published": "2026-06-14T17:00:00+00:00",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "keywords": [
+        "openai",
+        "partner",
+        "network",
+        "introducing",
+        "launches",
+        "investing"
+      ]
+    },
+    {
       "title": "Applied AI: Metas KI-Kurs sorgt bei Entwicklern für Frust",
       "url": "https://t3n.de/news/applied-ai-ki-meta-frust-1747594/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
       "source": "t3n Digital Pioneers",
-      "source_category": "digital-business",
       "lang": "de",
-      "weight": 4,
       "published": "2026-06-14T16:45:47+00:00",
       "summary": "In Metas „Applied-AI“-Team brodelt es. Der Frust der zum Training von KI-Modellen abkommandierten Entwickler:innen entlud sich zuletzt bei einer internen Präsentation. Ein hochrangiger Manager nannte den KI-Kurs von Meta „brutal“ und „wahnsinnig“. weiterlesen auf t3n.de",
-      "content": "In Metas „Applied-AI“-Team brodelt es. Der Frust der zum Training von KI-Modellen abkommandierten Entwickler:innen entlud sich zuletzt bei einer internen Präsentation. Ein hochrangiger Manager nannte den KI-Kurs von Meta „brutal“ und „wahnsinnig“. weiterlesen auf t3n.de",
-      "score": 3.5491,
       "keywords": [
         "metas",
         "ki-kurs",
@@ -358,74 +749,7 @@
         "applied",
         "sorgt",
         "entwicklern"
-      ],
-      "fetched_at": "2026-06-15T04:38:53.768562+00:00"
-    },
-    {
-      "id": "300ad427d4b1",
-      "title": "Forscher wiegen Schwarzes Loch: Sechs Milliarden Sonnen schwer – und leuchtet nicht mal",
-      "url": "https://t3n.de/news/forscher-wiegen-schwarzes-loch-sechs-milliarden-sonnenmassen-unsichtbar-1746780/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "source_category": "digital-business",
-      "lang": "de",
-      "weight": 4,
-      "published": "2026-06-14T16:15:00+00:00",
-      "summary": "Einem internationalen Forschungsteam ist ein unerwarteter Blick in die tiefe kosmische Vergangenheit gelungen. Diese Beobachtungen könnten unser Verständnis über die Entwicklung von Galaxien in Zukunft grundlegend verändern. weiterlesen auf t3n.de",
-      "content": "Einem internationalen Forschungsteam ist ein unerwarteter Blick in die tiefe kosmische Vergangenheit gelungen. Diese Beobachtungen könnten unser Verständnis über die Entwicklung von Galaxien in Zukunft grundlegend verändern. weiterlesen auf t3n.de",
-      "score": 3.5243,
-      "keywords": [
-        "forscher",
-        "wiegen",
-        "schwarzes",
-        "loch",
-        "sechs",
-        "milliarden"
-      ],
-      "fetched_at": "2026-06-15T04:38:53.768562+00:00"
-    },
-    {
-      "id": "e2704d343dc4",
-      "title": "Rechenzentren und Klimaanlagen treiben Strombedarf: Mini-Reaktoren vom Fließband sollen helfen",
-      "url": "https://t3n.de/news/mini-reaktoren-smr-rechenzentren-klimaanlagen-strombedarf-1746467/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "source_category": "digital-business",
-      "lang": "de",
-      "weight": 4,
-      "published": "2026-06-14T15:50:00+00:00",
-      "summary": "Durch den immensen Energiebedarf von Rechenzentren und Klima­anlagen erfreuen sich Kernreaktoren weltweit wieder steigender Beliebt­heit. Kleine modulare Reaktoren sollen Atomenergie serientauglich und flexibel machen. Wie sie funktionieren, erklären unsere Grafiken. weiterlesen auf t3n.de",
-      "content": "Durch den immensen Energiebedarf von Rechenzentren und Klima­anlagen erfreuen sich Kernreaktoren weltweit wieder steigender Beliebt­heit. Kleine modulare Reaktoren sollen Atomenergie serientauglich und flexibel machen. Wie sie funktionieren, erklären unsere Grafiken. weiterlesen auf t3n.de",
-      "score": 3.5042,
-      "keywords": [
-        "rechenzentren",
-        "sollen",
-        "klimaanlagen",
-        "treiben",
-        "strombedarf",
-        "mini-reaktoren"
-      ],
-      "fetched_at": "2026-06-15T04:38:53.768562+00:00"
-    },
-    {
-      "id": "c8206d16a306",
-      "title": "Training zu Hause: KI-Coach erkennt falsche Bewegungen und korrigiert deine Haltung in Echtzeit",
-      "url": "https://t3n.de/news/von-kniebeugen-bis-liegestuetz-ki-analysiert-dein-training-und-liefert-ein-3d-skelett-von-dir-in-echtzeit-1746399/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "source_category": "digital-business",
-      "lang": "de",
-      "weight": 4,
-      "published": "2026-06-14T14:20:00+00:00",
-      "summary": "Das System namens Biocoach erkennt per Kamera nicht nur die Bewegungen während des Workouts, sondern versteht die zugrunde liegende Biomechanik – und soll dadurch sagen, wie man besser und sicherer trainiert. weiterlesen auf t3n.de",
-      "content": "Das System namens Biocoach erkennt per Kamera nicht nur die Bewegungen während des Workouts, sondern versteht die zugrunde liegende Biomechanik – und soll dadurch sagen, wie man besser und sicherer trainiert. weiterlesen auf t3n.de",
-      "score": 3.433,
-      "keywords": [
-        "erkennt",
-        "bewegungen",
-        "training",
-        "hause",
-        "ki-coach",
-        "falsche"
-      ],
-      "fetched_at": "2026-06-15T04:38:53.768562+00:00"
+      ]
     }
   ]
 }
