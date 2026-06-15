@@ -7,6 +7,19 @@ on:
   # Allow manual trigger from Actions tab
   workflow_dispatch:
 
+# The Vercel-Project (ai-industry-watcher) has no Git-Repo link
+# (Link was lost on 2026-06-15). So we don't `git push` the brief
+# back to master — that fails with "Permission denied to
+# github-actions[bot]". Instead we trigger Vercel to deploy
+# directly from the repo's master HEAD via the Vercel Build API.
+#
+# This works because we have VERCEL_REPO_ID (GitHub repo ID
+# 1261276095) and VERCEL_PROJECT_ID, and the Vercel token
+# has scope to deploy that project.
+
+permissions:
+  contents: read  # default; we don't push
+
 jobs:
   generate-brief:
     runs-on: ubuntu-latest
@@ -14,6 +27,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -26,21 +41,83 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run pipeline
+      - name: Run pipeline (scrape + LLM brief)
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
         run: python scripts/run_pipeline.py
 
-      - name: Commit + push
+      - name: Commit brief to master (for archival)
+        env:
+          # Use a PAT with contents:write instead of GITHUB_TOKEN
+          # (the bot token has only read on this repo by default)
+          COMMIT_TOKEN: ${{ secrets.INGRID_PAT }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          # Force-add the generated brief (it's in .gitignore to keep the dev tree clean)
-          git add -f web/data/latest.json
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-            exit 0
+          if [ -z "$COMMIT_TOKEN" ]; then
+            echo "::warning::INGRID_PAT not set — skipping commit (Vercel deploy still happens below)"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git remote set-url origin "https://x-access-token:${COMMIT_TOKEN}@github.com/igoingtodevx/industry-watcher.git"
+            git add -f web/data/latest.json
+            if git diff --staged --quiet; then
+              echo "No changes to commit"
+            else
+              git commit -m "chore: weekly brief $(date -u +%Y-%m-%d)"
+              git push origin HEAD:master
+            fi
           fi
-          git commit -m "chore: weekly brief $(date -u +%Y-%m-%d)"
-          git push
+
+      - name: Trigger Vercel deploy (direct API, no webhook needed)
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_TEAM_ID: ${{ secrets.VERCEL_TEAM_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+          VERCEL_REPO_ID: ${{ secrets.VERCEL_REPO_ID }}
+        run: |
+          echo "Triggering Vercel deploy for ai-industry-watcher from master HEAD..."
+          DEPLOY=$(curl -sS -X POST \
+            "https://api.vercel.com/v13/deployments?teamId=${VERCEL_TEAM_ID}" \
+            -H "Authorization: Bearer ${VERCEL_TOKEN}" \
+            -H "Content-Type: application/json" \
+            -d "{
+              \"name\": \"ai-industry-watcher\",
+              \"target\": \"production\",
+              \"gitSource\": {
+                \"type\": \"github\",
+                \"ref\": \"master\",
+                \"repoId\": ${VERCEL_REPO_ID}
+              }
+            }")
+          DEPLOY_ID=$(echo "$DEPLOY" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('id',''))")
+          DEPLOY_STATE=$(echo "$DEPLOY" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('readyState',''))")
+          DEPLOY_URL=$(echo "$DEPLOY" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('url',''))")
+          echo "Deployment: id=$DEPLOY_ID  state=$DEPLOY_STATE  url=$DEPLOY_URL"
+
+          if [ -z "$DEPLOY_ID" ]; then
+            echo "::error::Failed to trigger Vercel deploy. Response: $DEPLOY"
+            exit 1
+          fi
+
+          # Poll for completion (max 4 min)
+          for i in $(seq 1 24); do
+            sleep 10
+            STATUS=$(curl -sS \
+              "https://api.vercel.com/v13/deployments/${DEPLOY_ID}?teamId=${VERCEL_TEAM_ID}" \
+              -H "Authorization: Bearer ${VERCEL_TOKEN}" \
+              | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('readyState',''))")
+            echo "  [$((i*10))s] state=$STATUS"
+            case "$STATUS" in
+              READY)
+                echo "✅ Vercel deploy READY: $DEPLOY_URL"
+                echo "Live at: https://ai-industry-watcher.vercel.app"
+                exit 0
+                ;;
+              ERROR|CANCELED)
+                echo "::error::Vercel deploy $STATUS for $DEPLOY_ID"
+                exit 1
+                ;;
+            esac
+          done
+          echo "::error::Vercel deploy timed out after 4 min"
+          exit 1
