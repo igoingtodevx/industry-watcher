@@ -128,7 +128,9 @@ jobs:
   vercel-deploy:
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    needs: generate-brief
+    # No `needs: generate-brief` — they should run independently
+    # (when on push, generate-brief is skipped by its own if-condition,
+    #  but vercel-deploy should still run).
     # Only run on push, NOT on schedule/dispatch (those go through generate-brief)
     if: github.event_name == 'push'
     steps:
