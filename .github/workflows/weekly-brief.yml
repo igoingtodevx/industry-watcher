@@ -9,12 +9,15 @@ on:
   # On every push to master: deploy only (no pipeline re-run)
   # This is the "Vercel webhook replacement" — auto-deploys on push
   # without needing the Vercel↔GitHub connection.
+  #
+  # paths-ignore: skip when only docs/non-build files change
+  # (so README edits don't trigger a deploy).
   push:
     branches:
       - master
-    paths:
-      - 'web/**'
-      - '.github/workflows/weekly-brief.yml'
+    paths-ignore:
+      - 'README.md'
+      - 'docs/**'
 
 # The Vercel-Project (ai-industry-watcher) has no Git-Repo link
 # (Link was lost on 2026-06-15). So we don't `git push` the brief
