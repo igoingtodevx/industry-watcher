@@ -24,10 +24,10 @@
 
   function signalClass(s) {
     const v = (s || "").toLowerCase();
-    if (v.includes("hoch") || v.includes("high")) return "signal-high";
-    if (v.includes("mittel") || v.includes("mid")) return "signal-mittel";
-    if (v.includes("niedrig") || v.includes("low")) return "signal-niedrig";
-    return "signal-mittel";
+    if (v.includes("hoch") || v.includes("high")) return "signal";
+    if (v.includes("mittel") || v.includes("mid")) return "signal signal-mid";
+    if (v.includes("niedrig") || v.includes("low")) return "signal signal-soft";
+    return "signal signal-mid";
   }
   function howClass(s) {
     return signalClass(s);
@@ -48,20 +48,26 @@
     $("#headline").textContent = b.headline || "—";
     $("#subheadline").textContent = b.subheadline || "";
 
-    // Hero meta pills
+    // Masthead + Byline (editorial)
+    const shortDate = new Date(meta.generated_at).toLocaleDateString("de-DE", { day: "2-digit", month: "short", year: "numeric" });
+    $("#masthead-vertical").textContent = data.vertical || "—";
+    $("#masthead-date").textContent = shortDate;
+    $("#byline-date").textContent = shortDate;
+
+    // Hero stats (no emoji, mono, right-aligned, editorial style)
     const heroMeta = $("#hero-meta");
     heroMeta.innerHTML = "";
-    const pills = [
-      `📰 ${meta.input_articles || "?"} Artikel`,
-      `📡 ${meta.input_sources || "?"} Quellen`,
-      `🤖 ${meta.model || "?"}`,
-      meta.tokens_used ? `💬 ${meta.tokens_used.toLocaleString()} tokens` : null,
-    ].filter(Boolean);
-    pills.forEach((p) => {
-      const span = document.createElement("span");
-      span.className = "pill";
-      span.textContent = p;
-      heroMeta.appendChild(span);
+    const stats = [
+      { label: "Artikel",  value: meta.input_articles ?? "?" },
+      { label: "Quellen",  value: meta.input_sources ?? "?" },
+      { label: "Wörter",   value: meta.tokens_used ? Math.round(meta.tokens_used * 0.75).toLocaleString("de-DE") : "—" },
+      { label: "Modell",   value: meta.model ?? "—" },
+    ];
+    stats.forEach((s) => {
+      const div = document.createElement("div");
+      div.className = "stat";
+      div.innerHTML = `<span class="stat-value">${escape(String(s.value))}</span><span class="stat-label">${escape(s.label)}</span>`;
+      heroMeta.appendChild(div);
     });
 
     // Executive summary
@@ -92,17 +98,19 @@
       const div = document.createElement("div");
       div.className = "opp";
       div.innerHTML = `
-        <h3>${escape(o.title)}</h3>
-        <p><strong>Was:</strong> ${escape(o.what || "")}</p>
-        <p><strong>Wer würde zahlen:</strong> ${escape(o.who || "")}</p>
-        <div class="row">
+        <div class="opp-main">
+          <h3>${escape(o.title)}</h3>
+          <p class="what"><strong>Was</strong>${escape(o.what || "")}</p>
+          <p class="who"><strong>Wer würde zahlen</strong>${escape(o.who || "")}</p>
+        </div>
+        <div class="opp-side">
           <div class="field">
-            <div class="label">Umsetzbarkeit</div>
-            <span class="how ${howClass(o.how)}">${escape(o.how || "mittel")}</span>
+            <span class="label">Umsetzbarkeit</span>
+            <span class="value how ${howClass(o.how)}">${escape(o.how || "mittel")}</span>
           </div>
           <div class="field">
-            <div class="label">Realistischer Preis</div>
-            <div class="value price">${escape(o.price || "—")}</div>
+            <span class="label">Realistischer Preis</span>
+            <span class="value price">${escape(o.price || "—")}</span>
           </div>
         </div>
       `;
