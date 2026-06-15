@@ -1,0 +1,431 @@
+{
+  "generated_at": "2026-06-15T04:39:12.097704+00:00",
+  "vertical": "German Mittelstand Digital & KI-Automation",
+  "model": "gpt-4o-mini",
+  "tokens_used": 6362,
+  "input_articles": 50,
+  "input_sources": 9,
+  "brief": {
+    "headline": "Google Cloud adressiert Kontextproblem von KI-Agenten mit neuem Format",
+    "subheadline": "Das Open Knowledge Format (OKF) könnte die Effizienz von KI-Anwendungen im Mittelstand steigern.",
+    "executive_summary": "Diese Woche kündigte Google Cloud an, das Open Knowledge Format (OKF) einzuführen, um das Kontextproblem von KI-Agenten zu lösen. Der Fokus auf standardisierte Wissensdarstellung könnte insbesondere für den deutschen Mittelstand von Bedeutung sein, da viele Unternehmen mit der Integration von KI kämpfen. Gleichzeitig wurden Berichte über KI in Unternehmen kritisch beleuchtet, was die Notwendigkeit von vertrauenswürdigen Datenquellen unterstreicht.",
+    "trends": [
+      {
+        "title": "Standardisierung von KI-Wissen",
+        "what": "Google Cloud führt das Open Knowledge Format (OKF) ein, um Wissen für KI-Agenten nutzbar zu machen.",
+        "why": "Die Standardisierung könnte es Unternehmen erleichtern, KI effizienter zu implementieren und zu nutzen.",
+        "signal": "hoch"
+      },
+      {
+        "title": "Vertrauen in KI-generierte Inhalte",
+        "what": "KPMG musste einen Bericht über KI zurückziehen, der gefälschte Fallstudien enthielt.",
+        "why": "Diese Vorfälle zeigen die Risiken und Herausforderungen bei der Nutzung von KI-generierten Inhalten in Unternehmen.",
+        "signal": "hoch"
+      },
+      {
+        "title": "KI-Agenten in der Softwareentwicklung",
+        "what": "KI-Coding-Agenten haben Schwierigkeiten, relevanten Code präzise zu finden.",
+        "why": "Die Effizienz dieser Technologien ist entscheidend für die Automatisierung von Softwareentwicklungsprozessen.",
+        "signal": "mittel"
+      }
+    ],
+    "opportunities": [
+      {
+        "title": "Entwicklung von OKF-basierten KI-Anwendungen",
+        "what": "Unternehmen benötigen maßgeschneiderte Lösungen, um das neue Open Knowledge Format zu implementieren.",
+        "who": "Mittelständische Unternehmen, die bereits KI-Lösungen nutzen oder einführen möchten.",
+        "how": "hoch",
+        "price": "5.000-15.000€ Setup + 500-1.000€/Monat Retainer"
+      },
+      {
+        "title": "Beratung zur Vertrauenswürdigkeit von KI-Inhalten",
+        "what": "Ein Bedarf an Beratungsdiensten, die Unternehmen helfen, vertrauenswürdige KI-Inhalte zu generieren und zu überprüfen.",
+        "who": "Unternehmen, die KI für Marketing und Kommunikation einsetzen.",
+        "how": "mittel",
+        "price": "3.000-10.000€ Setup + 300-700€/Monat Retainer"
+      },
+      {
+        "title": "Schulung für KI-Coding-Agenten",
+        "what": "Schulungen zur effektiven Nutzung und Integration von KI-Coding-Agenten in den Entwicklungsprozess.",
+        "who": "Softwareentwickler und IT-Abteilungen in Unternehmen.",
+        "how": "hoch",
+        "price": "1.500-5.000€ pro Schulung"
+      }
+    ],
+    "top_articles": [
+      {
+        "title": "Google Cloud wird mit offenem Markdown-Format das Kontextproblem von KI-Agenten lösen",
+        "url": "https://the-decoder.de/google-cloud-will-mit-offenem-markdown-format-das-kontextproblem-von-ki-agenten-loesen/",
+        "source": "The Decoder",
+        "date": "2026-06-14",
+        "why": "Das neue Format könnte die Integration von KI in Unternehmen revolutionieren.",
+        "tags": [
+          "google",
+          "cloud",
+          "ki-agenten"
+        ]
+      },
+      {
+        "title": "Blamage für KPMG: Bericht über KI in Unternehmen enthielt erfundene Fallstudien",
+        "url": "https://the-decoder.de/blamage-fuer-kpmg-bericht-ueber-ki-in-unternehmen-enthielt-erfundene-fallstudien/",
+        "source": "The Decoder",
+        "date": "2026-06-14",
+        "why": "Der Vorfall zeigt die Gefahren von unzuverlässigen Quellen in der KI-Forschung.",
+        "tags": [
+          "kpmg",
+          "bericht",
+          "ki"
+        ]
+      },
+      {
+        "title": "KI-Coding-Agenten finden die richtige Datei, aber nicht die richtige Zeile",
+        "url": "https://the-decoder.de/ki-coding-agenten-finden-die-richtige-datei-aber-nicht-die-richtige-zeile/",
+        "source": "The Decoder",
+        "date": "2026-06-14",
+        "why": "Effizienzprobleme bei KI-Coding-Agenten könnten die Softwareentwicklung behindern.",
+        "tags": [
+          "ki",
+          "coding",
+          "agenten"
+        ]
+      }
+    ],
+    "action_items": [
+      "Informiere dich über das Open Knowledge Format (OKF) und dessen Anwendungsmöglichkeiten für deine Kunden.",
+      "Erstelle ein Konzept für Schulungen zur Nutzung von KI-Coding-Agenten in der Softwareentwicklung.",
+      "Überprüfe aktuelle KI-Inhalte und entwickle einen Prozess zur Sicherstellung ihrer Vertrauenswürdigkeit."
+    ]
+  },
+  "raw_articles": [
+    {
+      "id": "5e6b1b1c150d",
+      "title": "Google Cloud will mit offenem Markdown-Format das Kontextproblem von KI-Agenten lösen",
+      "url": "https://the-decoder.de/google-cloud-will-mit-offenem-markdown-format-das-kontextproblem-von-ki-agenten-loesen/",
+      "source": "The Decoder",
+      "source_category": "ai-research",
+      "lang": "de",
+      "weight": 5,
+      "published": "2026-06-14T13:20:52+00:00",
+      "summary": "Google Cloud will mit dem Open Knowledge Format (OKF) das verstreute Wissen in Organisationen für KI-Agenten nutzbar machen. Die minimalistische Spezifikation standardisiert Wissen als Markdown-Dateien mit YAML-Frontmatter. OKF formalisiert damit ein Muster, das Andrej Karpathy kürzlich als \"LLM-Wiki\" populär gemacht hat. Der Artikel Google Cloud will mit offenem Markdown-Format das Kontextproblem von KI-Agenten lösen erschien zuerst auf The Decoder .",
+      "content": "Google Cloud will mit dem Open Knowledge Format (OKF) das verstreute Wissen in Organisationen für KI-Agenten nutzbar machen. Die minimalistische Spezifikation standardisiert Wissen als Markdown-Dateien mit YAML-Frontmatter. OKF formalisiert damit ein Muster, das Andrej Karpathy kürzlich als \"LLM-Wiki\" populär gemacht hat. Der Artikel Google Cloud will mit offenem Markdown-Format das Kontextproblem von KI-Agenten lösen erschien zuerst auf The Decoder .",
+      "score": 4.1888,
+      "keywords": [
+        "google",
+        "cloud",
+        "will",
+        "ki-agenten",
+        "offenem",
+        "markdown-format"
+      ],
+      "fetched_at": "2026-06-15T04:38:53.728835+00:00"
+    },
+    {
+      "id": "0b91d8dbca7f",
+      "title": "Digitalminister Wildberger ließ Reden und Gastbeiträge von KI schreiben",
+      "url": "https://www.heise.de/news/Digitalminister-Wildberger-liess-Reden-und-Gastbeitraege-von-KI-schreiben-11331531.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed, gefiltert auf KI/Digital)",
+      "source_category": "tech-press",
+      "lang": "de",
+      "weight": 5,
+      "published": "2026-06-14T10:33:00+00:00",
+      "summary": "Manchmal teilweise, manchmal komplett – einige Beiträge von Karsten Wildberger stammen aus einem Chatbot. Sein Haus hat das bestätigt.",
+      "content": "Manchmal teilweise, manchmal komplett – einige Beiträge von Karsten Wildberger stammen aus einem Chatbot. Sein Haus hat das bestätigt.",
+      "score": 4.03,
+      "keywords": [
+        "wildberger",
+        "manchmal",
+        "digitalminister",
+        "ließ",
+        "reden",
+        "gastbeiträge"
+      ],
+      "fetched_at": "2026-06-15T04:38:52.835273+00:00"
+    },
+    {
+      "id": "6066e749a3a5",
+      "title": "Mirage zeigt, wie Video-KI ein räumliches Langzeitgedächtnis bekommt",
+      "url": "https://the-decoder.de/mirage-zeigt-wie-video-ki-ein-raeumliches-langzeitgedaechtnis-bekommt/",
+      "source": "The Decoder",
+      "source_category": "ai-research",
+      "lang": "de",
+      "weight": 5,
+      "published": "2026-06-14T09:51:17+00:00",
+      "summary": "Mirage, ein von Microsoft Research und mehreren Universitäten entwickeltes Video-Weltmodell, speichert Szeneninformationen direkt im latenten Raum statt in pixelbasierten Punktwolken. Das spart massiv Rechenzeit und Grafikspeicher, während die räumliche Konsistenz auch bei langen Kamerafahrten stabil bleibt. Bewegte Objekte kann das System allerdings noch nicht zuverlässig erinnern. Der Artikel Mirage zeigt, wie Video-KI ein räumliches Langzeitgedächtnis bekommt erschien zuerst auf The Decoder .",
+      "content": "Mirage, ein von Microsoft Research und mehreren Universitäten entwickeltes Video-Weltmodell, speichert Szeneninformationen direkt im latenten Raum statt in pixelbasierten Punktwolken. Das spart massiv Rechenzeit und Grafikspeicher, während die räumliche Konsistenz auch bei langen Kamerafahrten stabil bleibt. Bewegte Objekte kann das System allerdings noch nicht zuverlässig erinnern. Der Artikel Mirage zeigt, wie Video-KI ein räumliches Langzeitgedächtnis bekommt erschien zuerst auf The Decoder .",
+      "score": 3.9916,
+      "keywords": [
+        "mirage",
+        "zeigt",
+        "video-ki",
+        "räumliches",
+        "langzeitgedächtnis",
+        "bekommt"
+      ],
+      "fetched_at": "2026-06-15T04:38:53.728835+00:00"
+    },
+    {
+      "id": "28f2a4be30c6",
+      "title": "Blamage für KPMG: Bericht über KI in Unternehmen enthielt erfundene Fallstudien",
+      "url": "https://the-decoder.de/blamage-fuer-kpmg-bericht-ueber-ki-in-unternehmen-enthielt-erfundene-fallstudien/",
+      "source": "The Decoder",
+      "source_category": "ai-research",
+      "lang": "de",
+      "weight": 5,
+      "published": "2026-06-14T09:33:37+00:00",
+      "summary": "KPMG hat einen Bericht über KI in Unternehmen veröffentlicht, der erfundene KI-Fallstudien zu UBS, NHS und anderen Organisationen enthielt. Der an der Analyse beteiligte GPTZero-Chef Edward Tian warnt vor \"Sekundär-Halluzinationen\", die entstehen, wenn Berichte großer Beratungsfirmen ungeprüft weiterverbreitet werden. KPMG hat den Bericht inzwischen entfernt. Der Artikel Blamage für KPMG: Bericht über KI in Unternehmen enthielt erfundene Fallstudien erschien zuerst auf The Decoder .",
+      "content": "KPMG hat einen Bericht über KI in Unternehmen veröffentlicht, der erfundene KI-Fallstudien zu UBS, NHS und anderen Organisationen enthielt. Der an der Analyse beteiligte GPTZero-Chef Edward Tian warnt vor \"Sekundär-Halluzinationen\", die entstehen, wenn Berichte großer Beratungsfirmen ungeprüft weiterverbreitet werden. KPMG hat den Bericht inzwischen entfernt. Der Artikel Blamage für KPMG: Bericht über KI in Unternehmen enthielt erfundene Fallstudien erschien zuerst auf The Decoder .",
+      "score": 3.9754,
+      "keywords": [
+        "kpmg",
+        "bericht",
+        "unternehmen",
+        "enthielt",
+        "erfundene",
+        "blamage"
+      ],
+      "fetched_at": "2026-06-15T04:38:53.728835+00:00"
+    },
+    {
+      "id": "aa40f213a527",
+      "title": "Fable-5-Verbot: Angeblich warnte Amazon die US-Regierung vor Anthropics KI-Modell",
+      "url": "https://the-decoder.de/fable-5-verbot-angeblich-warnte-amazon-die-us-regierung-vor-anthropics-ki-modell/",
+      "source": "The Decoder",
+      "source_category": "ai-research",
+      "lang": "de",
+      "weight": 5,
+      "published": "2026-06-14T08:11:02+00:00",
+      "summary": "Amazon-CEO Andy Jassy und andere Tech-Unternehmen hatten offenbar die Trump-Regierung auf Sicherheitslücken in Anthropics Fable-Modell hingewiesen, obwohl Amazon einer der größten Investoren von Anthropic ist. Innerhalb weniger Stunden erzwang das Weiße Haus die Sperrung des Modells per Exportkontrollanordnung. Beobachter sehen darin weniger Sicherheitspolitik als eine Machtdemonstration gegenüber einem unbequemen Unternehmen. Der Artikel Fable-5-Verbot: Angeblich warnte Amazon die US-Regierung vor Anthropics KI-Modell erschien zuerst auf The Decoder .",
+      "content": "Amazon-CEO Andy Jassy und andere Tech-Unternehmen hatten offenbar die Trump-Regierung auf Sicherheitslücken in Anthropics Fable-Modell hingewiesen, obwohl Amazon einer der größten Investoren von Anthropic ist. Innerhalb weniger Stunden erzwang das Weiße Haus die Sperrung des Modells per Exportkontrollanordnung. Beobachter sehen darin weniger Sicherheitspolitik als eine Machtdemonstration gegenüber einem unbequemen Unternehmen. Der Artikel Fable-5-Verbot: Angeblich warnte Amazon die US-Regierung vor Anthropics KI-Modell erschien zuerst auf The Decoder .",
+      "score": 3.9007,
+      "keywords": [
+        "amazon",
+        "anthropics",
+        "fable-5-verbot",
+        "angeblich",
+        "warnte",
+        "us-regierung"
+      ],
+      "fetched_at": "2026-06-15T04:38:53.728835+00:00"
+    },
+    {
+      "id": "5bbbc9592cd5",
+      "title": "heise-Angebot: iX-Workshop: Make.com und n8n – Geschäftsprozesse mit KI-Agenten automatisieren",
+      "url": "https://www.heise.de/news/iX-Workshop-Make-com-und-n8n-Geschaeftsprozesse-mit-KI-Agenten-automatisieren-11321274.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed, gefiltert auf KI/Digital)",
+      "source_category": "tech-press",
+      "lang": "de",
+      "weight": 5,
+      "published": "2026-06-14T08:00:00+00:00",
+      "summary": "Lernen Sie, wie Sie mit Make.com und n8n intelligente KI-Agenten für die Automatisierung Ihrer Geschäftsprozesse einsetzen, ohne selbst zu programmieren.",
+      "content": "Lernen Sie, wie Sie mit Make.com und n8n intelligente KI-Agenten für die Automatisierung Ihrer Geschäftsprozesse einsetzen, ohne selbst zu programmieren.",
+      "score": 3.8908,
+      "keywords": [
+        "make",
+        "geschäftsprozesse",
+        "ki-agenten",
+        "heise-angebot",
+        "ix-workshop",
+        "automatisieren"
+      ],
+      "fetched_at": "2026-06-15T04:38:52.835273+00:00"
+    },
+    {
+      "id": "f583f7af372d",
+      "title": "KI-Coding-Agenten finden die richtige Datei, aber nicht die richtige Zeile",
+      "url": "https://the-decoder.de/ki-coding-agenten-finden-die-richtige-datei-aber-nicht-die-richtige-zeile/",
+      "source": "The Decoder",
+      "source_category": "ai-research",
+      "lang": "de",
+      "weight": 5,
+      "published": "2026-06-14T07:07:47+00:00",
+      "summary": "Der Benchmark SWE-Explore eines internationalen Forschungsteams prüft erstmals isoliert, wie gut KI-Coding-Agenten relevanten Code finden, getrennt von der eigentlichen Reparatur. Agenten wie Claude Code oder Codex lokalisieren zwar die richtige Datei, übersehen auf Zeilenebene aber die meisten entscheidenden Stellen. Ohne ausreichenden Kontext scheitert auch die beste Reparatur. Der Artikel KI-Coding-Agenten finden die richtige Datei, aber nicht die richtige Zeile erschien zuerst auf The Decoder .",
+      "content": "Der Benchmark SWE-Explore eines internationalen Forschungsteams prüft erstmals isoliert, wie gut KI-Coding-Agenten relevanten Code finden, getrennt von der eigentlichen Reparatur. Agenten wie Claude Code oder Codex lokalisieren zwar die richtige Datei, übersehen auf Zeilenebene aber die meisten entscheidenden Stellen. Ohne ausreichenden Kontext scheitert auch die beste Reparatur. Der Artikel KI-Coding-Agenten finden die richtige Datei, aber nicht die richtige Zeile erschien zuerst auf The Decoder .",
+      "score": 3.8445,
+      "keywords": [
+        "richtige",
+        "ki-coding-agenten",
+        "finden",
+        "datei",
+        "aber",
+        "nicht"
+      ],
+      "fetched_at": "2026-06-15T04:38:53.728835+00:00"
+    },
+    {
+      "id": "34b214314d46",
+      "title": "Missing Link: Warum Deutschlands Behörden bei der Digitalisierung stagnieren",
+      "url": "https://www.heise.de/hintergrund/Missing-Link-Warum-Deutschlands-Behoerden-bei-der-Digitalisierung-stagnieren-11331433.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed, gefiltert auf KI/Digital)",
+      "source_category": "tech-press",
+      "lang": "de",
+      "weight": 5,
+      "published": "2026-06-14T06:00:00+00:00",
+      "summary": "Trotz hoher Investitionen bleibt die digitale Verwaltung in Deutschland hinter den Erwartungen zurück. Das Problem sind nicht die Mittel, sondern die Strukturen",
+      "content": "Trotz hoher Investitionen bleibt die digitale Verwaltung in Deutschland hinter den Erwartungen zurück. Das Problem sind nicht die Mittel, sondern die Strukturen",
+      "score": 3.7852,
+      "keywords": [
+        "missing",
+        "link",
+        "warum",
+        "deutschlands",
+        "behörden",
+        "digitalisierung"
+      ],
+      "fetched_at": "2026-06-15T04:38:52.835273+00:00"
+    },
+    {
+      "id": "485f5aa1d7f7",
+      "title": "Nach IPO: Ex-SpaceX-Schweißer wird Millionär – arbeitet jetzt aber für Blue Origin",
+      "url": "https://t3n.de/news/ipo-spacex-schweisser-millionaer-1747602/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "source_category": "digital-business",
+      "lang": "de",
+      "weight": 4,
+      "published": "2026-06-14T20:42:34+00:00",
+      "summary": "Als Einwanderer Juan Hernandez 2015 bei SpaceX anheuerte, will er noch nie von dem Unternehmen gehört haben. Nach dem erfolgreichen Börsengang von Elon Musks Raumfahrtfirma ist Hernandez Millionär. Dabei arbeitet er mittlerweile für Blue Origin. weiterlesen auf t3n.de",
+      "content": "Als Einwanderer Juan Hernandez 2015 bei SpaceX anheuerte, will er noch nie von dem Unternehmen gehört haben. Nach dem erfolgreichen Börsengang von Elon Musks Raumfahrtfirma ist Hernandez Millionär. Dabei arbeitet er mittlerweile für Blue Origin. weiterlesen auf t3n.de",
+      "score": 3.7467,
+      "keywords": [
+        "millionär",
+        "arbeitet",
+        "blue",
+        "origin",
+        "hernandez",
+        "ex-spacex-schweißer"
+      ],
+      "fetched_at": "2026-06-15T04:38:53.768562+00:00"
+    },
+    {
+      "id": "da82fba07298",
+      "title": "Amazon Prime Day 2026: Diese Produkte sind echte Schnäppchen – und diese solltest du meiden",
+      "url": "https://t3n.de/news/amazon-prime-day-2026-schnaeppchen-diese-meiden-1746502/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "source_category": "digital-business",
+      "lang": "de",
+      "weight": 4,
+      "published": "2026-06-14T18:00:00+00:00",
+      "summary": "Bereits in der letzten Juniwoche wird in diesem Jahr der Amazon Prime Day – und das wiederum gleich über vier Tage. Was in diesem Jahr besonders ist und wie du dich schon jetzt auf das Shopping-Event vorbereiten kannst, erklären wir in diesem Ratgeber. weiterlesen auf t3n.de",
+      "content": "Bereits in der letzten Juniwoche wird in diesem Jahr der Amazon Prime Day – und das wiederum gleich über vier Tage. Was in diesem Jahr besonders ist und wie du dich schon jetzt auf das Shopping-Event vorbereiten kannst, erklären wir in diesem Ratgeber. weiterlesen auf t3n.de",
+      "score": 3.6099,
+      "keywords": [
+        "diesem",
+        "amazon",
+        "prime",
+        "diese",
+        "jahr",
+        "2026"
+      ],
+      "fetched_at": "2026-06-15T04:38:53.768562+00:00"
+    },
+    {
+      "id": "d99a18512378",
+      "title": "Google und Bezos träumten davon, SpaceX macht es: KI-Satelliten im All sollen 2028 starten",
+      "url": "https://t3n.de/news/spacex-ki-satelliten-rechenzentren-weltall-2028-tests-1746800/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "source_category": "digital-business",
+      "lang": "de",
+      "weight": 4,
+      "published": "2026-06-14T17:05:00+00:00",
+      "summary": "SpaceX plant im kommenden Jahr erste Tests mit Rechenzentren im All. Das haben die Verantwortlichen Investor:innen kurz vor dem anstehenden Börsengang versprochen. Was das Raumfahrtunternehmen plant. weiterlesen auf t3n.de",
+      "content": "SpaceX plant im kommenden Jahr erste Tests mit Rechenzentren im All. Das haben die Verantwortlichen Investor:innen kurz vor dem anstehenden Börsengang versprochen. Was das Raumfahrtunternehmen plant. weiterlesen auf t3n.de",
+      "score": 3.5648,
+      "keywords": [
+        "spacex",
+        "plant",
+        "google",
+        "bezos",
+        "träumten",
+        "davon"
+      ],
+      "fetched_at": "2026-06-15T04:38:53.768562+00:00"
+    },
+    {
+      "id": "8c6e3e35e178",
+      "title": "Applied AI: Metas KI-Kurs sorgt bei Entwicklern für Frust",
+      "url": "https://t3n.de/news/applied-ai-ki-meta-frust-1747594/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "source_category": "digital-business",
+      "lang": "de",
+      "weight": 4,
+      "published": "2026-06-14T16:45:47+00:00",
+      "summary": "In Metas „Applied-AI“-Team brodelt es. Der Frust der zum Training von KI-Modellen abkommandierten Entwickler:innen entlud sich zuletzt bei einer internen Präsentation. Ein hochrangiger Manager nannte den KI-Kurs von Meta „brutal“ und „wahnsinnig“. weiterlesen auf t3n.de",
+      "content": "In Metas „Applied-AI“-Team brodelt es. Der Frust der zum Training von KI-Modellen abkommandierten Entwickler:innen entlud sich zuletzt bei einer internen Präsentation. Ein hochrangiger Manager nannte den KI-Kurs von Meta „brutal“ und „wahnsinnig“. weiterlesen auf t3n.de",
+      "score": 3.5491,
+      "keywords": [
+        "metas",
+        "ki-kurs",
+        "frust",
+        "applied",
+        "sorgt",
+        "entwicklern"
+      ],
+      "fetched_at": "2026-06-15T04:38:53.768562+00:00"
+    },
+    {
+      "id": "300ad427d4b1",
+      "title": "Forscher wiegen Schwarzes Loch: Sechs Milliarden Sonnen schwer – und leuchtet nicht mal",
+      "url": "https://t3n.de/news/forscher-wiegen-schwarzes-loch-sechs-milliarden-sonnenmassen-unsichtbar-1746780/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "source_category": "digital-business",
+      "lang": "de",
+      "weight": 4,
+      "published": "2026-06-14T16:15:00+00:00",
+      "summary": "Einem internationalen Forschungsteam ist ein unerwarteter Blick in die tiefe kosmische Vergangenheit gelungen. Diese Beobachtungen könnten unser Verständnis über die Entwicklung von Galaxien in Zukunft grundlegend verändern. weiterlesen auf t3n.de",
+      "content": "Einem internationalen Forschungsteam ist ein unerwarteter Blick in die tiefe kosmische Vergangenheit gelungen. Diese Beobachtungen könnten unser Verständnis über die Entwicklung von Galaxien in Zukunft grundlegend verändern. weiterlesen auf t3n.de",
+      "score": 3.5243,
+      "keywords": [
+        "forscher",
+        "wiegen",
+        "schwarzes",
+        "loch",
+        "sechs",
+        "milliarden"
+      ],
+      "fetched_at": "2026-06-15T04:38:53.768562+00:00"
+    },
+    {
+      "id": "e2704d343dc4",
+      "title": "Rechenzentren und Klimaanlagen treiben Strombedarf: Mini-Reaktoren vom Fließband sollen helfen",
+      "url": "https://t3n.de/news/mini-reaktoren-smr-rechenzentren-klimaanlagen-strombedarf-1746467/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "source_category": "digital-business",
+      "lang": "de",
+      "weight": 4,
+      "published": "2026-06-14T15:50:00+00:00",
+      "summary": "Durch den immensen Energiebedarf von Rechenzentren und Klima­anlagen erfreuen sich Kernreaktoren weltweit wieder steigender Beliebt­heit. Kleine modulare Reaktoren sollen Atomenergie serientauglich und flexibel machen. Wie sie funktionieren, erklären unsere Grafiken. weiterlesen auf t3n.de",
+      "content": "Durch den immensen Energiebedarf von Rechenzentren und Klima­anlagen erfreuen sich Kernreaktoren weltweit wieder steigender Beliebt­heit. Kleine modulare Reaktoren sollen Atomenergie serientauglich und flexibel machen. Wie sie funktionieren, erklären unsere Grafiken. weiterlesen auf t3n.de",
+      "score": 3.5042,
+      "keywords": [
+        "rechenzentren",
+        "sollen",
+        "klimaanlagen",
+        "treiben",
+        "strombedarf",
+        "mini-reaktoren"
+      ],
+      "fetched_at": "2026-06-15T04:38:53.768562+00:00"
+    },
+    {
+      "id": "c8206d16a306",
+      "title": "Training zu Hause: KI-Coach erkennt falsche Bewegungen und korrigiert deine Haltung in Echtzeit",
+      "url": "https://t3n.de/news/von-kniebeugen-bis-liegestuetz-ki-analysiert-dein-training-und-liefert-ein-3d-skelett-von-dir-in-echtzeit-1746399/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "source_category": "digital-business",
+      "lang": "de",
+      "weight": 4,
+      "published": "2026-06-14T14:20:00+00:00",
+      "summary": "Das System namens Biocoach erkennt per Kamera nicht nur die Bewegungen während des Workouts, sondern versteht die zugrunde liegende Biomechanik – und soll dadurch sagen, wie man besser und sicherer trainiert. weiterlesen auf t3n.de",
+      "content": "Das System namens Biocoach erkennt per Kamera nicht nur die Bewegungen während des Workouts, sondern versteht die zugrunde liegende Biomechanik – und soll dadurch sagen, wie man besser und sicherer trainiert. weiterlesen auf t3n.de",
+      "score": 3.433,
+      "keywords": [
+        "erkennt",
+        "bewegungen",
+        "training",
+        "hause",
+        "ki-coach",
+        "falsche"
+      ],
+      "fetched_at": "2026-06-15T04:38:53.768562+00:00"
+    }
+  ]
+}
