@@ -55,7 +55,7 @@ REGELN:
 - Wenn du etwas nicht aus den Artikeln belegen kannst, schreib "Signal aus X Artikel" oder lass es weg.
 - Keine Clickbait-Überschriften. Kein "Sie werden nicht glauben...".
 - Preise/Range: ehrlich und basierend auf typischen KMU-SaaS/Automation-Märkten.
-- Antworte als reines JSON-Objekt, kein Markdown-Wrapper, kein Code-Block. Felder: headline, subheadline, executivo_summary, trends (Array), opportunities (Array), top_articles (Array), action_items (Array).
+- Antworte als reines JSON-Objekt, kein Markdown-Wrapper, kein Code-Block. Felder: headline, subheadline, executive_summary, trends (Array), opportunities (Array), top_articles (Array), action_items (Array).
 - WICHTIG: Sei UMFASSEND. Du MUSST mindestens 7 Trends, 6 Opportunities, 15 Top-Articles und 5 Action-Items liefern. Lieber 1-2 mehr als zu wenig. Der User will MEHR Inhalt, nicht weniger. Wenn du weniger lieferst, ist die Antwort UNZUREICHEND.
 
 JSON-FORMAT EXAKT:

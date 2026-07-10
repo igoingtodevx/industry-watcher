@@ -1,17 +1,12 @@
 name: Industry Watcher Pipeline + Deploy
 
 on:
-  # Weekly: run every Monday at 06:00 UTC
+  # Daily at 06:00 UTC (every day)
   schedule:
-    - cron: "0 6 * * 1"
-  # Manual trigger from Actions tab (full pipeline + deploy)
+    - cron: "0 6 * * *"
+  # Manual trigger from Actions tab
   workflow_dispatch:
-  # On every push to master: deploy only (no pipeline re-run)
-  # This is the "Vercel webhook replacement" — auto-deploys on push
-  # without needing the Vercel↔GitHub connection.
-  #
-  # paths-ignore: skip when only docs/non-build files change
-  # (so README edits don't trigger a deploy).
+  # Auto-deploy on push to master (no pipeline re-run)
   push:
     branches:
       - master
@@ -19,27 +14,23 @@ on:
       - 'README.md'
       - 'docs/**'
 
-# The Vercel-Project (ai-industry-watcher) has no Git-Repo link
-# (Link was lost on 2026-06-15). So we don't `git push` the brief
-# back to master and rely on a Vercel webhook — that would fail
-# with "Permission denied to github-actions[bot]".
-#
-# Instead, ALL deployment happens via the Vercel Build API
-# (POST /v13/deployments). This works because we have:
-#   - VERCEL_TOKEN     (full team scope)
-#   - VERCEL_TEAM_ID    (team_mwSty6WMQNSpJpWfEzTYnkM3)
-#   - VERCEL_PROJECT_ID (prj_SPPY04iPjf95CaGjTTxtDKMnJS9B)
-#   - VERCEL_REPO_ID    (1261276095 — GitHub repo id)
+# Required secrets (must be set in GitHub → Settings → Secrets and variables → Actions):
+# - OPENAI_API_KEY
+# - OPENAI_BASE_URL (optional)
+# - VERCEL_TOKEN
+# - VERCEL_TEAM_ID
+# - VERCEL_PROJECT_ID
+# - VERCEL_REPO_ID
+# - INGRID_PAT (optional, only needed if you want to commit latest.json back to the repo)
 
 permissions:
   contents: read
 
 jobs:
-  # ── Job 1: Generate the weekly brief via RSS + LLM (slow) ──
+  # ── Job 1: Full pipeline (scrape + LLM + deploy) ──
   generate-brief:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    # Only run on schedule or manual dispatch, NOT on push
+    timeout-minutes: 15
     if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     steps:
       - name: Checkout
@@ -53,7 +44,7 @@ jobs:
           python-version: "3.12"
           cache: pip
 
-      - name: Install deps
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
@@ -64,12 +55,12 @@ jobs:
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
         run: python scripts/run_pipeline.py
 
-      - name: Commit brief to master (archival, optional)
+      - name: Commit brief to master (optional archival)
         env:
           COMMIT_TOKEN: ${{ secrets.INGRID_PAT }}
         run: |
           if [ -z "$COMMIT_TOKEN" ]; then
-            echo "::warning::INGRID_PAT not set — skipping commit (Vercel deploy still happens below)"
+            echo "::warning::INGRID_PAT not set — skipping commit"
           else
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -78,7 +69,7 @@ jobs:
             if git diff --staged --quiet; then
               echo "No changes to commit"
             else
-              git commit -m "chore: weekly brief $(date -u +%Y-%m-%d)"
+              git commit -m "chore: daily brief $(date -u +%Y-%m-%d)"
               git push origin HEAD:master
             fi
           fi
@@ -90,7 +81,7 @@ jobs:
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
           VERCEL_REPO_ID: ${{ secrets.VERCEL_REPO_ID }}
         run: |
-          echo "Triggering Vercel deploy after pipeline (master HEAD)..."
+          echo "Triggering Vercel deploy..."
           DEPLOY=$(curl -sS -X POST \
             "https://api.vercel.com/v13/deployments?teamId=${VERCEL_TEAM_ID}" \
             -H "Authorization: Bearer ${VERCEL_TOKEN}" \
@@ -106,35 +97,32 @@ jobs:
             }")
           DEPLOY_ID=$(echo "$DEPLOY" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('id',''))")
           if [ -z "$DEPLOY_ID" ]; then
-            echo "::error::Failed to trigger Vercel deploy: $DEPLOY"
+            echo "::error::Failed to trigger Vercel deploy"
             exit 1
           fi
-          echo "Deployment: $DEPLOY_ID"
-          for i in $(seq 1 24); do
+          echo "Deployment ID: $DEPLOY_ID"
+          for i in $(seq 1 30); do
             sleep 10
             STATUS=$(curl -sS \
               "https://api.vercel.com/v13/deployments/${DEPLOY_ID}?teamId=${VERCEL_TEAM_ID}" \
               -H "Authorization: Bearer ${VERCEL_TOKEN}" \
               | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('readyState',''))")
-            echo "  [$((i*10))s] state=$STATUS"
+            echo "  [${i}0s] state=$STATUS"
             case "$STATUS" in
               READY) echo "✅ Vercel deploy READY"; exit 0 ;;
               ERROR|CANCELED) echo "::error::$STATUS"; exit 1 ;;
             esac
           done
+          echo "::error::Deployment timed out"
           exit 1
 
-  # ── Job 2: Just deploy to Vercel (fast, runs on push) ──
+  # ── Job 2: Fast deploy only (on push) ──
   vercel-deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    # No `needs: generate-brief` — they should run independently
-    # (when on push, generate-brief is skipped by its own if-condition,
-    #  but vercel-deploy should still run).
-    # Only run on push, NOT on schedule/dispatch (those go through generate-brief)
+    timeout-minutes: 10
     if: github.event_name == 'push'
     steps:
-      - name: Trigger Vercel deploy (no pipeline)
+      - name: Trigger Vercel deploy (push only)
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           VERCEL_TEAM_ID: ${{ secrets.VERCEL_TEAM_ID }}
@@ -157,20 +145,21 @@ jobs:
             }")
           DEPLOY_ID=$(echo "$DEPLOY" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('id',''))")
           if [ -z "$DEPLOY_ID" ]; then
-            echo "::error::Failed to trigger Vercel deploy: $DEPLOY"
+            echo "::error::Failed to trigger Vercel deploy"
             exit 1
           fi
-          echo "Deployment: $DEPLOY_ID"
-          for i in $(seq 1 12); do
+          echo "Deployment ID: $DEPLOY_ID"
+          for i in $(seq 1 20); do
             sleep 10
             STATUS=$(curl -sS \
               "https://api.vercel.com/v13/deployments/${DEPLOY_ID}?teamId=${VERCEL_TEAM_ID}" \
               -H "Authorization: Bearer ${VERCEL_TOKEN}" \
               | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('readyState',''))")
-            echo "  [$((i*10))s] state=$STATUS"
+            echo "  [${i}0s] state=$STATUS"
             case "$STATUS" in
               READY) echo "✅ Vercel deploy READY: https://ai-industry-watcher.vercel.app"; exit 0 ;;
               ERROR|CANCELED) echo "::error::$STATUS"; exit 1 ;;
             esac
           done
+          echo "::error::Deployment timed out"
           exit 1
