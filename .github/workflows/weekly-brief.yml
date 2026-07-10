@@ -81,23 +81,51 @@ jobs:
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
           VERCEL_REPO_ID: ${{ secrets.VERCEL_REPO_ID }}
         run: |
-          echo "Triggering Vercel deploy..."
-          DEPLOY=$(curl -sS -X POST \
+          echo "::group::Vercel deploy context"
+          echo "team_id=$VERCEL_TEAM_ID"
+          echo "project_id=$VERCEL_PROJECT_ID"
+          echo "repo_id=$VERCEL_REPO_ID  (type=$( [[ $VERCEL_REPO_ID =~ ^[0-9]+$ ]] && echo numeric-GH-id || echo vercel-string-id ))"
+          echo "sha=$GITHUB_SHA"
+          echo "::endgroup::"
+
+          # Build body — include sha for safety (Vercel accepts it as a hint)
+          BODY=$(cat <<JSON
+          {
+            "name": "ai-industry-watcher",
+            "target": "production",
+            "gitSource": {
+              "type": "github",
+              "ref": "master",
+              "sha": "${GITHUB_SHA}",
+              "repoId": "${VERCEL_REPO_ID}"
+            }
+          }
+          JSON
+          )
+
+          echo "Request body:"
+          echo "$BODY"
+
+          HTTP_CODE=$(curl -sS -o /tmp/vercel_resp.json -w "%{http_code}" \
             "https://api.vercel.com/v13/deployments?teamId=${VERCEL_TEAM_ID}" \
             -H "Authorization: Bearer ${VERCEL_TOKEN}" \
             -H "Content-Type: application/json" \
-            -d "{
-              \"name\": \"ai-industry-watcher\",
-              \"target\": \"production\",
-              \"gitSource\": {
-                \"type\": \"github\",
-                \"ref\": \"master\",
-                \"repoId\": ${VERCEL_REPO_ID}
-              }
-            }")
-          DEPLOY_ID=$(echo "$DEPLOY" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('id',''))")
+            --data "$BODY")
+          echo "HTTP ${HTTP_CODE}"
+          echo "Vercel response (first 800 chars):"
+          head -c 800 /tmp/vercel_resp.json
+          echo ""
+
+          if [ "$HTTP_CODE" -ge 200 ] && [ "$HTTP_CODE" -lt 300 ]; then
+            DEPLOY_ID=$(python3 -c "import json; d=json.load(open('/tmp/vercel_resp.json')); print(d.get('id',''))")
+          else
+            DEPLOY_ID=""
+          fi
+
           if [ -z "$DEPLOY_ID" ]; then
-            echo "::error::Failed to trigger Vercel deploy"
+            echo "::error::Failed to trigger Vercel deploy (http=${HTTP_CODE})"
+            echo "::error::Full Vercel response:"
+            cat /tmp/vercel_resp.json
             exit 1
           fi
           echo "Deployment ID: $DEPLOY_ID"
@@ -130,22 +158,40 @@ jobs:
           VERCEL_REPO_ID: ${{ secrets.VERCEL_REPO_ID }}
         run: |
           echo "Push detected — re-deploying master HEAD to Vercel..."
-          DEPLOY=$(curl -sS -X POST \
+          BODY=$(cat <<JSON
+          {
+            "name": "ai-industry-watcher",
+            "target": "production",
+            "gitSource": {
+              "type": "github",
+              "ref": "master",
+              "sha": "${GITHUB_SHA}",
+              "repoId": "${VERCEL_REPO_ID}"
+            }
+          }
+          JSON
+          )
+
+          HTTP_CODE=$(curl -sS -o /tmp/vercel_resp.json -w "%{http_code}" \
             "https://api.vercel.com/v13/deployments?teamId=${VERCEL_TEAM_ID}" \
             -H "Authorization: Bearer ${VERCEL_TOKEN}" \
             -H "Content-Type: application/json" \
-            -d "{
-              \"name\": \"ai-industry-watcher\",
-              \"target\": \"production\",
-              \"gitSource\": {
-                \"type\": \"github\",
-                \"ref\": \"master\",
-                \"repoId\": ${VERCEL_REPO_ID}
-              }
-            }")
-          DEPLOY_ID=$(echo "$DEPLOY" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('id',''))")
+            --data "$BODY")
+          echo "HTTP ${HTTP_CODE}"
+          echo "Vercel response (first 800 chars):"
+          head -c 800 /tmp/vercel_resp.json
+          echo ""
+
+          if [ "$HTTP_CODE" -ge 200 ] && [ "$HTTP_CODE" -lt 300 ]; then
+            DEPLOY_ID=$(python3 -c "import json; d=json.load(open('/tmp/vercel_resp.json')); print(d.get('id',''))")
+          else
+            DEPLOY_ID=""
+          fi
+
           if [ -z "$DEPLOY_ID" ]; then
-            echo "::error::Failed to trigger Vercel deploy"
+            echo "::error::Failed to trigger Vercel deploy (http=${HTTP_CODE})"
+            echo "::error::Full Vercel response:"
+            cat /tmp/vercel_resp.json
             exit 1
           fi
           echo "Deployment ID: $DEPLOY_ID"
