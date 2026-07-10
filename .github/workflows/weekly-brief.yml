@@ -137,11 +137,60 @@ jobs:
               | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('readyState',''))")
             echo "  [${i}0s] state=$STATUS"
             case "$STATUS" in
-              READY) echo "✅ Vercel deploy READY"; exit 0 ;;
+              READY) echo "✅ Vercel deploy READY"; break ;;
               ERROR|CANCELED) echo "::error::$STATUS"; exit 1 ;;
             esac
           done
-          echo "::error::Deployment timed out"
+          if [ "$STATUS" != "READY" ]; then
+            echo "::error::Deployment timed out"
+            exit 1
+          fi
+
+      - name: Smoke-test live site
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          # Wait briefly for Vercel CDN to pick up the new file
+          sleep 15
+          for attempt in 1 2 3 4 5; do
+            set +e
+            OUTPUT=$(python3 scripts/smoke_test.py 2>&1)
+            EXIT=$?
+            set -e
+            echo "smoke attempt $attempt: exit=$EXIT output=$OUTPUT"
+            if [ "$EXIT" -eq 0 ]; then
+              echo "✅ Live site fresh (age=${OUTPUT}s)"
+              exit 0
+            fi
+            if [ "$EXIT" -eq 2 ]; then
+              # parse/transport error — retry
+              sleep 10
+              continue
+            fi
+            # stale — keep going to retry once more (CDN might catch up)
+            if [ "$attempt" -lt 5 ]; then
+              sleep 10
+              continue
+            fi
+            AGE_OUT="$OUTPUT"
+          done
+          echo "::error::Live site stale after retries: ${AGE_OUT}"
+          cat > /tmp/watchdog-body.md <<EOF
+          ## ⚠️ Smoke-test Alert (run $GITHUB_RUN_ID)
+
+          The generate-brief workflow deployed successfully but the live site is
+          serving stale data. Diagnostic: ${AGE_OUT}
+
+          - **Run:** https://github.com/igoingtodevx/industry-watcher/actions/runs/$GITHUB_RUN_ID
+          - **Time:** $(date -u +%Y-%m-%dT%H:%M:%SZ)
+
+          Likely causes: Vercel CDN cache miss, SAML token lost scope again,
+          or build failure on the Vercel side.
+          EOF
+          gh issue create \
+            --repo igoingtodevx/industry-watcher \
+            --title "⚠️ Smoke-test alert: live data stale (run $GITHUB_RUN_ID)" \
+            --body-file /tmp/watchdog-body.md \
+            --label "watchdog-alert" || true
           exit 1
 
   # ── Job 2: Fast deploy only (on push) ──
@@ -203,9 +252,52 @@ jobs:
               | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('readyState',''))")
             echo "  [${i}0s] state=$STATUS"
             case "$STATUS" in
-              READY) echo "✅ Vercel deploy READY: https://ai-industry-watcher.vercel.app"; exit 0 ;;
+              READY) echo "✅ Vercel deploy READY: https://ai-industry-watcher.vercel.app"; break ;;
               ERROR|CANCELED) echo "::error::$STATUS"; exit 1 ;;
             esac
           done
-          echo "::error::Deployment timed out"
+          if [ "$STATUS" != "READY" ]; then
+            echo "::error::Deployment timed out"
+            exit 1
+          fi
+
+      - name: Smoke-test live site (push)
+        run: |
+          sleep 15
+          for attempt in 1 2 3 4 5; do
+            set +e
+            OUTPUT=$(python3 scripts/smoke_test.py 2>&1)
+            EXIT=$?
+            set -e
+            echo "smoke attempt $attempt: exit=$EXIT output=$OUTPUT"
+            if [ "$EXIT" -eq 0 ]; then
+              echo "✅ Live site fresh (age=${OUTPUT}s)"
+              exit 0
+            fi
+            if [ "$EXIT" -eq 2 ] && [ "$attempt" -lt 5 ]; then
+              sleep 10
+              continue
+            fi
+            if [ "$attempt" -lt 5 ]; then
+              sleep 10
+              continue
+            fi
+            AGE_OUT="$OUTPUT"
+          done
+          echo "::error::Live site stale after push-deploy retries: ${AGE_OUT}"
+          cat > /tmp/watchdog-body.md <<EOF
+          ## ⚠️ Smoke-test alert after push deploy (run $GITHUB_RUN_ID)
+
+          The push-deploy workflow completed but the live site is stale. Diagnostic: ${AGE_OUT}
+
+          - **Run:** https://github.com/igoingtodevx/industry-watcher/actions/runs/$GITHUB_RUN_ID
+          - **Time:** $(date -u +%Y-%m-%dT%H:%M:%SZ)
+
+          Likely: Vercel CDN cache miss, SAML token lost scope, or build failure.
+          EOF
+          gh issue create \
+            --repo igoingtodevx/industry-watcher \
+            --title "⚠️ Smoke-test alert after push (run $GITHUB_RUN_ID)" \
+            --body-file /tmp/watchdog-body.md \
+            --label "watchdog-alert" || true
           exit 1

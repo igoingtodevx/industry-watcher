@@ -1,0 +1,81 @@
+name: Industry Watcher Watchdog
+
+on:
+  # Every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+  # Manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write  # needed to post watchdog-alert comments
+
+jobs:
+  check-freshness:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run smoke test
+        id: smoke
+        run: |
+          # Run the script and capture exit code; do NOT use set -e — we need the code
+          set +e
+          OUTPUT=$(python3 scripts/smoke_test.py 2>&1)
+          EXIT=$?
+          set -e
+          echo "output: $OUTPUT"
+          echo "exit: $EXIT"
+          if [ "$EXIT" -eq 0 ]; then
+            echo "fresh=true" >> $GITHUB_OUTPUT
+            echo "age=${OUTPUT}" >> $GITHUB_OUTPUT
+          else
+            echo "fresh=false" >> $GITHUB_OUTPUT
+            echo "age=${OUTPUT}" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Alert if stale
+        if: steps.smoke.outputs.fresh == 'false'
+        env:
+          AGE: ${{ steps.smoke.outputs.age }}
+        run: |
+          echo "::error::Live industry-watcher data is stale: $AGE"
+          cat > /tmp/watchdog-body.md <<'BODY_EOF'
+          ## ⚠️ Watchdog Alert ($GITHUB_RUN_ID)
+
+          - **Live data status:** stale
+          - **Diagnostic:** $AGE
+          - **Run:** https://github.com/igoingtodevx/industry-watcher/actions/runs/$GITHUB_RUN_ID
+          - **Time:** $(date -u +%Y-%m-%dT%H:%M:%SZ)
+
+          This means `https://ai-industry-watcher.vercel.app/data/latest.json` is
+          either older than 30 min or unreachable. Likely causes:
+          - Vercel API token lost scope (SAML SSO re-auth needed)
+          - GitHub Actions cron missed
+          - Vercel build failure
+
+          **To fix:** check the run log and re-auth the Vercel API token in
+          [Repo Settings → Secrets → VERCEL_TOKEN](https://github.com/igoingtodevx/industry-watcher/settings/secrets/actions).
+          BODY_EOF
+          gh issue create \
+            --repo igoingtodevx/industry-watcher \
+            --title "⚠️ Watchdog: industry-watcher live data stale (run $GITHUB_RUN_ID)" \
+            --body-file /tmp/watchdog-body.md \
+            --label "watchdog-alert" || true
+
+      - name: Auto-close old watchdog issues if now fresh
+        if: steps.smoke.outputs.fresh == 'true'
+        run: |
+          # If the live data is fresh again, close any open watchdog issues.
+          OPEN=$(gh issue list --repo igoingtodevx/industry-watcher --label watchdog-alert --state open --json number --jq '.[].number' 2>/dev/null || echo "")
+          if [ -z "$OPEN" ]; then
+            echo "No open watchdog issues to close."
+            exit 0
+          fi
+          for n in $OPEN; do
+            echo "Closing watchdog issue #$n (live data now fresh: ${{ steps.smoke.outputs.age }}s old)"
+            gh issue close "$n" --repo igoingtodevx/industry-watcher --comment "✅ Auto-resolved by watchdog run [${{ github.run_id }}](https://github.com/igoingtodevx/industry-watcher/actions/runs/${{ github.run_id }}). Live data is now fresh." || true
+          done
