@@ -1,118 +1,112 @@
 {
-  "generated_at": "2026-07-10T20:39:26.962958+00:00",
+  "generated_at": "2026-07-10T20:43:35.246747+00:00",
   "vertical": "German Mittelstand Digital & KI-Automation",
   "model": "gpt-4o-mini",
-  "tokens_used": 12432,
+  "tokens_used": 12188,
   "input_articles": 150,
   "input_sources": 22,
   "brief": {
-    "headline": "OpenAI's GPT-5.6 Sol verbessert KI-Modelle autonom",
-    "subheadline": "Die neuesten Entwicklungen in der KI zeigen signifikante Fortschritte bei der Automatisierung und Effizienzsteigerung.",
-    "executive_summary": "<p>OpenAIs neuestes KI-Modell, GPT-5.6 Sol, hat die Fähigkeit, kleinere Modelle wie Luna selbstständig zu trainieren, was einen bedeutenden Fortschritt in der KI-Entwicklung darstellt. Die Schweizer Armee migriert von Microsoft zur Open-Source-Lösung OpenDesk, was auf ein wachsendes Misstrauen gegenüber amerikanischen Cloud-Lösungen hinweist. Zudem zeigt die Analyse von LinkedIn-Inhalten einen hohen Anteil an KI-generierten Texten, was auf die zunehmende Integration von KI in soziale Medien hinweist. Diese Trends verdeutlichen die Notwendigkeit für Unternehmen, sich an die sich schnell verändernde digitale Landschaft anzupassen.</p>",
+    "headline": "OpenAI's GPT-5.6 Sol revolutioniert KI-Training und -Anwendung",
+    "subheadline": "Die neuesten Entwicklungen bei OpenAI und die Auswirkungen auf den Mittelstand.",
+    "executive_summary": "<p>OpenAIs neue KI-Modelle, insbesondere GPT-5.6 Sol, zeigen signifikante Fortschritte in der Selbstverbesserung und Effizienzsteigerung. Die Implementierung lokaler KI-Agenten wie Hermes und Qwen 3.6 bietet Unternehmen die Möglichkeit, Daten sicherer zu verarbeiten. Zudem verstärkt die Schweizer Armee ihre Abkehr von US-Cloud-Diensten zugunsten deutscher Lösungen. Die Entwicklungen im KI-Bereich sind für den deutschen Mittelstand von zentraler Bedeutung, da sie neue Geschäftschancen und Herausforderungen mit sich bringen.</p>",
     "trends": [
       {
-        "title": "Autonome KI-Verbesserung",
-        "what": "OpenAI's GPT-5.6 Sol kann kleinere Modelle wie Luna autonom trainieren, was die Effizienz der KI-Entwicklung steigert.",
-        "why": "Die Fähigkeit zur Selbstverbesserung könnte die Entwicklungszeiten für KI-Modelle erheblich reduzieren und den Innovationsdruck auf Unternehmen erhöhen.",
+        "title": "Fortschritte in KI-Trainingsmodellen",
+        "what": "OpenAIs GPT-5.6 Sol hat ein kleineres Modell, Luna, erfolgreich trainiert, was die Effizienz im KI-Training erhöht.",
+        "why": "Diese Technologie könnte den Mittelstand dazu befähigen, eigene KI-Anwendungen effektiver zu entwickeln und zu implementieren.",
         "signal": "hoch"
       },
       {
-        "title": "Migration zu Open-Source-Lösungen",
-        "what": "Die Schweizer Armee verlässt Microsoft-Cloud und wechselt zu OpenDesk aufgrund von Bedenken hinsichtlich geopolitischer Abhängigkeiten.",
-        "why": "Diese Entscheidung könnte einen Trend zur Nutzung von Open-Source-Lösungen im öffentlichen Sektor und darüber hinaus einleiten.",
+        "title": "Zunahme lokaler KI-Lösungen",
+        "what": "Mit der Einführung von Hermes-Agent und Qwen 3.6 wird die Verarbeitung sensibler Daten lokal ermöglicht.",
+        "why": "Für den Mittelstand ist dies besonders relevant, da Datenschutzanforderungen zunehmend strenger werden.",
         "signal": "hoch"
       },
       {
-        "title": "Zunahme KI-generierter Inhalte",
-        "what": "Eine Studie zeigt, dass LinkedIn die Plattform mit dem höchsten Anteil an KI-generierten Texten ist.",
-        "why": "Dies könnte die Qualität der Inhalte beeinflussen und erfordert neue Strategien für Content-Marketing und Engagement.",
+        "title": "Abkehr von US-Cloud-Lösungen",
+        "what": "Die Schweizer Armee migriert von Microsoft-Cloud zu einer deutschen Lösung, um geopolitische Risiken zu minimieren.",
+        "why": "Deutsche Unternehmen könnten ähnliche Entscheidungen treffen, um Datenhoheit zu bewahren.",
         "signal": "hoch"
       },
       {
-        "title": "Recht auf Reparatur",
-        "what": "Der Bundesrat hat eine EU-Richtlinie beschlossen, die Hersteller verpflichtet, Elektrogeräte reparierbar zu machen.",
-        "why": "Dies könnte neue Geschäftsmöglichkeiten im Bereich Reparatur und Wartung für KMU schaffen.",
+        "title": "KI im Handwerk",
+        "what": "Eine Studie zeigt, dass KI-Handwerkern mehr Effizienz verspricht, jedoch klare Strukturen benötigt werden.",
+        "why": "Mittelständische Handwerksbetriebe sollten KI nicht nur als Werkzeug, sondern als integralen Bestandteil ihrer Prozesse betrachten.",
         "signal": "mittel"
       },
       {
-        "title": "Wachstum im KI-Handwerk",
-        "what": "KI wird zunehmend als Werkzeug im Handwerk eingesetzt, um Effizienz zu steigern.",
-        "why": "Handwerksbetriebe müssen sich anpassen, um Wettbewerbsfähig zu bleiben und die Vorteile der Digitalisierung zu nutzen.",
+        "title": "Wachsender Preiskampf im KI-Markt",
+        "what": "Meta startet Muse Spark 1.1, um OpenAI und Anthropic in der Preisgestaltung zu unterbieten.",
+        "why": "Dies könnte den Zugang zu KI-Technologien für den Mittelstand erleichtern und die Kosten senken.",
         "signal": "hoch"
       },
       {
-        "title": "Kampf um KI-Marktanteile",
-        "what": "Meta startet Muse Spark 1.1, um OpenAI und Anthropic im KI-Markt unter Druck zu setzen.",
-        "why": "Der Preiskampf im KI-Sektor könnte zu günstigeren Angeboten für Unternehmen führen.",
-        "signal": "hoch"
-      },
-      {
-        "title": "Patch-Strategien in der Softwareindustrie",
-        "what": "Software-Hersteller passen ihre Patch-Strategien an, um der Flut an Sicherheitslücken durch KI-Entdeckungen entgegenzuwirken.",
-        "why": "Dies ist entscheidend für die Sicherheit und Stabilität von Unternehmenssoftware.",
+        "title": "KI-Urheberrechtsstreit eskaliert",
+        "what": "Die New York Times beantragt Sanktionen gegen OpenAI wegen möglicher Urheberrechtsverletzungen.",
+        "why": "Mittelständler, die KI-gestützte Inhalte nutzen, sollten sich der rechtlichen Risiken bewusst sein.",
         "signal": "mittel"
       },
       {
-        "title": "Integration von KI in soziale Medien",
-        "what": "KI-gestützte Tools werden in Plattformen wie WhatsApp und Instagram integriert.",
-        "why": "Unternehmen müssen sich anpassen, um die neuen Möglichkeiten der Kundenansprache zu nutzen.",
+        "title": "Integration von KI in bestehende Systeme",
+        "what": "OpenAI stellt den KI-Browser Atlas ein und integriert Funktionen in ChatGPT, was die Nutzung vereinfacht.",
+        "why": "Mittelständler können von dieser Integration profitieren, indem sie bestehende Systeme effizienter nutzen.",
         "signal": "hoch"
       },
       {
-        "title": "Verstärkter Fokus auf lokale KI-Modelle",
-        "what": "PrismML hat ein lokales KI-Modell entwickelt, das 27 Milliarden Parameter auf iPhones ermöglicht.",
-        "why": "Dies könnte die Nutzung von KI in mobilen Anwendungen revolutionieren und den Datenschutz verbessern.",
-        "signal": "mittel"
+        "title": "Steigende Bedeutung von Datenschutz",
+        "what": "Datenschutzvorfälle, wie bei Lidl, zeigen die Risiken im Umgang mit Kundendaten.",
+        "why": "Mittelständler müssen ihre Sicherheitsstrategien überdenken und anpassen, um Vertrauen bei Kunden zu gewinnen.",
+        "signal": "hoch"
       }
     ],
     "opportunities": [
       {
-        "title": "Beratung zur Migration auf Open-Source",
-        "what": "Unternehmen suchen Unterstützung bei der Migration von proprietären Cloud-Lösungen zu Open-Source-Alternativen.",
-        "who": "Öffentliche Einrichtungen und mittelständische Unternehmen.",
+        "title": "Entwicklung lokaler KI-Lösungen",
+        "what": "Es besteht ein Bedarf an lokal betriebenen KI-Agenten, die Datenschutzbedenken adressieren.",
+        "who": "Unternehmen, die sensible Daten verarbeiten.",
         "how": "hoch",
-        "price": "5.000-15.000€ Setup + 500-1.000€/Monat Retainer",
+        "price": "5.000-15.000€ Setup + 500-1.000€/Monat Wartung",
+        "time": "Monate"
+      },
+      {
+        "title": "Beratung zur KI-Integration",
+        "what": "Mittelständler benötigen Unterstützung bei der Implementierung von KI-Technologien in ihre Geschäftsprozesse.",
+        "who": "KMUs in verschiedenen Branchen.",
+        "how": "hoch",
+        "price": "2.000-10.000€ für Beratungsprojekte",
         "time": "Wochen"
       },
       {
-        "title": "Content-Optimierung für LinkedIn",
-        "what": "Unternehmen benötigen Tools zur Analyse und Optimierung ihrer LinkedIn-Inhalte, um die Sichtbarkeit zu erhöhen.",
-        "who": "Marketingabteilungen in KMUs.",
-        "how": "mittel",
-        "price": "1.500-3.000€ Setup + 200-400€/Monat",
+        "title": "Schulung im Umgang mit KI-Tools",
+        "what": "Es gibt einen hohen Bedarf an Schulungen für Mitarbeiter, um KI-Tools effektiv zu nutzen.",
+        "who": "Unternehmen, die KI-Technologien einführen möchten.",
+        "how": "hoch",
+        "price": "1.500-3.000€ pro Schulungsreihe",
         "time": "Tagen"
       },
       {
-        "title": "Reparaturdienstleistungen für Elektrogeräte",
-        "what": "Die neue EU-Richtlinie schafft Bedarf für Reparaturdienstleistungen, die viele KMUs anbieten könnten.",
-        "who": "Kleinunternehmer im Reparatursektor.",
+        "title": "Entwicklung von Datenschutzstrategien",
+        "what": "Unternehmen suchen nach Lösungen, um Datenschutzanforderungen zu erfüllen und Vertrauen aufzubauen.",
+        "who": "Alle Unternehmen, die mit Kundendaten arbeiten.",
         "how": "hoch",
-        "price": "2.000-5.000€ Setup + 300-600€/Monat",
+        "price": "3.000-7.000€ für individuelle Datenschutzstrategien",
         "time": "Wochen"
       },
       {
-        "title": "Entwicklung von KI-gestützten Handwerkzeugen",
-        "what": "Handwerksbetriebe benötigen maßgeschneiderte KI-Tools, um ihre Effizienz zu steigern.",
-        "who": "Handwerksunternehmen.",
-        "how": "hoch",
-        "price": "10.000-25.000€ Setup + 1.000-2.000€/Monat",
-        "time": "Monaten"
+        "title": "Erstellung von KI-Content-Strategien",
+        "what": "Mittelständler benötigen Strategien zur Erstellung und Nutzung von KI-generierten Inhalten.",
+        "who": "Marketingabteilungen in Unternehmen.",
+        "how": "mittel",
+        "price": "2.000-5.000€ für Strategieberatung",
+        "time": "Wochen"
       },
       {
-        "title": "Sicherheitsberatung für Software-Updates",
-        "what": "Unternehmen benötigen Unterstützung bei der Anpassung ihrer Patch-Strategien an die neuen Sicherheitsanforderungen.",
+        "title": "Implementierung von KI-Sicherheitslösungen",
+        "what": "Es gibt Bedarf an Sicherheitslösungen, die KI nutzen, um Cyberangriffe zu verhindern.",
         "who": "IT-Abteilungen in Unternehmen.",
         "how": "hoch",
-        "price": "3.000-7.000€ Setup + 400-800€/Monat",
-        "time": "Wochen"
-      },
-      {
-        "title": "Entwicklung lokaler KI-Modelle",
-        "what": "Unternehmen suchen nach Lösungen, um lokale KI-Modelle zu implementieren, um Datenschutzbedenken zu adressieren.",
-        "who": "Technologieunternehmen und Start-ups.",
-        "how": "hoch",
-        "price": "15.000-30.000€ Setup + 1.500-3.000€/Monat",
-        "time": "Monaten"
+        "price": "10.000-30.000€ für Implementierung",
+        "time": "Monate"
       }
     ],
     "top_articles": [
@@ -121,11 +115,11 @@
         "url": "https://the-decoder.de/ki-die-ki-verbessert-openais-gpt-5-6-sol-trainierte-angeblich-kleineres-modell-luna/",
         "source": "The Decoder",
         "date": "2026-07-10",
-        "why": "Die Entwicklung von GPT-5.6 Sol zeigt, wie KI sich selbst optimieren kann, was weitreichende Implikationen für die Branche hat.",
+        "why": "Die Fortschritte bei GPT-5.6 Sol könnten die Entwicklung von KI-Anwendungen im Mittelstand revolutionieren.",
         "tags": [
           "gpt-5",
           "openais",
-          "modell"
+          "modells"
         ]
       },
       {
@@ -133,21 +127,23 @@
         "url": "https://www.heise.de/news/Schweizer-Armee-bricht-mit-Microsoft-Kommando-Cyber-setzt-auf-Open-Source-11361475.html?wt_mc=rss.red.ho.ho.atom.beitrag",
         "source": "Heise Online",
         "date": "2026-07-10",
-        "why": "Diese Entscheidung verdeutlicht die wachsende Skepsis gegenüber amerikanischen Cloud-Lösungen.",
+        "why": "Dieser Trend könnte auch deutsche Unternehmen dazu bringen, ihre Cloud-Lösungen zu überdenken.",
         "tags": [
-          "cyber-spezialisten",
-          "microsoft-cloud"
+          "cloud",
+          "datenschutz",
+          "militär"
         ]
       },
       {
-        "title": "Warum es ausgerechnet bei LinkedIn so viel KI-Slop gibt",
-        "url": "https://www.heise.de/news/Warum-es-ausgerechnet-bei-LinkedIn-so-viel-KI-Slop-gibt-11361145.html?wt_mc=rss.red.ho.ho.atom.beitrag",
+        "title": "Wirklich alles lokal: Hermes-Agent und Qwen 3.6",
+        "url": "https://www.heise.de/news/Wirklich-alles-lokal-Hermes-Agent-und-Qwen-3-6-11361489.html?wt_mc=rss.red.ho.ho.atom.beitrag",
         "source": "Heise Online",
         "date": "2026-07-10",
-        "why": "Die Analyse von KI-generierten Inhalten auf LinkedIn ist entscheidend für die Content-Strategie von Unternehmen.",
+        "why": "Lokale KI-Lösungen bieten neuen Spielraum für den Datenschutz im Mittelstand.",
         "tags": [
-          "linkedin",
-          "ki-slop"
+          "lokal",
+          "ki-agenten",
+          "datenschutz"
         ]
       },
       {
@@ -155,21 +151,11 @@
         "url": "https://www.heise.de/news/KI-Update-Deep-Dive-KI-im-Handwerk-Mehr-als-nur-ein-Werkzeug-11341646.html?wt_mc=rss.red.ho.ho.atom.beitrag",
         "source": "Heise Online",
         "date": "2026-07-10",
-        "why": "Der Einsatz von KI im Handwerk zeigt, wie wichtig klare Strukturen für den Erfolg sind.",
+        "why": "Die Integration von KI im Handwerk könnte Effizienz und Produktivität erheblich steigern.",
         "tags": [
-          "ki-update",
-          "handwerk"
-        ]
-      },
-      {
-        "title": "Muse Spark 1.1: Meta will mit Kampfpreisen OpenAI und Anthropic unterbieten",
-        "url": "https://www.heise.de/news/Muse-Spark-1-1-Meta-will-mit-Kampfpreisen-OpenAI-und-Anthropic-unterbieten-11360357.html?wt_mc=rss.red.ho.ho.atom.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-10",
-        "why": "Der Preiskampf im KI-Sektor könnte die Marktbedingungen für Unternehmen verändern.",
-        "tags": [
-          "muse",
-          "spark"
+          "handwerk",
+          "effizienz",
+          "ki"
         ]
       },
       {
@@ -177,10 +163,59 @@
         "url": "https://www.heise.de/news/Lueckenflut-durch-KI-Funde-Software-Hersteller-schrauben-an-Patch-Strategien-11360569.html?wt_mc=rss.red.ho.ho.atom.beitrag",
         "source": "Heise Online",
         "date": "2026-07-10",
-        "why": "Die Anpassung der Patch-Strategien ist entscheidend für die IT-Sicherheit von Unternehmen.",
+        "why": "Die Herausforderungen durch KI-gestützte Sicherheitslücken betreffen auch den Mittelstand.",
         "tags": [
-          "lückenflut",
-          "patch-strategien"
+          "sicherheit",
+          "software",
+          "patch"
+        ]
+      },
+      {
+        "title": "Warum es ausgerechnet bei LinkedIn so viel KI-Slop gibt",
+        "url": "https://www.heise.de/news/Warum-es-ausgerechnet-bei-LinkedIn-so-viel-KI-Slop-gibt-11361145.html?wt_mc=rss.red.ho.ho.atom.beitrag",
+        "source": "Heise Online",
+        "date": "2026-07-10",
+        "why": "Einblicke in den Umgang mit KI-Content auf Social Media sind für Marketingabteilungen wertvoll.",
+        "tags": [
+          "linkedin",
+          "ki",
+          "content"
+        ]
+      },
+      {
+        "title": "KI-Urheberrechtsstreit: New York Times beantragt Sanktionen gegen OpenAI",
+        "url": "https://www.heise.de/news/KI-Urheberrechtsstreit-New-York-Times-beantragt-Sanktionen-gegen-OpenAI-11360533.html?wt_mc=rss.red.ho.ho.atom.beitrag",
+        "source": "Heise Online",
+        "date": "2026-07-10",
+        "why": "Rechtliche Aspekte der KI-Nutzung sind für Unternehmen von großer Bedeutung.",
+        "tags": [
+          "urheberrecht",
+          "openai",
+          "recht"
+        ]
+      },
+      {
+        "title": "Post zum Freitag: Wem gehört das digitale Ich?",
+        "url": "https://www.heise.de/news/Post-zum-Freitag-Wem-gehoert-das-digitale-Ich-11360227.html?wt_mc=rss.red.ho.ho.atom.beitrag",
+        "source": "Heise Online",
+        "date": "2026-07-10",
+        "why": "Die Kontrolle über digitale Identitäten wird für Unternehmen immer wichtiger.",
+        "tags": [
+          "digitale identität",
+          "datenschutz",
+          "cloud"
+        ]
+      },
+      {
+        "title": "OpenAI stellt KI-Browser Atlas nach nur acht Monaten wieder ein",
+        "url": "https://www.heise.de/news/Nach-weniger-als-einem-Jahr-OpenAI-stellt-KI-Browser-Atlas-ein-11360415.html?wt_mc=rss.red.ho.ho.atom.beitrag",
+        "source": "Heise Online",
+        "date": "2026-07-10",
+        "why": "Die Entscheidung von OpenAI zeigt die Herausforderungen in der KI-Produktentwicklung.",
+        "tags": [
+          "openai",
+          "ki-browser",
+          "atlas"
         ]
       },
       {
@@ -188,11 +223,23 @@
         "url": "https://www.heise.de/news/Start-up-PrismML-Bislang-groesstes-lokales-KI-Modell-fuers-iPhone-11360145.html?wt_mc=rss.red.ho.ho.atom.beitrag",
         "source": "Heise Online",
         "date": "2026-07-10",
-        "why": "Die Entwicklung lokaler KI-Modelle könnte den Datenschutz revolutionieren.",
+        "why": "Die Entwicklung lokaler KI-Modelle könnte neue Möglichkeiten für mobile Anwendungen bieten.",
         "tags": [
+          "lokale modelle",
           "prismml",
-          "lokales",
-          "ki-modell"
+          "iphone"
+        ]
+      },
+      {
+        "title": "Muse Spark 1.1: Meta will mit Kampfpreisen OpenAI und Anthropic unterbieten",
+        "url": "https://www.heise.de/news/Muse-Spark-1-1-Meta-will-mit-Kampfpreisen-OpenAI-und-Anthropic-unterbieten-11360357.html?wt_mc=rss.red.ho.ho.atom.beitrag",
+        "source": "Heise Online",
+        "date": "2026-07-10",
+        "why": "Der Preiskampf im KI-Sektor könnte den Zugang zu Technologien für den Mittelstand verbessern.",
+        "tags": [
+          "meta",
+          "ki",
+          "preise"
         ]
       },
       {
@@ -200,74 +247,20 @@
         "url": "https://www.heise.de/news/Kundendaten-bei-Dienstleister-abgeflossen-Datenschutzvorfall-beim-Lidl-Shop-11361337.html?wt_mc=rss.red.ho.ho.atom.beitrag",
         "source": "Heise Online",
         "date": "2026-07-10",
-        "why": "Der Vorfall zeigt die Wichtigkeit von Datensicherheit in der digitalen Wirtschaft.",
+        "why": "Datenschutzvorfälle sind ein Warnsignal für Unternehmen, ihre Sicherheitsstrategien zu stärken.",
         "tags": [
-          "kundendaten",
-          "datenschutzvorfall"
-        ]
-      },
-      {
-        "title": "Google kennzeichnet KI-generierte Werbung",
-        "url": "https://www.heise.de/news/Google-kennzeichnet-KI-generierte-Werbung-11360445.html?wt_mc=rss.red.ho.ho.atom.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-10",
-        "why": "Die Kennzeichnung von KI-generierter Werbung könnte das Vertrauen der Verbraucher stärken.",
-        "tags": [
-          "google",
-          "werbung"
-        ]
-      },
-      {
-        "title": "Warum die Nasa auf dem Mond ein unberechenbares Feuer entfachen will",
-        "url": "https://t3n.de/news/nasa-feuer-mond-experiment-fm2-1752305/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-        "source": "t3n Digital Pioneers",
-        "date": "2026-07-10",
-        "why": "Die Forschung auf dem Mond könnte neue Technologien für die Erde inspirieren.",
-        "tags": [
-          "nasa",
-          "mond"
-        ]
-      },
-      {
-        "title": "US-Notenbank holt sich KI-Investor Andreessen als Berater",
-        "url": "https://the-decoder.de/us-notenbank-holt-sich-ki-investor-andreessen-als-berater/",
-        "source": "The Decoder",
-        "date": "2026-07-10",
-        "why": "Die Einbindung von KI-Experten in wirtschaftliche Entscheidungen könnte neue Perspektiven eröffnen.",
-        "tags": [
-          "andreessen",
-          "us-notenbank"
-        ]
-      },
-      {
-        "title": "Nach Pekings Veto gegen Meta: Tencent verhandelt über größte Beteiligung an KI-Startup Manus",
-        "url": "https://the-decoder.de/nach-pekings-veto-gegen-meta-tencent-verhandelt-ueber-groesste-beteiligung-an-ki-startup-manus/",
-        "source": "The Decoder",
-        "date": "2026-07-10",
-        "why": "Die Verhandlungen von Tencent zeigen die Dynamik im KI-Startup-Sektor.",
-        "tags": [
-          "tencent",
-          "manus"
-        ]
-      },
-      {
-        "title": "OpenAI stellt KI-Browser Atlas nach nur acht Monaten wieder ein",
-        "url": "https://the-decoder.de/openai-stellt-ki-browser-atlas-nach-nur-acht-monaten-wieder-ein/",
-        "source": "The Decoder",
-        "date": "2026-07-10",
-        "why": "Die Einstellung des KI-Browsers zeigt Herausforderungen in der Produktentwicklung bei OpenAI.",
-        "tags": [
-          "openai",
-          "atlas"
+          "datenschutz",
+          "kunden",
+          "vorfall"
         ]
       }
     ],
     "action_items": [
-      "Analysiere die aktuellen LinkedIn-Inhalte deines Unternehmens und identifiziere Optimierungspotenziale für KI-generierte Texte.",
-      "Erstelle einen Plan zur Migration von proprietären Cloud-Lösungen zu Open-Source-Alternativen für dein Unternehmen.",
-      "Entwickle ein Konzept für Reparaturdienstleistungen, um die neuen Anforderungen gemäß der EU-Richtlinie zu erfüllen.",
-      "Überprüfe die Sicherheitsstrategien deines Unternehmens in Bezug auf Software-Patches und aktualisiere sie entsprechend.",
-      "Erforsche lokale KI-Modelle, die für dein Unternehmen von Nutzen sein könnten, und beginne mit der Implementierung."
+      "Überprüfen Sie aktuelle KI-Tools und deren Integration in bestehende Geschäftsprozesse.",
+      "Planen Sie eine Schulung für Mitarbeiter zur Nutzung neuer KI-Technologien.",
+      "Entwickeln Sie eine Datenschutzstrategie, um Risiken bei der Datenverarbeitung zu minimieren.",
+      "Analysieren Sie die eigene Content-Strategie und überlegen Sie, wie KI dabei helfen kann.",
+      "Recherchieren Sie lokale KI-Lösungen, die den Datenschutzanforderungen entsprechen."
     ]
   },
   "raw_articles": [
