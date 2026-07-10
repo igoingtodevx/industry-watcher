@@ -54,21 +54,8 @@
     $("#masthead-date").textContent = shortDate;
     $("#byline-date").textContent = shortDate;
 
-    // Hero stats (no emoji, mono, right-aligned, editorial style)
-    const heroMeta = $("#hero-meta");
-    heroMeta.innerHTML = "";
-    const stats = [
-      { label: "Artikel",  value: meta.input_articles ?? "?" },
-      { label: "Quellen",  value: meta.input_sources ?? "?" },
-      { label: "Wörter",   value: meta.tokens_used ? Math.round(meta.tokens_used * 0.75).toLocaleString("de-DE") : "—" },
-      { label: "Modell",   value: meta.model ?? "—" },
-    ];
-    stats.forEach((s) => {
-      const div = document.createElement("div");
-      div.className = "stat";
-      div.innerHTML = `<span class="stat-value">${escape(String(s.value))}</span><span class="stat-label">${escape(s.label)}</span>`;
-      heroMeta.appendChild(div);
-    });
+    // Hero side: just show the issue date
+    $("#hero-meta-date").textContent = shortDate;
 
     // Executive summary
     $("#exec-summary").innerHTML = b.executive_summary || "—";
@@ -188,7 +175,7 @@
     const data = await res.json();
     renderBrief(data);
   } catch (e) {
-    showError(`Konnte data/latest.json nicht laden: ${e.message}. Pipeline lokal ausführen: \`python3 scripts/run_pipeline.py\``);
+    showError(`Konnte die aktuelle Ausgabe nicht laden: ${e.message}. Bitte später erneut versuchen.`);
     console.error(e);
   }
 })();

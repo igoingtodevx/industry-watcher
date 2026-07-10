@@ -33,14 +33,12 @@ def assemble_latest(articles_path: Path, brief_path: Path, out_path: Path) -> di
             "keywords": (a.get("keywords", []) or [])[:6],
         })
 
+    # Only ship the customer-facing payload. No internal metadata
+    # (model, tokens, input counts, _meta) — that's product-internal info
+    # and not something a paying customer or competitor should see.
     payload = {
-        "generated_at": brief.get("_meta", {}).get("generated_at")
+        "generated_at": articles_data.get("generated_at")
             or datetime.now(timezone.utc).isoformat(),
-        "vertical": articles_data.get("vertical", ""),
-        "model": brief.get("_meta", {}).get("model", "?"),
-        "tokens_used": brief.get("_meta", {}).get("tokens_used"),
-        "input_articles": brief.get("_meta", {}).get("input_articles"),
-        "input_sources": brief.get("_meta", {}).get("input_sources"),
         "brief": {
             "headline": brief.get("headline", ""),
             "subheadline": brief.get("subheadline", ""),

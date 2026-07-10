@@ -185,64 +185,12 @@ img, svg { max-width: 100%; display: block; }
   margin-bottom: 20px;
   font-weight: 600;
 }
-.hero-stats {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px 24px;
-  margin-bottom: 32px;
-}
-.hero-stats .stat { display: flex; flex-direction: column; gap: 4px; }
-.hero-stats .stat-value {
+.hero-meta-date {
   font-family: var(--serif);
-  font-weight: 700;
-  font-size: 28px;
-  line-height: 1;
-  letter-spacing: -.02em;
-  color: var(--ink);
-}
-.hero-stats .stat-label {
-  font-family: var(--mono);
-  font-size: 10px;
-  text-transform: uppercase;
-  letter-spacing: .1em;
-  color: var(--ink-mute);
-}
-.hero-pipeline {
-  padding-top: 20px;
-  border-top: 1px solid var(--rule-soft);
-}
-.hero-pipeline h4 {
-  font-family: var(--mono);
-  font-size: 10px;
-  text-transform: uppercase;
-  letter-spacing: .14em;
-  color: var(--ink-mute);
-  margin-bottom: 12px;
+  font-size: 22px;
   font-weight: 600;
-}
-.hero-pipeline ol {
-  list-style: none;
-  counter-reset: step;
-  font-family: var(--serif);
-  font-size: 13px;
-  color: var(--ink-soft);
-  line-height: 1.5;
-}
-.hero-pipeline li {
-  counter-increment: step;
-  position: relative;
-  padding-left: 24px;
-  margin-bottom: 6px;
-}
-.hero-pipeline li::before {
-  content: counter(step, decimal-leading-zero);
-  position: absolute;
-  left: 0;
-  top: 1px;
-  font-family: var(--mono);
-  font-size: 9px;
-  color: var(--ink-faint);
-  font-weight: 500;
+  color: var(--ink);
+  letter-spacing: -.01em;
 }
 
 /* === SECTIONS === */
@@ -724,16 +672,7 @@ img, svg { max-width: 100%; display: block; }
     </div>
     <aside class="hero-side">
       <div class="hero-side-label">Diese Ausgabe</div>
-      <div class="hero-stats" id="hero-meta"></div>
-      <div class="hero-pipeline">
-        <h4>Pipeline</h4>
-        <ol>
-          <li>RSS — 9 Quellen, Lookback 7 Tage</li>
-          <li>Scoring — Recency × Authority</li>
-          <li>LLM — Kuratierter Wochen-Brief</li>
-          <li>Static — JSON, CDN-ausgeliefert</li>
-        </ol>
-      </div>
+      <div class="hero-meta-date" id="hero-meta-date">—</div>
     </aside>
   </div>
 </section>
