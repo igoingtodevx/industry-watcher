@@ -1,0 +1,670 @@
+{
+  "generated_at": "2026-06-30T18:00:00+00:00",
+  "edition_id": "2026-06-30",
+  "date": "2026-06-30",
+  "brief": {
+    "headline": "30.06.2026: claude · science",
+    "subheadline": "Tageszusammenfassung mit 33 Artikeln aus 7 Quellen.",
+    "executive_summary": "<p>Am 30.06.2026 wurden 33 relevante Branchen-Meldungen aus 7 Quellen erfasst. Die thematischen Schwerpunkte lagen bei claude · science.</p><p>Die wichtigsten Meldungen des Tages sind nachfolgend kuratiert — sortiert nach Recency und Quellen-Autorität. Vollständige Artikel-Liste unten.</p>",
+    "trends": [
+      {
+        "title": "Anthropics neues Claude Sonnet 5 soll die Preis-Leistungs-Lücke zum Opus-Modell schließen",
+        "what": "Anthropic veröffentlicht Claude Sonnet 5, das seinen Vorgänger Sonnet 4.6 in allen Benchmarks übertrifft und beim Wissensarbeit-Test GDPval-AA v2 mit 1618 Punkten sogar das größere Opus 4.8 schlägt. Anthropic betont zugleich, dass das Modell bei Cybersecurity-Aufgaben deutlich hinter den derzeit von",
+        "why": "Gemeldet von The Decoder am 2026-06-30.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Anthropics neues Claude Science ist eine KI-Arbeitsumgebung speziell für die Wissenschaft",
+        "what": "Anthropic hat mit Claude Science eine KI-Arbeitsumgebung für Forscher gestartet. Über 60 vorkonfigurierte Skills decken Bereiche wie Genomik und Chemieinformatik ab, ein Prüf-Agent kontrolliert Zitate und Berechnungen automatisch. Die App läuft lokal oder auf HPC-Clustern, sodass sensible Daten die ",
+        "why": "Gemeldet von The Decoder am 2026-06-30.",
+        "signal": "mittel"
+      },
+      {
+        "title": "OpenAI soll Antwort-Kosten für ChatGPT-Gast-Nutzer um mehr als die Hälfte gesenkt haben",
+        "what": "OpenAI hat die Inferenzkosten für seine KI-Modelle laut einem Bericht von The Information um mehr als die Hälfte gesenkt. Die Optimierungen wurden unter anderem bei ChatGPT angewendet, wo die Zahl benötigter Nvidia-GPUs zeitweise auf wenige Hundert sank. Der Artikel OpenAI soll Antwort-Kosten für Ch",
+        "why": "Gemeldet von The Decoder am 2026-06-30.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Google bringt mit Nano Banana 2 Lite sein bisher schnellstes KI-Bildmodell und Gemini Omni Flash in die API",
+        "what": "Google erweitert seine generative KI-Modellfamilie um zwei Neuzugänge: Nano Banana 2 Lite erzeugt Bilder in vier Sekunden für 0,034 US-Dollar pro Bild, Gemini Omni Flash bringt erstmals Videogenerierung per Textbefehl in die API. Google empfiehlt die Verkettung beider Modelle: vom schnellen Bild zum",
+        "why": "Gemeldet von The Decoder am 2026-06-30.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Meituan trainiert konkurrenzfähiges Billionen-Parameter-Modell komplett auf chinesischen Chips",
+        "what": "Meituan trainiert ein KI-Modell mit 1,6 Billionen Parametern komplett auf chinesischen Chips, ganz ohne Nvidia. Der Artikel Meituan trainiert konkurrenzfähiges Billionen-Parameter-Modell komplett auf chinesischen Chips erschien zuerst auf The Decoder .",
+        "why": "Gemeldet von The Decoder am 2026-06-30.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Karlsruher Forscher entdecken verborgene Schwachstelle in Flugzeug-Aluminium",
+        "what": "Winzige Partikel, große Wirkung: Eine Studie zeigt, warum Aluminium unter Schubbelastung anders geschädigt werden kann als erwartet. Der Beitrag Karlsruher Forscher entdecken verborgene Schwachstelle in Flugzeug-Aluminium erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieu",
+        "why": "Gemeldet von Ingenieur.de am 2026-06-30.",
+        "signal": "mittel"
+      }
+    ],
+    "opportunities": [],
+    "top_articles": [
+      {
+        "title": "Anthropics neues Claude Sonnet 5 soll die Preis-Leistungs-Lücke zum Opus-Modell schließen",
+        "url": "https://the-decoder.de/anthropics-neues-claude-sonnet-5-soll-die-preis-leistungs-luecke-zum-teureren-opus-modell-schliessen/",
+        "source": "The Decoder",
+        "date": "2026-06-30",
+        "why": "Anthropic veröffentlicht Claude Sonnet 5, das seinen Vorgänger Sonnet 4.6 in allen Benchmarks übertrifft und beim Wissensarbeit-Test GDPval-AA v2 mit 1618 Punkten sogar das größere Opus 4.8 schlägt. A",
+        "tags": [
+          "sonnet",
+          "claude",
+          "anthropics",
+          "neues",
+          "soll"
+        ]
+      },
+      {
+        "title": "Anthropics neues Claude Science ist eine KI-Arbeitsumgebung speziell für die Wissenschaft",
+        "url": "https://the-decoder.de/anthropics-neues-claude-science-ist-eine-ki-arbeitsumgebung-speziell-fuer-die-wissenschaft/",
+        "source": "The Decoder",
+        "date": "2026-06-30",
+        "why": "Anthropic hat mit Claude Science eine KI-Arbeitsumgebung für Forscher gestartet. Über 60 vorkonfigurierte Skills decken Bereiche wie Genomik und Chemieinformatik ab, ein Prüf-Agent kontrolliert Zitate",
+        "tags": [
+          "claude",
+          "science",
+          "ki-arbeitsumgebung",
+          "anthropics",
+          "neues"
+        ]
+      },
+      {
+        "title": "OpenAI soll Antwort-Kosten für ChatGPT-Gast-Nutzer um mehr als die Hälfte gesenkt haben",
+        "url": "https://the-decoder.de/openai-soll-inferenz-kosten-fuer-chatgpt-gast-nutzer-um-mehr-als-die-haelfte-gesenkt-haben/",
+        "source": "The Decoder",
+        "date": "2026-06-30",
+        "why": "OpenAI hat die Inferenzkosten für seine KI-Modelle laut einem Bericht von The Information um mehr als die Hälfte gesenkt. Die Optimierungen wurden unter anderem bei ChatGPT angewendet, wo die Zahl ben",
+        "tags": [
+          "openai",
+          "mehr",
+          "hälfte",
+          "gesenkt",
+          "soll"
+        ]
+      },
+      {
+        "title": "Google bringt mit Nano Banana 2 Lite sein bisher schnellstes KI-Bildmodell und Gemini Omni Flash in die API",
+        "url": "https://the-decoder.de/google-bringt-mit-nano-banana-2-lite-sein-bisher-schnellstes-ki-bildmodell-und-oeffnet-gemini-omni-flash-fuer-entwickler/",
+        "source": "The Decoder",
+        "date": "2026-06-30",
+        "why": "Google erweitert seine generative KI-Modellfamilie um zwei Neuzugänge: Nano Banana 2 Lite erzeugt Bilder in vier Sekunden für 0,034 US-Dollar pro Bild, Gemini Omni Flash bringt erstmals Videogenerieru",
+        "tags": [
+          "google",
+          "bringt",
+          "nano",
+          "banana",
+          "lite"
+        ]
+      },
+      {
+        "title": "Meituan trainiert konkurrenzfähiges Billionen-Parameter-Modell komplett auf chinesischen Chips",
+        "url": "https://the-decoder.de/meituan-trainiert-konkurrenzfaehiges-billionen-parameter-modell-komplett-auf-chinesischen-chips/",
+        "source": "The Decoder",
+        "date": "2026-06-30",
+        "why": "Meituan trainiert ein KI-Modell mit 1,6 Billionen Parametern komplett auf chinesischen Chips, ganz ohne Nvidia. Der Artikel Meituan trainiert konkurrenzfähiges Billionen-Parameter-Modell komplett auf ",
+        "tags": [
+          "meituan",
+          "trainiert",
+          "komplett",
+          "chinesischen",
+          "chips"
+        ]
+      },
+      {
+        "title": "Karlsruher Forscher entdecken verborgene Schwachstelle in Flugzeug-Aluminium",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/werkstoffe/forscher-entdecken-verborgene-schwachstelle-in-flugzeug-aluminium/",
+        "source": "Ingenieur.de",
+        "date": "2026-06-30",
+        "why": "Winzige Partikel, große Wirkung: Eine Studie zeigt, warum Aluminium unter Schubbelastung anders geschädigt werden kann als erwartet. Der Beitrag Karlsruher Forscher entdecken verborgene Schwachstelle ",
+        "tags": [
+          "karlsruher",
+          "forscher",
+          "entdecken",
+          "verborgene",
+          "schwachstelle"
+        ]
+      },
+      {
+        "title": "Motor raus, Batterie rein: Dieser Plan soll 800.000 Dieselbusse elektrifizieren",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/verkehr/dieselbusse-umbauen-statt-verschrotten-so-koennte-der-oepnv-bis-2040-elektrisch-fahren/",
+        "source": "Ingenieur.de",
+        "date": "2026-06-30",
+        "why": "Europa will bis 2050 klimaneutral sein, doch gerade einmal 3 % seiner Busse fahren elektrisch. Beim aktuellen Ersatztempo wäre die Flotte erst 2055 vollständig elektrifiziert – fünf Jahre zu spät. Ein",
+        "tags": [
+          "motor",
+          "raus",
+          "batterie",
+          "rein",
+          "dieser"
+        ]
+      },
+      {
+        "title": "„Wir wollen das erste kommerzielle Fusionskraftwerk der Welt in Deutschland errichten“",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/energie/wir-wollen-das-erste-kommerzielle-fusionskraftwerk-der-welt-in-deutschland-errichten/",
+        "source": "Ingenieur.de",
+        "date": "2026-06-30",
+        "why": "Deutschland will das erste Fusionskraftwerk der Welt bauen – und investiert dafür Milliarden. Bundesforschungsministerin Dorothee Bär (CSU) erklärt im Interview, wie der Zeitplan aussieht und warum es",
+        "tags": [
+          "erste",
+          "fusionskraftwerk",
+          "welt",
+          "deutschland",
+          "wollen"
+        ]
+      },
+      {
+        "title": "Der letzte Eindruck zählt: Wie schlechtes Offboarding Arbeitgebern schadet",
+        "url": "https://www.ingenieur.de/karriere/arbeitsleben/der-letzte-eindruck-zaehlt-wie-schlechtes-offboarding-arbeitgebern-schadet/",
+        "source": "Ingenieur.de",
+        "date": "2026-06-30",
+        "why": "Exit-Interview und Offboarding entscheiden über Arbeitgeberimage und Wissenstransfer. So vermeiden Unternehmen Fehler und nutzen Feedback beim Abschied gezielt. Der Beitrag Der letzte Eindruck zählt: ",
+        "tags": [
+          "offboarding",
+          "letzte",
+          "eindruck",
+          "zählt",
+          "schlechtes"
+        ]
+      },
+      {
+        "title": "OpenClaw is finally available on Android and iOS",
+        "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-30",
+        "why": "The free open source agentic program is finally invading your phone.",
+        "tags": [
+          "finally",
+          "openclaw",
+          "available",
+          "android",
+          "free"
+        ]
+      }
+    ],
+    "action_items": []
+  },
+  "raw_articles": [
+    {
+      "title": "Anthropics neues Claude Sonnet 5 soll die Preis-Leistungs-Lücke zum Opus-Modell schließen",
+      "url": "https://the-decoder.de/anthropics-neues-claude-sonnet-5-soll-die-preis-leistungs-luecke-zum-teureren-opus-modell-schliessen/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-06-30T18:31:10+00:00",
+      "summary": "Anthropic veröffentlicht Claude Sonnet 5, das seinen Vorgänger Sonnet 4.6 in allen Benchmarks übertrifft und beim Wissensarbeit-Test GDPval-AA v2 mit 1618 Punkten sogar das größere Opus 4.8 schlägt. Anthropic betont zugleich, dass das Modell bei Cybersecurity-Aufgaben deutlich hinter den derzeit von der US-Regierung blockierten Modellen zurückbleibt, wohl ein bewusstes Signal angesichts der aktuellen Debatte. Der Artikel Anthropics neues Claude Sonnet 5 soll die Preis-Leistungs-Lücke zum Opus-Modell schließen erschien zuerst auf The Decoder .",
+      "keywords": [
+        "sonnet",
+        "claude",
+        "anthropics",
+        "neues",
+        "soll",
+        "preis-leistungs-lücke"
+      ]
+    },
+    {
+      "title": "Anthropics neues Claude Science ist eine KI-Arbeitsumgebung speziell für die Wissenschaft",
+      "url": "https://the-decoder.de/anthropics-neues-claude-science-ist-eine-ki-arbeitsumgebung-speziell-fuer-die-wissenschaft/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-06-30T17:57:48+00:00",
+      "summary": "Anthropic hat mit Claude Science eine KI-Arbeitsumgebung für Forscher gestartet. Über 60 vorkonfigurierte Skills decken Bereiche wie Genomik und Chemieinformatik ab, ein Prüf-Agent kontrolliert Zitate und Berechnungen automatisch. Die App läuft lokal oder auf HPC-Clustern, sodass sensible Daten die eigene Infrastruktur nicht verlassen müssen. Der Artikel Anthropics neues Claude Science ist eine KI-Arbeitsumgebung speziell für die Wissenschaft erschien zuerst auf The Decoder .",
+      "keywords": [
+        "claude",
+        "science",
+        "ki-arbeitsumgebung",
+        "anthropics",
+        "neues",
+        "speziell"
+      ]
+    },
+    {
+      "title": "OpenAI soll Antwort-Kosten für ChatGPT-Gast-Nutzer um mehr als die Hälfte gesenkt haben",
+      "url": "https://the-decoder.de/openai-soll-inferenz-kosten-fuer-chatgpt-gast-nutzer-um-mehr-als-die-haelfte-gesenkt-haben/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-06-30T17:38:27+00:00",
+      "summary": "OpenAI hat die Inferenzkosten für seine KI-Modelle laut einem Bericht von The Information um mehr als die Hälfte gesenkt. Die Optimierungen wurden unter anderem bei ChatGPT angewendet, wo die Zahl benötigter Nvidia-GPUs zeitweise auf wenige Hundert sank. Der Artikel OpenAI soll Antwort-Kosten für ChatGPT-Gast-Nutzer um mehr als die Hälfte gesenkt haben erschien zuerst auf The Decoder .",
+      "keywords": [
+        "openai",
+        "mehr",
+        "hälfte",
+        "gesenkt",
+        "soll",
+        "antwort-kosten"
+      ]
+    },
+    {
+      "title": "Google bringt mit Nano Banana 2 Lite sein bisher schnellstes KI-Bildmodell und Gemini Omni Flash in die API",
+      "url": "https://the-decoder.de/google-bringt-mit-nano-banana-2-lite-sein-bisher-schnellstes-ki-bildmodell-und-oeffnet-gemini-omni-flash-fuer-entwickler/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-06-30T17:03:33+00:00",
+      "summary": "Google erweitert seine generative KI-Modellfamilie um zwei Neuzugänge: Nano Banana 2 Lite erzeugt Bilder in vier Sekunden für 0,034 US-Dollar pro Bild, Gemini Omni Flash bringt erstmals Videogenerierung per Textbefehl in die API. Google empfiehlt die Verkettung beider Modelle: vom schnellen Bild zum animierten Video. Der Artikel Google bringt mit Nano Banana 2 Lite sein bisher schnellstes KI-Bildmodell und Gemini Omni Flash in die API erschien zuerst auf The Decoder .",
+      "keywords": [
+        "google",
+        "bringt",
+        "nano",
+        "banana",
+        "lite",
+        "gemini"
+      ]
+    },
+    {
+      "title": "Meituan trainiert konkurrenzfähiges Billionen-Parameter-Modell komplett auf chinesischen Chips",
+      "url": "https://the-decoder.de/meituan-trainiert-konkurrenzfaehiges-billionen-parameter-modell-komplett-auf-chinesischen-chips/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-06-30T15:11:46+00:00",
+      "summary": "Meituan trainiert ein KI-Modell mit 1,6 Billionen Parametern komplett auf chinesischen Chips, ganz ohne Nvidia. Der Artikel Meituan trainiert konkurrenzfähiges Billionen-Parameter-Modell komplett auf chinesischen Chips erschien zuerst auf The Decoder .",
+      "keywords": [
+        "meituan",
+        "trainiert",
+        "komplett",
+        "chinesischen",
+        "chips",
+        "konkurrenzfähiges"
+      ]
+    },
+    {
+      "title": "Karlsruher Forscher entdecken verborgene Schwachstelle in Flugzeug-Aluminium",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/werkstoffe/forscher-entdecken-verborgene-schwachstelle-in-flugzeug-aluminium/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-06-30T13:00:00+00:00",
+      "summary": "Winzige Partikel, große Wirkung: Eine Studie zeigt, warum Aluminium unter Schubbelastung anders geschädigt werden kann als erwartet. Der Beitrag Karlsruher Forscher entdecken verborgene Schwachstelle in Flugzeug-Aluminium erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "karlsruher",
+        "forscher",
+        "entdecken",
+        "verborgene",
+        "schwachstelle",
+        "flugzeug-aluminium"
+      ]
+    },
+    {
+      "title": "Motor raus, Batterie rein: Dieser Plan soll 800.000 Dieselbusse elektrifizieren",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/verkehr/dieselbusse-umbauen-statt-verschrotten-so-koennte-der-oepnv-bis-2040-elektrisch-fahren/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-06-30T12:30:00+00:00",
+      "summary": "Europa will bis 2050 klimaneutral sein, doch gerade einmal 3 % seiner Busse fahren elektrisch. Beim aktuellen Ersatztempo wäre die Flotte erst 2055 vollständig elektrifiziert – fünf Jahre zu spät. Eine Schweizer Studie zeigt: Es ginge auch deutlich schneller und billiger. Der Beitrag Motor raus, Batterie rein: Dieser Plan soll 800.000 Dieselbusse elektrifizieren erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "motor",
+        "raus",
+        "batterie",
+        "rein",
+        "dieser",
+        "plan"
+      ]
+    },
+    {
+      "title": "„Wir wollen das erste kommerzielle Fusionskraftwerk der Welt in Deutschland errichten“",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/energie/wir-wollen-das-erste-kommerzielle-fusionskraftwerk-der-welt-in-deutschland-errichten/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-06-30T09:30:00+00:00",
+      "summary": "Deutschland will das erste Fusionskraftwerk der Welt bauen – und investiert dafür Milliarden. Bundesforschungsministerin Dorothee Bär (CSU) erklärt im Interview, wie der Zeitplan aussieht und warum es ohne privates Kapital nicht gelingt. Der Beitrag „Wir wollen das erste kommerzielle Fusionskraftwerk der Welt in Deutschland errichten&#8220; erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "erste",
+        "fusionskraftwerk",
+        "welt",
+        "deutschland",
+        "wollen",
+        "kommerzielle"
+      ]
+    },
+    {
+      "title": "Der letzte Eindruck zählt: Wie schlechtes Offboarding Arbeitgebern schadet",
+      "url": "https://www.ingenieur.de/karriere/arbeitsleben/der-letzte-eindruck-zaehlt-wie-schlechtes-offboarding-arbeitgebern-schadet/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-06-30T05:00:00+00:00",
+      "summary": "Exit-Interview und Offboarding entscheiden über Arbeitgeberimage und Wissenstransfer. So vermeiden Unternehmen Fehler und nutzen Feedback beim Abschied gezielt. Der Beitrag Der letzte Eindruck zählt: Wie schlechtes Offboarding Arbeitgebern schadet erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "offboarding",
+        "letzte",
+        "eindruck",
+        "zählt",
+        "schlechtes",
+        "arbeitgebern"
+      ]
+    },
+    {
+      "title": "OpenClaw is finally available on Android and iOS",
+      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-30T21:53:28+00:00",
+      "summary": "The free open source agentic program is finally invading your phone.",
+      "keywords": [
+        "finally",
+        "openclaw",
+        "available",
+        "android",
+        "free",
+        "open"
+      ]
+    },
+    {
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-30T20:33:48+00:00",
+      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+      "keywords": [
+        "deepmind",
+        "trio",
+        "built",
+        "poker",
+        "making",
+        "money"
+      ]
+    },
+    {
+      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+      "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-30T19:02:38+00:00",
+      "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+      "keywords": [
+        "google",
+        "faster",
+        "cheaper",
+        "image",
+        "generator",
+        "make"
+      ]
+    },
+    {
+      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-30T18:13:02+00:00",
+      "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+      "keywords": [
+        "chip",
+        "nvidia",
+        "competitor",
+        "etched",
+        "hits",
+        "valuation"
+      ]
+    },
+    {
+      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-30T18:00:00+00:00",
+      "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+      "keywords": [
+        "anthropic",
+        "claude",
+        "sonnet",
+        "cheaper",
+        "launches",
+        "agents"
+      ]
+    },
+    {
+      "title": "Acti puts AI agents directly into your smartphone keyboard",
+      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-30T17:52:46+00:00",
+      "summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
+      "keywords": [
+        "keyboard",
+        "acti",
+        "smartphone",
+        "puts",
+        "agents",
+        "directly"
+      ]
+    },
+    {
+      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-30T17:00:00+00:00",
+      "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
+      "keywords": [
+        "anthropic",
+        "claude",
+        "science",
+        "scientists",
+        "bets",
+        "workflow"
+      ]
+    },
+    {
+      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-30T15:08:42+00:00",
+      "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
+      "keywords": [
+        "server",
+        "easier",
+        "offers",
+        "make",
+        "platform",
+        "tools"
+      ]
+    },
+    {
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-30T15:00:00+00:00",
+      "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
+      "keywords": [
+        "amazon",
+        "launches",
+        "billion",
+        "following",
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "title": "Podcasting platform Riverside enters the newsletter publishing game",
+      "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-30T15:00:00+00:00",
+      "summary": "Users will be able use AI to create newsletters based on their recordings.",
+      "keywords": [
+        "podcasting",
+        "platform",
+        "riverside",
+        "enters",
+        "newsletter",
+        "publishing"
+      ]
+    },
+    {
+      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+      "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-30T14:00:00+00:00",
+      "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities.",
+      "keywords": [
+        "lumo",
+        "proton",
+        "privacy-focused",
+        "chatbot",
+        "gets",
+        "upgrade"
+      ]
+    },
+    {
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-30T09:00:00+00:00",
+      "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
+      "keywords": [
+        "agents",
+        "crypto",
+        "exchange",
+        "wants",
+        "hire",
+        "each"
+      ]
+    },
+    {
+      "title": "The AI jobs debate just got messier",
+      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-30T04:01:00+00:00",
+      "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.",
+      "keywords": [
+        "jobs",
+        "headcount",
+        "debate",
+        "just",
+        "messier",
+        "report"
+      ]
+    },
+    {
+      "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-30T02:28:41+00:00",
+      "summary": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+      "keywords": [
+        "vibe-coding",
+        "platform",
+        "base44",
+        "model",
+        "launches",
+        "startups"
+      ]
+    },
+    {
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "source": "MIT Technology Review (AI)",
+      "lang": "en",
+      "published": "2026-06-30T21:50:04+00:00",
+      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access&#8230;",
+      "keywords": [
+        "claude",
+        "science",
+        "anthropic",
+        "product",
+        "code",
+        "newest"
+      ]
+    },
+    {
+      "title": "Agriculture is ready for AI, but its data isn’t",
+      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+      "source": "MIT Technology Review (AI)",
+      "lang": "en",
+      "published": "2026-06-30T12:00:00+00:00",
+      "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8230;",
+      "keywords": [
+        "agriculture",
+        "industry",
+        "ready",
+        "data",
+        "artificial",
+        "intelligence"
+      ]
+    },
+    {
+      "title": "How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "published": "2026-06-30T09:00:00+00:00",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "keywords": [
+        "chatgpt",
+        "adoption",
+        "expanded",
+        "openai",
+        "signals",
+        "data"
+      ]
+    },
+    {
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "published": "2026-06-30T00:00:00+00:00",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "keywords": [
+        "core",
+        "dump",
+        "epidemiology",
+        "fixing",
+        "18-year-old",
+        "openai"
+      ]
+    },
+    {
+      "title": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "published": "2026-06-30T00:00:00+00:00",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "keywords": [
+        "introducing",
+        "genebench-pro",
+        "benchmark",
+        "testing",
+        "performance",
+        "genomics"
+      ]
+    },
+    {
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "published": "2026-06-30T00:00:00+00:00",
+      "summary": "",
+      "keywords": [
+        "inside",
+        "genebench-pro"
+      ]
+    },
+    {
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "source": "Google AI Blog",
+      "lang": "en",
+      "published": "2026-06-30T06:00:00+00:00",
+      "summary": "Four illustrated characters representing different professional roles, including a scientist, technician, explorer, and observer.",
+      "keywords": [
+        "unlocking",
+        "britain",
+        "next",
+        "productivity",
+        "building",
+        "nation"
+      ]
+    }
+  ]
+}

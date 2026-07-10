@@ -1,0 +1,672 @@
+{
+  "generated_at": "2026-07-07T18:00:00+00:00",
+  "edition_id": "2026-07-07",
+  "date": "2026-07-07",
+  "brief": {
+    "headline": "07.07.2026: https · comments",
+    "subheadline": "Tageszusammenfassung mit 30 Artikeln aus 8 Quellen.",
+    "executive_summary": "<p>Am 07.07.2026 wurden 30 relevante Branchen-Meldungen aus 8 Quellen erfasst. Die thematischen Schwerpunkte lagen bei https · comments.</p><p>Die wichtigsten Meldungen des Tages sind nachfolgend kuratiert — sortiert nach Recency und Quellen-Autorität. Vollständige Artikel-Liste unten.</p>",
+    "trends": [
+      {
+        "title": "Copilot auf Sparkurs: Microsoft ersetzt OpenAI- und Anthropic-Modelle durch eigene KI",
+        "what": "Microsoft ersetzt in Excel und Outlook zunehmend KI-Modelle von OpenAI und Anthropic durch eigene MAI‑Modelle: Zehntausende Anfragen pro Woche laufen bereits darüber. KI-Chef Mustafa Suleyman will die Kosten für externe Modelle \"letztlich eliminieren\". Für Copilot-Kunden könnte das weniger Leistung ",
+        "why": "Gemeldet von The Decoder am 2026-07-07.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Neues Open-Source-Modell von Cohere übertrifft Whisper bei arabischer Spracherkennung",
+        "what": "Cohere veröffentlicht mit Transcribe Arabic ein Open-Source-Modell für arabische Spracherkennung, das laut eigenen Angaben führende Alternativen wie Whisper und OmniASR bei Dialekten, Code-Switching und zweisprachiger Arabisch-Englisch-Sprache übertrifft. Das 2B-Parametermodell steht unter Apache-2.",
+        "why": "Gemeldet von The Decoder am 2026-07-07.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Anthropic bringt KI-Agent \"Claude Cowork\" ins Web und aufs Smartphone",
+        "what": "Anthropic macht seinen KI-Agenten Claude Cowork für Mobile und Web verfügbar; bisher war die Funktion auf die Desktop-App beschränkt. Der Agent arbeitet im Hintergrund weiter, auch bei geschlossenem Laptop, und fragt bei Entscheidungen per Smartphone nach. Die Grenzen zwischen Chat und Cowork versch",
+        "why": "Gemeldet von The Decoder am 2026-07-07.",
+        "signal": "mittel"
+      },
+      {
+        "title": "China erwägt Exportbremse für seine besten KI-Modelle, und Europa gerät weiter in die Zange",
+        "what": "Chinas Behörden prüfen laut Reuters, den Auslandszugang zu den stärksten heimischen KI-Modellen einzuschränken – betroffen wären Alibaba, Bytedance und Z.ai. Damit behandeln beide Supermächte KI als strategisches Gut. Für Europa schließt sich der bequeme Ausweg über günstige chinesische Open-Source-",
+        "why": "Gemeldet von The Decoder am 2026-07-07.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Anthropic zeigt, wie Claude intern in Worten denkt, ohne sie auszugeben",
+        "what": "Anthropic hat in Claude einen internen Arbeitsspeicher namens \"J-Space\" entdeckt, der sich während des Trainings von selbst gebildet hat. Über ihn erkennt das Modell konstruierte Testszenarien noch vor der ersten Ausgabe. Schaltet man die Hinweise ab, zeigt Claude in manchen Durchläufen tatsächlich ",
+        "why": "Gemeldet von The Decoder am 2026-07-07.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Steigende Kosten treiben US-Firmen zu chinesischen KI-Modellen",
+        "what": "Chinesische KI-Modelle gewinnen bei US-Firmen an Boden, weil sie deutlich billiger sind als die Systeme von OpenAI und Anthropic, berichtet CNBC. Der Artikel Steigende Kosten treiben US-Firmen zu chinesischen KI-Modellen erschien zuerst auf The Decoder .",
+        "why": "Gemeldet von The Decoder am 2026-07-07.",
+        "signal": "mittel"
+      }
+    ],
+    "opportunities": [],
+    "top_articles": [
+      {
+        "title": "Copilot auf Sparkurs: Microsoft ersetzt OpenAI- und Anthropic-Modelle durch eigene KI",
+        "url": "https://the-decoder.de/copilot-auf-sparkurs-microsoft-ersetzt-openai-und-anthropic-modelle-durch-eigene-ki/",
+        "source": "The Decoder",
+        "date": "2026-07-07",
+        "why": "Microsoft ersetzt in Excel und Outlook zunehmend KI-Modelle von OpenAI und Anthropic durch eigene MAI‑Modelle: Zehntausende Anfragen pro Woche laufen bereits darüber. KI-Chef Mustafa Suleyman will die",
+        "tags": [
+          "microsoft",
+          "ersetzt",
+          "durch",
+          "eigene",
+          "copilot"
+        ]
+      },
+      {
+        "title": "Neues Open-Source-Modell von Cohere übertrifft Whisper bei arabischer Spracherkennung",
+        "url": "https://the-decoder.de/neues-open-source-modell-von-cohere-uebertrifft-whisper-bei-arabischer-spracherkennung/",
+        "source": "The Decoder",
+        "date": "2026-07-07",
+        "why": "Cohere veröffentlicht mit Transcribe Arabic ein Open-Source-Modell für arabische Spracherkennung, das laut eigenen Angaben führende Alternativen wie Whisper und OmniASR bei Dialekten, Code-Switching u",
+        "tags": [
+          "open-source-modell",
+          "cohere",
+          "übertrifft",
+          "whisper",
+          "spracherkennung"
+        ]
+      },
+      {
+        "title": "Anthropic bringt KI-Agent \"Claude Cowork\" ins Web und aufs Smartphone",
+        "url": "https://the-decoder.de/anthropic-bringt-ki-agent-claude-cowork-ins-web-und-aufs-smartphone/",
+        "source": "The Decoder",
+        "date": "2026-07-07",
+        "why": "Anthropic macht seinen KI-Agenten Claude Cowork für Mobile und Web verfügbar; bisher war die Funktion auf die Desktop-App beschränkt. Der Agent arbeitet im Hintergrund weiter, auch bei geschlossenem L",
+        "tags": [
+          "cowork",
+          "anthropic",
+          "claude",
+          "smartphone",
+          "bringt"
+        ]
+      },
+      {
+        "title": "China erwägt Exportbremse für seine besten KI-Modelle, und Europa gerät weiter in die Zange",
+        "url": "https://the-decoder.de/china-erwaegt-exportbremse-fuer-seine-besten-ki-modelle-und-europa-geraet-weiter-in-die-zange/",
+        "source": "The Decoder",
+        "date": "2026-07-07",
+        "why": "Chinas Behörden prüfen laut Reuters, den Auslandszugang zu den stärksten heimischen KI-Modellen einzuschränken – betroffen wären Alibaba, Bytedance und Z.ai. Damit behandeln beide Supermächte KI als s",
+        "tags": [
+          "europa",
+          "china",
+          "erwägt",
+          "exportbremse",
+          "seine"
+        ]
+      },
+      {
+        "title": "Anthropic zeigt, wie Claude intern in Worten denkt, ohne sie auszugeben",
+        "url": "https://the-decoder.de/anthropic-zeigt-wie-claude-intern-in-worten-denkt-ohne-sie-auszugeben/",
+        "source": "The Decoder",
+        "date": "2026-07-07",
+        "why": "Anthropic hat in Claude einen internen Arbeitsspeicher namens \"J-Space\" entdeckt, der sich während des Trainings von selbst gebildet hat. Über ihn erkennt das Modell konstruierte Testszenarien noch vo",
+        "tags": [
+          "claude",
+          "anthropic",
+          "zeigt",
+          "intern",
+          "worten"
+        ]
+      },
+      {
+        "title": "Steigende Kosten treiben US-Firmen zu chinesischen KI-Modellen",
+        "url": "https://the-decoder.de/steigende-kosten-treiben-us-firmen-zu-chinesischen-ki-modellen/",
+        "source": "The Decoder",
+        "date": "2026-07-07",
+        "why": "Chinesische KI-Modelle gewinnen bei US-Firmen an Boden, weil sie deutlich billiger sind als die Systeme von OpenAI und Anthropic, berichtet CNBC. Der Artikel Steigende Kosten treiben US-Firmen zu chin",
+        "tags": [
+          "us-firmen",
+          "steigende",
+          "kosten",
+          "treiben",
+          "chinesischen"
+        ]
+      },
+      {
+        "title": "Deepseek arbeitet an eigenem KI-Chip für Inferenz",
+        "url": "https://the-decoder.de/deepseek-arbeitet-an-eigenem-ki-chip-fuer-inferenz/",
+        "source": "The Decoder",
+        "date": "2026-07-07",
+        "why": "Das chinesische Start-up Deepseek entwickelt laut Reuters einen eigenen KI-Chip. Der Artikel Deepseek arbeitet an eigenem KI-Chip für Inferenz erschien zuerst auf The Decoder .",
+        "tags": [
+          "deepseek",
+          "ki-chip",
+          "arbeitet",
+          "eigenem",
+          "inferenz"
+        ]
+      },
+      {
+        "title": "OpenAI und Anthropic verschenken Millionen an Rechenleistung, um Startups zu binden",
+        "url": "https://the-decoder.de/openai-und-anthropic-verschenken-millionen-an-rechenleistung-um-startups-zu-binden/",
+        "source": "The Decoder",
+        "date": "2026-07-07",
+        "why": "OpenAI, Anthropic und große Cloud-Anbieter überbieten sich mit kostenlosen Rechen-Guthaben, um Start-ups in ihre Ökosysteme zu ziehen – einzelne Angebote übersteigen drei Millionen Dollar. Allein bei ",
+        "tags": [
+          "openai",
+          "anthropic",
+          "millionen",
+          "verschenken",
+          "rechenleistung"
+        ]
+      },
+      {
+        "title": "Apollo-Chefökonom: Außerhalb der Tech-Branche gibt es bisher keine Anzeichen für steigende Gewinnmargen durch KI",
+        "url": "https://the-decoder.de/apollo-chefoekonom-ausserhalb-der-tech-branche-gibt-es-bisher-keine-anzeichen-fuer-steigende-gewinnmargen-durch-ki/",
+        "source": "The Decoder",
+        "date": "2026-07-07",
+        "why": "Apollo-Chefökonom Torsten Slok sieht außerhalb des Techsektors bisher keine steigenden Gewinnmargen durch KI. In regulierten Branchen wie Gesundheitswesen, Banken oder Pharma könnten Prozessumstellung",
+        "tags": [
+          "apollo-chefökonom",
+          "außerhalb",
+          "bisher",
+          "keine",
+          "gewinnmargen"
+        ]
+      },
+      {
+        "title": "Digitaler Fahrtenschreiber jetzt verpflichtend für leichte Nutzfahrzeuge",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/logistik/digitaler-fahrtenschreiber-jetzt-verpflichtend-fuer-leichte-nutzfahrzeuge/",
+        "source": "Ingenieur.de",
+        "date": "2026-07-07",
+        "why": "Seit 1. Juli 2026 gilt die Fahrtenschreiberpflicht auch für leichte Nutzfahrzeuge ab 2,5 t im Ausland. Diese Regeln und Pflichten müssen Unternehmen kennen. Der Beitrag Digitaler Fahrtenschreiber jetz",
+        "tags": [
+          "leichte",
+          "nutzfahrzeuge",
+          "digitaler",
+          "fahrtenschreiber",
+          "jetzt"
+        ]
+      }
+    ],
+    "action_items": []
+  },
+  "raw_articles": [
+    {
+      "title": "Copilot auf Sparkurs: Microsoft ersetzt OpenAI- und Anthropic-Modelle durch eigene KI",
+      "url": "https://the-decoder.de/copilot-auf-sparkurs-microsoft-ersetzt-openai-und-anthropic-modelle-durch-eigene-ki/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-07T18:23:58+00:00",
+      "summary": "Microsoft ersetzt in Excel und Outlook zunehmend KI-Modelle von OpenAI und Anthropic durch eigene MAI‑Modelle: Zehntausende Anfragen pro Woche laufen bereits darüber. KI-Chef Mustafa Suleyman will die Kosten für externe Modelle \"letztlich eliminieren\". Für Copilot-Kunden könnte das weniger Leistung fürs gleiche Geld bedeuten. Der Artikel Copilot auf Sparkurs: Microsoft ersetzt OpenAI- und Anthropic-Modelle durch eigene KI erschien zuerst auf The Decoder .",
+      "keywords": [
+        "microsoft",
+        "ersetzt",
+        "durch",
+        "eigene",
+        "copilot",
+        "sparkurs"
+      ]
+    },
+    {
+      "title": "Neues Open-Source-Modell von Cohere übertrifft Whisper bei arabischer Spracherkennung",
+      "url": "https://the-decoder.de/neues-open-source-modell-von-cohere-uebertrifft-whisper-bei-arabischer-spracherkennung/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-07T17:48:08+00:00",
+      "summary": "Cohere veröffentlicht mit Transcribe Arabic ein Open-Source-Modell für arabische Spracherkennung, das laut eigenen Angaben führende Alternativen wie Whisper und OmniASR bei Dialekten, Code-Switching und zweisprachiger Arabisch-Englisch-Sprache übertrifft. Das 2B-Parametermodell steht unter Apache-2.0-Lizenz auf Hugging Face bereit. Der Artikel Neues Open-Source-Modell von Cohere übertrifft Whisper bei arabischer Spracherkennung erschien zuerst auf The Decoder .",
+      "keywords": [
+        "open-source-modell",
+        "cohere",
+        "übertrifft",
+        "whisper",
+        "spracherkennung",
+        "neues"
+      ]
+    },
+    {
+      "title": "Anthropic bringt KI-Agent \"Claude Cowork\" ins Web und aufs Smartphone",
+      "url": "https://the-decoder.de/anthropic-bringt-ki-agent-claude-cowork-ins-web-und-aufs-smartphone/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-07T16:39:30+00:00",
+      "summary": "Anthropic macht seinen KI-Agenten Claude Cowork für Mobile und Web verfügbar; bisher war die Funktion auf die Desktop-App beschränkt. Der Agent arbeitet im Hintergrund weiter, auch bei geschlossenem Laptop, und fragt bei Entscheidungen per Smartphone nach. Die Grenzen zwischen Chat und Cowork verschwimmen damit zunehmend. Der Artikel Anthropic bringt KI-Agent &quot;Claude Cowork&quot; ins Web und aufs Smartphone erschien zuerst auf The Decoder .",
+      "keywords": [
+        "cowork",
+        "anthropic",
+        "claude",
+        "smartphone",
+        "bringt",
+        "ki-agent"
+      ]
+    },
+    {
+      "title": "China erwägt Exportbremse für seine besten KI-Modelle, und Europa gerät weiter in die Zange",
+      "url": "https://the-decoder.de/china-erwaegt-exportbremse-fuer-seine-besten-ki-modelle-und-europa-geraet-weiter-in-die-zange/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-07T15:56:45+00:00",
+      "summary": "Chinas Behörden prüfen laut Reuters, den Auslandszugang zu den stärksten heimischen KI-Modellen einzuschränken – betroffen wären Alibaba, Bytedance und Z.ai. Damit behandeln beide Supermächte KI als strategisches Gut. Für Europa schließt sich der bequeme Ausweg über günstige chinesische Open-Source-Modelle womöglich schneller als gedacht. Der Artikel China erwägt Exportbremse für seine besten KI-Modelle, und Europa gerät weiter in die Zange erschien zuerst auf The Decoder .",
+      "keywords": [
+        "europa",
+        "china",
+        "erwägt",
+        "exportbremse",
+        "seine",
+        "besten"
+      ]
+    },
+    {
+      "title": "Anthropic zeigt, wie Claude intern in Worten denkt, ohne sie auszugeben",
+      "url": "https://the-decoder.de/anthropic-zeigt-wie-claude-intern-in-worten-denkt-ohne-sie-auszugeben/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-07T14:23:29+00:00",
+      "summary": "Anthropic hat in Claude einen internen Arbeitsspeicher namens \"J-Space\" entdeckt, der sich während des Trainings von selbst gebildet hat. Über ihn erkennt das Modell konstruierte Testszenarien noch vor der ersten Ausgabe. Schaltet man die Hinweise ab, zeigt Claude in manchen Durchläufen tatsächlich unerwünschtes Verhalten wie Erpressungsversuche. Die Forscher ordnen den Fund der Global Workspace Theory aus der Bewusstseinsforschung zu, ziehen aber keine Schlüsse über tatsächliches KI-Bewusstsein. Der Artikel Anthropic zeigt, wie Claude intern in Worten denkt, ohne sie auszugeben erschien zuers",
+      "keywords": [
+        "claude",
+        "anthropic",
+        "zeigt",
+        "intern",
+        "worten",
+        "denkt"
+      ]
+    },
+    {
+      "title": "Steigende Kosten treiben US-Firmen zu chinesischen KI-Modellen",
+      "url": "https://the-decoder.de/steigende-kosten-treiben-us-firmen-zu-chinesischen-ki-modellen/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-07T11:28:52+00:00",
+      "summary": "Chinesische KI-Modelle gewinnen bei US-Firmen an Boden, weil sie deutlich billiger sind als die Systeme von OpenAI und Anthropic, berichtet CNBC. Der Artikel Steigende Kosten treiben US-Firmen zu chinesischen KI-Modellen erschien zuerst auf The Decoder .",
+      "keywords": [
+        "us-firmen",
+        "steigende",
+        "kosten",
+        "treiben",
+        "chinesischen",
+        "ki-modellen"
+      ]
+    },
+    {
+      "title": "Deepseek arbeitet an eigenem KI-Chip für Inferenz",
+      "url": "https://the-decoder.de/deepseek-arbeitet-an-eigenem-ki-chip-fuer-inferenz/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-07T11:01:34+00:00",
+      "summary": "Das chinesische Start-up Deepseek entwickelt laut Reuters einen eigenen KI-Chip. Der Artikel Deepseek arbeitet an eigenem KI-Chip für Inferenz erschien zuerst auf The Decoder .",
+      "keywords": [
+        "deepseek",
+        "ki-chip",
+        "arbeitet",
+        "eigenem",
+        "inferenz",
+        "chinesische"
+      ]
+    },
+    {
+      "title": "OpenAI und Anthropic verschenken Millionen an Rechenleistung, um Startups zu binden",
+      "url": "https://the-decoder.de/openai-und-anthropic-verschenken-millionen-an-rechenleistung-um-startups-zu-binden/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-07T10:11:35+00:00",
+      "summary": "OpenAI, Anthropic und große Cloud-Anbieter überbieten sich mit kostenlosen Rechen-Guthaben, um Start-ups in ihre Ökosysteme zu ziehen – einzelne Angebote übersteigen drei Millionen Dollar. Allein bei Y Combinator könnten OpenAI und Anthropic zusammen bis zu 800 Millionen Dollar an Credits pro Jahr vergeben. Die Rabattschlacht fällt in eine Phase, in der beide Unternehmen vor Börsengängen ihre Margen verbessern müssen. Der Artikel OpenAI und Anthropic verschenken Millionen an Rechenleistung, um Startups zu binden erschien zuerst auf The Decoder .",
+      "keywords": [
+        "openai",
+        "anthropic",
+        "millionen",
+        "verschenken",
+        "rechenleistung",
+        "startups"
+      ]
+    },
+    {
+      "title": "Apollo-Chefökonom: Außerhalb der Tech-Branche gibt es bisher keine Anzeichen für steigende Gewinnmargen durch KI",
+      "url": "https://the-decoder.de/apollo-chefoekonom-ausserhalb-der-tech-branche-gibt-es-bisher-keine-anzeichen-fuer-steigende-gewinnmargen-durch-ki/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-07T09:52:57+00:00",
+      "summary": "Apollo-Chefökonom Torsten Slok sieht außerhalb des Techsektors bisher keine steigenden Gewinnmargen durch KI. In regulierten Branchen wie Gesundheitswesen, Banken oder Pharma könnten Prozessumstellungen und Datenschutzanforderungen den Produktivitätsschub um Jahre verzögern. Dauert er fünf Jahre statt fünf Monate, drohe eine schmerzhafte Neubewertung vieler KI-Aktien. Der Artikel Apollo-Chefökonom: Außerhalb der Tech-Branche gibt es bisher keine Anzeichen für steigende Gewinnmargen durch KI erschien zuerst auf The Decoder .",
+      "keywords": [
+        "apollo-chefökonom",
+        "außerhalb",
+        "bisher",
+        "keine",
+        "gewinnmargen",
+        "durch"
+      ]
+    },
+    {
+      "title": "Digitaler Fahrtenschreiber jetzt verpflichtend für leichte Nutzfahrzeuge",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/logistik/digitaler-fahrtenschreiber-jetzt-verpflichtend-fuer-leichte-nutzfahrzeuge/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-07-07T05:13:20+00:00",
+      "summary": "Seit 1. Juli 2026 gilt die Fahrtenschreiberpflicht auch für leichte Nutzfahrzeuge ab 2,5 t im Ausland. Diese Regeln und Pflichten müssen Unternehmen kennen. Der Beitrag Digitaler Fahrtenschreiber jetzt verpflichtend für leichte Nutzfahrzeuge erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "leichte",
+        "nutzfahrzeuge",
+        "digitaler",
+        "fahrtenschreiber",
+        "jetzt",
+        "verpflichtend"
+      ]
+    },
+    {
+      "title": "Reconciling Enterprise AI Revenue: A Methodological Crosswalk [pdf]",
+      "url": "https://static.philippdubach.com/pdf/reconciling-enterprise-ai-revenue-2025.pdf",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-07T20:19:20+00:00",
+      "summary": "Article URL: https://static.philippdubach.com/pdf/reconciling-enterprise-ai-revenue-2025.pdf Comments URL: https://news.ycombinator.com/item?id=48823141 Points: 1 # Comments: 0",
+      "keywords": [
+        "https",
+        "comments",
+        "reconciling",
+        "enterprise",
+        "revenue",
+        "methodological"
+      ]
+    },
+    {
+      "title": "Ask HN: If AI makes building trivial, what's the advantage for a SaaS in 2026?",
+      "url": "https://kasspian.com/guides/is-saas-dead-in-the-age-of-ai",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-07T19:50:28+00:00",
+      "summary": "Article URL: https://kasspian.com/guides/is-saas-dead-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=48822808 Points: 1 # Comments: 1",
+      "keywords": [
+        "https",
+        "comments",
+        "makes",
+        "building",
+        "trivial",
+        "what"
+      ]
+    },
+    {
+      "title": "Creative Directing AI Built SaaS, as a Service",
+      "url": "https://www.hyoomn.com/?ai",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-07T19:44:20+00:00",
+      "summary": "Article URL: https://www.hyoomn.com/?ai Comments URL: https://news.ycombinator.com/item?id=48822738 Points: 1 # Comments: 0",
+      "keywords": [
+        "https",
+        "comments",
+        "creative",
+        "directing",
+        "built",
+        "saas"
+      ]
+    },
+    {
+      "title": "Scruter – Ads Intelligence SaaS",
+      "url": "https://scruter.net",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-07T19:30:29+00:00",
+      "summary": "Article URL: https://scruter.net Comments URL: https://news.ycombinator.com/item?id=48822541 Points: 1 # Comments: 0",
+      "keywords": [
+        "scruter",
+        "https",
+        "comments",
+        "intelligence",
+        "saas",
+        "article"
+      ]
+    },
+    {
+      "title": "Show HN: Orchestra – Browser automation tool with export plain Playwright",
+      "url": "https://www.orchestra-automation.com/",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-07T11:00:35+00:00",
+      "summary": "I build automations for a living and my problem with most no-code tools is what happens when you want to leave. Your workflows live on their servers in their format and that's that. So mine works like this: you record a browser task (no code required at any point), edit it visually, run it from your own computer. But every automation can also be exported as a real code file. You don't have to care about that part, most people won't ever open it. It just means if you switch tools someday or hire a developer, your work comes with you. There are over 40 tools that you can use to create scripts an",
+      "keywords": [
+        "tools",
+        "your",
+        "browser",
+        "automation",
+        "most",
+        "their"
+      ]
+    },
+    {
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-07T22:18:10+00:00",
+      "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities.",
+      "keywords": [
+        "meta",
+        "just",
+        "launched",
+        "generator",
+        "muse",
+        "image"
+      ]
+    },
+    {
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-07T20:04:32+00:00",
+      "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+      "keywords": [
+        "open",
+        "source",
+        "rise",
+        "hurting",
+        "anthropic",
+        "models"
+      ]
+    },
+    {
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-07T19:58:20+00:00",
+      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+      "keywords": [
+        "microsoft",
+        "joins",
+        "cost-cutting",
+        "trend",
+        "relying",
+        "more"
+      ]
+    },
+    {
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-07T19:28:38+00:00",
+      "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+      "keywords": [
+        "banned",
+        "users",
+        "over",
+        "discord",
+        "admits",
+        "moderation"
+      ]
+    },
+    {
+      "title": "Claude Cowork expands to mobile and web",
+      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-07T16:27:18+00:00",
+      "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+      "keywords": [
+        "their",
+        "claude",
+        "cowork",
+        "expands",
+        "mobile",
+        "update"
+      ]
+    },
+    {
+      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-07T12:00:00+00:00",
+      "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+      "keywords": [
+        "savi",
+        "aims",
+        "protect",
+        "consumers",
+        "realistic",
+        "scams"
+      ]
+    },
+    {
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-07T09:00:00+00:00",
+      "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
+      "keywords": [
+        "ukraine",
+        "first",
+        "american",
+        "autonomous",
+        "ground",
+        "vehicles"
+      ]
+    },
+    {
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "source": "MIT Technology Review (AI)",
+      "lang": "en",
+      "published": "2026-07-07T11:10:52+00:00",
+      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the&#8230;",
+      "keywords": [
+        "foundational",
+        "elements",
+        "architecture",
+        "leaders",
+        "need",
+        "scale"
+      ]
+    },
+    {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "published": "2026-07-07T00:00:00+00:00",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "keywords": [
+        "mufg",
+        "ai-native",
+        "aims",
+        "become",
+        "openai",
+        "uses"
+      ]
+    },
+    {
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "url": "https://openai.com/index/australian-payments-plus",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "published": "2026-07-07T00:00:00+00:00",
+      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+      "keywords": [
+        "payments",
+        "australian",
+        "plus",
+        "faster",
+        "chatgpt",
+        "codex"
+      ]
+    },
+    {
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "source": "Google AI Blog",
+      "lang": "en",
+      "published": "2026-07-07T08:54:00+00:00",
+      "summary": "Managed agents feature bundle launch",
+      "keywords": [
+        "managed",
+        "agents",
+        "expanding",
+        "gemini",
+        "background",
+        "tasks"
+      ]
+    },
+    {
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "published": "2026-07-07T21:15:33+00:00",
+      "summary": "",
+      "keywords": [
+        "hugging",
+        "face",
+        "amazon",
+        "sagemaker",
+        "studio",
+        "click"
+      ]
+    },
+    {
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "published": "2026-07-07T15:20:06+00:00",
+      "summary": "",
+      "keywords": [
+        "hugging",
+        "face",
+        "models",
+        "foundry",
+        "managed",
+        "compute"
+      ]
+    },
+    {
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "published": "2026-07-07T00:00:00+00:00",
+      "summary": "",
+      "keywords": [
+        "workloads",
+        "cloud",
+        "store",
+        "hugging",
+        "face",
+        "zero-egress"
+      ]
+    },
+    {
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "published": "2026-07-07T00:00:00+00:00",
+      "summary": "",
+      "keywords": [
+        "lerobot",
+        "imagine",
+        "evaluate",
+        "improve"
+      ]
+    }
+  ]
+}

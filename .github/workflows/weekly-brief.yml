@@ -59,7 +59,21 @@ jobs:
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
         run: python scripts/run_pipeline.py
 
-      - name: Commit brief to master (optional archival)
+      - name: Deep-scrape + backfill daily archive
+        # Goes back 30 days across paginated feeds to build a per-day
+        # archive of editions. Adds each day's edition to
+        # web/data/archive/ and updates the index — so the archive drawer
+        # in the frontend has ~20-30 entries on first run, and grows by
+        # one entry per day after that.
+        if: env.INGRID_PAT != ''
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+        run: |
+          python scripts/deep_scrape.py
+          python scripts/backfill_days.py
+
+      - name: Commit brief + archive to master (optional archival)
         env:
           COMMIT_TOKEN: ${{ secrets.INGRID_PAT }}
         run: |
@@ -69,11 +83,11 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git remote set-url origin "https://x-access-token:${COMMIT_TOKEN}@github.com/igoingtodevx/industry-watcher.git"
-            git add -f web/data/latest.json
+            git add -f web/data/latest.json web/data/archive/
             if git diff --staged --quiet; then
               echo "No changes to commit"
             else
-              git commit -m "chore: daily brief $(date -u +%Y-%m-%d)"
+              git commit -m "chore: daily brief + archive $(date -u +%Y-%m-%d)"
               git push origin HEAD:master
             fi
           fi

@@ -1,0 +1,466 @@
+{
+  "generated_at": "2026-07-02T18:00:00+00:00",
+  "edition_id": "2026-07-02",
+  "date": "2026-07-02",
+  "brief": {
+    "headline": "02.07.2026: microsoft · anthropic",
+    "subheadline": "Tageszusammenfassung mit 17 Artikeln aus 3 Quellen.",
+    "executive_summary": "<p>Am 02.07.2026 wurden 17 relevante Branchen-Meldungen aus 3 Quellen erfasst. Die thematischen Schwerpunkte lagen bei microsoft · anthropic.</p><p>Die wichtigsten Meldungen des Tages sind nachfolgend kuratiert — sortiert nach Recency und Quellen-Autorität. Vollständige Artikel-Liste unten.</p>",
+    "trends": [
+      {
+        "title": "Microsoft gründet \"Frontier Company\" mit 6.000 Ingenieuren für KI-Integration bei Unternehmenskunden",
+        "what": "Microsoft investiert 2,5 Milliarden US-Dollar in eine neue Einheit namens \"Frontier Company\", die 6.000 Ingenieure direkt bei Unternehmenskunden platzieren soll. Ziel ist die Integration von KI in Kernprozesse – mit messbarem ROI statt Experimentierphase. Microsoft positioniert sich dabei bewusst al",
+        "why": "Gemeldet von The Decoder am 2026-07-02.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Anthropic arbeitet offenbar an eigenem KI-Chip und spricht mit Samsung über die Fertigung",
+        "what": "Anthropic führt laut Berichten Gespräche mit Samsung Electronics über die Fertigung eines eigenen KI-Chips. Das Projekt ist noch in einem frühen Stadium. Nach OpenAIs \"Jalapeño\" drängt damit ein weiteres großes KI-Unternehmen in die Chipentwicklung, um langfristig Infrastrukturkosten zu senken. Der ",
+        "why": "Gemeldet von The Decoder am 2026-07-02.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Weniger ist mehr: Anthropic steuert Mythos-Klasse mit Kontext statt mit Verboten",
+        "what": "Anthropic hat den System-Prompt für Claude Code um 80 Prozent gekürzt. Laut Mitarbeiter Tariq Shihipar benötigen die neuen Fable-5-Modelle weniger Anweisungen und Beispiele – Vorgaben könnten die Modelle sogar einschränken, weil sie \"fantasievoller\" seien als ihre Instruktionen. Statt harter Verbote",
+        "why": "Gemeldet von The Decoder am 2026-07-02.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Angriff auf die Tech-Giganten: Nvidia fördert junge Cloud-Anbieter mit finanziellen Absicherungen",
+        "what": "Nvidia agiert zunehmend wie eine Zentralbank für KI-Start-ups, um den Markt für Rechenleistung aktiv zu formen. Der Artikel Angriff auf die Tech-Giganten: Nvidia fördert junge Cloud-Anbieter mit finanziellen Absicherungen erschien zuerst auf The Decoder .",
+        "why": "Gemeldet von The Decoder am 2026-07-02.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Freelance-Benchmark zeigt: KI-Agenten erledigen viermal mehr Profi-Aufträge als noch vor acht Monaten",
+        "what": "Der Remote Labor Index misst, wie oft KI-Agenten bezahlte Freelance-Projekte in Profiqualität abliefern. Innerhalb von acht Monaten hat sich die Spitzenrate mehr als vervierfacht. Der Artikel Freelance-Benchmark zeigt: KI-Agenten erledigen viermal mehr Profi-Aufträge als noch vor acht Monaten erschi",
+        "why": "Gemeldet von The Decoder am 2026-07-02.",
+        "signal": "mittel"
+      },
+      {
+        "title": "OpenAI bietet der Trump-Regierung offenbar fünf Prozent des Unternehmens an",
+        "what": "OpenAI bietet der Trump-Regierung offenbar eine Beteiligung von fünf Prozent am Unternehmen an. Details zu möglichen Gegenleistungen oder Bedingungen des Deals sind noch nicht bekannt. Der Vorstoß unterstreicht, wie eng sich das KI-Unternehmen politisch an Washington binden will. Der Artikel OpenAI ",
+        "why": "Gemeldet von The Decoder am 2026-07-02.",
+        "signal": "mittel"
+      }
+    ],
+    "opportunities": [],
+    "top_articles": [
+      {
+        "title": "Microsoft gründet \"Frontier Company\" mit 6.000 Ingenieuren für KI-Integration bei Unternehmenskunden",
+        "url": "https://the-decoder.de/microsoft-gruendet-frontier-company-mit-6-000-ingenieuren-fuer-ki-integration-bei-unternehmenskunden/",
+        "source": "The Decoder",
+        "date": "2026-07-02",
+        "why": "Microsoft investiert 2,5 Milliarden US-Dollar in eine neue Einheit namens \"Frontier Company\", die 6.000 Ingenieure direkt bei Unternehmenskunden platzieren soll. Ziel ist die Integration von KI in Ker",
+        "tags": [
+          "microsoft",
+          "frontier",
+          "company",
+          "unternehmenskunden",
+          "gründet"
+        ]
+      },
+      {
+        "title": "Anthropic arbeitet offenbar an eigenem KI-Chip und spricht mit Samsung über die Fertigung",
+        "url": "https://the-decoder.de/anthropic-arbeitet-offenbar-an-eigenem-ki-chip-und-spricht-mit-samsung-ueber-die-fertigung/",
+        "source": "The Decoder",
+        "date": "2026-07-02",
+        "why": "Anthropic führt laut Berichten Gespräche mit Samsung Electronics über die Fertigung eines eigenen KI-Chips. Das Projekt ist noch in einem frühen Stadium. Nach OpenAIs \"Jalapeño\" drängt damit ein weite",
+        "tags": [
+          "anthropic",
+          "samsung",
+          "fertigung",
+          "arbeitet",
+          "offenbar"
+        ]
+      },
+      {
+        "title": "Weniger ist mehr: Anthropic steuert Mythos-Klasse mit Kontext statt mit Verboten",
+        "url": "https://the-decoder.de/weniger-ist-mehr-anthropic-steuert-mythos-klasse-mit-kontext-statt-mit-verboten/",
+        "source": "The Decoder",
+        "date": "2026-07-02",
+        "why": "Anthropic hat den System-Prompt für Claude Code um 80 Prozent gekürzt. Laut Mitarbeiter Tariq Shihipar benötigen die neuen Fable-5-Modelle weniger Anweisungen und Beispiele – Vorgaben könnten die Mode",
+        "tags": [
+          "anthropic",
+          "weniger",
+          "kontext",
+          "statt",
+          "mehr"
+        ]
+      },
+      {
+        "title": "Angriff auf die Tech-Giganten: Nvidia fördert junge Cloud-Anbieter mit finanziellen Absicherungen",
+        "url": "https://the-decoder.de/angriff-auf-die-tech-giganten-nvidia-foerdert-junge-cloud-anbieter-mit-finanziellen-absicherungen/",
+        "source": "The Decoder",
+        "date": "2026-07-02",
+        "why": "Nvidia agiert zunehmend wie eine Zentralbank für KI-Start-ups, um den Markt für Rechenleistung aktiv zu formen. Der Artikel Angriff auf die Tech-Giganten: Nvidia fördert junge Cloud-Anbieter mit finan",
+        "tags": [
+          "nvidia",
+          "angriff",
+          "tech-giganten",
+          "fördert",
+          "junge"
+        ]
+      },
+      {
+        "title": "Freelance-Benchmark zeigt: KI-Agenten erledigen viermal mehr Profi-Aufträge als noch vor acht Monaten",
+        "url": "https://the-decoder.de/freelance-benchmark-zeigt-ki-agenten-erledigen-viermal-mehr-profi-auftraege-als-noch-vor-acht-monaten/",
+        "source": "The Decoder",
+        "date": "2026-07-02",
+        "why": "Der Remote Labor Index misst, wie oft KI-Agenten bezahlte Freelance-Projekte in Profiqualität abliefern. Innerhalb von acht Monaten hat sich die Spitzenrate mehr als vervierfacht. Der Artikel Freelanc",
+        "tags": [
+          "ki-agenten",
+          "mehr",
+          "acht",
+          "monaten",
+          "freelance-benchmark"
+        ]
+      },
+      {
+        "title": "OpenAI bietet der Trump-Regierung offenbar fünf Prozent des Unternehmens an",
+        "url": "https://the-decoder.de/openai-bietet-der-trump-regierung-offenbar-fuenf-prozent-des-unternehmens-an/",
+        "source": "The Decoder",
+        "date": "2026-07-02",
+        "why": "OpenAI bietet der Trump-Regierung offenbar eine Beteiligung von fünf Prozent am Unternehmen an. Details zu möglichen Gegenleistungen oder Bedingungen des Deals sind noch nicht bekannt. Der Vorstoß unt",
+        "tags": [
+          "openai",
+          "bietet",
+          "trump-regierung",
+          "offenbar",
+          "fünf"
+        ]
+      },
+      {
+        "title": "Google NotebookLM erstellt aus Quellen jetzt kurze Erklär-Shorts",
+        "url": "https://the-decoder.de/google-notebooklm-erstellt-aus-quellen-jetzt-kurze-erklaer-shorts/",
+        "source": "The Decoder",
+        "date": "2026-07-02",
+        "why": "Google hat NotebookLM um Videoübersichten im von Social Media bekannten Short-Format erweitert. Der Artikel Google NotebookLM erstellt aus Quellen jetzt kurze Erklär-Shorts erschien zuerst auf The Dec",
+        "tags": [
+          "google",
+          "notebooklm",
+          "erstellt",
+          "quellen",
+          "jetzt"
+        ]
+      },
+      {
+        "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-07-02",
+        "why": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+        "tags": [
+          "quickly",
+          "mark",
+          "zuckerberg",
+          "tells",
+          "staff"
+        ]
+      },
+      {
+        "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+        "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-07-02",
+        "why": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
+        "tags": [
+          "jersey",
+          "mike",
+          "illustrates",
+          "hype",
+          "become"
+        ]
+      },
+      {
+        "title": "Meta quietly launches vibe-coded gaming app Pocket",
+        "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-07-02",
+        "why": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+        "tags": [
+          "meta",
+          "quietly",
+          "pocket",
+          "launches",
+          "vibe-coded"
+        ]
+      }
+    ],
+    "action_items": []
+  },
+  "raw_articles": [
+    {
+      "title": "Microsoft gründet \"Frontier Company\" mit 6.000 Ingenieuren für KI-Integration bei Unternehmenskunden",
+      "url": "https://the-decoder.de/microsoft-gruendet-frontier-company-mit-6-000-ingenieuren-fuer-ki-integration-bei-unternehmenskunden/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-02T19:02:29+00:00",
+      "summary": "Microsoft investiert 2,5 Milliarden US-Dollar in eine neue Einheit namens \"Frontier Company\", die 6.000 Ingenieure direkt bei Unternehmenskunden platzieren soll. Ziel ist die Integration von KI in Kernprozesse – mit messbarem ROI statt Experimentierphase. Microsoft positioniert sich dabei bewusst als plattformneutrale Alternative zu OpenAI und Anthropic, die mit eigenen Deployment-Firmen vor allem ihre eigenen Modelle vertreiben. Der Artikel Microsoft gründet &quot;Frontier Company&quot; mit 6.000 Ingenieuren für KI-Integration bei Unternehmenskunden erschien zuerst auf The Decoder .",
+      "keywords": [
+        "microsoft",
+        "frontier",
+        "company",
+        "unternehmenskunden",
+        "gründet",
+        "ingenieuren"
+      ]
+    },
+    {
+      "title": "Anthropic arbeitet offenbar an eigenem KI-Chip und spricht mit Samsung über die Fertigung",
+      "url": "https://the-decoder.de/anthropic-arbeitet-offenbar-an-eigenem-ki-chip-und-spricht-mit-samsung-ueber-die-fertigung/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-02T17:18:57+00:00",
+      "summary": "Anthropic führt laut Berichten Gespräche mit Samsung Electronics über die Fertigung eines eigenen KI-Chips. Das Projekt ist noch in einem frühen Stadium. Nach OpenAIs \"Jalapeño\" drängt damit ein weiteres großes KI-Unternehmen in die Chipentwicklung, um langfristig Infrastrukturkosten zu senken. Der Artikel Anthropic arbeitet offenbar an eigenem KI-Chip und spricht mit Samsung über die Fertigung erschien zuerst auf The Decoder .",
+      "keywords": [
+        "anthropic",
+        "samsung",
+        "fertigung",
+        "arbeitet",
+        "offenbar",
+        "eigenem"
+      ]
+    },
+    {
+      "title": "Weniger ist mehr: Anthropic steuert Mythos-Klasse mit Kontext statt mit Verboten",
+      "url": "https://the-decoder.de/weniger-ist-mehr-anthropic-steuert-mythos-klasse-mit-kontext-statt-mit-verboten/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-02T16:06:29+00:00",
+      "summary": "Anthropic hat den System-Prompt für Claude Code um 80 Prozent gekürzt. Laut Mitarbeiter Tariq Shihipar benötigen die neuen Fable-5-Modelle weniger Anweisungen und Beispiele – Vorgaben könnten die Modelle sogar einschränken, weil sie \"fantasievoller\" seien als ihre Instruktionen. Statt harter Verbote setzt Anthropic nun auf Kontext. Der Artikel Weniger ist mehr: Anthropic steuert Mythos-Klasse mit Kontext statt mit Verboten erschien zuerst auf The Decoder .",
+      "keywords": [
+        "anthropic",
+        "weniger",
+        "kontext",
+        "statt",
+        "mehr",
+        "steuert"
+      ]
+    },
+    {
+      "title": "Angriff auf die Tech-Giganten: Nvidia fördert junge Cloud-Anbieter mit finanziellen Absicherungen",
+      "url": "https://the-decoder.de/angriff-auf-die-tech-giganten-nvidia-foerdert-junge-cloud-anbieter-mit-finanziellen-absicherungen/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-02T11:30:05+00:00",
+      "summary": "Nvidia agiert zunehmend wie eine Zentralbank für KI-Start-ups, um den Markt für Rechenleistung aktiv zu formen. Der Artikel Angriff auf die Tech-Giganten: Nvidia fördert junge Cloud-Anbieter mit finanziellen Absicherungen erschien zuerst auf The Decoder .",
+      "keywords": [
+        "nvidia",
+        "angriff",
+        "tech-giganten",
+        "fördert",
+        "junge",
+        "cloud-anbieter"
+      ]
+    },
+    {
+      "title": "Freelance-Benchmark zeigt: KI-Agenten erledigen viermal mehr Profi-Aufträge als noch vor acht Monaten",
+      "url": "https://the-decoder.de/freelance-benchmark-zeigt-ki-agenten-erledigen-viermal-mehr-profi-auftraege-als-noch-vor-acht-monaten/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-02T11:04:49+00:00",
+      "summary": "Der Remote Labor Index misst, wie oft KI-Agenten bezahlte Freelance-Projekte in Profiqualität abliefern. Innerhalb von acht Monaten hat sich die Spitzenrate mehr als vervierfacht. Der Artikel Freelance-Benchmark zeigt: KI-Agenten erledigen viermal mehr Profi-Aufträge als noch vor acht Monaten erschien zuerst auf The Decoder .",
+      "keywords": [
+        "ki-agenten",
+        "mehr",
+        "acht",
+        "monaten",
+        "freelance-benchmark",
+        "zeigt"
+      ]
+    },
+    {
+      "title": "OpenAI bietet der Trump-Regierung offenbar fünf Prozent des Unternehmens an",
+      "url": "https://the-decoder.de/openai-bietet-der-trump-regierung-offenbar-fuenf-prozent-des-unternehmens-an/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-02T10:37:16+00:00",
+      "summary": "OpenAI bietet der Trump-Regierung offenbar eine Beteiligung von fünf Prozent am Unternehmen an. Details zu möglichen Gegenleistungen oder Bedingungen des Deals sind noch nicht bekannt. Der Vorstoß unterstreicht, wie eng sich das KI-Unternehmen politisch an Washington binden will. Der Artikel OpenAI bietet der Trump-Regierung offenbar fünf Prozent des Unternehmens an erschien zuerst auf The Decoder .",
+      "keywords": [
+        "openai",
+        "bietet",
+        "trump-regierung",
+        "offenbar",
+        "fünf",
+        "prozent"
+      ]
+    },
+    {
+      "title": "Google NotebookLM erstellt aus Quellen jetzt kurze Erklär-Shorts",
+      "url": "https://the-decoder.de/google-notebooklm-erstellt-aus-quellen-jetzt-kurze-erklaer-shorts/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-02T09:58:15+00:00",
+      "summary": "Google hat NotebookLM um Videoübersichten im von Social Media bekannten Short-Format erweitert. Der Artikel Google NotebookLM erstellt aus Quellen jetzt kurze Erklär-Shorts erschien zuerst auf The Decoder .",
+      "keywords": [
+        "google",
+        "notebooklm",
+        "erstellt",
+        "quellen",
+        "jetzt",
+        "kurze"
+      ]
+    },
+    {
+      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-02T23:38:10+00:00",
+      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+      "keywords": [
+        "quickly",
+        "mark",
+        "zuckerberg",
+        "tells",
+        "staff",
+        "agents"
+      ]
+    },
+    {
+      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-02T20:11:59+00:00",
+      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
+      "keywords": [
+        "jersey",
+        "mike",
+        "illustrates",
+        "hype",
+        "become",
+        "just"
+      ]
+    },
+    {
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
+      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-02T18:44:02+00:00",
+      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+      "keywords": [
+        "meta",
+        "quietly",
+        "pocket",
+        "launches",
+        "vibe-coded",
+        "gaming"
+      ]
+    },
+    {
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-02T18:31:09+00:00",
+      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+      "keywords": [
+        "custom",
+        "chip",
+        "anthropic",
+        "discussing",
+        "samsung",
+        "news"
+      ]
+    },
+    {
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-02T15:20:51+00:00",
+      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+      "keywords": [
+        "openai",
+        "proposed",
+        "equity",
+        "sovereign",
+        "wealth",
+        "fund"
+      ]
+    },
+    {
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-02T13:53:00+00:00",
+      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
+      "keywords": [
+        "microsoft",
+        "deployment",
+        "launches",
+        "company",
+        "billion",
+        "commitment"
+      ]
+    },
+    {
+      "title": "Yep, we’re using OpenClaw to date now",
+      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-02T12:00:00+00:00",
+      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+      "keywords": [
+        "using",
+        "openclaw",
+        "date",
+        "guez",
+        "bunch",
+        "potential"
+      ]
+    },
+    {
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-02T05:30:00+00:00",
+      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
+      "keywords": [
+        "microsoft",
+        "office",
+        "indian",
+        "tech",
+        "tycoon",
+        "bets"
+      ]
+    },
+    {
+      "title": "Achieving operational excellence with AI",
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "source": "MIT Technology Review (AI)",
+      "lang": "en",
+      "published": "2026-07-02T15:37:08+00:00",
+      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to&#8230;",
+      "keywords": [
+        "lean",
+        "sigma",
+        "achieving",
+        "operational",
+        "excellence",
+        "frameworks"
+      ]
+    },
+    {
+      "title": "Building the foundation for an autonomous enterprise",
+      "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/",
+      "source": "MIT Technology Review (AI)",
+      "lang": "en",
+      "published": "2026-07-02T12:51:44+00:00",
+      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;",
+      "keywords": [
+        "operational",
+        "building",
+        "foundation",
+        "autonomous",
+        "enterprise",
+        "artificial"
+      ]
+    }
+  ]
+}

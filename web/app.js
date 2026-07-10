@@ -161,11 +161,105 @@
     return 1 + Math.round(((date - week1) / 86400000 - 3 + ((week1.getDay() + 6) % 7)) / 7);
   }
 
+  // ── Archive drawer ─────────────────────────────────────────────
+  // Loads web/data/archive/index.json (idempotent — once per page load)
+  // and wires up the "Frühere Ausgaben" button in the hero. The archive
+  // can grow to many entries, so we paginate the drawer 10 at a time
+  // and show a "Mehr laden" button if there's more.
+  const ARCHIVE_PAGE_SIZE = 10;
+
   function showError(msg) {
     document.querySelector("#headline").textContent = "Fehler beim Laden";
     document.querySelector("#subheadline").textContent = msg;
     document.querySelector("#exec-summary").innerHTML =
       `<p style='color: var(--signal-high);'>${escape(msg)}</p>`;
+  }
+
+  async function loadArchive() {
+    const btn = document.querySelector("#archive-toggle");
+    const drawer = document.querySelector("#archive-drawer");
+    const list = document.querySelector("#archive-list");
+    if (!btn || !drawer || !list) return;
+
+    let index = { editions: [] };
+    try {
+      const res = await fetch("data/archive/index.json", { cache: "no-store" });
+      if (res.ok) index = await res.json();
+    } catch (e) {
+      return;  // no archive yet — silently keep the drawer empty
+    }
+
+    if (!index.editions || index.editions.length === 0) {
+      list.innerHTML = "<p class='archive-empty'>Noch keine früheren Ausgaben.</p>";
+      return;
+    }
+
+    // Update button meta with count
+    const meta = document.querySelector("#archive-toggle-meta");
+    if (meta) meta.textContent = `(${index.editions.length})`;
+
+    let shown = 0;
+    const renderNextBatch = () => {
+      const next = index.editions.slice(shown, shown + ARCHIVE_PAGE_SIZE);
+      next.forEach((ed) => list.appendChild(buildArchiveItem(ed)));
+      shown += next.length;
+      // Remove existing "more" button if present
+      const existingMore = list.querySelector(".archive-more");
+      if (existingMore) existingMore.remove();
+      if (shown < index.editions.length) {
+        const more = document.createElement("button");
+        more.className = "archive-more";
+        more.type = "button";
+        more.textContent = `Ältere Ausgaben laden (${index.editions.length - shown} weitere)`;
+        more.addEventListener("click", () => renderNextBatch());
+        list.appendChild(more);
+      }
+    };
+
+    list.innerHTML = "";
+    renderNextBatch();
+
+    btn.addEventListener("click", () => {
+      drawer.classList.toggle("open");
+      btn.classList.toggle("open");
+    });
+  }
+
+  function buildArchiveItem(ed) {
+    const a = document.createElement("a");
+    a.className = "archive-item";
+    a.href = `data/archive/${ed.id}.json`;
+    a.dataset.editionId = ed.id;
+    const dt = new Date(ed.date || ed.generated_at);
+    const dateStr = dt.toLocaleDateString("de-DE", { day: "2-digit", month: "short", year: "numeric" });
+    a.innerHTML = `
+      <span class="archive-date">${escape(dateStr)}</span>
+      <span class="archive-headline">${escape(ed.headline || "—")}</span>
+      <span class="archive-meta">${ed.article_count || 0} Art.</span>
+    `;
+    a.addEventListener("click", async (ev) => {
+      ev.preventDefault();
+      await loadEdition(`data/archive/${ed.id}.json`, a);
+    });
+    return a;
+  }
+
+  async function loadEdition(url, linkEl) {
+    try {
+      const res = await fetch(url, { cache: "no-store" });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      renderBrief(data);
+      document.querySelectorAll(".archive-item").forEach(el => el.classList.remove("active"));
+      if (linkEl) linkEl.classList.add("active");
+      const byline = document.querySelector("#byline-date");
+      if (byline && data.generated_at) {
+        byline.textContent = new Date(data.generated_at).toLocaleDateString("de-DE", { day: "2-digit", month: "short", year: "numeric" });
+      }
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    } catch (e) {
+      showError(`Konnte die Ausgabe nicht laden: ${e.message}`);
+    }
   }
 
   // Boot

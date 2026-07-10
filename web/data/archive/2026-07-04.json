@@ -1,0 +1,354 @@
+{
+  "generated_at": "2026-07-04T18:00:00+00:00",
+  "edition_id": "2026-07-04",
+  "date": "2026-07-04",
+  "brief": {
+    "headline": "04.07.2026: claude · mistral",
+    "subheadline": "Tageszusammenfassung mit 10 Artikeln aus 2 Quellen.",
+    "executive_summary": "<p>Am 04.07.2026 wurden 10 relevante Branchen-Meldungen aus 2 Quellen erfasst. Die thematischen Schwerpunkte lagen bei claude · mistral.</p><p>Die wichtigsten Meldungen des Tages sind nachfolgend kuratiert — sortiert nach Recency und Quellen-Autorität. Vollständige Artikel-Liste unten.</p>",
+    "trends": [
+      {
+        "title": "pxpipe: Token-Kosten für Claude Code durch Bild-Rendering senken",
+        "what": "Das Open-Source-Tool pxpipe wandelt umfangreiche Texteingaben für Claude Code in kompakte PNG-Bilder um und nutzt dabei aus, dass Anthropic Bilder nach Pixelgröße statt Textinhalt berechnet. Entwickler Steven Chong zeigt Kosteneinsparungen von 59 bis 70 Prozent, allerdings auf Kosten von Genauigkeit",
+        "why": "Gemeldet von The Decoder am 2026-07-04.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Prompting-Tipps für Fable 5: Zuerst die \"unbekannten Unbekannten\" finden",
+        "what": "Anthropic-Entwickler Thariq Shihipar argumentiert, dass bei Claudes neuem Modell Fable 5 erstmals nicht mehr das Modell der Flaschenhals sei, sondern die blinden Flecken der Nutzer. Er beschreibt Techniken wie „Blind Spot Passes\" und strukturierte Interviews, mit denen Programmierer ihre unbewussten",
+        "why": "Gemeldet von The Decoder am 2026-07-04.",
+        "signal": "mittel"
+      },
+      {
+        "title": "\"Fast kein Interface, fast kein Produkt\": OpenAI-Mitgründer skizziert ChatGPT-Vision",
+        "what": "Greg Brockman nennt den Grund für das Scheitern der 2023 groß vermarkteten ChatGPT-Plugins: \"Die Modelle waren damals nicht ansatzweise gut genug.\" Statt App-Erweiterungen sieht er die Zukunft in einem unsichtbaren, kontextbewussten Agenten. Doch OpenAIs eigenes Profi-Tool Codex ist von dieser Visio",
+        "why": "Gemeldet von The Decoder am 2026-07-04.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Bessere Hausaufgaben, schlechtere Prüfungen: Generative KI verursacht Lernverlust bei Schülern",
+        "what": "Eine Studie mit über 26.000 chinesischen Schülern zeigt: Wer generative KI für Hausaufgaben nutzt, erledigt sie schneller und mit besseren Noten, schneidet aber in Klausuren bis zu 24 Prozent schlechter ab. Der volle Lernschaden bei Aufnahmeprüfungen zeigte sich erst nach rund zwei Jahren, was kurzf",
+        "why": "Gemeldet von The Decoder am 2026-07-04.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Anthropic will mit KI Wirkstoffe gegen Krankheiten erforschen, die für Pharmakonzerne unattraktiv sind",
+        "what": "Anthropic startet eigene Medikamentenentwicklung für vernachlässigte Krankheiten, die für die Pharmabranche wirtschaftlich unattraktiv sind. Novartis-CEO Vas Narasimhan schätzt das Potenzial: KI könnte die Entwicklungszeit von zwölf auf sieben bis acht Jahre senken und die Erfolgsquote von 8 auf 16 ",
+        "why": "Gemeldet von The Decoder am 2026-07-04.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Mistral veröffentlicht Open-Source-Modell für formale Mathematik und Code-Verifikation",
+        "what": "Mistral AI veröffentlicht mit Leanstral 1.5 ein Open-Source-Modell für formale Verifikation in Lean 4. Über reine Mathematik hinaus fand das Modell beim Scan von 57 Open-Source-Repositories fünf bisher unbekannte Bugs. Der Artikel Mistral veröffentlicht Open-Source-Modell für formale Mathematik und ",
+        "why": "Gemeldet von The Decoder am 2026-07-04.",
+        "signal": "mittel"
+      }
+    ],
+    "opportunities": [],
+    "top_articles": [
+      {
+        "title": "pxpipe: Token-Kosten für Claude Code durch Bild-Rendering senken",
+        "url": "https://the-decoder.de/pxpipe-token-kosten-fuer-claude-code-durch-bild-rendering-senken/",
+        "source": "The Decoder",
+        "date": "2026-07-04",
+        "why": "Das Open-Source-Tool pxpipe wandelt umfangreiche Texteingaben für Claude Code in kompakte PNG-Bilder um und nutzt dabei aus, dass Anthropic Bilder nach Pixelgröße statt Textinhalt berechnet. Entwickle",
+        "tags": [
+          "pxpipe",
+          "claude",
+          "code",
+          "token-kosten",
+          "durch"
+        ]
+      },
+      {
+        "title": "Prompting-Tipps für Fable 5: Zuerst die \"unbekannten Unbekannten\" finden",
+        "url": "https://the-decoder.de/prompting-tipps-fuer-fable-5-zuerst-die-unbekannten-unbekannten-finden/",
+        "source": "The Decoder",
+        "date": "2026-07-04",
+        "why": "Anthropic-Entwickler Thariq Shihipar argumentiert, dass bei Claudes neuem Modell Fable 5 erstmals nicht mehr das Modell der Flaschenhals sei, sondern die blinden Flecken der Nutzer. Er beschreibt Tech",
+        "tags": [
+          "unbekannten",
+          "fable",
+          "zuerst",
+          "prompting-tipps",
+          "finden"
+        ]
+      },
+      {
+        "title": "\"Fast kein Interface, fast kein Produkt\": OpenAI-Mitgründer skizziert ChatGPT-Vision",
+        "url": "https://the-decoder.de/fast-kein-interface-fast-kein-produkt-openai-mitgruender-skizziert-chatgpt-vision/",
+        "source": "The Decoder",
+        "date": "2026-07-04",
+        "why": "Greg Brockman nennt den Grund für das Scheitern der 2023 groß vermarkteten ChatGPT-Plugins: \"Die Modelle waren damals nicht ansatzweise gut genug.\" Statt App-Erweiterungen sieht er die Zukunft in eine",
+        "tags": [
+          "fast",
+          "kein",
+          "interface",
+          "produkt",
+          "openai-mitgründer"
+        ]
+      },
+      {
+        "title": "Bessere Hausaufgaben, schlechtere Prüfungen: Generative KI verursacht Lernverlust bei Schülern",
+        "url": "https://the-decoder.de/bessere-hausaufgaben-schlechtere-pruefungen-generative-ki-verursacht-lernverlust-bei-schuelern/",
+        "source": "The Decoder",
+        "date": "2026-07-04",
+        "why": "Eine Studie mit über 26.000 chinesischen Schülern zeigt: Wer generative KI für Hausaufgaben nutzt, erledigt sie schneller und mit besseren Noten, schneidet aber in Klausuren bis zu 24 Prozent schlecht",
+        "tags": [
+          "hausaufgaben",
+          "generative",
+          "schülern",
+          "bessere",
+          "schlechtere"
+        ]
+      },
+      {
+        "title": "Anthropic will mit KI Wirkstoffe gegen Krankheiten erforschen, die für Pharmakonzerne unattraktiv sind",
+        "url": "https://the-decoder.de/anthropic-will-mit-ki-wirkstoffe-gegen-krankheiten-erforschen-die-fuer-pharmakonzerne-unattraktiv-sind/",
+        "source": "The Decoder",
+        "date": "2026-07-04",
+        "why": "Anthropic startet eigene Medikamentenentwicklung für vernachlässigte Krankheiten, die für die Pharmabranche wirtschaftlich unattraktiv sind. Novartis-CEO Vas Narasimhan schätzt das Potenzial: KI könnt",
+        "tags": [
+          "anthropic",
+          "krankheiten",
+          "unattraktiv",
+          "will",
+          "wirkstoffe"
+        ]
+      },
+      {
+        "title": "Mistral veröffentlicht Open-Source-Modell für formale Mathematik und Code-Verifikation",
+        "url": "https://the-decoder.de/mistral-veroeffentlicht-open-source-modell-fuer-formale-mathematik-und-code-verifikation/",
+        "source": "The Decoder",
+        "date": "2026-07-04",
+        "why": "Mistral AI veröffentlicht mit Leanstral 1.5 ein Open-Source-Modell für formale Verifikation in Lean 4. Über reine Mathematik hinaus fand das Modell beim Scan von 57 Open-Source-Repositories fünf bishe",
+        "tags": [
+          "mistral",
+          "veröffentlicht",
+          "open-source-modell",
+          "formale",
+          "mathematik"
+        ]
+      },
+      {
+        "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+        "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-07-04",
+        "why": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+        "tags": [
+          "google",
+          "commercial",
+          "declaration",
+          "independence",
+          "imagines"
+        ]
+      },
+      {
+        "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+        "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-07-04",
+        "why": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+        "tags": [
+          "studios",
+          "midjourney",
+          "hollywood",
+          "reveal",
+          "wants"
+        ]
+      },
+      {
+        "title": "Alibaba reportedly bans employees from using Claude Code",
+        "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-07-04",
+        "why": "Alibaba has reportedly classified Claude Code as high-risk software.",
+        "tags": [
+          "alibaba",
+          "reportedly",
+          "claude",
+          "code",
+          "bans"
+        ]
+      },
+      {
+        "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+        "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-07-04",
+        "why": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+        "tags": [
+          "mistral",
+          "what",
+          "everything",
+          "know",
+          "about"
+        ]
+      }
+    ],
+    "action_items": []
+  },
+  "raw_articles": [
+    {
+      "title": "pxpipe: Token-Kosten für Claude Code durch Bild-Rendering senken",
+      "url": "https://the-decoder.de/pxpipe-token-kosten-fuer-claude-code-durch-bild-rendering-senken/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-04T17:52:33+00:00",
+      "summary": "Das Open-Source-Tool pxpipe wandelt umfangreiche Texteingaben für Claude Code in kompakte PNG-Bilder um und nutzt dabei aus, dass Anthropic Bilder nach Pixelgröße statt Textinhalt berechnet. Entwickler Steven Chong zeigt Kosteneinsparungen von 59 bis 70 Prozent, allerdings auf Kosten von Genauigkeit und Geschwindigkeit. Der Artikel pxpipe: Token-Kosten für Claude Code durch Bild-Rendering senken erschien zuerst auf The Decoder .",
+      "keywords": [
+        "pxpipe",
+        "claude",
+        "code",
+        "token-kosten",
+        "durch",
+        "bild-rendering"
+      ]
+    },
+    {
+      "title": "Prompting-Tipps für Fable 5: Zuerst die \"unbekannten Unbekannten\" finden",
+      "url": "https://the-decoder.de/prompting-tipps-fuer-fable-5-zuerst-die-unbekannten-unbekannten-finden/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-04T12:18:51+00:00",
+      "summary": "Anthropic-Entwickler Thariq Shihipar argumentiert, dass bei Claudes neuem Modell Fable 5 erstmals nicht mehr das Modell der Flaschenhals sei, sondern die blinden Flecken der Nutzer. Er beschreibt Techniken wie „Blind Spot Passes\" und strukturierte Interviews, mit denen Programmierer ihre unbewussten Wissenslücken systematisch aufdecken können, bevor sie Claude mit der Umsetzung beauftragen. Der Artikel Prompting-Tipps für Fable 5: Zuerst die &quot;unbekannten Unbekannten&quot; finden erschien zuerst auf The Decoder .",
+      "keywords": [
+        "unbekannten",
+        "fable",
+        "zuerst",
+        "prompting-tipps",
+        "finden",
+        "modell"
+      ]
+    },
+    {
+      "title": "\"Fast kein Interface, fast kein Produkt\": OpenAI-Mitgründer skizziert ChatGPT-Vision",
+      "url": "https://the-decoder.de/fast-kein-interface-fast-kein-produkt-openai-mitgruender-skizziert-chatgpt-vision/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-04T09:38:21+00:00",
+      "summary": "Greg Brockman nennt den Grund für das Scheitern der 2023 groß vermarkteten ChatGPT-Plugins: \"Die Modelle waren damals nicht ansatzweise gut genug.\" Statt App-Erweiterungen sieht er die Zukunft in einem unsichtbaren, kontextbewussten Agenten. Doch OpenAIs eigenes Profi-Tool Codex ist von dieser Vision noch weit entfernt. Der Artikel &quot;Fast kein Interface, fast kein Produkt&quot;: OpenAI-Mitgründer skizziert ChatGPT-Vision erschien zuerst auf The Decoder .",
+      "keywords": [
+        "fast",
+        "kein",
+        "interface",
+        "produkt",
+        "openai-mitgründer",
+        "skizziert"
+      ]
+    },
+    {
+      "title": "Bessere Hausaufgaben, schlechtere Prüfungen: Generative KI verursacht Lernverlust bei Schülern",
+      "url": "https://the-decoder.de/bessere-hausaufgaben-schlechtere-pruefungen-generative-ki-verursacht-lernverlust-bei-schuelern/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-04T08:42:41+00:00",
+      "summary": "Eine Studie mit über 26.000 chinesischen Schülern zeigt: Wer generative KI für Hausaufgaben nutzt, erledigt sie schneller und mit besseren Noten, schneidet aber in Klausuren bis zu 24 Prozent schlechter ab. Der volle Lernschaden bei Aufnahmeprüfungen zeigte sich erst nach rund zwei Jahren, was kurzfristige Untersuchungen systematisch unterschätzen würden. Der Artikel Bessere Hausaufgaben, schlechtere Prüfungen: Generative KI verursacht Lernverlust bei Schülern erschien zuerst auf The Decoder .",
+      "keywords": [
+        "hausaufgaben",
+        "generative",
+        "schülern",
+        "bessere",
+        "schlechtere",
+        "prüfungen"
+      ]
+    },
+    {
+      "title": "Anthropic will mit KI Wirkstoffe gegen Krankheiten erforschen, die für Pharmakonzerne unattraktiv sind",
+      "url": "https://the-decoder.de/anthropic-will-mit-ki-wirkstoffe-gegen-krankheiten-erforschen-die-fuer-pharmakonzerne-unattraktiv-sind/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-04T08:04:18+00:00",
+      "summary": "Anthropic startet eigene Medikamentenentwicklung für vernachlässigte Krankheiten, die für die Pharmabranche wirtschaftlich unattraktiv sind. Novartis-CEO Vas Narasimhan schätzt das Potenzial: KI könnte die Entwicklungszeit von zwölf auf sieben bis acht Jahre senken und die Erfolgsquote von 8 auf 16 Prozent verdoppeln. Der Artikel Anthropic will mit KI Wirkstoffe gegen Krankheiten erforschen, die für Pharmakonzerne unattraktiv sind erschien zuerst auf The Decoder .",
+      "keywords": [
+        "anthropic",
+        "krankheiten",
+        "unattraktiv",
+        "will",
+        "wirkstoffe",
+        "gegen"
+      ]
+    },
+    {
+      "title": "Mistral veröffentlicht Open-Source-Modell für formale Mathematik und Code-Verifikation",
+      "url": "https://the-decoder.de/mistral-veroeffentlicht-open-source-modell-fuer-formale-mathematik-und-code-verifikation/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-04T07:06:47+00:00",
+      "summary": "Mistral AI veröffentlicht mit Leanstral 1.5 ein Open-Source-Modell für formale Verifikation in Lean 4. Über reine Mathematik hinaus fand das Modell beim Scan von 57 Open-Source-Repositories fünf bisher unbekannte Bugs. Der Artikel Mistral veröffentlicht Open-Source-Modell für formale Mathematik und Code-Verifikation erschien zuerst auf The Decoder .",
+      "keywords": [
+        "mistral",
+        "veröffentlicht",
+        "open-source-modell",
+        "formale",
+        "mathematik",
+        "code-verifikation"
+      ]
+    },
+    {
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-04T20:55:25+00:00",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "keywords": [
+        "google",
+        "commercial",
+        "declaration",
+        "independence",
+        "imagines",
+        "written"
+      ]
+    },
+    {
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-04T18:00:05+00:00",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "keywords": [
+        "studios",
+        "midjourney",
+        "hollywood",
+        "reveal",
+        "wants",
+        "details"
+      ]
+    },
+    {
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-04T16:32:08+00:00",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "keywords": [
+        "alibaba",
+        "reportedly",
+        "claude",
+        "code",
+        "bans",
+        "employees"
+      ]
+    },
+    {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-04T15:51:32+00:00",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "keywords": [
+        "mistral",
+        "what",
+        "everything",
+        "know",
+        "about",
+        "openai"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "generated_at": "2026-06-29T18:00:00+00:00",
+  "edition_id": "2026-06-29",
+  "date": "2026-06-29",
+  "brief": {
+    "headline": "29.06.2026: gemini · personalized",
+    "subheadline": "Tageszusammenfassung mit 13 Artikeln aus 5 Quellen.",
+    "executive_summary": "<p>Am 29.06.2026 wurden 13 relevante Branchen-Meldungen aus 5 Quellen erfasst. Die thematischen Schwerpunkte lagen bei gemini · personalized.</p><p>Die wichtigsten Meldungen des Tages sind nachfolgend kuratiert — sortiert nach Recency und Quellen-Autorität. Vollständige Artikel-Liste unten.</p>",
+    "trends": [
+      {
+        "title": "Gemini’s personalized AI image generation is now free for US users",
+        "what": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-29.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+        "what": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-29.",
+        "signal": "mittel"
+      },
+      {
+        "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+        "what": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-29.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+        "what": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-29.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+        "what": "Cursor has launched a new mobile app for remote oversight over coding agents.",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-29.",
+        "signal": "mittel"
+      },
+      {
+        "title": "TIDAL cracks down on AI music by cutting off monetization",
+        "what": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-29.",
+        "signal": "mittel"
+      }
+    ],
+    "opportunities": [],
+    "top_articles": [
+      {
+        "title": "Gemini’s personalized AI image generation is now free for US users",
+        "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-29",
+        "why": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+        "tags": [
+          "gemini",
+          "personalized",
+          "image",
+          "generation",
+          "free"
+        ]
+      },
+      {
+        "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+        "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-29",
+        "why": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+        "tags": [
+          "anthropic",
+          "california",
+          "government",
+          "newsom",
+          "forge"
+        ]
+      },
+      {
+        "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+        "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-29",
+        "why": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+        "tags": [
+          "south",
+          "tech",
+          "memory",
+          "korean",
+          "giants"
+        ]
+      },
+      {
+        "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+        "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-29",
+        "why": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+        "tags": [
+          "leaderboard",
+          "arena",
+          "everyone",
+          "uses",
+          "100m"
+        ]
+      },
+      {
+        "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+        "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-29",
+        "why": "Cursor has launched a new mobile app for remote oversight over coding agents.",
+        "tags": [
+          "cursor",
+          "mobile",
+          "coding",
+          "guiding",
+          "your"
+        ]
+      },
+      {
+        "title": "TIDAL cracks down on AI music by cutting off monetization",
+        "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-29",
+        "why": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
+        "tags": [
+          "tidal",
+          "music",
+          "cracks",
+          "down",
+          "cutting"
+        ]
+      },
+      {
+        "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+        "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-29",
+        "why": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+        "tags": [
+          "robot",
+          "hand",
+          "company",
+          "settles",
+          "tesla"
+        ]
+      },
+      {
+        "title": "Omen AI’s plan to optimize data centers is all wet",
+        "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-29",
+        "why": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
+        "tags": [
+          "omen",
+          "data",
+          "centers",
+          "plan",
+          "optimize"
+        ]
+      },
+      {
+        "title": "AI agents are not your “coworkers”",
+        "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+        "source": "MIT Technology Review (AI)",
+        "date": "2026-06-29",
+        "why": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will r",
+        "tags": [
+          "your",
+          "agents",
+          "coworkers",
+          "story",
+          "originally"
+        ]
+      },
+      {
+        "title": "Agent confidence on the technical frontier",
+        "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+        "source": "MIT Technology Review (AI)",
+        "date": "2026-06-29",
+        "why": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mount",
+        "tags": [
+          "their",
+          "agent",
+          "confidence",
+          "technical",
+          "frontier"
+        ]
+      }
+    ],
+    "action_items": []
+  },
+  "raw_articles": [
+    {
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-29T20:12:59+00:00",
+      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+      "keywords": [
+        "gemini",
+        "personalized",
+        "image",
+        "generation",
+        "free",
+        "users"
+      ]
+    },
+    {
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-29T18:10:26+00:00",
+      "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+      "keywords": [
+        "anthropic",
+        "california",
+        "government",
+        "newsom",
+        "forge",
+        "deal"
+      ]
+    },
+    {
+      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-29T18:07:48+00:00",
+      "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+      "keywords": [
+        "south",
+        "tech",
+        "memory",
+        "korean",
+        "giants",
+        "commit"
+      ]
+    },
+    {
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-29T17:39:17+00:00",
+      "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+      "keywords": [
+        "leaderboard",
+        "arena",
+        "everyone",
+        "uses",
+        "100m",
+        "business"
+      ]
+    },
+    {
+      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-29T17:03:50+00:00",
+      "summary": "Cursor has launched a new mobile app for remote oversight over coding agents.",
+      "keywords": [
+        "cursor",
+        "mobile",
+        "coding",
+        "guiding",
+        "your",
+        "agent"
+      ]
+    },
+    {
+      "title": "TIDAL cracks down on AI music by cutting off monetization",
+      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-29T16:29:04+00:00",
+      "summary": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
+      "keywords": [
+        "tidal",
+        "music",
+        "cracks",
+        "down",
+        "cutting",
+        "monetization"
+      ]
+    },
+    {
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-29T14:00:08+00:00",
+      "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+      "keywords": [
+        "robot",
+        "hand",
+        "company",
+        "settles",
+        "tesla",
+        "trade"
+      ]
+    },
+    {
+      "title": "Omen AI’s plan to optimize data centers is all wet",
+      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-29T13:00:00+00:00",
+      "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
+      "keywords": [
+        "omen",
+        "data",
+        "centers",
+        "plan",
+        "optimize",
+        "raised"
+      ]
+    },
+    {
+      "title": "AI agents are not your “coworkers”",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "source": "MIT Technology Review (AI)",
+      "lang": "en",
+      "published": "2026-06-29T18:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an&#8230;",
+      "keywords": [
+        "your",
+        "agents",
+        "coworkers",
+        "story",
+        "originally",
+        "appeared"
+      ]
+    },
+    {
+      "title": "Agent confidence on the technical frontier",
+      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "source": "MIT Technology Review (AI)",
+      "lang": "en",
+      "published": "2026-06-29T14:44:01+00:00",
+      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents&#8230;",
+      "keywords": [
+        "their",
+        "agent",
+        "confidence",
+        "technical",
+        "frontier",
+        "enterprise"
+      ]
+    },
+    {
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "published": "2026-06-29T07:00:00+00:00",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "keywords": [
+        "mapping",
+        "europe",
+        "workforce",
+        "opportunity",
+        "openai",
+        "report"
+      ]
+    },
+    {
+      "title": "Ask an AI expert: What exactly is the full stack?",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+      "source": "Google AI Blog",
+      "lang": "en",
+      "published": "2026-06-29T16:00:00+00:00",
+      "summary": "An illustration depicting a full-stack AI infrastructure against a dark background",
+      "keywords": [
+        "expert",
+        "what",
+        "exactly",
+        "full",
+        "stack",
+        "illustration"
+      ]
+    },
+    {
+      "title": "DiScoFormer: One transformer for density and score, across distributions",
+      "url": "https://huggingface.co/blog/allenai/discoformer",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "published": "2026-06-29T18:02:48+00:00",
+      "summary": "",
+      "keywords": [
+        "discoformer",
+        "transformer",
+        "density",
+        "score",
+        "across",
+        "distributions"
+      ]
+    }
+  ]
+}

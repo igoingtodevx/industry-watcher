@@ -1,0 +1,230 @@
+{
+  "generated_at": "2026-06-17T18:00:00+00:00",
+  "edition_id": "2026-06-17",
+  "date": "2026-06-17",
+  "brief": {
+    "headline": "17.06.2026: quantensensor · besteht",
+    "subheadline": "Tageszusammenfassung mit 6 Artikeln aus 3 Quellen.",
+    "executive_summary": "<p>Am 17.06.2026 wurden 6 relevante Branchen-Meldungen aus 3 Quellen erfasst. Die thematischen Schwerpunkte lagen bei quantensensor · besteht.</p><p>Die wichtigsten Meldungen des Tages sind nachfolgend kuratiert — sortiert nach Recency und Quellen-Autorität. Vollständige Artikel-Liste unten.</p>",
+    "trends": [
+      {
+        "title": "Quantensensor besteht Stresstest: Jagd auf Dunkle Materie rückt näher",
+        "what": "Ein Experiment am Imperial College zeigt, wie Quantensensoren trotz massivem Rauschen schwache Signale sichtbar machen können. Der Beitrag Quantensensor besteht Stresstest: Jagd auf Dunkle Materie rückt näher erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+        "why": "Gemeldet von Ingenieur.de am 2026-06-17.",
+        "signal": "mittel"
+      },
+      {
+        "title": "DeepL macht ernst im Silicon Valley, auf Kosten der KI-Souveränität?",
+        "what": "DeepL expandiert in die USA, eröffnet ein Büro in San Francisco und setzt künftig auf AWS. Verliert Europas KI-Vorzeigeunternehmen seine digitale Unabhängigkeit? Der Beitrag DeepL macht ernst im Silicon Valley, auf Kosten der KI-Souveränität? erschien zuerst auf ingenieur.de - Jobbörse und Nachricht",
+        "why": "Gemeldet von Ingenieur.de am 2026-06-17.",
+        "signal": "mittel"
+      },
+      {
+        "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+        "what": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+        "why": "Gemeldet von Google AI Blog am 2026-06-17.",
+        "signal": "mittel"
+      },
+      {
+        "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+        "what": "",
+        "why": "Gemeldet von Hugging Face Blog am 2026-06-17.",
+        "signal": "mittel"
+      },
+      {
+        "title": "GLM-5.2: Built for Long-Horizon Tasks",
+        "what": "",
+        "why": "Gemeldet von Hugging Face Blog am 2026-06-17.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Agentic Resource Discovery: Let agents search",
+        "what": "",
+        "why": "Gemeldet von Hugging Face Blog am 2026-06-17.",
+        "signal": "mittel"
+      }
+    ],
+    "opportunities": [],
+    "top_articles": [
+      {
+        "title": "Quantensensor besteht Stresstest: Jagd auf Dunkle Materie rückt näher",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/rekorde/quantensensor-besteht-stresstest-jagd-auf-dunkle-materie-rueckt-naeher/",
+        "source": "Ingenieur.de",
+        "date": "2026-06-17",
+        "why": "Ein Experiment am Imperial College zeigt, wie Quantensensoren trotz massivem Rauschen schwache Signale sichtbar machen können. Der Beitrag Quantensensor besteht Stresstest: Jagd auf Dunkle Materie rüc",
+        "tags": [
+          "quantensensor",
+          "besteht",
+          "stresstest",
+          "jagd",
+          "dunkle"
+        ]
+      },
+      {
+        "title": "DeepL macht ernst im Silicon Valley, auf Kosten der KI-Souveränität?",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/kuenstliche-intelligenz/deepls-strategiewechsel-vom-europa-vorbild-zum-global-player/",
+        "source": "Ingenieur.de",
+        "date": "2026-06-17",
+        "why": "DeepL expandiert in die USA, eröffnet ein Büro in San Francisco und setzt künftig auf AWS. Verliert Europas KI-Vorzeigeunternehmen seine digitale Unabhängigkeit? Der Beitrag DeepL macht ernst im Silic",
+        "tags": [
+          "deepl",
+          "macht",
+          "ernst",
+          "silicon",
+          "valley"
+        ]
+      },
+      {
+        "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+        "source": "Google AI Blog",
+        "date": "2026-06-17",
+        "why": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+        "tags": [
+          "research",
+          "shows",
+          "amie",
+          "medical",
+          "could"
+        ]
+      },
+      {
+        "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+        "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+        "source": "Hugging Face Blog",
+        "date": "2026-06-17",
+        "why": "",
+        "tags": [
+          "hugging",
+          "face",
+          "robot",
+          "hardware",
+          "strands"
+        ]
+      },
+      {
+        "title": "GLM-5.2: Built for Long-Horizon Tasks",
+        "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+        "source": "Hugging Face Blog",
+        "date": "2026-06-17",
+        "why": "",
+        "tags": [
+          "glm-5",
+          "built",
+          "long-horizon",
+          "tasks"
+        ]
+      },
+      {
+        "title": "Agentic Resource Discovery: Let agents search",
+        "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+        "source": "Hugging Face Blog",
+        "date": "2026-06-17",
+        "why": "",
+        "tags": [
+          "agentic",
+          "resource",
+          "discovery",
+          "agents",
+          "search"
+        ]
+      }
+    ],
+    "action_items": []
+  },
+  "raw_articles": [
+    {
+      "title": "Quantensensor besteht Stresstest: Jagd auf Dunkle Materie rückt näher",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/rekorde/quantensensor-besteht-stresstest-jagd-auf-dunkle-materie-rueckt-naeher/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-06-17T18:30:47+00:00",
+      "summary": "Ein Experiment am Imperial College zeigt, wie Quantensensoren trotz massivem Rauschen schwache Signale sichtbar machen können. Der Beitrag Quantensensor besteht Stresstest: Jagd auf Dunkle Materie rückt näher erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "quantensensor",
+        "besteht",
+        "stresstest",
+        "jagd",
+        "dunkle",
+        "materie"
+      ]
+    },
+    {
+      "title": "DeepL macht ernst im Silicon Valley, auf Kosten der KI-Souveränität?",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/kuenstliche-intelligenz/deepls-strategiewechsel-vom-europa-vorbild-zum-global-player/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-06-17T18:00:00+00:00",
+      "summary": "DeepL expandiert in die USA, eröffnet ein Büro in San Francisco und setzt künftig auf AWS. Verliert Europas KI-Vorzeigeunternehmen seine digitale Unabhängigkeit? Der Beitrag DeepL macht ernst im Silicon Valley, auf Kosten der KI-Souveränität? erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "deepl",
+        "macht",
+        "ernst",
+        "silicon",
+        "valley",
+        "kosten"
+      ]
+    },
+    {
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "source": "Google AI Blog",
+      "lang": "en",
+      "published": "2026-06-17T15:00:00+00:00",
+      "summary": "Research in “Nature” shows our conversational AI system matches primary care physicians in complex disease management.",
+      "keywords": [
+        "research",
+        "shows",
+        "amie",
+        "medical",
+        "could",
+        "help"
+      ]
+    },
+    {
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "published": "2026-06-17T10:18:05+00:00",
+      "summary": "",
+      "keywords": [
+        "hugging",
+        "face",
+        "robot",
+        "hardware",
+        "strands",
+        "agents"
+      ]
+    },
+    {
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "published": "2026-06-17T09:01:25+00:00",
+      "summary": "",
+      "keywords": [
+        "glm-5",
+        "built",
+        "long-horizon",
+        "tasks"
+      ]
+    },
+    {
+      "title": "Agentic Resource Discovery: Let agents search",
+      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "published": "2026-06-17T00:00:00+00:00",
+      "summary": "",
+      "keywords": [
+        "agentic",
+        "resource",
+        "discovery",
+        "agents",
+        "search"
+      ]
+    }
+  ]
+}

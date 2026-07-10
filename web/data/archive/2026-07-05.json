@@ -1,0 +1,324 @@
+{
+  "generated_at": "2026-07-05T18:00:00+00:00",
+  "edition_id": "2026-07-05",
+  "date": "2026-07-05",
+  "brief": {
+    "headline": "05.07.2026: code · build",
+    "subheadline": "Tageszusammenfassung mit 9 Artikeln aus 3 Quellen.",
+    "executive_summary": "<p>Am 05.07.2026 wurden 9 relevante Branchen-Meldungen aus 3 Quellen erfasst. Die thematischen Schwerpunkte lagen bei code · build.</p><p>Die wichtigsten Meldungen des Tages sind nachfolgend kuratiert — sortiert nach Recency und Quellen-Autorität. Vollständige Artikel-Liste unten.</p>",
+    "trends": [
+      {
+        "title": "Erster Build in 40 Minuten: Claude Code mit Fable 5 portiert \"Command & Conquer Generals\" auf iOS",
+        "what": "Ein Google-Deepmind-Entwickler hat das Echtzeit-Strategiespiel \"Command &#038; Conquer: Generals Zero Hour\" von 2003 mit Anthropics Claude Code auf iPhone und iPad portiert. Der erste Build stand nach 40 Minuten. Den Code gibt es als Open Source auf GitHub. Der Artikel Erster Build in 40 Minuten: Cl",
+        "why": "Gemeldet von The Decoder am 2026-07-05.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Baidus \"Unlimited OCR\" transkribiert ganze Bücher in einem Durchgang",
+        "what": "Baidu stellt mit Unlimited OCR ein Modell vor, das dutzende Dokumentseiten in einem einzigen Durchlauf lesen kann; bisherige Systeme schaffen kaum mehr als zehn. Ein umgebauter Aufmerksamkeitsmechanismus sorgt dafür, dass der Speicherverbrauch dabei konstant bleibt, statt mit jeder Seite weiter anzu",
+        "why": "Gemeldet von The Decoder am 2026-07-05.",
+        "signal": "mittel"
+      },
+      {
+        "title": "KI-Privatschulen punkten bei der US-Geldelite mit personalisiertem Lernen statt klassischem Unterricht",
+        "what": "Wohlhabende US-Familien schicken ihre Kinder zunehmend an KI-Schulen wie die Alpha School, die zwei Stunden KI-Tutoring mit projektbasierten Workshops kombiniert: für bis zu 75.000 Dollar Schulgeld pro Jahr. Milliardär Bill Ackman gehört zu den prominenten Fans. Die Entwicklung unterstreicht die wac",
+        "why": "Gemeldet von The Decoder am 2026-07-05.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Mistral-Gründer Mensch: Wer auf proprietäre KI-Modelle setzt, riskiert sein Geschäftsgeheimnis",
+        "what": "Mistral-Gründer Arthur Mensch warnt Unternehmen davor, sich auf geschlossene KI-Modelle zu verlassen – Anbieter speicherten zunehmend Kundendaten und hätten diese teils genutzt, um Kunden als Konkurrenten anzugreifen. Die Warnung ist berechtigt, aber zur Wahrheit gehört auch: Mistral kann den Fronti",
+        "why": "Gemeldet von The Decoder am 2026-07-05.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Bytedances Videomodell \"Seedance\" empört Hollywood – und wird dort trotzdem heimlich genutzt",
+        "what": "Bytedances KI-Videotool Seedance spaltet Hollywood: Ein viraler Clip mit KI-generierten Brad Pitt und Tom Cruise provozierte ein Unterlassungsschreiben der Motion Picture Association. Doch hinter den Kulissen nutzen Studios das Tool laut Simpsons-Produzent Joel Kuwahara nach dem Prinzip \"don't ask, ",
+        "why": "Gemeldet von The Decoder am 2026-07-05.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Mehr Suchen hilft nicht: KI-Agenten brauchen bessere Rückfrage-Strategien",
+        "what": "KI-Suchagenten scheitern bei mehrstufigen Recherchen selten an der Suche selbst. Ihr eigentliches Problem liegt darin, bei mehrdeutigen Anfragen rechtzeitig beim Nutzer nachzufragen. Der neue Benchmark DiscoBench zeigt, dass Modelle, die mehrfach suchen statt zu fragen, mit 51,9 Prozent sogar schlec",
+        "why": "Gemeldet von The Decoder am 2026-07-05.",
+        "signal": "mittel"
+      }
+    ],
+    "opportunities": [],
+    "top_articles": [
+      {
+        "title": "Erster Build in 40 Minuten: Claude Code mit Fable 5 portiert \"Command & Conquer Generals\" auf iOS",
+        "url": "https://the-decoder.de/erster-build-in-40-minuten-claude-code-mit-fable-5-portiert-command-conquer-generals-auf-ios/",
+        "source": "The Decoder",
+        "date": "2026-07-05",
+        "why": "Ein Google-Deepmind-Entwickler hat das Echtzeit-Strategiespiel \"Command &#038; Conquer: Generals Zero Hour\" von 2003 mit Anthropics Claude Code auf iPhone und iPad portiert. Der erste Build stand nach",
+        "tags": [
+          "code",
+          "build",
+          "minuten",
+          "claude",
+          "portiert"
+        ]
+      },
+      {
+        "title": "Baidus \"Unlimited OCR\" transkribiert ganze Bücher in einem Durchgang",
+        "url": "https://the-decoder.de/baidus-unlimited-ocr-transkribiert-ganze-buecher-in-einem-durchgang/",
+        "source": "The Decoder",
+        "date": "2026-07-05",
+        "why": "Baidu stellt mit Unlimited OCR ein Modell vor, das dutzende Dokumentseiten in einem einzigen Durchlauf lesen kann; bisherige Systeme schaffen kaum mehr als zehn. Ein umgebauter Aufmerksamkeitsmechanis",
+        "tags": [
+          "unlimited",
+          "baidus",
+          "transkribiert",
+          "ganze",
+          "bücher"
+        ]
+      },
+      {
+        "title": "KI-Privatschulen punkten bei der US-Geldelite mit personalisiertem Lernen statt klassischem Unterricht",
+        "url": "https://the-decoder.de/ki-privatschulen-punkten-bei-der-us-geldelite-mit-personalisiertem-lernen-statt-klassischem-unterricht/",
+        "source": "The Decoder",
+        "date": "2026-07-05",
+        "why": "Wohlhabende US-Familien schicken ihre Kinder zunehmend an KI-Schulen wie die Alpha School, die zwei Stunden KI-Tutoring mit projektbasierten Workshops kombiniert: für bis zu 75.000 Dollar Schulgeld pr",
+        "tags": [
+          "ki-privatschulen",
+          "punkten",
+          "us-geldelite",
+          "personalisiertem",
+          "lernen"
+        ]
+      },
+      {
+        "title": "Mistral-Gründer Mensch: Wer auf proprietäre KI-Modelle setzt, riskiert sein Geschäftsgeheimnis",
+        "url": "https://the-decoder.de/mistral-gruender-mensch-wer-auf-geschlossene-ki-setzt-riskiert-sein-geschaeftsgeheimnis/",
+        "source": "The Decoder",
+        "date": "2026-07-05",
+        "why": "Mistral-Gründer Arthur Mensch warnt Unternehmen davor, sich auf geschlossene KI-Modelle zu verlassen – Anbieter speicherten zunehmend Kundendaten und hätten diese teils genutzt, um Kunden als Konkurre",
+        "tags": [
+          "mistral-gründer",
+          "mensch",
+          "ki-modelle",
+          "setzt",
+          "proprietäre"
+        ]
+      },
+      {
+        "title": "Bytedances Videomodell \"Seedance\" empört Hollywood – und wird dort trotzdem heimlich genutzt",
+        "url": "https://the-decoder.de/bytedances-videomodell-seedance-empoert-hollywood-und-wird-dort-trotzdem-heimlich-genutzt/",
+        "source": "The Decoder",
+        "date": "2026-07-05",
+        "why": "Bytedances KI-Videotool Seedance spaltet Hollywood: Ein viraler Clip mit KI-generierten Brad Pitt und Tom Cruise provozierte ein Unterlassungsschreiben der Motion Picture Association. Doch hinter den ",
+        "tags": [
+          "bytedances",
+          "seedance",
+          "hollywood",
+          "videomodell",
+          "empört"
+        ]
+      },
+      {
+        "title": "Mehr Suchen hilft nicht: KI-Agenten brauchen bessere Rückfrage-Strategien",
+        "url": "https://the-decoder.de/mehr-suchen-hilft-nicht-ki-agenten-brauchen-bessere-rueckfrage-strategien/",
+        "source": "The Decoder",
+        "date": "2026-07-05",
+        "why": "KI-Suchagenten scheitern bei mehrstufigen Recherchen selten an der Suche selbst. Ihr eigentliches Problem liegt darin, bei mehrdeutigen Anfragen rechtzeitig beim Nutzer nachzufragen. Der neue Benchmar",
+        "tags": [
+          "suchen",
+          "mehr",
+          "hilft",
+          "nicht",
+          "ki-agenten"
+        ]
+      },
+      {
+        "title": "Der Asphalt schwitzt: Deutschlands Straßen sind nicht für 40 Grad gebaut",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/bau/die-strasse-wird-heisser-und-asphalt-kommt-an-seine-grenzen/",
+        "source": "Ingenieur.de",
+        "date": "2026-07-05",
+        "why": "Der Klimawandel macht Asphalt zum Technikthema: Hitze, Arbeitsschutz und Recycling verändern den Straßenbau. Der Beitrag Der Asphalt schwitzt: Deutschlands Straßen sind nicht für 40 Grad gebaut erschi",
+        "tags": [
+          "asphalt",
+          "schwitzt",
+          "deutschlands",
+          "straßen",
+          "nicht"
+        ]
+      },
+      {
+        "title": "Madeleine und Karen graben Londons schwierigsten HS2-Abschnitt",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/bau/madeleine-und-karen-graben-londons-schwierigsten-hs2-abschnitt/",
+        "source": "Ingenieur.de",
+        "date": "2026-07-05",
+        "why": "Zwei Herrenknecht-Maschinen treiben den 7,2 km langen Euston-Tunnel voran. Die Technik dahinter ist komplex. Der Beitrag Madeleine und Karen graben Londons schwierigsten HS2-Abschnitt erschien zuerst ",
+        "tags": [
+          "madeleine",
+          "karen",
+          "graben",
+          "londons",
+          "schwierigsten"
+        ]
+      },
+      {
+        "title": "Amazon will stop accepting new customers for Mechanical Turk",
+        "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-07-05",
+        "why": "These may be the last days of Amazon’s Mechanical Turk.",
+        "tags": [
+          "amazon",
+          "mechanical",
+          "turk",
+          "will",
+          "stop"
+        ]
+      }
+    ],
+    "action_items": []
+  },
+  "raw_articles": [
+    {
+      "title": "Erster Build in 40 Minuten: Claude Code mit Fable 5 portiert \"Command & Conquer Generals\" auf iOS",
+      "url": "https://the-decoder.de/erster-build-in-40-minuten-claude-code-mit-fable-5-portiert-command-conquer-generals-auf-ios/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-05T15:45:56+00:00",
+      "summary": "Ein Google-Deepmind-Entwickler hat das Echtzeit-Strategiespiel \"Command &#038; Conquer: Generals Zero Hour\" von 2003 mit Anthropics Claude Code auf iPhone und iPad portiert. Der erste Build stand nach 40 Minuten. Den Code gibt es als Open Source auf GitHub. Der Artikel Erster Build in 40 Minuten: Claude Code mit Fable 5 portiert &quot;Command &#038; Conquer Generals&quot; auf iOS erschien zuerst auf The Decoder .",
+      "keywords": [
+        "code",
+        "build",
+        "minuten",
+        "claude",
+        "portiert",
+        "command"
+      ]
+    },
+    {
+      "title": "Baidus \"Unlimited OCR\" transkribiert ganze Bücher in einem Durchgang",
+      "url": "https://the-decoder.de/baidus-unlimited-ocr-transkribiert-ganze-buecher-in-einem-durchgang/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-05T11:57:07+00:00",
+      "summary": "Baidu stellt mit Unlimited OCR ein Modell vor, das dutzende Dokumentseiten in einem einzigen Durchlauf lesen kann; bisherige Systeme schaffen kaum mehr als zehn. Ein umgebauter Aufmerksamkeitsmechanismus sorgt dafür, dass der Speicherverbrauch dabei konstant bleibt, statt mit jeder Seite weiter anzusteigen. Im wichtigsten Benchmark führt das Modell derzeit die Rangliste an. Der Artikel Baidus &quot;Unlimited OCR&quot; transkribiert ganze Bücher in einem Durchgang erschien zuerst auf The Decoder .",
+      "keywords": [
+        "unlimited",
+        "baidus",
+        "transkribiert",
+        "ganze",
+        "bücher",
+        "durchgang"
+      ]
+    },
+    {
+      "title": "KI-Privatschulen punkten bei der US-Geldelite mit personalisiertem Lernen statt klassischem Unterricht",
+      "url": "https://the-decoder.de/ki-privatschulen-punkten-bei-der-us-geldelite-mit-personalisiertem-lernen-statt-klassischem-unterricht/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-05T10:35:46+00:00",
+      "summary": "Wohlhabende US-Familien schicken ihre Kinder zunehmend an KI-Schulen wie die Alpha School, die zwei Stunden KI-Tutoring mit projektbasierten Workshops kombiniert: für bis zu 75.000 Dollar Schulgeld pro Jahr. Milliardär Bill Ackman gehört zu den prominenten Fans. Die Entwicklung unterstreicht die wachsende Bildungskluft im KI-Zeitalter. Der Artikel KI-Privatschulen punkten bei der US-Geldelite mit personalisiertem Lernen statt klassischem Unterricht erschien zuerst auf The Decoder .",
+      "keywords": [
+        "ki-privatschulen",
+        "punkten",
+        "us-geldelite",
+        "personalisiertem",
+        "lernen",
+        "statt"
+      ]
+    },
+    {
+      "title": "Mistral-Gründer Mensch: Wer auf proprietäre KI-Modelle setzt, riskiert sein Geschäftsgeheimnis",
+      "url": "https://the-decoder.de/mistral-gruender-mensch-wer-auf-geschlossene-ki-setzt-riskiert-sein-geschaeftsgeheimnis/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-05T09:30:06+00:00",
+      "summary": "Mistral-Gründer Arthur Mensch warnt Unternehmen davor, sich auf geschlossene KI-Modelle zu verlassen – Anbieter speicherten zunehmend Kundendaten und hätten diese teils genutzt, um Kunden als Konkurrenten anzugreifen. Die Warnung ist berechtigt, aber zur Wahrheit gehört auch: Mistral kann den Frontier-Modellen von OpenAI oder Anthropic leistungsmäßig wenig entgegensetzen und setzt strategisch auf EU-Souveränität. Der Artikel Mistral-Gründer Mensch: Wer auf proprietäre KI-Modelle setzt, riskiert sein Geschäftsgeheimnis erschien zuerst auf The Decoder .",
+      "keywords": [
+        "mistral-gründer",
+        "mensch",
+        "ki-modelle",
+        "setzt",
+        "proprietäre",
+        "riskiert"
+      ]
+    },
+    {
+      "title": "Bytedances Videomodell \"Seedance\" empört Hollywood – und wird dort trotzdem heimlich genutzt",
+      "url": "https://the-decoder.de/bytedances-videomodell-seedance-empoert-hollywood-und-wird-dort-trotzdem-heimlich-genutzt/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-05T08:55:36+00:00",
+      "summary": "Bytedances KI-Videotool Seedance spaltet Hollywood: Ein viraler Clip mit KI-generierten Brad Pitt und Tom Cruise provozierte ein Unterlassungsschreiben der Motion Picture Association. Doch hinter den Kulissen nutzen Studios das Tool laut Simpsons-Produzent Joel Kuwahara nach dem Prinzip \"don't ask, don't tell\". Bytedance wirbt derweil mit Events, US-Stellenausschreibungen und Filmfinanzierung offensiv um die Branche. Der Artikel Bytedances Videomodell &quot;Seedance&quot; empört Hollywood – und wird dort trotzdem heimlich genutzt erschien zuerst auf The Decoder .",
+      "keywords": [
+        "bytedances",
+        "seedance",
+        "hollywood",
+        "videomodell",
+        "empört",
+        "wird"
+      ]
+    },
+    {
+      "title": "Mehr Suchen hilft nicht: KI-Agenten brauchen bessere Rückfrage-Strategien",
+      "url": "https://the-decoder.de/mehr-suchen-hilft-nicht-ki-agenten-brauchen-bessere-rueckfrage-strategien/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-05T07:30:17+00:00",
+      "summary": "KI-Suchagenten scheitern bei mehrstufigen Recherchen selten an der Suche selbst. Ihr eigentliches Problem liegt darin, bei mehrdeutigen Anfragen rechtzeitig beim Nutzer nachzufragen. Der neue Benchmark DiscoBench zeigt, dass Modelle, die mehrfach suchen statt zu fragen, mit 51,9 Prozent sogar schlechter abschneiden als solche, die direkt raten. Selbst das beste Modell kommt nur auf 43 Prozent Gesamtgenauigkeit. Wird die Mehrdeutigkeit aus den Fragen entfernt, steigt die Genauigkeit um bis zu 40 Prozentpunkte. Der Artikel Mehr Suchen hilft nicht: KI-Agenten brauchen bessere Rückfrage-Strategien",
+      "keywords": [
+        "suchen",
+        "mehr",
+        "hilft",
+        "nicht",
+        "ki-agenten",
+        "brauchen"
+      ]
+    },
+    {
+      "title": "Der Asphalt schwitzt: Deutschlands Straßen sind nicht für 40 Grad gebaut",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/bau/die-strasse-wird-heisser-und-asphalt-kommt-an-seine-grenzen/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-07-05T10:27:57+00:00",
+      "summary": "Der Klimawandel macht Asphalt zum Technikthema: Hitze, Arbeitsschutz und Recycling verändern den Straßenbau. Der Beitrag Der Asphalt schwitzt: Deutschlands Straßen sind nicht für 40 Grad gebaut erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "asphalt",
+        "schwitzt",
+        "deutschlands",
+        "straßen",
+        "nicht",
+        "grad"
+      ]
+    },
+    {
+      "title": "Madeleine und Karen graben Londons schwierigsten HS2-Abschnitt",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/bau/madeleine-und-karen-graben-londons-schwierigsten-hs2-abschnitt/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-07-05T09:26:07+00:00",
+      "summary": "Zwei Herrenknecht-Maschinen treiben den 7,2 km langen Euston-Tunnel voran. Die Technik dahinter ist komplex. Der Beitrag Madeleine und Karen graben Londons schwierigsten HS2-Abschnitt erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "madeleine",
+        "karen",
+        "graben",
+        "londons",
+        "schwierigsten",
+        "hs2-abschnitt"
+      ]
+    },
+    {
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-05T17:43:36+00:00",
+      "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+      "keywords": [
+        "amazon",
+        "mechanical",
+        "turk",
+        "will",
+        "stop",
+        "accepting"
+      ]
+    }
+  ]
+}

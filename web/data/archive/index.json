@@ -1,0 +1,188 @@
+{
+  "generated_at": "2026-07-10T21:22:13.171505+00:00",
+  "edition_count": 26,
+  "editions": [
+    {
+      "id": "2026-07-10",
+      "date": "2026-07-10",
+      "article_count": 80,
+      "headline": "10.07.2026: openai · atlas",
+      "path": "archive/2026-07-10.json"
+    },
+    {
+      "id": "2026-07-09",
+      "date": "2026-07-09",
+      "article_count": 45,
+      "headline": "09.07.2026: openai · https",
+      "path": "archive/2026-07-09.json"
+    },
+    {
+      "id": "2026-07-08",
+      "date": "2026-07-08",
+      "article_count": 34,
+      "headline": "08.07.2026: https · comments",
+      "path": "archive/2026-07-08.json"
+    },
+    {
+      "id": "2026-07-07",
+      "date": "2026-07-07",
+      "article_count": 30,
+      "headline": "07.07.2026: https · comments",
+      "path": "archive/2026-07-07.json"
+    },
+    {
+      "id": "2026-07-06",
+      "date": "2026-07-06",
+      "article_count": 36,
+      "headline": "06.07.2026: comments · https",
+      "path": "archive/2026-07-06.json"
+    },
+    {
+      "id": "2026-07-05",
+      "date": "2026-07-05",
+      "article_count": 9,
+      "headline": "05.07.2026: code · build",
+      "path": "archive/2026-07-05.json"
+    },
+    {
+      "id": "2026-07-04",
+      "date": "2026-07-04",
+      "article_count": 10,
+      "headline": "04.07.2026: claude · mistral",
+      "path": "archive/2026-07-04.json"
+    },
+    {
+      "id": "2026-07-03",
+      "date": "2026-07-03",
+      "article_count": 11,
+      "headline": "03.07.2026: ki-agenten · hintergrund",
+      "path": "archive/2026-07-03.json"
+    },
+    {
+      "id": "2026-07-02",
+      "date": "2026-07-02",
+      "article_count": 17,
+      "headline": "02.07.2026: microsoft · anthropic",
+      "path": "archive/2026-07-02.json"
+    },
+    {
+      "id": "2026-07-01",
+      "date": "2026-07-01",
+      "article_count": 27,
+      "headline": "01.07.2026: meta · spacex",
+      "path": "archive/2026-07-01.json"
+    },
+    {
+      "id": "2026-06-30",
+      "date": "2026-06-30",
+      "article_count": 33,
+      "headline": "30.06.2026: claude · science",
+      "path": "archive/2026-06-30.json"
+    },
+    {
+      "id": "2026-06-29",
+      "date": "2026-06-29",
+      "article_count": 13,
+      "headline": "29.06.2026: gemini · personalized",
+      "path": "archive/2026-06-29.json"
+    },
+    {
+      "id": "2026-06-28",
+      "date": "2026-06-28",
+      "article_count": 3,
+      "headline": "28.06.2026: ford · rehires",
+      "path": "archive/2026-06-28.json"
+    },
+    {
+      "id": "2026-06-27",
+      "date": "2026-06-27",
+      "article_count": 5,
+      "headline": "27.06.2026: elon · musk",
+      "path": "archive/2026-06-27.json"
+    },
+    {
+      "id": "2026-06-26",
+      "date": "2026-06-26",
+      "article_count": 8,
+      "headline": "26.06.2026: openai · government",
+      "path": "archive/2026-06-26.json"
+    },
+    {
+      "id": "2026-06-25",
+      "date": "2026-06-25",
+      "article_count": 13,
+      "headline": "25.06.2026: openai · model",
+      "path": "archive/2026-06-25.json"
+    },
+    {
+      "id": "2026-06-24",
+      "date": "2026-06-24",
+      "article_count": 24,
+      "headline": "24.06.2026: data · openai",
+      "path": "archive/2026-06-24.json"
+    },
+    {
+      "id": "2026-06-23",
+      "date": "2026-06-23",
+      "article_count": 12,
+      "headline": "23.06.2026: espresso · kaffeepuck",
+      "path": "archive/2026-06-23.json"
+    },
+    {
+      "id": "2026-06-22",
+      "date": "2026-06-22",
+      "article_count": 13,
+      "headline": "22.06.2026: daybreak · world",
+      "path": "archive/2026-06-22.json"
+    },
+    {
+      "id": "2026-06-21",
+      "date": "2026-06-21",
+      "article_count": 3,
+      "headline": "21.06.2026: administration · anthropic",
+      "path": "archive/2026-06-21.json"
+    },
+    {
+      "id": "2026-06-20",
+      "date": "2026-06-20",
+      "article_count": 3,
+      "headline": "20.06.2026: your · these",
+      "path": "archive/2026-06-20.json"
+    },
+    {
+      "id": "2026-06-19",
+      "date": "2026-06-19",
+      "article_count": 8,
+      "headline": "19.06.2026: anthropic · models",
+      "path": "archive/2026-06-19.json"
+    },
+    {
+      "id": "2026-06-18",
+      "date": "2026-06-18",
+      "article_count": 14,
+      "headline": "18.06.2026: warum · neues",
+      "path": "archive/2026-06-18.json"
+    },
+    {
+      "id": "2026-06-17",
+      "date": "2026-06-17",
+      "article_count": 6,
+      "headline": "17.06.2026: quantensensor · besteht",
+      "path": "archive/2026-06-17.json"
+    },
+    {
+      "id": "2026-06-12",
+      "date": "2026-06-12",
+      "article_count": 7,
+      "headline": "12.06.2026: nassem · müll",
+      "path": "archive/2026-06-12.json"
+    },
+    {
+      "id": "2026-06-11",
+      "date": "2026-06-11",
+      "article_count": 6,
+      "headline": "11.06.2026: china · schlüssel",
+      "path": "archive/2026-06-11.json"
+    }
+  ]
+}

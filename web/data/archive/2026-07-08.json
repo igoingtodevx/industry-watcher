@@ -1,0 +1,674 @@
+{
+  "generated_at": "2026-07-08T18:00:00+00:00",
+  "edition_id": "2026-07-08",
+  "date": "2026-07-08",
+  "brief": {
+    "headline": "08.07.2026: https · comments",
+    "subheadline": "Tageszusammenfassung mit 34 Artikeln aus 5 Quellen.",
+    "executive_summary": "<p>Am 08.07.2026 wurden 34 relevante Branchen-Meldungen aus 5 Quellen erfasst. Die thematischen Schwerpunkte lagen bei https · comments.</p><p>Die wichtigsten Meldungen des Tages sind nachfolgend kuratiert — sortiert nach Recency und Quellen-Autorität. Vollständige Artikel-Liste unten.</p>",
+    "trends": [
+      {
+        "title": "ChatGPT bekommt eine natürlichere KI-Stimme mit flexibler Interaktion",
+        "what": "OpenAI stellt mit GPT-Live eine neue Sprachmodell-Generation vor, die dank Full-Duplex-Architektur gleichzeitig hören und sprechen kann. Komplexe Fragen delegiert das System im Hintergrund an GPT-5.5, was die Antwortqualität deutlich steigert. GPT-Live-1 ist ab sofort für zahlende Nutzer in ChatGPT ",
+        "why": "Gemeldet von The Decoder am 2026-07-08.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Robostral Navigate: Mistrals neues 8B-Modell steuert Roboter nur mit einer Kamera durch komplexe Umgebungen",
+        "what": "Mistral steigt mit Robostral Navigate in die Robotik ein: Das 8B-Modell navigiert Roboter allein per RGB-Kamera durch unbekannte Umgebungen. Trainiert in Simulation und per Reinforcement Learning (CISPO) verfeinert, erreicht es 76,6 Prozent auf dem R2R-CE-Benchmark. Wann das Modell verfügbar wird, l",
+        "why": "Gemeldet von The Decoder am 2026-07-08.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Claude Fable 5 ist zu teuer: Anthropic zeigt zwei Strategien, um die Kosten deutlich zu senken",
+        "what": "Anthropic empfiehlt, das teure Claude Fable 5 nicht direkt für alle Aufgaben einzusetzen, sondern als Planer für kleinere Modelle. In Kombination mit Sonnet 5 erreicht das \"Advisor\"-Muster laut Anthropic 92 Prozent der Fable-5-Leistung bei nur 63 Prozent der Kosten. Der Artikel Claude Fable 5 ist zu",
+        "why": "Gemeldet von The Decoder am 2026-07-08.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Anthropics Fable 5 dominiert in allen Benchmarks, kostet aber ein Vielfaches",
+        "what": "Anthropics Claude Fable 5 führt alle sechs neuen branchenspezifischen Leistungsindizes von Artificial Analysis an, von Finanzwesen über Recht bis Medizin. Doch der Vorsprung ist teuer: Im Strategy-&#038;-Ops-Index kostet eine Aufgabe 3,48 Dollar, über hundertmal mehr als Deepseek V4 Pro mit 0,03 Dol",
+        "why": "Gemeldet von The Decoder am 2026-07-08.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Google Deepmind erweitert Gemini API um vier neue Funktionen für managed Agents",
+        "what": "Google Deepmind erweitert die Managed Agents in der Gemini-API um vier neue Funktionen: Agenten können nun asynchron im Hintergrund laufen, Remote-MCP-Server direkt anbinden, eigene Funktionen neben Sandbox-Tools nutzen und Zugangsdaten ohne Zustandsverlust aktualisieren. Der Artikel Google Deepmind",
+        "why": "Gemeldet von The Decoder am 2026-07-08.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Chinas MiniMax arbeitet an bislang größtem Open-Source-Modell des Landes",
+        "what": "Der chinesische KI-Entwickler MiniMax arbeitet an einem neuen großen Sprachmodell mit 2,7 Billionen Parametern. MiniMax plant, das Modell quelloffen anzubieten. Der Artikel Chinas MiniMax arbeitet an bislang größtem Open-Source-Modell des Landes erschien zuerst auf The Decoder .",
+        "why": "Gemeldet von The Decoder am 2026-07-08.",
+        "signal": "mittel"
+      }
+    ],
+    "opportunities": [],
+    "top_articles": [
+      {
+        "title": "ChatGPT bekommt eine natürlichere KI-Stimme mit flexibler Interaktion",
+        "url": "https://the-decoder.de/chatgpt-bekommt-eine-natuerlichere-ki-stimme-mit-flexibler-interaktion/",
+        "source": "The Decoder",
+        "date": "2026-07-08",
+        "why": "OpenAI stellt mit GPT-Live eine neue Sprachmodell-Generation vor, die dank Full-Duplex-Architektur gleichzeitig hören und sprechen kann. Komplexe Fragen delegiert das System im Hintergrund an GPT-5.5,",
+        "tags": [
+          "chatgpt",
+          "bekommt",
+          "natürlichere",
+          "ki-stimme",
+          "flexibler"
+        ]
+      },
+      {
+        "title": "Robostral Navigate: Mistrals neues 8B-Modell steuert Roboter nur mit einer Kamera durch komplexe Umgebungen",
+        "url": "https://the-decoder.de/robostral-navigate-mistrals-neues-8b-modell-steuert-roboter-nur-mit-einer-kamera-durch-komplexe-umgebungen/",
+        "source": "The Decoder",
+        "date": "2026-07-08",
+        "why": "Mistral steigt mit Robostral Navigate in die Robotik ein: Das 8B-Modell navigiert Roboter allein per RGB-Kamera durch unbekannte Umgebungen. Trainiert in Simulation und per Reinforcement Learning (CIS",
+        "tags": [
+          "robostral",
+          "navigate",
+          "8b-modell",
+          "roboter",
+          "durch"
+        ]
+      },
+      {
+        "title": "Claude Fable 5 ist zu teuer: Anthropic zeigt zwei Strategien, um die Kosten deutlich zu senken",
+        "url": "https://the-decoder.de/claude-fable-5-ist-zu-teuer-anthropic-zeigt-zwei-strategien-um-die-kosten-deutlich-zu-senken/",
+        "source": "The Decoder",
+        "date": "2026-07-08",
+        "why": "Anthropic empfiehlt, das teure Claude Fable 5 nicht direkt für alle Aufgaben einzusetzen, sondern als Planer für kleinere Modelle. In Kombination mit Sonnet 5 erreicht das \"Advisor\"-Muster laut Anthro",
+        "tags": [
+          "anthropic",
+          "claude",
+          "fable",
+          "kosten",
+          "teuer"
+        ]
+      },
+      {
+        "title": "Anthropics Fable 5 dominiert in allen Benchmarks, kostet aber ein Vielfaches",
+        "url": "https://the-decoder.de/anthropics-fable-5-dominiert-in-allen-benchmarks-kostet-aber-ein-vielfaches/",
+        "source": "The Decoder",
+        "date": "2026-07-08",
+        "why": "Anthropics Claude Fable 5 führt alle sechs neuen branchenspezifischen Leistungsindizes von Artificial Analysis an, von Finanzwesen über Recht bis Medizin. Doch der Vorsprung ist teuer: Im Strategy-&#0",
+        "tags": [
+          "anthropics",
+          "fable",
+          "kostet",
+          "dominiert",
+          "allen"
+        ]
+      },
+      {
+        "title": "Google Deepmind erweitert Gemini API um vier neue Funktionen für managed Agents",
+        "url": "https://the-decoder.de/google-deepmind-erweitert-gemini-api-um-vier-neue-funktionen-fuer-managed-agents/",
+        "source": "The Decoder",
+        "date": "2026-07-08",
+        "why": "Google Deepmind erweitert die Managed Agents in der Gemini-API um vier neue Funktionen: Agenten können nun asynchron im Hintergrund laufen, Remote-MCP-Server direkt anbinden, eigene Funktionen neben S",
+        "tags": [
+          "funktionen",
+          "google",
+          "deepmind",
+          "erweitert",
+          "vier"
+        ]
+      },
+      {
+        "title": "Chinas MiniMax arbeitet an bislang größtem Open-Source-Modell des Landes",
+        "url": "https://the-decoder.de/chinas-minimax-arbeitet-an-bislang-groesstem-open-source-modell-des-landes/",
+        "source": "The Decoder",
+        "date": "2026-07-08",
+        "why": "Der chinesische KI-Entwickler MiniMax arbeitet an einem neuen großen Sprachmodell mit 2,7 Billionen Parametern. MiniMax plant, das Modell quelloffen anzubieten. Der Artikel Chinas MiniMax arbeitet an ",
+        "tags": [
+          "minimax",
+          "arbeitet",
+          "chinas",
+          "bislang",
+          "größtem"
+        ]
+      },
+      {
+        "title": "Super-Sensing-Brille: Meta will alles hören und sehen, was der Träger erlebt",
+        "url": "https://the-decoder.de/super-sensing-brille-meta-will-alles-hoeren-und-sehen-was-der-traeger-erlebt/",
+        "source": "The Decoder",
+        "date": "2026-07-08",
+        "why": "Meta testet einen Prototyp von KI-Brillen mit \"Super Sensing\", die per Kamera und Mikrofon jeden Moment des Trägers aufzeichnen. Der Artikel Super-Sensing-Brille: Meta will alles hören und sehen, was ",
+        "tags": [
+          "meta",
+          "super-sensing-brille",
+          "will",
+          "alles",
+          "hören"
+        ]
+      },
+      {
+        "title": "Muse Image überzeugt technisch, doch Metas Umgang mit Instagram-Fotos wirft Fragen auf",
+        "url": "https://the-decoder.de/muse-image-ueberzeugt-technisch-doch-metas-umgang-mit-instagram-fotos-wirft-fragen-auf/",
+        "source": "The Decoder",
+        "date": "2026-07-08",
+        "why": "Meta stellt mit Muse Image das erste Bildmodell seiner Superintelligence Labs vor. Wie OpenAIs GPT Image 2 arbeitet es agentenbasiert, nutzt Werkzeuge wie Code-Ausführung und Websuche und verfeinert E",
+        "tags": [
+          "image",
+          "muse",
+          "überzeugt",
+          "technisch",
+          "doch"
+        ]
+      },
+      {
+        "title": "OpenAIs GPT-5.6 startet am Donnerstag nach erzwungener Verzögerung durch US-Regierung",
+        "url": "https://the-decoder.de/openais-gpt-5-6-startet-am-donnerstag-nach-erzwungener-verzoegerung-durch-us-regierung/",
+        "source": "The Decoder",
+        "date": "2026-07-08",
+        "why": "OpenAI bringt GPT-5.6 am Donnerstag auf den Markt, nachdem die US-Regierung die zunächst verhängte Freigabesperre nach zusätzlichen Tests aufgehoben hat. Das Modell Sol übertrifft laut OpenAI Anthropi",
+        "tags": [
+          "gpt-5",
+          "donnerstag",
+          "us-regierung",
+          "openais",
+          "startet"
+        ]
+      },
+      {
+        "title": "Publish Automation",
+        "url": "https://substack.com/@tomadelstein/p-206166199",
+        "source": "Hacker News (automation / business filter)",
+        "date": "2026-07-08",
+        "why": "Article URL: https://substack.com/@tomadelstein/p-206166199 Comments URL: https://news.ycombinator.com/item?id=48836520 Points: 2 # Comments: 0",
+        "tags": [
+          "https",
+          "comments",
+          "publish",
+          "automation",
+          "article"
+        ]
+      }
+    ],
+    "action_items": []
+  },
+  "raw_articles": [
+    {
+      "title": "ChatGPT bekommt eine natürlichere KI-Stimme mit flexibler Interaktion",
+      "url": "https://the-decoder.de/chatgpt-bekommt-eine-natuerlichere-ki-stimme-mit-flexibler-interaktion/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-08T17:59:55+00:00",
+      "summary": "OpenAI stellt mit GPT-Live eine neue Sprachmodell-Generation vor, die dank Full-Duplex-Architektur gleichzeitig hören und sprechen kann. Komplexe Fragen delegiert das System im Hintergrund an GPT-5.5, was die Antwortqualität deutlich steigert. GPT-Live-1 ist ab sofort für zahlende Nutzer in ChatGPT verfügbar, eine Mini-Variante auch kostenlos. Der API-Zugang soll in Kürze folgen. Der Artikel ChatGPT bekommt eine natürlichere KI-Stimme mit flexibler Interaktion erschien zuerst auf The Decoder .",
+      "keywords": [
+        "chatgpt",
+        "bekommt",
+        "natürlichere",
+        "ki-stimme",
+        "flexibler",
+        "interaktion"
+      ]
+    },
+    {
+      "title": "Robostral Navigate: Mistrals neues 8B-Modell steuert Roboter nur mit einer Kamera durch komplexe Umgebungen",
+      "url": "https://the-decoder.de/robostral-navigate-mistrals-neues-8b-modell-steuert-roboter-nur-mit-einer-kamera-durch-komplexe-umgebungen/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-08T17:14:17+00:00",
+      "summary": "Mistral steigt mit Robostral Navigate in die Robotik ein: Das 8B-Modell navigiert Roboter allein per RGB-Kamera durch unbekannte Umgebungen. Trainiert in Simulation und per Reinforcement Learning (CISPO) verfeinert, erreicht es 76,6 Prozent auf dem R2R-CE-Benchmark. Wann das Modell verfügbar wird, lässt Mistral offen. Der Artikel Robostral Navigate: Mistrals neues 8B-Modell steuert Roboter nur mit einer Kamera durch komplexe Umgebungen erschien zuerst auf The Decoder .",
+      "keywords": [
+        "robostral",
+        "navigate",
+        "8b-modell",
+        "roboter",
+        "durch",
+        "umgebungen"
+      ]
+    },
+    {
+      "title": "Claude Fable 5 ist zu teuer: Anthropic zeigt zwei Strategien, um die Kosten deutlich zu senken",
+      "url": "https://the-decoder.de/claude-fable-5-ist-zu-teuer-anthropic-zeigt-zwei-strategien-um-die-kosten-deutlich-zu-senken/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-08T16:20:07+00:00",
+      "summary": "Anthropic empfiehlt, das teure Claude Fable 5 nicht direkt für alle Aufgaben einzusetzen, sondern als Planer für kleinere Modelle. In Kombination mit Sonnet 5 erreicht das \"Advisor\"-Muster laut Anthropic 92 Prozent der Fable-5-Leistung bei nur 63 Prozent der Kosten. Der Artikel Claude Fable 5 ist zu teuer: Anthropic zeigt zwei Strategien, um die Kosten deutlich zu senken erschien zuerst auf The Decoder .",
+      "keywords": [
+        "anthropic",
+        "claude",
+        "fable",
+        "kosten",
+        "teuer",
+        "zeigt"
+      ]
+    },
+    {
+      "title": "Anthropics Fable 5 dominiert in allen Benchmarks, kostet aber ein Vielfaches",
+      "url": "https://the-decoder.de/anthropics-fable-5-dominiert-in-allen-benchmarks-kostet-aber-ein-vielfaches/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-08T15:16:12+00:00",
+      "summary": "Anthropics Claude Fable 5 führt alle sechs neuen branchenspezifischen Leistungsindizes von Artificial Analysis an, von Finanzwesen über Recht bis Medizin. Doch der Vorsprung ist teuer: Im Strategy-&#038;-Ops-Index kostet eine Aufgabe 3,48 Dollar, über hundertmal mehr als Deepseek V4 Pro mit 0,03 Dollar bei nur 12 Punkten Abstand. Der Artikel Anthropics Fable 5 dominiert in allen Benchmarks, kostet aber ein Vielfaches erschien zuerst auf The Decoder .",
+      "keywords": [
+        "anthropics",
+        "fable",
+        "kostet",
+        "dominiert",
+        "allen",
+        "benchmarks"
+      ]
+    },
+    {
+      "title": "Google Deepmind erweitert Gemini API um vier neue Funktionen für managed Agents",
+      "url": "https://the-decoder.de/google-deepmind-erweitert-gemini-api-um-vier-neue-funktionen-fuer-managed-agents/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-08T14:36:35+00:00",
+      "summary": "Google Deepmind erweitert die Managed Agents in der Gemini-API um vier neue Funktionen: Agenten können nun asynchron im Hintergrund laufen, Remote-MCP-Server direkt anbinden, eigene Funktionen neben Sandbox-Tools nutzen und Zugangsdaten ohne Zustandsverlust aktualisieren. Der Artikel Google Deepmind erweitert Gemini API um vier neue Funktionen für managed Agents erschien zuerst auf The Decoder .",
+      "keywords": [
+        "funktionen",
+        "google",
+        "deepmind",
+        "erweitert",
+        "vier",
+        "neue"
+      ]
+    },
+    {
+      "title": "Chinas MiniMax arbeitet an bislang größtem Open-Source-Modell des Landes",
+      "url": "https://the-decoder.de/chinas-minimax-arbeitet-an-bislang-groesstem-open-source-modell-des-landes/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-08T12:41:52+00:00",
+      "summary": "Der chinesische KI-Entwickler MiniMax arbeitet an einem neuen großen Sprachmodell mit 2,7 Billionen Parametern. MiniMax plant, das Modell quelloffen anzubieten. Der Artikel Chinas MiniMax arbeitet an bislang größtem Open-Source-Modell des Landes erschien zuerst auf The Decoder .",
+      "keywords": [
+        "minimax",
+        "arbeitet",
+        "chinas",
+        "bislang",
+        "größtem",
+        "open-source-modell"
+      ]
+    },
+    {
+      "title": "Super-Sensing-Brille: Meta will alles hören und sehen, was der Träger erlebt",
+      "url": "https://the-decoder.de/super-sensing-brille-meta-will-alles-hoeren-und-sehen-was-der-traeger-erlebt/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-08T11:42:30+00:00",
+      "summary": "Meta testet einen Prototyp von KI-Brillen mit \"Super Sensing\", die per Kamera und Mikrofon jeden Moment des Trägers aufzeichnen. Der Artikel Super-Sensing-Brille: Meta will alles hören und sehen, was der Träger erlebt erschien zuerst auf The Decoder .",
+      "keywords": [
+        "meta",
+        "super-sensing-brille",
+        "will",
+        "alles",
+        "hören",
+        "sehen"
+      ]
+    },
+    {
+      "title": "Muse Image überzeugt technisch, doch Metas Umgang mit Instagram-Fotos wirft Fragen auf",
+      "url": "https://the-decoder.de/muse-image-ueberzeugt-technisch-doch-metas-umgang-mit-instagram-fotos-wirft-fragen-auf/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-08T11:11:37+00:00",
+      "summary": "Meta stellt mit Muse Image das erste Bildmodell seiner Superintelligence Labs vor. Wie OpenAIs GPT Image 2 arbeitet es agentenbasiert, nutzt Werkzeuge wie Code-Ausführung und Websuche und verfeinert Ergebnisse eigenständig. Für Kontroversen sorgt eine @-Mention-Funktion, die ohne Zustimmung Fotos fremder Instagram-Profile für neue Bilder nutzt – ein Opt-out-Modell, das in der EU auf die DSGVO und den EU AI Act treffen dürfte. Der Artikel Muse Image überzeugt technisch, doch Metas Umgang mit Instagram-Fotos wirft Fragen auf erschien zuerst auf The Decoder .",
+      "keywords": [
+        "image",
+        "muse",
+        "überzeugt",
+        "technisch",
+        "doch",
+        "metas"
+      ]
+    },
+    {
+      "title": "OpenAIs GPT-5.6 startet am Donnerstag nach erzwungener Verzögerung durch US-Regierung",
+      "url": "https://the-decoder.de/openais-gpt-5-6-startet-am-donnerstag-nach-erzwungener-verzoegerung-durch-us-regierung/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-08T07:47:30+00:00",
+      "summary": "OpenAI bringt GPT-5.6 am Donnerstag auf den Markt, nachdem die US-Regierung die zunächst verhängte Freigabesperre nach zusätzlichen Tests aufgehoben hat. Das Modell Sol übertrifft laut OpenAI Anthropics Claude Mythos 5 im Coding-Benchmark und kostet dabei rund die Hälfte. Verbindliche Standards für künftige Modellfreigaben fehlen weiterhin. Der Artikel OpenAIs GPT-5.6 startet am Donnerstag nach erzwungener Verzögerung durch US-Regierung erschien zuerst auf The Decoder .",
+      "keywords": [
+        "gpt-5",
+        "donnerstag",
+        "us-regierung",
+        "openais",
+        "startet",
+        "erzwungener"
+      ]
+    },
+    {
+      "title": "Publish Automation",
+      "url": "https://substack.com/@tomadelstein/p-206166199",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-08T19:42:12+00:00",
+      "summary": "Article URL: https://substack.com/@tomadelstein/p-206166199 Comments URL: https://news.ycombinator.com/item?id=48836520 Points: 2 # Comments: 0",
+      "keywords": [
+        "https",
+        "comments",
+        "publish",
+        "automation",
+        "article",
+        "substack"
+      ]
+    },
+    {
+      "title": "I rage-built email automation because HubSpot wanted me to talk to sales",
+      "url": "https://charlielabs.ai/blog/rage-built-email-automation/",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-08T13:55:38+00:00",
+      "summary": "Article URL: https://charlielabs.ai/blog/rage-built-email-automation/ Comments URL: https://news.ycombinator.com/item?id=48832028 Points: 4 # Comments: 2",
+      "keywords": [
+        "https",
+        "comments",
+        "rage-built",
+        "email",
+        "automation",
+        "because"
+      ]
+    },
+    {
+      "title": "Show HN: GUI-tool – zero-dependency Rust CLI for desktop GUI automation",
+      "url": "https://github.com/ZachRouan/agent-desktop-interface",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-08T12:50:14+00:00",
+      "summary": "Article URL: https://github.com/ZachRouan/agent-desktop-interface Comments URL: https://news.ycombinator.com/item?id=48831262 Points: 1 # Comments: 0",
+      "keywords": [
+        "https",
+        "comments",
+        "show",
+        "gui-tool",
+        "zero-dependency",
+        "rust"
+      ]
+    },
+    {
+      "title": "Social Media Automation",
+      "url": "https://omniicore.com/",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-08T04:39:40+00:00",
+      "summary": "Article URL: https://omniicore.com/ Comments URL: https://news.ycombinator.com/item?id=48827589 Points: 1 # Comments: 0",
+      "keywords": [
+        "https",
+        "comments",
+        "social",
+        "media",
+        "automation",
+        "article"
+      ]
+    },
+    {
+      "title": "What if users start cloning SaaS using AI",
+      "url": "https://news.ycombinator.com/item?id=48826680",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-08T02:13:08+00:00",
+      "summary": "There is a trend that is just starting: People are cloning softwares and websites using Ai(fable 5 is doing great), what do you think what things would protect businesses from this in future? if i can clone smth easily using ai, why i would pay for it? Comments URL: https://news.ycombinator.com/item?id=48826680 Points: 7 # Comments: 26",
+      "keywords": [
+        "what",
+        "using",
+        "cloning",
+        "would",
+        "comments",
+        "users"
+      ]
+    },
+    {
+      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+      "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-08T22:41:33+00:00",
+      "summary": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported.",
+      "keywords": [
+        "lovable",
+        "reportedly",
+        "talks",
+        "double",
+        "valuation",
+        "million"
+      ]
+    },
+    {
+      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-08T20:37:03+00:00",
+      "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+      "keywords": [
+        "mcconnell",
+        "google",
+        "deepfake",
+        "detector",
+        "system",
+        "used"
+      ]
+    },
+    {
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-08T19:30:16+00:00",
+      "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+      "keywords": [
+        "grok",
+        "elon",
+        "spacexai",
+        "releases",
+        "which",
+        "describes"
+      ]
+    },
+    {
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-08T19:19:15+00:00",
+      "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+      "keywords": [
+        "data",
+        "startup",
+        "thinks",
+        "robotics",
+        "about",
+        "chatgpt"
+      ]
+    },
+    {
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-08T18:30:08+00:00",
+      "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+      "keywords": [
+        "google",
+        "photos",
+        "adds",
+        "video",
+        "remix",
+        "tool"
+      ]
+    },
+    {
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-08T17:47:55+00:00",
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&#160;—&#160;an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled&#160;by&#160;gaming data.&#160;That&#8217;s&#160;the bet behind General Intuition, a [&#8230;]",
+      "keywords": [
+        "data",
+        "general",
+        "intelligence",
+        "models",
+        "8217",
+        "thinks"
+      ]
+    },
+    {
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-08T17:11:18+00:00",
+      "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
+      "keywords": [
+        "meta",
+        "glasses",
+        "wants",
+        "seem",
+        "less",
+        "creepy"
+      ]
+    },
+    {
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-08T17:00:00+00:00",
+      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+      "keywords": [
+        "openai",
+        "voice",
+        "live",
+        "releases",
+        "models",
+        "more"
+      ]
+    },
+    {
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-08T16:22:38+00:00",
+      "summary": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
+      "keywords": [
+        "prime",
+        "intellect",
+        "their",
+        "raises",
+        "130m",
+        "series"
+      ]
+    },
+    {
+      "title": "These AI startups are growing  revenue at faster and faster rates",
+      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-08T15:41:06+00:00",
+      "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
+      "keywords": [
+        "faster",
+        "startups",
+        "growing",
+        "these",
+        "revenue",
+        "rates"
+      ]
+    },
+    {
+      "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+      "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-08T13:00:00+00:00",
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&#160;—&#160;an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled&#160;by&#160;gaming data.&#160;That&#8217;s&#160;the bet behind General Intuition, a [&#8230;]",
+      "keywords": [
+        "gaming",
+        "data",
+        "general",
+        "intelligence",
+        "models",
+        "8217"
+      ]
+    },
+    {
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-08T12:00:00+00:00",
+      "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
+      "keywords": [
+        "kevin",
+        "weil",
+        "stoke",
+        "space",
+        "former",
+        "openai"
+      ]
+    },
+    {
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-08T08:00:00+00:00",
+      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+      "keywords": [
+        "french",
+        "startup",
+        "releases",
+        "free",
+        "product",
+        "speed"
+      ]
+    },
+    {
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-08T07:16:00+00:00",
+      "summary": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+      "keywords": [
+        "chip",
+        "maker",
+        "sambanova",
+        "valuation",
+        "months",
+        "after"
+      ]
+    },
+    {
+      "title": "Our approach to government and national security partnerships",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "published": "2026-07-08T13:30:00+00:00",
+      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+      "keywords": [
+        "government",
+        "national",
+        "security",
+        "partnerships",
+        "approach",
+        "learn"
+      ]
+    },
+    {
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "published": "2026-07-08T13:00:00+00:00",
+      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+      "keywords": [
+        "coding",
+        "separating",
+        "signal",
+        "noise",
+        "evaluations",
+        "analysis"
+      ]
+    }
+  ]
+}

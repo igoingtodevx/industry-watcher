@@ -1,0 +1,401 @@
+{
+  "generated_at": "2026-06-22T18:00:00+00:00",
+  "edition_id": "2026-06-22",
+  "date": "2026-06-22",
+  "brief": {
+    "headline": "22.06.2026: daybreak · world",
+    "subheadline": "Tageszusammenfassung mit 13 Artikeln aus 4 Quellen.",
+    "executive_summary": "<p>Am 22.06.2026 wurden 13 relevante Branchen-Meldungen aus 4 Quellen erfasst. Die thematischen Schwerpunkte lagen bei daybreak · world.</p><p>Die wichtigsten Meldungen des Tages sind nachfolgend kuratiert — sortiert nach Recency und Quellen-Autorität. Vollständige Artikel-Liste unten.</p>",
+    "trends": [
+      {
+        "title": "The AI world is getting ‘loopy’",
+        "what": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-22.",
+        "signal": "mittel"
+      },
+      {
+        "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+        "what": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-22.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+        "what": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-22.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+        "what": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-22.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Amazon is testing Alexa+ in India with Hindi support",
+        "what": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-22.",
+        "signal": "mittel"
+      },
+      {
+        "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+        "what": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-22.",
+        "signal": "mittel"
+      }
+    ],
+    "opportunities": [],
+    "top_articles": [
+      {
+        "title": "The AI world is getting ‘loopy’",
+        "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-22",
+        "why": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+        "tags": [
+          "world",
+          "getting",
+          "loopy",
+          "loop",
+          "takes"
+        ]
+      },
+      {
+        "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+        "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-22",
+        "why": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+        "tags": [
+          "groq",
+          "after",
+          "not-acqui-hire",
+          "chipmaker",
+          "confirms"
+        ]
+      },
+      {
+        "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+        "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-22",
+        "why": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+        "tags": [
+          "water",
+          "nvidia",
+          "data",
+          "center",
+          "wants"
+        ]
+      },
+      {
+        "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+        "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-22",
+        "why": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+        "tags": [
+          "google",
+          "deepmind",
+          "bets",
+          "future",
+          "hollywood"
+        ]
+      },
+      {
+        "title": "Amazon is testing Alexa+ in India with Hindi support",
+        "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-22",
+        "why": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
+        "tags": [
+          "amazon",
+          "alexa",
+          "india",
+          "testing",
+          "hindi"
+        ]
+      },
+      {
+        "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+        "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-22",
+        "why": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center ne",
+        "tags": [
+          "spacex",
+          "reflection",
+          "inks",
+          "compute",
+          "deal"
+        ]
+      },
+      {
+        "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
+        "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-22",
+        "why": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
+        "tags": [
+          "founder",
+          "techcrunch",
+          "summit",
+          "pass",
+          "june"
+        ]
+      },
+      {
+        "title": "Three things to watch amid Anthropic’s latest feud with the government",
+        "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+        "source": "MIT Technology Review (AI)",
+        "date": "2026-06-22",
+        "why": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s l",
+        "tags": [
+          "anthropic",
+          "latest",
+          "feud",
+          "government",
+          "your"
+        ]
+      },
+      {
+        "title": "Daybreak: Tools for securing every organization in the world",
+        "url": "https://openai.com/index/daybreak-securing-the-world",
+        "source": "OpenAI Blog",
+        "date": "2026-06-22",
+        "why": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+        "tags": [
+          "daybreak",
+          "tools",
+          "securing",
+          "every",
+          "organization"
+        ]
+      },
+      {
+        "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+        "url": "https://openai.com/index/patch-the-planet",
+        "source": "OpenAI Blog",
+        "date": "2026-06-22",
+        "why": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+        "tags": [
+          "patch",
+          "planet",
+          "daybreak",
+          "initiative",
+          "maintainers"
+        ]
+      }
+    ],
+    "action_items": []
+  },
+  "raw_articles": [
+    {
+      "title": "The AI world is getting ‘loopy’",
+      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-22T20:53:11+00:00",
+      "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+      "keywords": [
+        "world",
+        "getting",
+        "loopy",
+        "loop",
+        "takes",
+        "agentic"
+      ]
+    },
+    {
+      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-22T20:13:58+00:00",
+      "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+      "keywords": [
+        "groq",
+        "after",
+        "not-acqui-hire",
+        "chipmaker",
+        "confirms",
+        "650m"
+      ]
+    },
+    {
+      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+      "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-22T20:08:15+00:00",
+      "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+      "keywords": [
+        "water",
+        "nvidia",
+        "data",
+        "center",
+        "wants",
+        "same"
+      ]
+    },
+    {
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-22T18:49:44+00:00",
+      "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+      "keywords": [
+        "google",
+        "deepmind",
+        "bets",
+        "future",
+        "hollywood",
+        "deal"
+      ]
+    },
+    {
+      "title": "Amazon is testing Alexa+ in India with Hindi support",
+      "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-22T17:31:29+00:00",
+      "summary": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
+      "keywords": [
+        "amazon",
+        "alexa",
+        "india",
+        "testing",
+        "hindi",
+        "support"
+      ]
+    },
+    {
+      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-22T16:51:29+00:00",
+      "summary": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+      "keywords": [
+        "spacex",
+        "reflection",
+        "inks",
+        "compute",
+        "deal",
+        "open"
+      ]
+    },
+    {
+      "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
+      "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-22T14:00:00+00:00",
+      "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today.",
+      "keywords": [
+        "founder",
+        "techcrunch",
+        "summit",
+        "pass",
+        "june",
+        "conference"
+      ]
+    },
+    {
+      "title": "Three things to watch amid Anthropic’s latest feud with the government",
+      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "source": "MIT Technology Review (AI)",
+      "lang": "en",
+      "published": "2026-06-22T18:00:00+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos&#8230;",
+      "keywords": [
+        "anthropic",
+        "latest",
+        "feud",
+        "government",
+        "your",
+        "here"
+      ]
+    },
+    {
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "published": "2026-06-22T10:00:00+00:00",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "keywords": [
+        "daybreak",
+        "tools",
+        "securing",
+        "every",
+        "organization",
+        "world"
+      ]
+    },
+    {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "published": "2026-06-22T10:00:00+00:00",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "keywords": [
+        "patch",
+        "planet",
+        "daybreak",
+        "initiative",
+        "maintainers",
+        "support"
+      ]
+    },
+    {
+      "title": "Codex-maxxing for long-running work",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "published": "2026-06-22T00:00:00+00:00",
+      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "keywords": [
+        "work",
+        "codex-maxxing",
+        "long-running",
+        "learn",
+        "jason",
+        "uses"
+      ]
+    },
+    {
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "published": "2026-06-22T13:18:56+00:00",
+      "summary": "",
+      "keywords": [
+        "pp-ocrv6",
+        "hugging",
+        "face",
+        "50-language",
+        "parameters"
+      ]
+    },
+    {
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "url": "https://huggingface.co/blog/local-models-pr-triage",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "published": "2026-06-22T00:00:00+00:00",
+      "summary": "",
+      "keywords": [
+        "local",
+        "models",
+        "triage",
+        "openclaw",
+        "repo",
+        "free"
+      ]
+    }
+  ]
+}

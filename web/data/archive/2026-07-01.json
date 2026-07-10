@@ -1,0 +1,626 @@
+{
+  "generated_at": "2026-07-01T18:00:00+00:00",
+  "edition_id": "2026-07-01",
+  "date": "2026-07-01",
+  "brief": {
+    "headline": "01.07.2026: meta · spacex",
+    "subheadline": "Tageszusammenfassung mit 27 Artikeln aus 6 Quellen.",
+    "executive_summary": "<p>Am 01.07.2026 wurden 27 relevante Branchen-Meldungen aus 6 Quellen erfasst. Die thematischen Schwerpunkte lagen bei meta · spacex.</p><p>Die wichtigsten Meldungen des Tages sind nachfolgend kuratiert — sortiert nach Recency und Quellen-Autorität. Vollständige Artikel-Liste unten.</p>",
+    "trends": [
+      {
+        "title": "SpaceX zeigt Investoren Prototyp eines KI-Smartphones mit xAI-Technologie von Musk",
+        "what": "SpaceX hat Investoren einen Prototyp eines KI-Smartphones gezeigt, das dünner als ein iPhone sein soll und xAI-Technologie integriert. Das Gerät läuft auf einem Qualcomm-Snapdragon-Chip mit eigenem Betriebssystem. Musk schwebt eine \"Everything App\" nach WeChat-Vorbild vor. Der Artikel SpaceX zeigt I",
+        "why": "Gemeldet von The Decoder am 2026-07-01.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Meta will überschüssige KI-Rechenkapazität als Cloud-Geschäft an externe Kunden verkaufen",
+        "what": "Meta baut ein eigenes Cloud-Geschäft auf, um überschüssige KI-Rechenkapazität an externe Kunden zu verkaufen. Bei geplanten KI-Investitionen von bis zu 145 Milliarden Dollar allein in diesem Jahr stellt sich die Frage, wie auch bei SpaceX bzw. xAI, warum Meta die Kapazitäten nicht selbst für eigene ",
+        "why": "Gemeldet von The Decoder am 2026-07-01.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Nicht-invasive Hirn-zu-Text-KI von Meta nähert sich der Leistung von Implantaten",
+        "what": "Metas KI-Team FAIR übersetzt mit Brain2Qwerty v2 Hirnaktivität in geschriebene Sätze – ganz ohne Implantate oder Operation. Das System liest magnetische Signale außerhalb des Kopfes und rekonstruiert daraus, was eine Person tippt. Bis zur klinischen Nutzung für gelähmte Menschen ist es noch ein weit",
+        "why": "Gemeldet von The Decoder am 2026-07-01.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Getarnte Signale im System-Prompt: Wie Claude Code chinesische Nutzer markierte",
+        "what": "Anthropic zieht eine verdeckte Überwachungsfunktion in seinem Programmierwerkzeug Claude Code zurück, nachdem sie auf Social Media für Empörung gesorgt hatte. Der Artikel Getarnte Signale im System-Prompt: Wie Claude Code chinesische Nutzer markierte erschien zuerst auf The Decoder .",
+        "why": "Gemeldet von The Decoder am 2026-07-01.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Sol Pro, Terra Pro, Luna Pro: OpenAI-Paper zeigt eine neue Pro-Staffelung für GPT-5.6",
+        "what": "Ein OpenAI-Benchmark-Paper deutet an, dass die Pro-Stufe von GPT-5.6 künftig in drei Ausführungen erscheinen könnte. Das wäre die erste grundlegende Änderung am Zuschnitt des Angebots seit der Einführung von ChatGPT Pro. Der Artikel Sol Pro, Terra Pro, Luna Pro: OpenAI-Paper zeigt eine neue Pro-Staf",
+        "why": "Gemeldet von The Decoder am 2026-07-01.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Auch Anthropics Sonnet 5 kommt mit versteckten Kosten und ist deutlich teurer als der Vorgänger",
+        "what": "Claude Sonnet 5 erreicht im Artificial Analysis Intelligence Index mit 53 Punkten Platz fünf und übertrifft bei agentischen Aufgaben teils sogar das teurere Opus 4.8. Doch das Modell verbraucht pro Aufgabe rund 40 Prozent mehr Tokens als sein Vorgänger, was die realen Kosten trotz gleicher Listenpre",
+        "why": "Gemeldet von The Decoder am 2026-07-01.",
+        "signal": "mittel"
+      }
+    ],
+    "opportunities": [],
+    "top_articles": [
+      {
+        "title": "SpaceX zeigt Investoren Prototyp eines KI-Smartphones mit xAI-Technologie von Musk",
+        "url": "https://the-decoder.de/spacex-zeigt-investoren-prototyp-eines-ki-smartphones-mit-xai-technologie-von-musk/",
+        "source": "The Decoder",
+        "date": "2026-07-01",
+        "why": "SpaceX hat Investoren einen Prototyp eines KI-Smartphones gezeigt, das dünner als ein iPhone sein soll und xAI-Technologie integriert. Das Gerät läuft auf einem Qualcomm-Snapdragon-Chip mit eigenem Be",
+        "tags": [
+          "spacex",
+          "investoren",
+          "prototyp",
+          "ki-smartphones",
+          "xai-technologie"
+        ]
+      },
+      {
+        "title": "Meta will überschüssige KI-Rechenkapazität als Cloud-Geschäft an externe Kunden verkaufen",
+        "url": "https://the-decoder.de/meta-will-ueberschuessige-ki-rechenkapazitaet-als-cloud-geschaeft-an-externe-kunden-verkaufen/",
+        "source": "The Decoder",
+        "date": "2026-07-01",
+        "why": "Meta baut ein eigenes Cloud-Geschäft auf, um überschüssige KI-Rechenkapazität an externe Kunden zu verkaufen. Bei geplanten KI-Investitionen von bis zu 145 Milliarden Dollar allein in diesem Jahr stel",
+        "tags": [
+          "meta",
+          "überschüssige",
+          "ki-rechenkapazität",
+          "cloud-geschäft",
+          "externe"
+        ]
+      },
+      {
+        "title": "Nicht-invasive Hirn-zu-Text-KI von Meta nähert sich der Leistung von Implantaten",
+        "url": "https://the-decoder.de/nicht-invasive-hirn-zu-text-ki-von-meta-naehert-sich-der-leistung-von-implantaten/",
+        "source": "The Decoder",
+        "date": "2026-07-01",
+        "why": "Metas KI-Team FAIR übersetzt mit Brain2Qwerty v2 Hirnaktivität in geschriebene Sätze – ganz ohne Implantate oder Operation. Das System liest magnetische Signale außerhalb des Kopfes und rekonstruiert ",
+        "tags": [
+          "nicht-invasive",
+          "hirn-zu-text-ki",
+          "meta",
+          "nähert",
+          "sich"
+        ]
+      },
+      {
+        "title": "Getarnte Signale im System-Prompt: Wie Claude Code chinesische Nutzer markierte",
+        "url": "https://the-decoder.de/getarnte-signale-im-system-prompt-wie-claude-code-chinesische-nutzer-markierte/",
+        "source": "The Decoder",
+        "date": "2026-07-01",
+        "why": "Anthropic zieht eine verdeckte Überwachungsfunktion in seinem Programmierwerkzeug Claude Code zurück, nachdem sie auf Social Media für Empörung gesorgt hatte. Der Artikel Getarnte Signale im System-Pr",
+        "tags": [
+          "claude",
+          "code",
+          "getarnte",
+          "signale",
+          "system-prompt"
+        ]
+      },
+      {
+        "title": "Sol Pro, Terra Pro, Luna Pro: OpenAI-Paper zeigt eine neue Pro-Staffelung für GPT-5.6",
+        "url": "https://the-decoder.de/sol-pro-terra-pro-luna-pro-openai-paper-zeigt-eine-neue-pro-staffelung-fuer-gpt-5-6/",
+        "source": "The Decoder",
+        "date": "2026-07-01",
+        "why": "Ein OpenAI-Benchmark-Paper deutet an, dass die Pro-Stufe von GPT-5.6 künftig in drei Ausführungen erscheinen könnte. Das wäre die erste grundlegende Änderung am Zuschnitt des Angebots seit der Einführ",
+        "tags": [
+          "gpt-5",
+          "terra",
+          "luna",
+          "openai-paper",
+          "zeigt"
+        ]
+      },
+      {
+        "title": "Auch Anthropics Sonnet 5 kommt mit versteckten Kosten und ist deutlich teurer als der Vorgänger",
+        "url": "https://the-decoder.de/auch-anthropics-sonnet-5-kommt-mit-versteckten-kosten-und-ist-deutlich-teurer-als-der-vorgaenger/",
+        "source": "The Decoder",
+        "date": "2026-07-01",
+        "why": "Claude Sonnet 5 erreicht im Artificial Analysis Intelligence Index mit 53 Punkten Platz fünf und übertrifft bei agentischen Aufgaben teils sogar das teurere Opus 4.8. Doch das Modell verbraucht pro Au",
+        "tags": [
+          "anthropics",
+          "sonnet",
+          "kosten",
+          "vorgänger",
+          "auch"
+        ]
+      },
+      {
+        "title": "US-Regierung gibt KI-Modell Fable 5 von Anthropic wieder frei",
+        "url": "https://the-decoder.de/us-regierung-gibt-ki-modell-fable-5-von-anthropic-wieder-frei/",
+        "source": "The Decoder",
+        "date": "2026-07-01",
+        "why": "Nach gut zwei Wochen Sperre gibt die US-Regierung Anthropics Fable 5 wieder für den weltweiten Zugang frei. Auslöser war ein Jailbreak-Fund von Amazon-Forschern, den laut Anthropic aber auch deutlich ",
+        "tags": [
+          "us-regierung",
+          "gibt",
+          "fable",
+          "anthropic",
+          "wieder"
+        ]
+      },
+      {
+        "title": "Claude hilft Nobelpreisträger, zwölf Jahre altes Physikrätsel zu lösen",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/rekorde/claude-hilft-nobelpreistraeger-zehn-jahre-altes-physikraetsel-zu-loesen/",
+        "source": "Ingenieur.de",
+        "date": "2026-07-01",
+        "why": "Giorgio Parisi und Francesco Zamponi lösen ein altes Jamming-Problem – mithilfe von Claude, aber nicht ohne harte Kontrolle. Der Beitrag Claude hilft Nobelpreisträger, zwölf Jahre altes Physikrätsel z",
+        "tags": [
+          "claude",
+          "altes",
+          "lösen",
+          "hilft",
+          "nobelpreisträger"
+        ]
+      },
+      {
+        "title": "Ferdinand Porsche: Technikpionier mit belastetem Erbe",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/verkehr/ferdinand-porsche-technikpionier-mit-belastetem-erbe/",
+        "source": "Ingenieur.de",
+        "date": "2026-07-01",
+        "why": "150 Jahre Ferdinand Porsche: Vom Elektropionier mit Radnabenmotor bis zum VW-Konstrukteur – Innovationen und die Verstrickung ins NS-Regime im Überblick. Der Beitrag Ferdinand Porsche: Technikpionier ",
+        "tags": [
+          "ferdinand",
+          "porsche",
+          "technikpionier",
+          "belastetem",
+          "erbe"
+        ]
+      },
+      {
+        "title": "20 Jahre danach: Die Reiterkuppel im Sanierungs-Check",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/bau/20-jahre-danach-die-reiterkuppel-im-sanierungs-check/",
+        "source": "Ingenieur.de",
+        "date": "2026-07-01",
+        "why": "Vor 20 Jahren wurde die Reiterkuppel saniert. Heute zeigt sich, warum der Kampf gegen Feuchtigkeit der entscheidende Teil der Restaurierung war. Der Beitrag 20 Jahre danach: Die Reiterkuppel im Sanier",
+        "tags": [
+          "reiterkuppel",
+          "jahre",
+          "danach",
+          "sanierungs-check",
+          "jahren"
+        ]
+      }
+    ],
+    "action_items": []
+  },
+  "raw_articles": [
+    {
+      "title": "SpaceX zeigt Investoren Prototyp eines KI-Smartphones mit xAI-Technologie von Musk",
+      "url": "https://the-decoder.de/spacex-zeigt-investoren-prototyp-eines-ki-smartphones-mit-xai-technologie-von-musk/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-01T19:41:31+00:00",
+      "summary": "SpaceX hat Investoren einen Prototyp eines KI-Smartphones gezeigt, das dünner als ein iPhone sein soll und xAI-Technologie integriert. Das Gerät läuft auf einem Qualcomm-Snapdragon-Chip mit eigenem Betriebssystem. Musk schwebt eine \"Everything App\" nach WeChat-Vorbild vor. Der Artikel SpaceX zeigt Investoren Prototyp eines KI-Smartphones mit xAI-Technologie von Musk erschien zuerst auf The Decoder .",
+      "keywords": [
+        "spacex",
+        "investoren",
+        "prototyp",
+        "ki-smartphones",
+        "xai-technologie",
+        "musk"
+      ]
+    },
+    {
+      "title": "Meta will überschüssige KI-Rechenkapazität als Cloud-Geschäft an externe Kunden verkaufen",
+      "url": "https://the-decoder.de/meta-will-ueberschuessige-ki-rechenkapazitaet-als-cloud-geschaeft-an-externe-kunden-verkaufen/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-01T15:50:43+00:00",
+      "summary": "Meta baut ein eigenes Cloud-Geschäft auf, um überschüssige KI-Rechenkapazität an externe Kunden zu verkaufen. Bei geplanten KI-Investitionen von bis zu 145 Milliarden Dollar allein in diesem Jahr stellt sich die Frage, wie auch bei SpaceX bzw. xAI, warum Meta die Kapazitäten nicht selbst für eigene Modelle nutzt. Der Artikel Meta will überschüssige KI-Rechenkapazität als Cloud-Geschäft an externe Kunden verkaufen erschien zuerst auf The Decoder .",
+      "keywords": [
+        "meta",
+        "überschüssige",
+        "ki-rechenkapazität",
+        "cloud-geschäft",
+        "externe",
+        "kunden"
+      ]
+    },
+    {
+      "title": "Nicht-invasive Hirn-zu-Text-KI von Meta nähert sich der Leistung von Implantaten",
+      "url": "https://the-decoder.de/nicht-invasive-hirn-zu-text-ki-von-meta-naehert-sich-der-leistung-von-implantaten/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-01T14:44:09+00:00",
+      "summary": "Metas KI-Team FAIR übersetzt mit Brain2Qwerty v2 Hirnaktivität in geschriebene Sätze – ganz ohne Implantate oder Operation. Das System liest magnetische Signale außerhalb des Kopfes und rekonstruiert daraus, was eine Person tippt. Bis zur klinischen Nutzung für gelähmte Menschen ist es noch ein weiter Weg, aber die Genauigkeit steigt mit jeder weiteren Aufnahme. Bei der Optimierung halfen KI-Agenten mit, die den Code selbst schrieben. Der Artikel Nicht-invasive Hirn-zu-Text-KI von Meta nähert sich der Leistung von Implantaten erschien zuerst auf The Decoder .",
+      "keywords": [
+        "nicht-invasive",
+        "hirn-zu-text-ki",
+        "meta",
+        "nähert",
+        "sich",
+        "leistung"
+      ]
+    },
+    {
+      "title": "Getarnte Signale im System-Prompt: Wie Claude Code chinesische Nutzer markierte",
+      "url": "https://the-decoder.de/getarnte-signale-im-system-prompt-wie-claude-code-chinesische-nutzer-markierte/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-01T11:06:06+00:00",
+      "summary": "Anthropic zieht eine verdeckte Überwachungsfunktion in seinem Programmierwerkzeug Claude Code zurück, nachdem sie auf Social Media für Empörung gesorgt hatte. Der Artikel Getarnte Signale im System-Prompt: Wie Claude Code chinesische Nutzer markierte erschien zuerst auf The Decoder .",
+      "keywords": [
+        "claude",
+        "code",
+        "getarnte",
+        "signale",
+        "system-prompt",
+        "chinesische"
+      ]
+    },
+    {
+      "title": "Sol Pro, Terra Pro, Luna Pro: OpenAI-Paper zeigt eine neue Pro-Staffelung für GPT-5.6",
+      "url": "https://the-decoder.de/sol-pro-terra-pro-luna-pro-openai-paper-zeigt-eine-neue-pro-staffelung-fuer-gpt-5-6/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-01T09:40:41+00:00",
+      "summary": "Ein OpenAI-Benchmark-Paper deutet an, dass die Pro-Stufe von GPT-5.6 künftig in drei Ausführungen erscheinen könnte. Das wäre die erste grundlegende Änderung am Zuschnitt des Angebots seit der Einführung von ChatGPT Pro. Der Artikel Sol Pro, Terra Pro, Luna Pro: OpenAI-Paper zeigt eine neue Pro-Staffelung für GPT-5.6 erschien zuerst auf The Decoder .",
+      "keywords": [
+        "gpt-5",
+        "terra",
+        "luna",
+        "openai-paper",
+        "zeigt",
+        "neue"
+      ]
+    },
+    {
+      "title": "Auch Anthropics Sonnet 5 kommt mit versteckten Kosten und ist deutlich teurer als der Vorgänger",
+      "url": "https://the-decoder.de/auch-anthropics-sonnet-5-kommt-mit-versteckten-kosten-und-ist-deutlich-teurer-als-der-vorgaenger/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-01T08:49:09+00:00",
+      "summary": "Claude Sonnet 5 erreicht im Artificial Analysis Intelligence Index mit 53 Punkten Platz fünf und übertrifft bei agentischen Aufgaben teils sogar das teurere Opus 4.8. Doch das Modell verbraucht pro Aufgabe rund 40 Prozent mehr Tokens als sein Vorgänger, was die realen Kosten trotz gleicher Listenpreise fast verdoppelt. Anthropics versteckte Preissteigerungen werden zum Muster. Der Artikel Auch Anthropics Sonnet 5 kommt mit versteckten Kosten und ist deutlich teurer als der Vorgänger erschien zuerst auf The Decoder .",
+      "keywords": [
+        "anthropics",
+        "sonnet",
+        "kosten",
+        "vorgänger",
+        "auch",
+        "kommt"
+      ]
+    },
+    {
+      "title": "US-Regierung gibt KI-Modell Fable 5 von Anthropic wieder frei",
+      "url": "https://the-decoder.de/us-regierung-gibt-ki-modell-fable-5-von-anthropic-wieder-frei/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-01T07:23:29+00:00",
+      "summary": "Nach gut zwei Wochen Sperre gibt die US-Regierung Anthropics Fable 5 wieder für den weltweiten Zugang frei. Auslöser war ein Jailbreak-Fund von Amazon-Forschern, den laut Anthropic aber auch deutlich schwächere Modelle wie Claude Haiku 4.5 reproduzieren konnten. Ein neuer Safety-Classifier soll die Lücke in mehr als 99 Prozent der Fälle schließen, blockiert dafür aber häufiger auch harmlose Anfragen. Der Artikel US-Regierung gibt KI-Modell Fable 5 von Anthropic wieder frei erschien zuerst auf The Decoder .",
+      "keywords": [
+        "us-regierung",
+        "gibt",
+        "fable",
+        "anthropic",
+        "wieder",
+        "frei"
+      ]
+    },
+    {
+      "title": "Claude hilft Nobelpreisträger, zwölf Jahre altes Physikrätsel zu lösen",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/rekorde/claude-hilft-nobelpreistraeger-zehn-jahre-altes-physikraetsel-zu-loesen/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-07-01T07:21:49+00:00",
+      "summary": "Giorgio Parisi und Francesco Zamponi lösen ein altes Jamming-Problem – mithilfe von Claude, aber nicht ohne harte Kontrolle. Der Beitrag Claude hilft Nobelpreisträger, zwölf Jahre altes Physikrätsel zu lösen erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "claude",
+        "altes",
+        "lösen",
+        "hilft",
+        "nobelpreisträger",
+        "zwölf"
+      ]
+    },
+    {
+      "title": "Ferdinand Porsche: Technikpionier mit belastetem Erbe",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/verkehr/ferdinand-porsche-technikpionier-mit-belastetem-erbe/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-07-01T06:00:00+00:00",
+      "summary": "150 Jahre Ferdinand Porsche: Vom Elektropionier mit Radnabenmotor bis zum VW-Konstrukteur – Innovationen und die Verstrickung ins NS-Regime im Überblick. Der Beitrag Ferdinand Porsche: Technikpionier mit belastetem Erbe erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "ferdinand",
+        "porsche",
+        "technikpionier",
+        "belastetem",
+        "erbe",
+        "jahre"
+      ]
+    },
+    {
+      "title": "20 Jahre danach: Die Reiterkuppel im Sanierungs-Check",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/bau/20-jahre-danach-die-reiterkuppel-im-sanierungs-check/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-07-01T05:35:16+00:00",
+      "summary": "Vor 20 Jahren wurde die Reiterkuppel saniert. Heute zeigt sich, warum der Kampf gegen Feuchtigkeit der entscheidende Teil der Restaurierung war. Der Beitrag 20 Jahre danach: Die Reiterkuppel im Sanierungs-Check erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "reiterkuppel",
+        "jahre",
+        "danach",
+        "sanierungs-check",
+        "jahren",
+        "wurde"
+      ]
+    },
+    {
+      "title": "Effizienz statt Energiekrise: Wie Wasserversorger mit flexibler Energieversorgung Kosten und Risiken reduzieren.",
+      "url": "https://www.ingenieur.de/advertorial/effizienz-statt-energiekrise-wie-wasserversorger-mit-flexibler-energieversorgung-kosten-und-risiken-reduzieren/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-07-01T05:30:00+00:00",
+      "summary": "Steigende Energiekosten, strenge Auflagen für die Aufbereitung, ambitionierte Klimaziele: Überall steht für Betreiber von Abwasseranlagen das Thema Energie im Fokus. Gleichzeitig steigt die Komplexität bei der Energiebeschaffung und -nutzung immer mehr an. Ein intelligentes Energiemanagement macht diese Komplexität nicht nur beherrschbar, sondern hilft, das enorme Potential von Abwasseranlagen für eine flexiblere, resilientere und effizientere Energienutzung zu heben. Der Beitrag Effizienz statt Energiekrise: Wie Wasserversorger mit flexibler Energieversorgung Kosten und Risiken reduzieren. er",
+      "keywords": [
+        "effizienz",
+        "statt",
+        "energiekrise",
+        "wasserversorger",
+        "flexibler",
+        "energieversorgung"
+      ]
+    },
+    {
+      "title": "Wenn Automatisierung Realität wird – entscheidet der Greifer",
+      "url": "https://www.ingenieur.de/advertorial/wenn-automatisierung-realitaet-wird-entscheidet-der-greifer/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-07-01T05:00:00+00:00",
+      "summary": "2026 sind in der Industrie automatisierte Prozesse längst Standard. Roboter übernehmen Aufgaben, Produktionslinien werden flexibler, Taktzeiten kürzer. Doch bei aller Dynamik entscheidet am Ende ein oft unterschätzter Faktor über den Erfolg: das sichere und zuverlässige Greifen von Werkstücken. Der Beitrag Wenn Automatisierung Realität wird – entscheidet der Greifer erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "entscheidet",
+        "wenn",
+        "automatisierung",
+        "realität",
+        "wird",
+        "greifer"
+      ]
+    },
+    {
+      "title": "Schöck schließt mit Stacon die Lücke im Brandschutz",
+      "url": "https://www.ingenieur.de/advertorial/schoeck-schliesst-mit-stacon-die-luecke-im-brandschutz/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-07-01T05:00:00+00:00",
+      "summary": "Der neue Stacon SLD mit Brandschutzstreifen von Schöck ist der deutschlandweit erste Schwerlastdorn für feuerbeständige und raumabschließende Fugen. Der Beitrag Schöck schließt mit Stacon die Lücke im Brandschutz erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "schöck",
+        "stacon",
+        "schließt",
+        "lücke",
+        "brandschutz",
+        "neue"
+      ]
+    },
+    {
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-01T18:54:18+00:00",
+      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+      "keywords": [
+        "spacex",
+        "device",
+        "prototype",
+        "sure",
+        "sounds",
+        "phone-ish"
+      ]
+    },
+    {
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-01T18:47:22+00:00",
+      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+      "keywords": [
+        "kutcher",
+        "sound",
+        "ashton",
+        "leaving",
+        "ventures",
+        "launch"
+      ]
+    },
+    {
+      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-01T17:48:37+00:00",
+      "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+      "keywords": [
+        "cloudflare",
+        "companies",
+        "used",
+        "policy",
+        "pushes",
+        "publishers"
+      ]
+    },
+    {
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-01T14:25:23+00:00",
+      "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+      "keywords": [
+        "venice",
+        "becomes",
+        "unicorn",
+        "series",
+        "privacy-first",
+        "platform"
+      ]
+    },
+    {
+      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-01T14:20:19+00:00",
+      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+      "keywords": [
+        "gemini",
+        "spark",
+        "google",
+        "agentic",
+        "assistant",
+        "available"
+      ]
+    },
+    {
+      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-01T14:00:00+00:00",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&#038;A on what it takes to build and scale successful companies. Register now to save up to $330.",
+      "keywords": [
+        "builders",
+        "stage",
+        "practical",
+        "techcrunch",
+        "disrupt",
+        "2026"
+      ]
+    },
+    {
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-01T13:43:07+00:00",
+      "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
+      "keywords": [
+        "cloud",
+        "meta",
+        "like",
+        "compute",
+        "spacex",
+        "looks"
+      ]
+    },
+    {
+      "title": "The ‘Father of the Internet’ is finally retiring",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-01T03:15:37+00:00",
+      "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+      "keywords": [
+        "internet",
+        "father",
+        "finally",
+        "retiring",
+        "vinton",
+        "cerf"
+      ]
+    },
+    {
+      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-01T02:16:06+00:00",
+      "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
+      "keywords": [
+        "trump",
+        "drops",
+        "restrictions",
+        "anthropic",
+        "mythos",
+        "fable"
+      ]
+    },
+    {
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-01T02:04:40+00:00",
+      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+      "keywords": [
+        "wayve",
+        "employee",
+        "launches",
+        "tender",
+        "offer",
+        "valuation"
+      ]
+    },
+    {
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "source": "MIT Technology Review (AI)",
+      "lang": "en",
+      "published": "2026-07-01T14:35:16+00:00",
+      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;",
+      "keywords": [
+        "type",
+        "another",
+        "llms",
+        "stuck",
+        "groupthink",
+        "groove"
+      ]
+    },
+    {
+      "title": "The latest AI news we announced in June 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "source": "Google AI Blog",
+      "lang": "en",
+      "published": "2026-07-01T18:15:00+00:00",
+      "summary": "June Pixel Drop hero",
+      "keywords": [
+        "june",
+        "latest",
+        "news",
+        "announced",
+        "2026",
+        "pixel"
+      ]
+    },
+    {
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "source": "Google AI Blog",
+      "lang": "en",
+      "published": "2026-07-01T16:00:00+00:00",
+      "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+      "keywords": [
+        "york",
+        "industry",
+        "leaders",
+        "google",
+        "city",
+        "educators"
+      ]
+    },
+    {
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "published": "2026-07-01T00:00:00+00:00",
+      "summary": "",
+      "keywords": [
+        "hugging",
+        "face",
+        "cerebras",
+        "bring",
+        "gemma",
+        "real-time"
+      ]
+    }
+  ]
+}

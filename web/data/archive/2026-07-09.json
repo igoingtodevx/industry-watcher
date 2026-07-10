@@ -1,0 +1,674 @@
+{
+  "generated_at": "2026-07-09T18:00:00+00:00",
+  "edition_id": "2026-07-09",
+  "date": "2026-07-09",
+  "brief": {
+    "headline": "09.07.2026: openai · https",
+    "subheadline": "Tageszusammenfassung mit 45 Artikeln aus 7 Quellen.",
+    "executive_summary": "<p>Am 09.07.2026 wurden 45 relevante Branchen-Meldungen aus 7 Quellen erfasst. Die thematischen Schwerpunkte lagen bei openai · https.</p><p>Die wichtigsten Meldungen des Tages sind nachfolgend kuratiert — sortiert nach Recency und Quellen-Autorität. Vollständige Artikel-Liste unten.</p>",
+    "trends": [
+      {
+        "title": "OpenAIs GPT-5.6 Sol erreicht in Benchmarks fast das Niveau von Claude Fable 5, kostet aber nur ein Drittel",
+        "what": "OpenAIs GPT-5.6 Sol kommt im Artificial Analysis Intelligence Index auf 59 Punkte und liegt damit nur knapp hinter Claude Fable 5 – kostet mit 1,04 Dollar pro Aufgabe aber nur ein Drittel so viel wie Anthropics Spitzenmodell. Beim agentischen Coding schlägt Sol die gesamte Konkurrenz, was den Preisd",
+        "why": "Gemeldet von The Decoder am 2026-07-09.",
+        "signal": "mittel"
+      },
+      {
+        "title": "OpenAI startet \"ChatGPT Work\" und gibt GPT-5.6 für alle frei",
+        "what": "OpenAI startet ChatGPT Work, eine agentische Software auf Basis von Codex und dem nun öffentlich verfügbaren GPT-5.6. Der Agent soll eigenständig über Apps wie Google Drive, Slack oder Salesforce hinweg komplexe Projekte abarbeiten. Die App gibt es ab sofort für Web, Mobile und Desktop, abhängig vom",
+        "why": "Gemeldet von The Decoder am 2026-07-09.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Neues Modell und API: Meta kickt mit Muse Spark 1.1 die KI-Preiskämpfe aufs nächste Level",
+        "what": "Meta steigt mit Muse Spark 1.1 und einer eigenen Entwickler-API ins kommerzielle Modellgeschäft ein, zu Preisen, die selbst das erst gestern erschienene Grok 4.5 unterbieten. Bei 4,25 Dollar pro Million Output-Tokens kostet Metas Modell einen Bruchteil dessen, was Anthropic oder OpenAI verlangen. Fü",
+        "why": "Gemeldet von The Decoder am 2026-07-09.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Wenn ein Leerzeichen über Bestehen entscheidet: OpenAI deckt Mängel in KI-Programmiertest auf",
+        "what": "OpenAI hat den Test SWE-Bench Pro geprüft, mit dem die Programmierfähigkeiten von KI-Modellen gemessen werden. Rund 30 Prozent der Aufgaben sind demnach fehlerhaft. Das Unternehmen zieht seine frühere Empfehlung für den Test zurück. Der Artikel Wenn ein Leerzeichen über Bestehen entscheidet: OpenAI ",
+        "why": "Gemeldet von The Decoder am 2026-07-09.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Auch Databricks springt auf den China-Zug: GLM 5.2 wird das Standardmodell fürs Coding",
+        "what": "Databricks hat Coding-Agenten auf seiner Multi-Millionen-Zeilen-Codebasis getestet. Das chinesische Open-Source-Modell GLM 5.2 landete gleichauf mit Anthropics Opus 4.8, kostete pro Aufgabe aber nur 1,28 statt 1,94 US-Dollar. Databricks will es nun als tägliches Arbeitsmodell einsetzen. Das Unterneh",
+        "why": "Gemeldet von The Decoder am 2026-07-09.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Kein Mensch hatte eine Chance: OpenAI-KI gewinnt prestigeträchtigen Programmierwettbewerb deutlich",
+        "what": "Bei den AtCoder World Tour Finals 2026 hat ein System von OpenAI in einem Ausstellungsmatch alle menschlichen Teilnehmer deutlich hinter sich gelassen und alle fünf Aufgaben der Algorithm-Division gelöst, darunter zwei, die Beobachter als besonders schwer einordneten. Der Artikel Kein Mensch hatte e",
+        "why": "Gemeldet von The Decoder am 2026-07-09.",
+        "signal": "mittel"
+      }
+    ],
+    "opportunities": [],
+    "top_articles": [
+      {
+        "title": "OpenAIs GPT-5.6 Sol erreicht in Benchmarks fast das Niveau von Claude Fable 5, kostet aber nur ein Drittel",
+        "url": "https://the-decoder.de/openais-gpt-5-6-sol-erreicht-in-benchmarks-fast-das-niveau-von-claude-fable-5-kostet-aber-nur-ein-drittel/",
+        "source": "The Decoder",
+        "date": "2026-07-09",
+        "why": "OpenAIs GPT-5.6 Sol kommt im Artificial Analysis Intelligence Index auf 59 Punkte und liegt damit nur knapp hinter Claude Fable 5 – kostet mit 1,04 Dollar pro Aufgabe aber nur ein Drittel so viel wie ",
+        "tags": [
+          "openais",
+          "gpt-5",
+          "claude",
+          "fable",
+          "kostet"
+        ]
+      },
+      {
+        "title": "OpenAI startet \"ChatGPT Work\" und gibt GPT-5.6 für alle frei",
+        "url": "https://the-decoder.de/openai-startet-chatgpt-work-und-gibt-gpt-5-6-fuer-alle-frei/",
+        "source": "The Decoder",
+        "date": "2026-07-09",
+        "why": "OpenAI startet ChatGPT Work, eine agentische Software auf Basis von Codex und dem nun öffentlich verfügbaren GPT-5.6. Der Agent soll eigenständig über Apps wie Google Drive, Slack oder Salesforce hinw",
+        "tags": [
+          "openai",
+          "startet",
+          "chatgpt",
+          "work",
+          "gibt"
+        ]
+      },
+      {
+        "title": "Neues Modell und API: Meta kickt mit Muse Spark 1.1 die KI-Preiskämpfe aufs nächste Level",
+        "url": "https://the-decoder.de/neues-modell-und-api-meta-kickt-mit-muse-spark-1-1-die-ki-preiskaempfe-aufs-naechste-level/",
+        "source": "The Decoder",
+        "date": "2026-07-09",
+        "why": "Meta steigt mit Muse Spark 1.1 und einer eigenen Entwickler-API ins kommerzielle Modellgeschäft ein, zu Preisen, die selbst das erst gestern erschienene Grok 4.5 unterbieten. Bei 4,25 Dollar pro Milli",
+        "tags": [
+          "modell",
+          "meta",
+          "muse",
+          "spark",
+          "neues"
+        ]
+      },
+      {
+        "title": "Wenn ein Leerzeichen über Bestehen entscheidet: OpenAI deckt Mängel in KI-Programmiertest auf",
+        "url": "https://the-decoder.de/wenn-ein-leerzeichen-ueber-bestehen-entscheidet-openai-deckt-maengel-in-ki-programmiertest-auf/",
+        "source": "The Decoder",
+        "date": "2026-07-09",
+        "why": "OpenAI hat den Test SWE-Bench Pro geprüft, mit dem die Programmierfähigkeiten von KI-Modellen gemessen werden. Rund 30 Prozent der Aufgaben sind demnach fehlerhaft. Das Unternehmen zieht seine frühere",
+        "tags": [
+          "openai",
+          "wenn",
+          "leerzeichen",
+          "bestehen",
+          "entscheidet"
+        ]
+      },
+      {
+        "title": "Auch Databricks springt auf den China-Zug: GLM 5.2 wird das Standardmodell fürs Coding",
+        "url": "https://the-decoder.de/auch-databricks-springt-auf-den-china-zug-glm-5-2-wird-das-standardmodell-fuers-coding/",
+        "source": "The Decoder",
+        "date": "2026-07-09",
+        "why": "Databricks hat Coding-Agenten auf seiner Multi-Millionen-Zeilen-Codebasis getestet. Das chinesische Open-Source-Modell GLM 5.2 landete gleichauf mit Anthropics Opus 4.8, kostete pro Aufgabe aber nur 1",
+        "tags": [
+          "databricks",
+          "auch",
+          "springt",
+          "china-zug",
+          "wird"
+        ]
+      },
+      {
+        "title": "Kein Mensch hatte eine Chance: OpenAI-KI gewinnt prestigeträchtigen Programmierwettbewerb deutlich",
+        "url": "https://the-decoder.de/openai-ki-schlaegt-einige-der-besten-wettkampfprogrammierer-der-welt-bei-internationalem-coding-wettbewerb-deutlich/",
+        "source": "The Decoder",
+        "date": "2026-07-09",
+        "why": "Bei den AtCoder World Tour Finals 2026 hat ein System von OpenAI in einem Ausstellungsmatch alle menschlichen Teilnehmer deutlich hinter sich gelassen und alle fünf Aufgaben der Algorithm-Division gel",
+        "tags": [
+          "deutlich",
+          "kein",
+          "mensch",
+          "hatte",
+          "chance"
+        ]
+      },
+      {
+        "title": "xAI veröffentlicht Grok 4.5: Fast auf Frontier-Niveau, aber deutlich günstiger als die Konkurrenz",
+        "url": "https://the-decoder.de/xai-veroeffentlicht-grok-4-5-fast-auf-frontier-niveau-aber-deutlich-guenstiger-als-die-konkurrenz/",
+        "source": "The Decoder",
+        "date": "2026-07-09",
+        "why": "xAI veröffentlicht Grok 4.5, trainiert auf zehntausenden Nvidia GB300 GPUs. In Coding-Benchmarks liegt das Modell noch deutlich hinter Fable 5 und teils knapp hinter GPT-5.5, benötigt aber 4,2-mal wen",
+        "tags": [
+          "veröffentlicht",
+          "grok",
+          "aber",
+          "deutlich",
+          "konkurrenz"
+        ]
+      },
+      {
+        "title": "Operation „First Light 2026“: 5.800 Verdächtige weltweit festgenommen",
+        "url": "https://www.heise.de/news/Operation-First-Light-2026-5-800-Verdaechtige-bei-weltweit-festgenommen-11360175.html",
+        "source": "Heise iX (Magazin-Feed)",
+        "date": "2026-07-09",
+        "why": "In einer weltweiten Aktion gegen Social-Engineering-Betrug wurden Tausende Verdächtige inhaftiert und Beträge in Millionenhöhe sichergestellt.",
+        "tags": [
+          "verdächtige",
+          "operation",
+          "first",
+          "light",
+          "2026"
+        ]
+      },
+      {
+        "title": "EuGH-Urteil: Geoblocking schützt Urheberrecht auch bei VPN-Umgehung",
+        "url": "https://www.heise.de/news/EuGH-Urteil-Geoblocking-schuetzt-Urheberrecht-auch-bei-VPN-Umgehung-11360094.html",
+        "source": "Heise iX (Magazin-Feed)",
+        "date": "2026-07-09",
+        "why": "Ein Werk, das in einem EU-Land gemeinfrei, in anderen aber geschützt ist, darf online stehen. Voraussetzung: Sperren nach dem Stand der Technik müssen greifen.",
+        "tags": [
+          "eugh-urteil",
+          "geoblocking",
+          "schützt",
+          "urheberrecht",
+          "auch"
+        ]
+      },
+      {
+        "title": "PC-Markt bricht ein: Nur Apple wächst dank MacBook Neo",
+        "url": "https://www.heise.de/news/Apple-trotzt-dem-PC-Markteinbruch-11359938.html",
+        "source": "Heise iX (Magazin-Feed)",
+        "date": "2026-07-09",
+        "why": "Die drei weltweit größten PC- und Notebook-Hersteller lassen Federn. Nur Apple wächst dank des MacBook Neo erheblich.",
+        "tags": [
+          "apple",
+          "wächst",
+          "dank",
+          "macbook",
+          "pc-markt"
+        ]
+      }
+    ],
+    "action_items": []
+  },
+  "raw_articles": [
+    {
+      "title": "OpenAIs GPT-5.6 Sol erreicht in Benchmarks fast das Niveau von Claude Fable 5, kostet aber nur ein Drittel",
+      "url": "https://the-decoder.de/openais-gpt-5-6-sol-erreicht-in-benchmarks-fast-das-niveau-von-claude-fable-5-kostet-aber-nur-ein-drittel/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-09T18:26:51+00:00",
+      "summary": "OpenAIs GPT-5.6 Sol kommt im Artificial Analysis Intelligence Index auf 59 Punkte und liegt damit nur knapp hinter Claude Fable 5 – kostet mit 1,04 Dollar pro Aufgabe aber nur ein Drittel so viel wie Anthropics Spitzenmodell. Beim agentischen Coding schlägt Sol die gesamte Konkurrenz, was den Preisdruck auf Anthropic weiter verschärft. Der Artikel OpenAIs GPT-5.6 Sol erreicht in Benchmarks fast das Niveau von Claude Fable 5, kostet aber nur ein Drittel erschien zuerst auf The Decoder .",
+      "keywords": [
+        "openais",
+        "gpt-5",
+        "claude",
+        "fable",
+        "kostet",
+        "aber"
+      ]
+    },
+    {
+      "title": "OpenAI startet \"ChatGPT Work\" und gibt GPT-5.6 für alle frei",
+      "url": "https://the-decoder.de/openai-startet-chatgpt-work-und-gibt-gpt-5-6-fuer-alle-frei/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-09T17:41:22+00:00",
+      "summary": "OpenAI startet ChatGPT Work, eine agentische Software auf Basis von Codex und dem nun öffentlich verfügbaren GPT-5.6. Der Agent soll eigenständig über Apps wie Google Drive, Slack oder Salesforce hinweg komplexe Projekte abarbeiten. Die App gibt es ab sofort für Web, Mobile und Desktop, abhängig vom Tarif. Der Artikel OpenAI startet &quot;ChatGPT Work&quot; und gibt GPT-5.6 für alle frei erschien zuerst auf The Decoder .",
+      "keywords": [
+        "openai",
+        "startet",
+        "chatgpt",
+        "work",
+        "gibt",
+        "gpt-5"
+      ]
+    },
+    {
+      "title": "Neues Modell und API: Meta kickt mit Muse Spark 1.1 die KI-Preiskämpfe aufs nächste Level",
+      "url": "https://the-decoder.de/neues-modell-und-api-meta-kickt-mit-muse-spark-1-1-die-ki-preiskaempfe-aufs-naechste-level/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-09T16:38:44+00:00",
+      "summary": "Meta steigt mit Muse Spark 1.1 und einer eigenen Entwickler-API ins kommerzielle Modellgeschäft ein, zu Preisen, die selbst das erst gestern erschienene Grok 4.5 unterbieten. Bei 4,25 Dollar pro Million Output-Tokens kostet Metas Modell einen Bruchteil dessen, was Anthropic oder OpenAI verlangen. Für die reinen KI-Labore, die Milliarden verbrennen, wird die Luft dünner. Der Artikel Neues Modell und API: Meta kickt mit Muse Spark 1.1 die KI-Preiskämpfe aufs nächste Level erschien zuerst auf The Decoder .",
+      "keywords": [
+        "modell",
+        "meta",
+        "muse",
+        "spark",
+        "neues",
+        "kickt"
+      ]
+    },
+    {
+      "title": "Wenn ein Leerzeichen über Bestehen entscheidet: OpenAI deckt Mängel in KI-Programmiertest auf",
+      "url": "https://the-decoder.de/wenn-ein-leerzeichen-ueber-bestehen-entscheidet-openai-deckt-maengel-in-ki-programmiertest-auf/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-09T11:50:57+00:00",
+      "summary": "OpenAI hat den Test SWE-Bench Pro geprüft, mit dem die Programmierfähigkeiten von KI-Modellen gemessen werden. Rund 30 Prozent der Aufgaben sind demnach fehlerhaft. Das Unternehmen zieht seine frühere Empfehlung für den Test zurück. Der Artikel Wenn ein Leerzeichen über Bestehen entscheidet: OpenAI deckt Mängel in KI-Programmiertest auf erschien zuerst auf The Decoder .",
+      "keywords": [
+        "openai",
+        "wenn",
+        "leerzeichen",
+        "bestehen",
+        "entscheidet",
+        "deckt"
+      ]
+    },
+    {
+      "title": "Auch Databricks springt auf den China-Zug: GLM 5.2 wird das Standardmodell fürs Coding",
+      "url": "https://the-decoder.de/auch-databricks-springt-auf-den-china-zug-glm-5-2-wird-das-standardmodell-fuers-coding/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-09T10:41:39+00:00",
+      "summary": "Databricks hat Coding-Agenten auf seiner Multi-Millionen-Zeilen-Codebasis getestet. Das chinesische Open-Source-Modell GLM 5.2 landete gleichauf mit Anthropics Opus 4.8, kostete pro Aufgabe aber nur 1,28 statt 1,94 US-Dollar. Databricks will es nun als tägliches Arbeitsmodell einsetzen. Das Unternehmen rät zudem dazu, eigene Coding-Benchmarks zu entwickeln. Der Artikel Auch Databricks springt auf den China-Zug: GLM 5.2 wird das Standardmodell fürs Coding erschien zuerst auf The Decoder .",
+      "keywords": [
+        "databricks",
+        "auch",
+        "springt",
+        "china-zug",
+        "wird",
+        "standardmodell"
+      ]
+    },
+    {
+      "title": "Kein Mensch hatte eine Chance: OpenAI-KI gewinnt prestigeträchtigen Programmierwettbewerb deutlich",
+      "url": "https://the-decoder.de/openai-ki-schlaegt-einige-der-besten-wettkampfprogrammierer-der-welt-bei-internationalem-coding-wettbewerb-deutlich/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-09T09:39:57+00:00",
+      "summary": "Bei den AtCoder World Tour Finals 2026 hat ein System von OpenAI in einem Ausstellungsmatch alle menschlichen Teilnehmer deutlich hinter sich gelassen und alle fünf Aufgaben der Algorithm-Division gelöst, darunter zwei, die Beobachter als besonders schwer einordneten. Der Artikel Kein Mensch hatte eine Chance: OpenAI-KI gewinnt prestigeträchtigen Programmierwettbewerb deutlich erschien zuerst auf The Decoder .",
+      "keywords": [
+        "deutlich",
+        "kein",
+        "mensch",
+        "hatte",
+        "chance",
+        "openai-ki"
+      ]
+    },
+    {
+      "title": "xAI veröffentlicht Grok 4.5: Fast auf Frontier-Niveau, aber deutlich günstiger als die Konkurrenz",
+      "url": "https://the-decoder.de/xai-veroeffentlicht-grok-4-5-fast-auf-frontier-niveau-aber-deutlich-guenstiger-als-die-konkurrenz/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-09T07:30:44+00:00",
+      "summary": "xAI veröffentlicht Grok 4.5, trainiert auf zehntausenden Nvidia GB300 GPUs. In Coding-Benchmarks liegt das Modell noch deutlich hinter Fable 5 und teils knapp hinter GPT-5.5, benötigt aber 4,2-mal weniger Tokens als Opus 4.8. Mit 2 Dollar pro Million Input-Tokens und 6 Dollar pro Million Output-Tokens kostet es einen Bruchteil der Konkurrenz. In der EU soll es Mitte Juli verfügbar sein. Der Artikel xAI veröffentlicht Grok 4.5: Fast auf Frontier-Niveau, aber deutlich günstiger als die Konkurrenz erschien zuerst auf The Decoder .",
+      "keywords": [
+        "veröffentlicht",
+        "grok",
+        "aber",
+        "deutlich",
+        "konkurrenz",
+        "fast"
+      ]
+    },
+    {
+      "title": "Operation „First Light 2026“: 5.800 Verdächtige weltweit festgenommen",
+      "url": "https://www.heise.de/news/Operation-First-Light-2026-5-800-Verdaechtige-bei-weltweit-festgenommen-11360175.html",
+      "source": "Heise iX (Magazin-Feed)",
+      "lang": "de",
+      "published": "2026-07-09T19:12:00+00:00",
+      "summary": "In einer weltweiten Aktion gegen Social-Engineering-Betrug wurden Tausende Verdächtige inhaftiert und Beträge in Millionenhöhe sichergestellt.",
+      "keywords": [
+        "verdächtige",
+        "operation",
+        "first",
+        "light",
+        "2026",
+        "weltweit"
+      ]
+    },
+    {
+      "title": "EuGH-Urteil: Geoblocking schützt Urheberrecht auch bei VPN-Umgehung",
+      "url": "https://www.heise.de/news/EuGH-Urteil-Geoblocking-schuetzt-Urheberrecht-auch-bei-VPN-Umgehung-11360094.html",
+      "source": "Heise iX (Magazin-Feed)",
+      "lang": "de",
+      "published": "2026-07-09T18:20:00+00:00",
+      "summary": "Ein Werk, das in einem EU-Land gemeinfrei, in anderen aber geschützt ist, darf online stehen. Voraussetzung: Sperren nach dem Stand der Technik müssen greifen.",
+      "keywords": [
+        "eugh-urteil",
+        "geoblocking",
+        "schützt",
+        "urheberrecht",
+        "auch",
+        "vpn-umgehung"
+      ]
+    },
+    {
+      "title": "PC-Markt bricht ein: Nur Apple wächst dank MacBook Neo",
+      "url": "https://www.heise.de/news/Apple-trotzt-dem-PC-Markteinbruch-11359938.html",
+      "source": "Heise iX (Magazin-Feed)",
+      "lang": "de",
+      "published": "2026-07-09T15:35:00+00:00",
+      "summary": "Die drei weltweit größten PC- und Notebook-Hersteller lassen Federn. Nur Apple wächst dank des MacBook Neo erheblich.",
+      "keywords": [
+        "apple",
+        "wächst",
+        "dank",
+        "macbook",
+        "pc-markt",
+        "bricht"
+      ]
+    },
+    {
+      "title": "Open-Source-Strategie: Mecklenburg-Vorpommern will auch Microsoft Office ablösen",
+      "url": "https://www.heise.de/news/Open-Source-Strategie-Mecklenburg-Vorpommern-will-auch-Microsoft-Office-abloesen-11359864.html",
+      "source": "Heise iX (Magazin-Feed)",
+      "lang": "de",
+      "published": "2026-07-09T15:22:00+00:00",
+      "summary": "Unter den Bundesländern hat sich bislang nur Schleswig-Holstein im großen Stil von MS Office verabschiedet. Mecklenburg-Vorpommern will mittelfristig folgen.",
+      "keywords": [
+        "mecklenburg-vorpommern",
+        "will",
+        "office",
+        "open-source-strategie",
+        "auch",
+        "microsoft"
+      ]
+    },
+    {
+      "title": "Digitaler Euro: Trilog startet, viele technische Fragen bleiben",
+      "url": "https://www.heise.de/news/Digitaler-Euro-Trilog-startet-viele-technische-Fragen-bleiben-11359824.html",
+      "source": "Heise iX (Magazin-Feed)",
+      "lang": "de",
+      "published": "2026-07-09T15:06:00+00:00",
+      "summary": "Das Europaparlament hat der Einführung des digitalen Euro zugestimmt. Wissenschaftler sehen aber Schwächen im geplanten Konzept.",
+      "keywords": [
+        "euro",
+        "digitaler",
+        "trilog",
+        "startet",
+        "viele",
+        "technische"
+      ]
+    },
+    {
+      "title": "n8n: CERT-Bund veröffentlicht Warnmeldung zu kürzlich beseitigten Schwachstellen",
+      "url": "https://www.heise.de/news/n8n-CERT-Bund-veroeffentlicht-Warnmeldung-zu-kuerzlich-beseitigten-Schwachstellen-11359656.html",
+      "source": "Heise iX (Magazin-Feed)",
+      "lang": "de",
+      "published": "2026-07-09T14:27:00+00:00",
+      "summary": "Kritisch ist keine der jüngst gefixten Lücken in der Automatisierungslösung n8n. Dennoch betont eine Warnmeldung des BSI die hohe Update-Relevanz.",
+      "keywords": [
+        "warnmeldung",
+        "cert-bund",
+        "veröffentlicht",
+        "kürzlich",
+        "beseitigten",
+        "schwachstellen"
+      ]
+    },
+    {
+      "title": "Neue Nordpass-Studie: Browser-Passwörter bleiben hochriskant",
+      "url": "https://www.elektroniknet.de/it-security/it-security/hacker-lieben-browser-passwoerter.ed1a5f9e-32fb-4d29-9e0e-ffbbb3df2bfa.html",
+      "source": "Elektroniknet / Industry",
+      "lang": "de",
+      "published": "2026-07-09T12:57:00+00:00",
+      "summary": "Einer aktuellen Studie von Nordpass zufolge speichern viele Anwender ihre Passwörter im Browser. Aber Achtung: Ein kompromittiertes Hauptkonto kann alle Zugangsdaten - und damit die gesamte digitale Identität - gefährden.",
+      "keywords": [
+        "neue",
+        "nordpass-studie",
+        "browser-passwörter",
+        "bleiben",
+        "hochriskant",
+        "aktuellen"
+      ]
+    },
+    {
+      "title": "Gasförmige, flüssige, gefrorene Medien: Niederdruckmessung für Automotive und KI-Rechenzentren",
+      "url": "https://www.elektroniknet.de/messen-testen/sensorik/niederdruckmessung-in-gasfoermigen-fluessigen-und-gefrorenen-medien.60bc0a73-8dba-42d3-9f11-1fe65aa9da35.html",
+      "source": "Elektroniknet / Industry",
+      "lang": "de",
+      "published": "2026-07-09T11:09:00+00:00",
+      "summary": "Melexis hat seine Triphibian-Drucksensorfamilie um Varianten für Niederdruckanwendungen erweitert. Die neuen Bauteile unterstützen konfigurierbare Druckbereiche ab 2 bar und erschließen damit Anwendungen wie das Thermomanagement von Elektrofahrzeugen sowie Flüssigkeitskühlungen in KI-Rechenzentren.",
+      "keywords": [
+        "ki-rechenzentren",
+        "gasförmige",
+        "flüssige",
+        "gefrorene",
+        "medien",
+        "niederdruckmessung"
+      ]
+    },
+    {
+      "title": "Fable is SOTA at CIFAR Speedrun: lessons on AI R&D automation",
+      "url": "https://fulcrum.inc/2026/07/09/fable-cifar-speedrun.html",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-09T22:46:01+00:00",
+      "summary": "Article URL: https://fulcrum.inc/2026/07/09/fable-cifar-speedrun.html Comments URL: https://news.ycombinator.com/item?id=48853424 Points: 4 # Comments: 0",
+      "keywords": [
+        "https",
+        "comments",
+        "fable",
+        "sota",
+        "cifar",
+        "speedrun"
+      ]
+    },
+    {
+      "title": "Up the Stack: How AI's Escape from the Commodity Trap Risks Enterprise Lock-In",
+      "url": "https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-09T22:37:47+00:00",
+      "summary": "Article URL: https://www.normaltech.ai/p/up-the-stack-how-ais-escape-from Comments URL: https://news.ycombinator.com/item?id=48853327 Points: 3 # Comments: 0",
+      "keywords": [
+        "https",
+        "comments",
+        "stack",
+        "escape",
+        "commodity",
+        "trap"
+      ]
+    },
+    {
+      "title": "GLM5.2: Considerations for enterprise teams starting out with open-weight models",
+      "url": "https://blog.scottlogic.com/2026/07/08/glm-5-2-considerations-for-enterprise-teams-starting-out-with-open-weight-models.html",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-09T20:59:26+00:00",
+      "summary": "Article URL: https://blog.scottlogic.com/2026/07/08/glm-5-2-considerations-for-enterprise-teams-starting-out-with-open-weight-models.html Comments URL: https://news.ycombinator.com/item?id=48852298 Points: 2 # Comments: 0",
+      "keywords": [
+        "https",
+        "comments",
+        "glm5",
+        "considerations",
+        "enterprise",
+        "teams"
+      ]
+    },
+    {
+      "title": "Croatia's Infobip acquires SocketLabs to expand enterprise email infrastructure",
+      "url": "https://seenews.com/news/croatias-infobip-acquires-socketlabs-to-expand-enterprise-email-infrastructure-1297801",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-09T15:29:16+00:00",
+      "summary": "Article URL: https://seenews.com/news/croatias-infobip-acquires-socketlabs-to-expand-enterprise-email-infrastructure-1297801 Comments URL: https://news.ycombinator.com/item?id=48847567 Points: 2 # Comments: 0",
+      "keywords": [
+        "https",
+        "news",
+        "comments",
+        "croatia",
+        "infobip",
+        "acquires"
+      ]
+    },
+    {
+      "title": "Bytechef open source platform for AI agent orchestration and workflow automation",
+      "url": "https://github.com/bytechefhq/bytechef/tree/master",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-09T15:13:03+00:00",
+      "summary": "Article URL: https://github.com/bytechefhq/bytechef/tree/master Comments URL: https://news.ycombinator.com/item?id=48847296 Points: 2 # Comments: 0",
+      "keywords": [
+        "bytechef",
+        "https",
+        "comments",
+        "open",
+        "source",
+        "platform"
+      ]
+    },
+    {
+      "title": "Show HN: Codapult – Next.js SaaS boilerplate with 70+ modules & adapter pattern",
+      "url": "https://codapult.dev",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-09T15:00:02+00:00",
+      "summary": "Article URL: https://codapult.dev Comments URL: https://news.ycombinator.com/item?id=48847052 Points: 3 # Comments: 0",
+      "keywords": [
+        "codapult",
+        "https",
+        "comments",
+        "show",
+        "next",
+        "saas"
+      ]
+    },
+    {
+      "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
+      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-09T23:38:00+00:00",
+      "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+      "keywords": [
+        "fidji",
+        "simo",
+        "down",
+        "openai",
+        "role",
+        "steps"
+      ]
+    },
+    {
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-09T22:24:24+00:00",
+      "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+      "keywords": [
+        "openai",
+        "family",
+        "models",
+        "launches",
+        "gpt-5",
+        "latest"
+      ]
+    },
+    {
+      "title": "An AI agent startup just let its agent run its $100M fundraise",
+      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-09T22:08:58+00:00",
+      "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+      "keywords": [
+        "agent",
+        "startup",
+        "just",
+        "100m",
+        "fundraise",
+        "lyzr"
+      ]
+    },
+    {
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-09T22:03:54+00:00",
+      "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+      "keywords": [
+        "openai",
+        "browser",
+        "shutting",
+        "down",
+        "atlas",
+        "ambitions"
+      ]
+    },
+    {
+      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-09T21:57:42+00:00",
+      "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
+      "keywords": [
+        "musk",
+        "elon",
+        "anthropic",
+        "praises",
+        "mythos",
+        "fable"
+      ]
+    },
+    {
+      "title": "Can AI answer the $3 trillion question?",
+      "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-09T21:47:50+00:00",
+      "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+      "keywords": [
+        "answer",
+        "trillion",
+        "question",
+        "debate",
+        "returned",
+        "numbers"
+      ]
+    },
+    {
+      "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+      "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-09T19:40:45+00:00",
+      "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+      "keywords": [
+        "meta",
+        "spark",
+        "large",
+        "enters",
+        "crowded",
+        "coding"
+      ]
+    },
+    {
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-09T19:05:58+00:00",
+      "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+      "keywords": [
+        "openai",
+        "chatgpt",
+        "york",
+        "times",
+        "says",
+        "evidence"
+      ]
+    },
+    {
+      "title": "Google will now disclose which ads are made with AI",
+      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-09T18:40:51+00:00",
+      "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
+      "keywords": [
+        "google",
+        "disclose",
+        "will",
+        "which",
+        "made",
+        "while"
+      ]
+    }
+  ]
+}

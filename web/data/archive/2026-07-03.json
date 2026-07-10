@@ -1,0 +1,370 @@
+{
+  "generated_at": "2026-07-03T18:00:00+00:00",
+  "edition_id": "2026-07-03",
+  "date": "2026-07-03",
+  "brief": {
+    "headline": "03.07.2026: ki-agenten · hintergrund",
+    "subheadline": "Tageszusammenfassung mit 11 Artikeln aus 2 Quellen.",
+    "executive_summary": "<p>Am 03.07.2026 wurden 11 relevante Branchen-Meldungen aus 2 Quellen erfasst. Die thematischen Schwerpunkte lagen bei ki-agenten · hintergrund.</p><p>Die wichtigsten Meldungen des Tages sind nachfolgend kuratiert — sortiert nach Recency und Quellen-Autorität. Vollständige Artikel-Liste unten.</p>",
+    "trends": [
+      {
+        "title": "Microsofts kommender Copilot soll mit KI-Agenten im Hintergrund \"echte Arbeit\" erledigen",
+        "what": "Microsoft will im August seine Consumer- und Enterprise-Copilot-Apps zu einer einzigen App zusammenführen. Wenig genutzte Features wie Copilot-Podcasts werden gestrichen, neue KI-Agenten namens \"AutoPilot\" sollen im Hintergrund Aufgaben erledigen – gegen Aufpreis. Der Artikel Microsofts kommender Co",
+        "why": "Gemeldet von The Decoder am 2026-07-03.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Claude Code in China: Anthropic kämpft gegen Schlupflöcher, Alibaba verbannt das Tool",
+        "what": "Anthropic versucht, chinesischen Firmen wie ByteDance und Ant Financial den Zugang zu Claude Code zu verwehren – die greifen über VPNs und Auslandstöchter trotzdem darauf zu. Alibaba wiederum verbietet seinen Mitarbeitern Claude Code von sich aus: Im Tool wurde versteckter Code entdeckt, der chinesi",
+        "why": "Gemeldet von The Decoder am 2026-07-03.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Seit KI-Modelle Schwachstellen aufspüren, explodiert die Zahl gemeldeter Sicherheitslücken",
+        "what": "Epoch AI dokumentiert einen drastischen Anstieg gemeldeter Sicherheitslücken: Im Juni 2026 meldeten 21 Organisationen rund 1.500 schwere und kritische CVEs, mehr als 3,5-mal so viele wie der bisherige Monatsrekord. Der Sprung fällt zeitlich mit KI-gestützten Bug-Hunting-Programmen zusammen. Der Arti",
+        "why": "Gemeldet von The Decoder am 2026-07-03.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Britisches KI-Sicherheitsinstitut warnt: Standard-Benchmarks unterschätzen KI-Agenten systematisch",
+        "what": "Das britische AI Security Institute zeigt in einer Studie über sieben Benchmarks: Gängige KI-Evaluierungen unterschätzen die Fähigkeiten von Agenten-Modellen systematisch, weil sie das Rechenbudget begrenzen. Bei Software-Engineering-Aufgaben stieg die Erfolgsrate um bis zu 25 Prozent, wenn das Toke",
+        "why": "Gemeldet von The Decoder am 2026-07-03.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Webinar KI-Sicherheit im Unternehmen: Worauf jetzt alle achten sollten",
+        "what": "Prompt Injection, Data Poisoning und unbeabsichtigte Datenlecks zählen zu den drängendsten Sicherheitsrisiken beim KI-Einsatz in Unternehmen. Klassische IT-Sicherheitskonzepte decken diese Angriffsszenarien oft nicht ab. Ein Webinar von heise KI PRO &#038; THE DECODER zeigt, welche Schutzmaßnahmen j",
+        "why": "Gemeldet von The Decoder am 2026-07-03.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Der blinde Fleck der Frontier-Modelle: Hedgefonds zeigt Wert von nicht eintrainiertem Expertenwissen",
+        "what": "Bridgewater und Thinking Machines Lab, das Start-up von Ex-OpenAI-CTO Mira Murati, haben ein feinabgestimmtes Qwen3-235B-Modell auf Finanzaufgaben trainiert. Es erreicht laut eigener Auswertung 84,7 Prozent Treffsicherheit – mehr als Gemini, Claude und GPT – bei einem Vierzehntel der Kosten. Unabhän",
+        "why": "Gemeldet von The Decoder am 2026-07-03.",
+        "signal": "mittel"
+      }
+    ],
+    "opportunities": [],
+    "top_articles": [
+      {
+        "title": "Microsofts kommender Copilot soll mit KI-Agenten im Hintergrund \"echte Arbeit\" erledigen",
+        "url": "https://the-decoder.de/microsofts-kommender-copilot-soll-mit-ki-agenten-im-hintergrund-echte-arbeit-erledigen/",
+        "source": "The Decoder",
+        "date": "2026-07-03",
+        "why": "Microsoft will im August seine Consumer- und Enterprise-Copilot-Apps zu einer einzigen App zusammenführen. Wenig genutzte Features wie Copilot-Podcasts werden gestrichen, neue KI-Agenten namens \"AutoP",
+        "tags": [
+          "ki-agenten",
+          "hintergrund",
+          "erledigen",
+          "microsofts",
+          "kommender"
+        ]
+      },
+      {
+        "title": "Claude Code in China: Anthropic kämpft gegen Schlupflöcher, Alibaba verbannt das Tool",
+        "url": "https://the-decoder.de/claude-code-in-china-anthropic-kaempft-gegen-schlupfloecher-alibaba-verbannt-das-tool/",
+        "source": "The Decoder",
+        "date": "2026-07-03",
+        "why": "Anthropic versucht, chinesischen Firmen wie ByteDance und Ant Financial den Zugang zu Claude Code zu verwehren – die greifen über VPNs und Auslandstöchter trotzdem darauf zu. Alibaba wiederum verbiete",
+        "tags": [
+          "code",
+          "claude",
+          "anthropic",
+          "alibaba",
+          "tool"
+        ]
+      },
+      {
+        "title": "Seit KI-Modelle Schwachstellen aufspüren, explodiert die Zahl gemeldeter Sicherheitslücken",
+        "url": "https://the-decoder.de/seit-ki-modelle-schwachstellen-aufspueren-explodiert-die-zahl-gemeldeter-sicherheitsluecken/",
+        "source": "The Decoder",
+        "date": "2026-07-03",
+        "why": "Epoch AI dokumentiert einen drastischen Anstieg gemeldeter Sicherheitslücken: Im Juni 2026 meldeten 21 Organisationen rund 1.500 schwere und kritische CVEs, mehr als 3,5-mal so viele wie der bisherige",
+        "tags": [
+          "gemeldeter",
+          "sicherheitslücken",
+          "seit",
+          "ki-modelle",
+          "schwachstellen"
+        ]
+      },
+      {
+        "title": "Britisches KI-Sicherheitsinstitut warnt: Standard-Benchmarks unterschätzen KI-Agenten systematisch",
+        "url": "https://the-decoder.de/britisches-ki-sicherheitsinstitut-warnt-standard-benchmarks-unterschaetzen-ki-agenten-systematisch/",
+        "source": "The Decoder",
+        "date": "2026-07-03",
+        "why": "Das britische AI Security Institute zeigt in einer Studie über sieben Benchmarks: Gängige KI-Evaluierungen unterschätzen die Fähigkeiten von Agenten-Modellen systematisch, weil sie das Rechenbudget be",
+        "tags": [
+          "unterschätzen",
+          "systematisch",
+          "britisches",
+          "ki-sicherheitsinstitut",
+          "warnt"
+        ]
+      },
+      {
+        "title": "Webinar KI-Sicherheit im Unternehmen: Worauf jetzt alle achten sollten",
+        "url": "https://the-decoder.de/webinar-ki-sicherheit-im-unternehmen-worauf-jetzt-alle-achten-sollten/",
+        "source": "The Decoder",
+        "date": "2026-07-03",
+        "why": "Prompt Injection, Data Poisoning und unbeabsichtigte Datenlecks zählen zu den drängendsten Sicherheitsrisiken beim KI-Einsatz in Unternehmen. Klassische IT-Sicherheitskonzepte decken diese Angriffssze",
+        "tags": [
+          "webinar",
+          "unternehmen",
+          "jetzt",
+          "ki-sicherheit",
+          "worauf"
+        ]
+      },
+      {
+        "title": "Der blinde Fleck der Frontier-Modelle: Hedgefonds zeigt Wert von nicht eintrainiertem Expertenwissen",
+        "url": "https://the-decoder.de/der-blinde-fleck-der-frontier-modelle-hedgefonds-zeigt-wert-von-nicht-eintrainiertem-expertenwissen/",
+        "source": "The Decoder",
+        "date": "2026-07-03",
+        "why": "Bridgewater und Thinking Machines Lab, das Start-up von Ex-OpenAI-CTO Mira Murati, haben ein feinabgestimmtes Qwen3-235B-Modell auf Finanzaufgaben trainiert. Es erreicht laut eigener Auswertung 84,7 P",
+        "tags": [
+          "nicht",
+          "blinde",
+          "fleck",
+          "frontier-modelle",
+          "hedgefonds"
+        ]
+      },
+      {
+        "title": "Zuckerberg gesteht Schwächen im KI-Umbau von Meta ein",
+        "url": "https://the-decoder.de/zuckerberg-gesteht-schwaechen-im-ki-umbau-von-meta-ein/",
+        "source": "The Decoder",
+        "date": "2026-07-03",
+        "why": "Auf einem internen Townhall gestand Mark Zuckerberg Schwächen im Konzernumbau ein. Ausgerechnet die KI-Agenten, für die Meta massiv umstrukturiert hat, entwickeln sich laut Zuckerberg langsamer als ge",
+        "tags": [
+          "zuckerberg",
+          "schwächen",
+          "meta",
+          "gesteht",
+          "ki-umbau"
+        ]
+      },
+      {
+        "title": "Video-KI Kling sammelt 2 Milliarden Dollar und macht sich bereit für die Börse",
+        "url": "https://the-decoder.de/video-ki-kling-sammelt-2-milliarden-dollar-und-macht-sich-bereit-fuer-die-boerse/",
+        "source": "The Decoder",
+        "date": "2026-07-03",
+        "why": "Kuaishou hat für seine KI-Videoeinheit Kling rund zwei Milliarden Dollar von Investoren eingesammelt. Der Artikel Video-KI Kling sammelt 2 Milliarden Dollar und macht sich bereit für die Börse erschie",
+        "tags": [
+          "kling",
+          "milliarden",
+          "dollar",
+          "video-ki",
+          "sammelt"
+        ]
+      },
+      {
+        "title": "Tesla deckelt KI-Ausgaben seiner Mitarbeiter auf 200 Dollar pro Woche",
+        "url": "https://the-decoder.de/tesla-deckelt-ki-ausgaben-seiner-mitarbeiter-auf-200-dollar-pro-woche/",
+        "source": "The Decoder",
+        "date": "2026-07-03",
+        "why": "Tesla begrenzt die KI-Ausgaben seiner Mitarbeiter ab dem 6. Juli auf 200 Dollar pro Woche, berichtet The Information. Der Artikel Tesla deckelt KI-Ausgaben seiner Mitarbeiter auf 200 Dollar pro Woche ",
+        "tags": [
+          "tesla",
+          "ki-ausgaben",
+          "seiner",
+          "mitarbeiter",
+          "dollar"
+        ]
+      },
+      {
+        "title": "The only AI glossary you’ll need this year",
+        "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-07-03",
+        "why": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "tags": [
+          "glossary",
+          "only",
+          "need",
+          "year",
+          "rise"
+        ]
+      }
+    ],
+    "action_items": []
+  },
+  "raw_articles": [
+    {
+      "title": "Microsofts kommender Copilot soll mit KI-Agenten im Hintergrund \"echte Arbeit\" erledigen",
+      "url": "https://the-decoder.de/microsofts-kommender-copilot-soll-mit-ki-agenten-im-hintergrund-echte-arbeit-erledigen/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-03T19:12:40+00:00",
+      "summary": "Microsoft will im August seine Consumer- und Enterprise-Copilot-Apps zu einer einzigen App zusammenführen. Wenig genutzte Features wie Copilot-Podcasts werden gestrichen, neue KI-Agenten namens \"AutoPilot\" sollen im Hintergrund Aufgaben erledigen – gegen Aufpreis. Der Artikel Microsofts kommender Copilot soll mit KI-Agenten im Hintergrund &quot;echte Arbeit&quot; erledigen erschien zuerst auf The Decoder .",
+      "keywords": [
+        "ki-agenten",
+        "hintergrund",
+        "erledigen",
+        "microsofts",
+        "kommender",
+        "copilot"
+      ]
+    },
+    {
+      "title": "Claude Code in China: Anthropic kämpft gegen Schlupflöcher, Alibaba verbannt das Tool",
+      "url": "https://the-decoder.de/claude-code-in-china-anthropic-kaempft-gegen-schlupfloecher-alibaba-verbannt-das-tool/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-03T16:58:33+00:00",
+      "summary": "Anthropic versucht, chinesischen Firmen wie ByteDance und Ant Financial den Zugang zu Claude Code zu verwehren – die greifen über VPNs und Auslandstöchter trotzdem darauf zu. Alibaba wiederum verbietet seinen Mitarbeitern Claude Code von sich aus: Im Tool wurde versteckter Code entdeckt, der chinesische Nutzer identifizieren konnte. Der Artikel Claude Code in China: Anthropic kämpft gegen Schlupflöcher, Alibaba verbannt das Tool erschien zuerst auf The Decoder .",
+      "keywords": [
+        "code",
+        "claude",
+        "anthropic",
+        "alibaba",
+        "tool",
+        "china"
+      ]
+    },
+    {
+      "title": "Seit KI-Modelle Schwachstellen aufspüren, explodiert die Zahl gemeldeter Sicherheitslücken",
+      "url": "https://the-decoder.de/seit-ki-modelle-schwachstellen-aufspueren-explodiert-die-zahl-gemeldeter-sicherheitsluecken/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-03T16:43:47+00:00",
+      "summary": "Epoch AI dokumentiert einen drastischen Anstieg gemeldeter Sicherheitslücken: Im Juni 2026 meldeten 21 Organisationen rund 1.500 schwere und kritische CVEs, mehr als 3,5-mal so viele wie der bisherige Monatsrekord. Der Sprung fällt zeitlich mit KI-gestützten Bug-Hunting-Programmen zusammen. Der Artikel Seit KI-Modelle Schwachstellen aufspüren, explodiert die Zahl gemeldeter Sicherheitslücken erschien zuerst auf The Decoder .",
+      "keywords": [
+        "gemeldeter",
+        "sicherheitslücken",
+        "seit",
+        "ki-modelle",
+        "schwachstellen",
+        "aufspüren"
+      ]
+    },
+    {
+      "title": "Britisches KI-Sicherheitsinstitut warnt: Standard-Benchmarks unterschätzen KI-Agenten systematisch",
+      "url": "https://the-decoder.de/britisches-ki-sicherheitsinstitut-warnt-standard-benchmarks-unterschaetzen-ki-agenten-systematisch/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-03T15:46:44+00:00",
+      "summary": "Das britische AI Security Institute zeigt in einer Studie über sieben Benchmarks: Gängige KI-Evaluierungen unterschätzen die Fähigkeiten von Agenten-Modellen systematisch, weil sie das Rechenbudget begrenzen. Bei Software-Engineering-Aufgaben stieg die Erfolgsrate um bis zu 25 Prozent, wenn das Token-Budget verzehnfacht wurde. Neuere Modelle profitieren überproportional. Der tatsächliche Fortschritt an der Frontier ist laut AISI rund 60 Prozent steiler als bisher gemessen. Der Artikel Britisches KI-Sicherheitsinstitut warnt: Standard-Benchmarks unterschätzen KI-Agenten systematisch erschien zu",
+      "keywords": [
+        "unterschätzen",
+        "systematisch",
+        "britisches",
+        "ki-sicherheitsinstitut",
+        "warnt",
+        "standard-benchmarks"
+      ]
+    },
+    {
+      "title": "Webinar KI-Sicherheit im Unternehmen: Worauf jetzt alle achten sollten",
+      "url": "https://the-decoder.de/webinar-ki-sicherheit-im-unternehmen-worauf-jetzt-alle-achten-sollten/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-03T11:14:17+00:00",
+      "summary": "Prompt Injection, Data Poisoning und unbeabsichtigte Datenlecks zählen zu den drängendsten Sicherheitsrisiken beim KI-Einsatz in Unternehmen. Klassische IT-Sicherheitskonzepte decken diese Angriffsszenarien oft nicht ab. Ein Webinar von heise KI PRO &#038; THE DECODER zeigt, welche Schutzmaßnahmen jetzt nötig sind. Der Artikel Webinar KI-Sicherheit im Unternehmen: Worauf jetzt alle achten sollten erschien zuerst auf The Decoder .",
+      "keywords": [
+        "webinar",
+        "unternehmen",
+        "jetzt",
+        "ki-sicherheit",
+        "worauf",
+        "alle"
+      ]
+    },
+    {
+      "title": "Der blinde Fleck der Frontier-Modelle: Hedgefonds zeigt Wert von nicht eintrainiertem Expertenwissen",
+      "url": "https://the-decoder.de/der-blinde-fleck-der-frontier-modelle-hedgefonds-zeigt-wert-von-nicht-eintrainiertem-expertenwissen/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-03T10:38:42+00:00",
+      "summary": "Bridgewater und Thinking Machines Lab, das Start-up von Ex-OpenAI-CTO Mira Murati, haben ein feinabgestimmtes Qwen3-235B-Modell auf Finanzaufgaben trainiert. Es erreicht laut eigener Auswertung 84,7 Prozent Treffsicherheit – mehr als Gemini, Claude und GPT – bei einem Vierzehntel der Kosten. Unabhängig geprüft sind die Zahlen allerdings nicht. Der Artikel Der blinde Fleck der Frontier-Modelle: Hedgefonds zeigt Wert von nicht eintrainiertem Expertenwissen erschien zuerst auf The Decoder .",
+      "keywords": [
+        "nicht",
+        "blinde",
+        "fleck",
+        "frontier-modelle",
+        "hedgefonds",
+        "zeigt"
+      ]
+    },
+    {
+      "title": "Zuckerberg gesteht Schwächen im KI-Umbau von Meta ein",
+      "url": "https://the-decoder.de/zuckerberg-gesteht-schwaechen-im-ki-umbau-von-meta-ein/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-03T09:48:22+00:00",
+      "summary": "Auf einem internen Townhall gestand Mark Zuckerberg Schwächen im Konzernumbau ein. Ausgerechnet die KI-Agenten, für die Meta massiv umstrukturiert hat, entwickeln sich laut Zuckerberg langsamer als geplant. Sein KI-Chef zeichnet dagegen ein optimistischeres Bild. Der Artikel Zuckerberg gesteht Schwächen im KI-Umbau von Meta ein erschien zuerst auf The Decoder .",
+      "keywords": [
+        "zuckerberg",
+        "schwächen",
+        "meta",
+        "gesteht",
+        "ki-umbau",
+        "internen"
+      ]
+    },
+    {
+      "title": "Video-KI Kling sammelt 2 Milliarden Dollar und macht sich bereit für die Börse",
+      "url": "https://the-decoder.de/video-ki-kling-sammelt-2-milliarden-dollar-und-macht-sich-bereit-fuer-die-boerse/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-03T08:53:16+00:00",
+      "summary": "Kuaishou hat für seine KI-Videoeinheit Kling rund zwei Milliarden Dollar von Investoren eingesammelt. Der Artikel Video-KI Kling sammelt 2 Milliarden Dollar und macht sich bereit für die Börse erschien zuerst auf The Decoder .",
+      "keywords": [
+        "kling",
+        "milliarden",
+        "dollar",
+        "video-ki",
+        "sammelt",
+        "macht"
+      ]
+    },
+    {
+      "title": "Tesla deckelt KI-Ausgaben seiner Mitarbeiter auf 200 Dollar pro Woche",
+      "url": "https://the-decoder.de/tesla-deckelt-ki-ausgaben-seiner-mitarbeiter-auf-200-dollar-pro-woche/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-03T08:24:51+00:00",
+      "summary": "Tesla begrenzt die KI-Ausgaben seiner Mitarbeiter ab dem 6. Juli auf 200 Dollar pro Woche, berichtet The Information. Der Artikel Tesla deckelt KI-Ausgaben seiner Mitarbeiter auf 200 Dollar pro Woche erschien zuerst auf The Decoder .",
+      "keywords": [
+        "tesla",
+        "ki-ausgaben",
+        "seiner",
+        "mitarbeiter",
+        "dollar",
+        "woche"
+      ]
+    },
+    {
+      "title": "The only AI glossary you’ll need this year",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-03T21:20:00+00:00",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "keywords": [
+        "glossary",
+        "only",
+        "need",
+        "year",
+        "rise",
+        "brought"
+      ]
+    },
+    {
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-03T18:43:00+00:00",
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "keywords": [
+        "chrome",
+        "safari",
+        "browser",
+        "wars",
+        "aren",
+        "about"
+      ]
+    }
+  ]
+}

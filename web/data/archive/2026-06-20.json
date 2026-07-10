@@ -1,0 +1,126 @@
+{
+  "generated_at": "2026-06-20T18:00:00+00:00",
+  "edition_id": "2026-06-20",
+  "date": "2026-06-20",
+  "brief": {
+    "headline": "20.06.2026: your · these",
+    "subheadline": "Tageszusammenfassung mit 3 Artikeln aus 1 Quellen.",
+    "executive_summary": "<p>Am 20.06.2026 wurden 3 relevante Branchen-Meldungen aus 1 Quellen erfasst. Die thematischen Schwerpunkte lagen bei your · these.</p><p>Die wichtigsten Meldungen des Tages sind nachfolgend kuratiert — sortiert nach Recency und Quellen-Autorität. Vollständige Artikel-Liste unten.</p>",
+    "trends": [
+      {
+        "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+        "what": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-20.",
+        "signal": "mittel"
+      },
+      {
+        "title": "In the Weights is your new AI-centric vanity search",
+        "what": "So ... what's your In the Weights score?",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-20.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+        "what": "Jumper isn't the only big name leaving Google DeepMind.",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-20.",
+        "signal": "mittel"
+      }
+    ],
+    "opportunities": [],
+    "top_articles": [
+      {
+        "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+        "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-20",
+        "why": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+        "tags": [
+          "these",
+          "your",
+          "friends",
+          "signal",
+          "meredith"
+        ]
+      },
+      {
+        "title": "In the Weights is your new AI-centric vanity search",
+        "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-20",
+        "why": "So ... what's your In the Weights score?",
+        "tags": [
+          "weights",
+          "your",
+          "ai-centric",
+          "vanity",
+          "search"
+        ]
+      },
+      {
+        "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+        "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-20",
+        "why": "Jumper isn't the only big name leaving Google DeepMind.",
+        "tags": [
+          "jumper",
+          "leaving",
+          "deepmind",
+          "nobel",
+          "laureate"
+        ]
+      }
+    ],
+    "action_items": []
+  },
+  "raw_articles": [
+    {
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-20T20:32:29+00:00",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+      "keywords": [
+        "these",
+        "your",
+        "friends",
+        "signal",
+        "meredith",
+        "whittaker"
+      ]
+    },
+    {
+      "title": "In the Weights is your new AI-centric vanity search",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-20T19:41:11+00:00",
+      "summary": "So ... what's your In the Weights score?",
+      "keywords": [
+        "weights",
+        "your",
+        "ai-centric",
+        "vanity",
+        "search",
+        "what"
+      ]
+    },
+    {
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-20T16:39:57+00:00",
+      "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+      "keywords": [
+        "jumper",
+        "leaving",
+        "deepmind",
+        "nobel",
+        "laureate",
+        "john"
+      ]
+    }
+  ]
+}

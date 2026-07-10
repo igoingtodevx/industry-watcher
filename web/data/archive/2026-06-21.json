@@ -1,0 +1,126 @@
+{
+  "generated_at": "2026-06-21T18:00:00+00:00",
+  "edition_id": "2026-06-21",
+  "date": "2026-06-21",
+  "brief": {
+    "headline": "21.06.2026: administration · anthropic",
+    "subheadline": "Tageszusammenfassung mit 3 Artikeln aus 2 Quellen.",
+    "executive_summary": "<p>Am 21.06.2026 wurden 3 relevante Branchen-Meldungen aus 2 Quellen erfasst. Die thematischen Schwerpunkte lagen bei administration · anthropic.</p><p>Die wichtigsten Meldungen des Tages sind nachfolgend kuratiert — sortiert nach Recency und Quellen-Autorität. Vollständige Artikel-Liste unten.</p>",
+    "trends": [
+      {
+        "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+        "what": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-21.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+        "what": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-21.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+        "what": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+        "why": "Gemeldet von OpenAI Blog am 2026-06-21.",
+        "signal": "mittel"
+      }
+    ],
+    "opportunities": [],
+    "top_articles": [
+      {
+        "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+        "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-21",
+        "why": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+        "tags": [
+          "administration",
+          "anthropic",
+          "what",
+          "when",
+          "trump"
+        ]
+      },
+      {
+        "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+        "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-21",
+        "why": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+        "tags": [
+          "siri",
+          "features",
+          "beyond",
+          "here",
+          "practical"
+        ]
+      },
+      {
+        "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+        "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+        "source": "OpenAI Blog",
+        "date": "2026-06-21",
+        "why": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+        "tags": [
+          "samsung",
+          "electronics",
+          "chatgpt",
+          "codex",
+          "employees"
+        ]
+      }
+    ],
+    "action_items": []
+  },
+  "raw_articles": [
+    {
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-21T15:28:17+00:00",
+      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+      "keywords": [
+        "administration",
+        "anthropic",
+        "what",
+        "when",
+        "trump",
+        "cracks"
+      ]
+    },
+    {
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-21T14:40:28+00:00",
+      "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+      "keywords": [
+        "siri",
+        "features",
+        "beyond",
+        "here",
+        "practical",
+        "coming"
+      ]
+    },
+    {
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "published": "2026-06-21T23:00:00+00:00",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+      "keywords": [
+        "samsung",
+        "electronics",
+        "chatgpt",
+        "codex",
+        "employees",
+        "enterprise"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,674 @@
+{
+  "generated_at": "2026-07-06T18:00:00+00:00",
+  "edition_id": "2026-07-06",
+  "date": "2026-07-06",
+  "brief": {
+    "headline": "06.07.2026: comments · https",
+    "subheadline": "Tageszusammenfassung mit 36 Artikeln aus 6 Quellen.",
+    "executive_summary": "<p>Am 06.07.2026 wurden 36 relevante Branchen-Meldungen aus 6 Quellen erfasst. Die thematischen Schwerpunkte lagen bei comments · https.</p><p>Die wichtigsten Meldungen des Tages sind nachfolgend kuratiert — sortiert nach Recency und Quellen-Autorität. Vollständige Artikel-Liste unten.</p>",
+    "trends": [
+      {
+        "title": "Cloudflare lässt Seitenbetreiber KI-Bots jetzt gezielt nach Zweck blockieren oder erlauben",
+        "what": "Cloudflare führt für alle Kunden differenzierte KI-Bot-Kontrollen ein: Statt pauschal zu blockieren, können Seitenbetreiber nun zwischen Search-, Training- und Agent-Bots unterscheiden. Ab dem 15. September 2026 werden Training- und Agent-Bots auf werbeführenden Seiten standardmäßig blockiert: ein S",
+        "why": "Gemeldet von The Decoder am 2026-07-06.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Zhipu AIs ZCode positioniert sich mit GLM-5.2 als günstige Alternative zu Claude Code und OpenAI Codex",
+        "what": "Zhipu AI stellt GLM-5.2 in seiner Entwicklungsumgebung ZCode bereit und bewirbt das Modell mit starker Long-Context-Fähigkeit für komplexe Coding-Aufgaben. Abonnenten erhalten bis Juli 2026 rund 1,5-fach mehr effektives Token-Kontingent, Neukunden einen 5-Tage-Test mit bis zu 5 Millionen Tokens tägl",
+        "why": "Gemeldet von The Decoder am 2026-07-06.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Tencent veröffentlicht Hy3: Open-Source-KI-Modell mit 295 Milliarden Parametern soll deutlich größere Modelle schlagen",
+        "what": "Tencent veröffentlicht mit Hy3 ein Open-Source-Sprachmodell mit 295 Milliarden Parametern in Mixture-of-Experts-Architektur, von denen nur 21 Milliarden gleichzeitig aktiv sind. Laut Tencent erreicht Hy3 damit die Leistung zwei- bis fünfmal größerer Modelle bei einer halbierten Halluzinationsrate vo",
+        "why": "Gemeldet von The Decoder am 2026-07-06.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Nach GPT-4s Rekord-Dominanz wechselt die KI-Spitze inzwischen alle paar Wochen",
+        "what": "OpenAIs GPT-4 hielt die Spitze im Epoch-Capabilities-Index rund ein Jahr, deutlich länger als jedes Nachfolgemodell. Seit Claude 3 Opus im Februar 2024 GPT-4 ablöste, wechselte die Führung 17 Mal mit einer mittleren Verweildauer von nur sieben Wochen. Der Wettbewerb ist intensiver, die Fähigkeitsspr",
+        "why": "Gemeldet von The Decoder am 2026-07-06.",
+        "signal": "mittel"
+      },
+      {
+        "title": "KI-Companions unter Aufsicht: China zieht als Erstes die Reißleine",
+        "what": "ByteDance und Alibaba schalten die Funktionen ab, mit denen Nutzer ihre eigene KI-Begleiter bauen und mit ihnen chatten konnten, und reagieren damit auf eine neue Regulierung aus Peking. Der Artikel KI-Companions unter Aufsicht: China zieht als Erstes die Reißleine erschien zuerst auf The Decoder .",
+        "why": "Gemeldet von The Decoder am 2026-07-06.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Bericht über verzögertes Nvidia-KI-Rack lässt asiatische Tech-Aktien fallen",
+        "what": "Laut Analysefirma SemiAnalysis verzögert sich Nvidias nächstes KI-Server-Rack Kyber NVL144 wegen Fertigungsproblemen bei Leiterplatten um über ein Jahr auf 2028. Asiatische Zulieferer verloren teils zweistellig an Börsenwert. Auch die leistungsstärkere Rubin-Ultra-Variante wurde gestrichen. Das könn",
+        "why": "Gemeldet von The Decoder am 2026-07-06.",
+        "signal": "mittel"
+      }
+    ],
+    "opportunities": [],
+    "top_articles": [
+      {
+        "title": "Cloudflare lässt Seitenbetreiber KI-Bots jetzt gezielt nach Zweck blockieren oder erlauben",
+        "url": "https://the-decoder.de/cloudflare-laesst-seitenbetreiber-ki-bots-jetzt-gezielt-nach-zweck-blockieren-oder-erlauben/",
+        "source": "The Decoder",
+        "date": "2026-07-06",
+        "why": "Cloudflare führt für alle Kunden differenzierte KI-Bot-Kontrollen ein: Statt pauschal zu blockieren, können Seitenbetreiber nun zwischen Search-, Training- und Agent-Bots unterscheiden. Ab dem 15. Sep",
+        "tags": [
+          "cloudflare",
+          "seitenbetreiber",
+          "blockieren",
+          "lässt",
+          "ki-bots"
+        ]
+      },
+      {
+        "title": "Zhipu AIs ZCode positioniert sich mit GLM-5.2 als günstige Alternative zu Claude Code und OpenAI Codex",
+        "url": "https://the-decoder.de/zhipu-ais-zcode-positioniert-sich-mit-glm-5-2-als-guenstige-alternative-zu-claude-code-und-openai-codex/",
+        "source": "The Decoder",
+        "date": "2026-07-06",
+        "why": "Zhipu AI stellt GLM-5.2 in seiner Entwicklungsumgebung ZCode bereit und bewirbt das Modell mit starker Long-Context-Fähigkeit für komplexe Coding-Aufgaben. Abonnenten erhalten bis Juli 2026 rund 1,5-f",
+        "tags": [
+          "zhipu",
+          "zcode",
+          "glm-5",
+          "positioniert",
+          "sich"
+        ]
+      },
+      {
+        "title": "Tencent veröffentlicht Hy3: Open-Source-KI-Modell mit 295 Milliarden Parametern soll deutlich größere Modelle schlagen",
+        "url": "https://the-decoder.de/tencent-veroeffentlicht-hy3-open-source-ki-modell-mit-295-milliarden-parametern-soll-deutlich-groessere-modelle-schlagen/",
+        "source": "The Decoder",
+        "date": "2026-07-06",
+        "why": "Tencent veröffentlicht mit Hy3 ein Open-Source-Sprachmodell mit 295 Milliarden Parametern in Mixture-of-Experts-Architektur, von denen nur 21 Milliarden gleichzeitig aktiv sind. Laut Tencent erreicht ",
+        "tags": [
+          "tencent",
+          "milliarden",
+          "veröffentlicht",
+          "parametern",
+          "modelle"
+        ]
+      },
+      {
+        "title": "Nach GPT-4s Rekord-Dominanz wechselt die KI-Spitze inzwischen alle paar Wochen",
+        "url": "https://the-decoder.de/nach-gpt-4s-rekord-dominanz-wechselt-die-ki-spitze-inzwischen-alle-paar-wochen/",
+        "source": "The Decoder",
+        "date": "2026-07-06",
+        "why": "OpenAIs GPT-4 hielt die Spitze im Epoch-Capabilities-Index rund ein Jahr, deutlich länger als jedes Nachfolgemodell. Seit Claude 3 Opus im Februar 2024 GPT-4 ablöste, wechselte die Führung 17 Mal mit ",
+        "tags": [
+          "wochen",
+          "gpt-4s",
+          "rekord-dominanz",
+          "wechselt",
+          "ki-spitze"
+        ]
+      },
+      {
+        "title": "KI-Companions unter Aufsicht: China zieht als Erstes die Reißleine",
+        "url": "https://the-decoder.de/ki-companions-unter-aufsicht-china-zieht-als-erstes-die-reissleine/",
+        "source": "The Decoder",
+        "date": "2026-07-06",
+        "why": "ByteDance und Alibaba schalten die Funktionen ab, mit denen Nutzer ihre eigene KI-Begleiter bauen und mit ihnen chatten konnten, und reagieren damit auf eine neue Regulierung aus Peking. Der Artikel K",
+        "tags": [
+          "ki-companions",
+          "unter",
+          "aufsicht",
+          "china",
+          "zieht"
+        ]
+      },
+      {
+        "title": "Bericht über verzögertes Nvidia-KI-Rack lässt asiatische Tech-Aktien fallen",
+        "url": "https://the-decoder.de/bericht-ueber-verzoegertes-nvidia-ki-rack-laesst-asiatische-tech-aktien-fallen/",
+        "source": "The Decoder",
+        "date": "2026-07-06",
+        "why": "Laut Analysefirma SemiAnalysis verzögert sich Nvidias nächstes KI-Server-Rack Kyber NVL144 wegen Fertigungsproblemen bei Leiterplatten um über ein Jahr auf 2028. Asiatische Zulieferer verloren teils z",
+        "tags": [
+          "asiatische",
+          "bericht",
+          "verzögertes",
+          "nvidia-ki-rack",
+          "lässt"
+        ]
+      },
+      {
+        "title": "Amazon läutet das Ende seiner \"Artificial Artificial Intelligence\" ein",
+        "url": "https://the-decoder.de/amazon-laeutet-das-ende-seiner-artificial-artificial-intelligence-ein/",
+        "source": "The Decoder",
+        "date": "2026-07-06",
+        "why": "Amazon Web Services schließt seinen Crowdsourcing-Dienst Mechanical Turk ab dem 30. Juli 2026 für Neukunden. Der Artikel Amazon läutet das Ende seiner &quot;Artificial Artificial Intelligence&quot; ei",
+        "tags": [
+          "artificial",
+          "amazon",
+          "läutet",
+          "ende",
+          "seiner"
+        ]
+      },
+      {
+        "title": "Erstmals führt ein KI-Agent einen kompletten Ransomware-Angriff ohne menschliche Steuerung durch",
+        "url": "https://the-decoder.de/erstmals-fuehrt-ein-ki-agent-einen-kompletten-ransomware-angriff-ohne-menschliche-steuerung-durch/",
+        "source": "The Decoder",
+        "date": "2026-07-06",
+        "why": "Die Sicherheitsfirma Sysdig beschreibt einen Erpressungsangriff, bei dem ein Sprachmodell selbstständig einbrach, Zugangsdaten stahl und Datenbanken zerstörte. Ein Mensch saß dabei offenbar nicht mehr",
+        "tags": [
+          "erstmals",
+          "führt",
+          "ki-agent",
+          "kompletten",
+          "ransomware-angriff"
+        ]
+      },
+      {
+        "title": "Der schwierigste Teil kommt über Wasser: Rader Hochbrücke vor entscheidendem Einhub",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/bau/das-schwierigste-teil-kommt-ueber-wasser-rader-hochbruecke-vor-entscheidendem-einhub/",
+        "source": "Ingenieur.de",
+        "date": "2026-07-06",
+        "why": "Die neue Rader Hochbrücke bekommt ihr Mittelstück: 118 m Stahl schließen die Lücke über dem Nord-Ostsee-Kanal. Der Beitrag Der schwierigste Teil kommt über Wasser: Rader Hochbrücke vor entscheidendem ",
+        "tags": [
+          "rader",
+          "hochbrücke",
+          "schwierigste",
+          "teil",
+          "kommt"
+        ]
+      },
+      {
+        "title": "Astronomen finden 31 uralte Quasare, zwei brechen den Altersrekord",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/astronomen-finden-31-uralte-quasare-zwei-brechen-den-altersrekord/",
+        "source": "Ingenieur.de",
+        "date": "2026-07-06",
+        "why": "Euclid hat 31 neue Quasare aus dem jungen Universum identifiziert. Zwei davon sind weiter entfernt als alle bisher bekannten. Der Beitrag Astronomen finden 31 uralte Quasare, zwei brechen den Altersre",
+        "tags": [
+          "quasare",
+          "zwei",
+          "astronomen",
+          "finden",
+          "uralte"
+        ]
+      }
+    ],
+    "action_items": []
+  },
+  "raw_articles": [
+    {
+      "title": "Cloudflare lässt Seitenbetreiber KI-Bots jetzt gezielt nach Zweck blockieren oder erlauben",
+      "url": "https://the-decoder.de/cloudflare-laesst-seitenbetreiber-ki-bots-jetzt-gezielt-nach-zweck-blockieren-oder-erlauben/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-06T18:43:45+00:00",
+      "summary": "Cloudflare führt für alle Kunden differenzierte KI-Bot-Kontrollen ein: Statt pauschal zu blockieren, können Seitenbetreiber nun zwischen Search-, Training- und Agent-Bots unterscheiden. Ab dem 15. September 2026 werden Training- und Agent-Bots auf werbeführenden Seiten standardmäßig blockiert: ein Signal, dass menschliche Besucher Vorrang haben. Der Artikel Cloudflare lässt Seitenbetreiber KI-Bots jetzt gezielt nach Zweck blockieren oder erlauben erschien zuerst auf The Decoder .",
+      "keywords": [
+        "cloudflare",
+        "seitenbetreiber",
+        "blockieren",
+        "lässt",
+        "ki-bots",
+        "jetzt"
+      ]
+    },
+    {
+      "title": "Zhipu AIs ZCode positioniert sich mit GLM-5.2 als günstige Alternative zu Claude Code und OpenAI Codex",
+      "url": "https://the-decoder.de/zhipu-ais-zcode-positioniert-sich-mit-glm-5-2-als-guenstige-alternative-zu-claude-code-und-openai-codex/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-06T18:23:26+00:00",
+      "summary": "Zhipu AI stellt GLM-5.2 in seiner Entwicklungsumgebung ZCode bereit und bewirbt das Modell mit starker Long-Context-Fähigkeit für komplexe Coding-Aufgaben. Abonnenten erhalten bis Juli 2026 rund 1,5-fach mehr effektives Token-Kontingent, Neukunden einen 5-Tage-Test mit bis zu 5 Millionen Tokens täglich. Der Artikel Zhipu AIs ZCode positioniert sich mit GLM-5.2 als günstige Alternative zu Claude Code und OpenAI Codex erschien zuerst auf The Decoder .",
+      "keywords": [
+        "zhipu",
+        "zcode",
+        "glm-5",
+        "positioniert",
+        "sich",
+        "günstige"
+      ]
+    },
+    {
+      "title": "Tencent veröffentlicht Hy3: Open-Source-KI-Modell mit 295 Milliarden Parametern soll deutlich größere Modelle schlagen",
+      "url": "https://the-decoder.de/tencent-veroeffentlicht-hy3-open-source-ki-modell-mit-295-milliarden-parametern-soll-deutlich-groessere-modelle-schlagen/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-06T18:03:15+00:00",
+      "summary": "Tencent veröffentlicht mit Hy3 ein Open-Source-Sprachmodell mit 295 Milliarden Parametern in Mixture-of-Experts-Architektur, von denen nur 21 Milliarden gleichzeitig aktiv sind. Laut Tencent erreicht Hy3 damit die Leistung zwei- bis fünfmal größerer Modelle bei einer halbierten Halluzinationsrate von 5,4 Prozent. Der Artikel Tencent veröffentlicht Hy3: Open-Source-KI-Modell mit 295 Milliarden Parametern soll deutlich größere Modelle schlagen erschien zuerst auf The Decoder .",
+      "keywords": [
+        "tencent",
+        "milliarden",
+        "veröffentlicht",
+        "parametern",
+        "modelle",
+        "open-source-ki-modell"
+      ]
+    },
+    {
+      "title": "Nach GPT-4s Rekord-Dominanz wechselt die KI-Spitze inzwischen alle paar Wochen",
+      "url": "https://the-decoder.de/nach-gpt-4s-rekord-dominanz-wechselt-die-ki-spitze-inzwischen-alle-paar-wochen/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-06T17:01:11+00:00",
+      "summary": "OpenAIs GPT-4 hielt die Spitze im Epoch-Capabilities-Index rund ein Jahr, deutlich länger als jedes Nachfolgemodell. Seit Claude 3 Opus im Februar 2024 GPT-4 ablöste, wechselte die Führung 17 Mal mit einer mittleren Verweildauer von nur sieben Wochen. Der Wettbewerb ist intensiver, die Fähigkeitssprünge aber kleiner geworden. Der Artikel Nach GPT-4s Rekord-Dominanz wechselt die KI-Spitze inzwischen alle paar Wochen erschien zuerst auf The Decoder .",
+      "keywords": [
+        "wochen",
+        "gpt-4s",
+        "rekord-dominanz",
+        "wechselt",
+        "ki-spitze",
+        "inzwischen"
+      ]
+    },
+    {
+      "title": "KI-Companions unter Aufsicht: China zieht als Erstes die Reißleine",
+      "url": "https://the-decoder.de/ki-companions-unter-aufsicht-china-zieht-als-erstes-die-reissleine/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-06T12:26:09+00:00",
+      "summary": "ByteDance und Alibaba schalten die Funktionen ab, mit denen Nutzer ihre eigene KI-Begleiter bauen und mit ihnen chatten konnten, und reagieren damit auf eine neue Regulierung aus Peking. Der Artikel KI-Companions unter Aufsicht: China zieht als Erstes die Reißleine erschien zuerst auf The Decoder .",
+      "keywords": [
+        "ki-companions",
+        "unter",
+        "aufsicht",
+        "china",
+        "zieht",
+        "erstes"
+      ]
+    },
+    {
+      "title": "Bericht über verzögertes Nvidia-KI-Rack lässt asiatische Tech-Aktien fallen",
+      "url": "https://the-decoder.de/bericht-ueber-verzoegertes-nvidia-ki-rack-laesst-asiatische-tech-aktien-fallen/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-06T12:10:11+00:00",
+      "summary": "Laut Analysefirma SemiAnalysis verzögert sich Nvidias nächstes KI-Server-Rack Kyber NVL144 wegen Fertigungsproblemen bei Leiterplatten um über ein Jahr auf 2028. Asiatische Zulieferer verloren teils zweistellig an Börsenwert. Auch die leistungsstärkere Rubin-Ultra-Variante wurde gestrichen. Das könnte ein Zeitfenster für AMD und Google eröffnen. Der Artikel Bericht über verzögertes Nvidia-KI-Rack lässt asiatische Tech-Aktien fallen erschien zuerst auf The Decoder .",
+      "keywords": [
+        "asiatische",
+        "bericht",
+        "verzögertes",
+        "nvidia-ki-rack",
+        "lässt",
+        "tech-aktien"
+      ]
+    },
+    {
+      "title": "Amazon läutet das Ende seiner \"Artificial Artificial Intelligence\" ein",
+      "url": "https://the-decoder.de/amazon-laeutet-das-ende-seiner-artificial-artificial-intelligence-ein/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-06T10:58:29+00:00",
+      "summary": "Amazon Web Services schließt seinen Crowdsourcing-Dienst Mechanical Turk ab dem 30. Juli 2026 für Neukunden. Der Artikel Amazon läutet das Ende seiner &quot;Artificial Artificial Intelligence&quot; ein erschien zuerst auf The Decoder .",
+      "keywords": [
+        "artificial",
+        "amazon",
+        "läutet",
+        "ende",
+        "seiner",
+        "intelligence"
+      ]
+    },
+    {
+      "title": "Erstmals führt ein KI-Agent einen kompletten Ransomware-Angriff ohne menschliche Steuerung durch",
+      "url": "https://the-decoder.de/erstmals-fuehrt-ein-ki-agent-einen-kompletten-ransomware-angriff-ohne-menschliche-steuerung-durch/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-06T09:36:02+00:00",
+      "summary": "Die Sicherheitsfirma Sysdig beschreibt einen Erpressungsangriff, bei dem ein Sprachmodell selbstständig einbrach, Zugangsdaten stahl und Datenbanken zerstörte. Ein Mensch saß dabei offenbar nicht mehr am Steuer. Der Artikel Erstmals führt ein KI-Agent einen kompletten Ransomware-Angriff ohne menschliche Steuerung durch erschien zuerst auf The Decoder .",
+      "keywords": [
+        "erstmals",
+        "führt",
+        "ki-agent",
+        "kompletten",
+        "ransomware-angriff",
+        "ohne"
+      ]
+    },
+    {
+      "title": "Der schwierigste Teil kommt über Wasser: Rader Hochbrücke vor entscheidendem Einhub",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/bau/das-schwierigste-teil-kommt-ueber-wasser-rader-hochbruecke-vor-entscheidendem-einhub/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-07-06T19:04:11+00:00",
+      "summary": "Die neue Rader Hochbrücke bekommt ihr Mittelstück: 118 m Stahl schließen die Lücke über dem Nord-Ostsee-Kanal. Der Beitrag Der schwierigste Teil kommt über Wasser: Rader Hochbrücke vor entscheidendem Einhub erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "rader",
+        "hochbrücke",
+        "schwierigste",
+        "teil",
+        "kommt",
+        "wasser"
+      ]
+    },
+    {
+      "title": "Astronomen finden 31 uralte Quasare, zwei brechen den Altersrekord",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/raumfahrt/astronomen-finden-31-uralte-quasare-zwei-brechen-den-altersrekord/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-07-06T13:00:00+00:00",
+      "summary": "Euclid hat 31 neue Quasare aus dem jungen Universum identifiziert. Zwei davon sind weiter entfernt als alle bisher bekannten. Der Beitrag Astronomen finden 31 uralte Quasare, zwei brechen den Altersrekord erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "quasare",
+        "zwei",
+        "astronomen",
+        "finden",
+        "uralte",
+        "brechen"
+      ]
+    },
+    {
+      "title": "Human-AI Teaming: So bleibt der Mensch im KI-Zeitalter im Mittelpunkt",
+      "url": "https://www.ingenieur.de/karriere/bildung/weiterbildung/human-ai-teaming-so-bleibt-der-mensch-im-ki-zeitalter-im-mittelpunkt/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-07-06T12:30:00+00:00",
+      "summary": "Human-AI Teaming zeigt, wie Unternehmen KI effizient nutzen und zugleich Motivation, Kompetenzen und den Menschen in den Mittelpunkt moderner Arbeitswelten stellen. Der Beitrag Human-AI Teaming: So bleibt der Mensch im KI-Zeitalter im Mittelpunkt erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "human-ai",
+        "teaming",
+        "mittelpunkt",
+        "bleibt",
+        "mensch",
+        "ki-zeitalter"
+      ]
+    },
+    {
+      "title": "Behandlung ohne Skalpell: Duisburger Ärzte stoppen Zittern mit Ultraschall im Gehirn",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/medizin/behandlung-ohne-skalpell-duisburger-arzte-stoppen-zittern-mit-ultraschall-im-gehirn/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-07-06T11:30:00+00:00",
+      "summary": "Magnetresonanz-gesteuerter fokussierter Ultraschall behandelt Tremor bei Parkinson präzise ohne Operation und ermöglicht vielen Betroffenen wieder einen stabilen Alltag. Der Beitrag Behandlung ohne Skalpell: Duisburger Ärzte stoppen Zittern mit Ultraschall im Gehirn erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "ohne",
+        "ultraschall",
+        "behandlung",
+        "skalpell",
+        "duisburger",
+        "ärzte"
+      ]
+    },
+    {
+      "title": "Tesvolt stellt Führung neu auf – und eine Gründerkarriere rückt in den Fokus",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/energie/vom-handwerker-zum-ceo-tesvolt-stellt-fuhrung-neu-auf-und-eine-grunderkarriere-ruckt-in-den-fokus/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-07-06T11:00:00+00:00",
+      "summary": "Tesvolt ordnet Führung neu: Mitgründer Simon Schandert wird CEO. Seine Karriere vom Handwerker zum Unternehmenschef rückt dabei besonders in den Fokus. Der Beitrag Tesvolt stellt Führung neu auf – und eine Gründerkarriere rückt in den Fokus erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "tesvolt",
+        "führung",
+        "rückt",
+        "fokus",
+        "stellt",
+        "gründerkarriere"
+      ]
+    },
+    {
+      "title": "In Lüneburg entsteht eine der komplexesten Schleusen Europas",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/bau/in-lueneburg-soll-eine-der-anspruchsvollsten-schleusen-europas-entstehen/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-07-06T10:30:00+00:00",
+      "summary": "In Lüneburg soll eine 225 m lange Sparschleuse entstehen. Warum Fallhöhe, Hydraulik und Bau neben dem bestehenden Hebewerk so anspruchsvoll sind. Der Beitrag In Lüneburg entsteht eine der komplexesten Schleusen Europas erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "lüneburg",
+        "entsteht",
+        "komplexesten",
+        "schleusen",
+        "europas",
+        "soll"
+      ]
+    },
+    {
+      "title": "Wie Singapur den größten automatisierten Hafen der Welt baut",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/bau/wie-singapur-den-groessten-automatisierten-hafen-der-welt-baut/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-07-06T05:46:54+00:00",
+      "summary": "Autonome Feeder-Schiffe, AGVs und private 5G-Netze: Warum der neue Tuas Port in Singapur die logistische und digitale Blaupause für die Zukunft ist. Der Beitrag Wie Singapur den größten automatisierten Hafen der Welt baut erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "singapur",
+        "größten",
+        "automatisierten",
+        "hafen",
+        "welt",
+        "baut"
+      ]
+    },
+    {
+      "title": "Free Robot Labour – Marx, Automation, and the Future of AI",
+      "url": "https://link.springer.com/book/10.1007/978-3-032-26782-5",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-06T17:40:13+00:00",
+      "summary": "Article URL: https://link.springer.com/book/10.1007/978-3-032-26782-5 Comments URL: https://news.ycombinator.com/item?id=48807971 Points: 2 # Comments: 0",
+      "keywords": [
+        "https",
+        "comments",
+        "free",
+        "robot",
+        "labour",
+        "marx"
+      ]
+    },
+    {
+      "title": "What security checks should an AI-built SaaS run before launch?",
+      "url": "https://preflightio.com",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-06T15:51:30+00:00",
+      "summary": "Article URL: https://preflightio.com Comments URL: https://news.ycombinator.com/item?id=48806385 Points: 2 # Comments: 0",
+      "keywords": [
+        "https",
+        "comments",
+        "what",
+        "security",
+        "checks",
+        "should"
+      ]
+    },
+    {
+      "title": "Solo – scaffold a production SaaS, then run its operations autonomously",
+      "url": "https://thesolo.ai/",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-06T14:23:25+00:00",
+      "summary": "Article URL: https://thesolo.ai/ Comments URL: https://news.ycombinator.com/item?id=48805081 Points: 3 # Comments: 0",
+      "keywords": [
+        "https",
+        "comments",
+        "solo",
+        "scaffold",
+        "production",
+        "saas"
+      ]
+    },
+    {
+      "title": "Playwright-style automation for Windows desktop apps",
+      "url": "https://github.com/mihailDamchevski/win-auto",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-06T13:06:47+00:00",
+      "summary": "Article URL: https://github.com/mihailDamchevski/win-auto Comments URL: https://news.ycombinator.com/item?id=48804046 Points: 2 # Comments: 0",
+      "keywords": [
+        "https",
+        "comments",
+        "playwright-style",
+        "automation",
+        "windows",
+        "desktop"
+      ]
+    },
+    {
+      "title": "FlowerBench: Benchmarking AI Agents on Real Enterprise Work",
+      "url": "https://flower.ai/benchmarks/flowerbench/",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-06T11:55:56+00:00",
+      "summary": "Article URL: https://flower.ai/benchmarks/flowerbench/ Comments URL: https://news.ycombinator.com/item?id=48803428 Points: 5 # Comments: 1",
+      "keywords": [
+        "flowerbench",
+        "https",
+        "comments",
+        "benchmarking",
+        "agents",
+        "real"
+      ]
+    },
+    {
+      "title": "Tools/approach to pentest my own framework/SaaS?",
+      "url": "https://news.ycombinator.com/item?id=48803116",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-06T11:11:19+00:00",
+      "summary": "i built a saas on custom php framework, running on test server. i would like to check how hackable the live deployment actually is - not just static code review. whats your go to stack for self pentesting a web app? Comments URL: https://news.ycombinator.com/item?id=48803116 Points: 3 # Comments: 4",
+      "keywords": [
+        "framework",
+        "saas",
+        "comments",
+        "tools",
+        "approach",
+        "pentest"
+      ]
+    },
+    {
+      "title": "I run enterprise-grade CI at solo-founder scale",
+      "url": "https://lionshead.digital/notes/why-i-run-enterprise-grade-ci-at-solo-founder-scale",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-06T10:32:58+00:00",
+      "summary": "Article URL: https://lionshead.digital/notes/why-i-run-enterprise-grade-ci-at-solo-founder-scale Comments URL: https://news.ycombinator.com/item?id=48802847 Points: 2 # Comments: 0",
+      "keywords": [
+        "https",
+        "comments",
+        "enterprise-grade",
+        "solo-founder",
+        "scale",
+        "article"
+      ]
+    },
+    {
+      "title": "Show HN: Adkumo – Marketing Agent for SaaS",
+      "url": "https://www.adkumo.com",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-06T09:39:04+00:00",
+      "summary": "Article URL: https://www.adkumo.com Comments URL: https://news.ycombinator.com/item?id=48802536 Points: 3 # Comments: 0",
+      "keywords": [
+        "adkumo",
+        "https",
+        "comments",
+        "show",
+        "marketing",
+        "agent"
+      ]
+    },
+    {
+      "title": "Rules for Building SaaS in 2026",
+      "url": "https://old.reddit.com/r/SaaS/comments/1unw3aj/the_18_rules_for_building_saas_in_2026/",
+      "source": "Hacker News (automation / business filter)",
+      "lang": "en",
+      "published": "2026-07-06T02:14:56+00:00",
+      "summary": "Article URL: https://old.reddit.com/r/SaaS/comments/1unw3aj/the_18_rules_for_building_saas_in_2026/ Comments URL: https://news.ycombinator.com/item?id=48799979 Points: 3 # Comments: 0",
+      "keywords": [
+        "saas",
+        "comments",
+        "rules",
+        "building",
+        "2026",
+        "https"
+      ]
+    },
+    {
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-06T23:56:14+00:00",
+      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
+      "keywords": [
+        "first",
+        "ransomware",
+        "attack",
+        "still",
+        "human",
+        "ai-run"
+      ]
+    },
+    {
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-06T23:21:03+00:00",
+      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+      "keywords": [
+        "will",
+        "hynix",
+        "boom",
+        "investors",
+        "soon",
+        "access"
+      ]
+    },
+    {
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-06T19:49:10+00:00",
+      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+      "keywords": [
+        "guillermo",
+        "rauch",
+        "vercel",
+        "fight",
+        "split",
+        "models"
+      ]
+    },
+    {
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-06T19:01:59+00:00",
+      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+      "keywords": [
+        "siri",
+        "customize",
+        "pace",
+        "expressivity",
+        "latest",
+        "beta"
+      ]
+    },
+    {
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-06T18:35:00+00:00",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "keywords": [
+        "tech",
+        "every",
+        "major",
+        "layoff",
+        "2026",
+        "name-checked"
+      ]
+    },
+    {
+      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-07-06T17:04:58+00:00",
+      "summary": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” to improve its AI models.",
+      "keywords": [
+        "google",
+        "training",
+        "here",
+        "consider",
+        "belated",
+        "recent"
+      ]
+    }
+  ]
+}

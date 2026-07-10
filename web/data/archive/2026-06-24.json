@@ -1,0 +1,578 @@
+{
+  "generated_at": "2026-06-24T18:00:00+00:00",
+  "edition_id": "2026-06-24",
+  "date": "2026-06-24",
+  "brief": {
+    "headline": "24.06.2026: data · openai",
+    "subheadline": "Tageszusammenfassung mit 24 Artikeln aus 5 Quellen.",
+    "executive_summary": "<p>Am 24.06.2026 wurden 24 relevante Branchen-Meldungen aus 5 Quellen erfasst. Die thematischen Schwerpunkte lagen bei data · openai.</p><p>Die wichtigsten Meldungen des Tages sind nachfolgend kuratiert — sortiert nach Recency und Quellen-Autorität. Vollständige Artikel-Liste unten.</p>",
+    "trends": [
+      {
+        "title": "Totgesagte leben länger: Wo der Wasserstoffzug doch noch gewinnt",
+        "what": "In Deutschland fährt der Wasserstoffzug langsam aufs Abstellgleis. Italien lässt 21 Stück bei Stadler bauen - der Schweizer Hersteller feiert die Weltpremiere eines neuen Modells. Hat der H2-Zug jetzt endlich seine Nische gefunden? Der Beitrag Totgesagte leben länger: Wo der Wasserstoffzug doch noch",
+        "why": "Gemeldet von Ingenieur.de am 2026-06-24.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Kühlung von Datenzentren als Goldgrube: KI beschert ebm-Papst kräftiges Wachstum",
+        "what": "Das Geschäft mit Datenzentren boomt. Davon profitiert auch der Ventilatorenhersteller ebm-Papst, für den auch intern künstliche Intelligenz immer mehr zum Thema wird. Der Beitrag Kühlung von Datenzentren als Goldgrube: KI beschert ebm-Papst kräftiges Wachstum erschien zuerst auf ingenieur.de - Jobbö",
+        "why": "Gemeldet von Ingenieur.de am 2026-06-24.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Babyboomer überraschen: Viele würden auch nach der Rente weiterarbeiten",
+        "what": "Babyboomer zeigen überraschend hohe Bereitschaft zur Weiterarbeit im Rentenalter. Für viele zählen Sinn, Kontakte und geistige Fitness mehr als Geld. Der Beitrag Babyboomer überraschen: Viele würden auch nach der Rente weiterarbeiten erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal ",
+        "why": "Gemeldet von Ingenieur.de am 2026-06-24.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Rost gegen die Dunkelflaute: Hier entsteht Europas größte Eisen-Luft-Batterie",
+        "what": "Für lange Dunkelflauten sind Lithium-Batterien zu teuer. Ein niederländischer Versorger setzt deshalb im großen Stil auf eine Eisen-Luft-Batterie. 1 GWh hat er bestellt, die erste Stufe soll 2028 ans Netz gehen. Was steckt hinter dem neuen Hoffnungsträger unter den Speichertechnologien? Der Beitrag ",
+        "why": "Gemeldet von Ingenieur.de am 2026-06-24.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Jobmotor Energiewende: Warum dennoch viele Arbeitsplätze in Gefahr sind",
+        "what": "Windkraft, Solarenergie und Wärmepumpen schaffen immer mehr Arbeitsplätze. Eine Studie zeigt jedoch, warum der Boom nicht selbstverständlich ist. Der Beitrag Jobmotor Energiewende: Warum dennoch viele Arbeitsplätze in Gefahr sind erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für ",
+        "why": "Gemeldet von Ingenieur.de am 2026-06-24.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Cambridge-Team demonstriert erstmals großflächigen Solarreaktor für Plastikabfälle",
+        "what": "Forscher aus Cambridge haben erstmals einen großflächigen Solarreaktor getestet. Die Anlage wandelt Plastikabfälle mit Sonnenlicht in Wasserstoff um. Der Beitrag Cambridge-Team demonstriert erstmals großflächigen Solarreaktor für Plastikabfälle erschien zuerst auf ingenieur.de - Jobbörse und Nachric",
+        "why": "Gemeldet von Ingenieur.de am 2026-06-24.",
+        "signal": "mittel"
+      }
+    ],
+    "opportunities": [],
+    "top_articles": [
+      {
+        "title": "Totgesagte leben länger: Wo der Wasserstoffzug doch noch gewinnt",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/verkehr/totgesagte-leben-laenger-wo-der-wasserstoffzug-doch-noch-gewinnt/",
+        "source": "Ingenieur.de",
+        "date": "2026-06-24",
+        "why": "In Deutschland fährt der Wasserstoffzug langsam aufs Abstellgleis. Italien lässt 21 Stück bei Stadler bauen - der Schweizer Hersteller feiert die Weltpremiere eines neuen Modells. Hat der H2-Zug jetzt",
+        "tags": [
+          "wasserstoffzug",
+          "totgesagte",
+          "leben",
+          "länger",
+          "doch"
+        ]
+      },
+      {
+        "title": "Kühlung von Datenzentren als Goldgrube: KI beschert ebm-Papst kräftiges Wachstum",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/kuenstliche-intelligenz/kuehlung-fuer-datenzentren-ebm-papst-waechst-mit-ki-gesteuerten-ventilatoren/",
+        "source": "Ingenieur.de",
+        "date": "2026-06-24",
+        "why": "Das Geschäft mit Datenzentren boomt. Davon profitiert auch der Ventilatorenhersteller ebm-Papst, für den auch intern künstliche Intelligenz immer mehr zum Thema wird. Der Beitrag Kühlung von Datenzent",
+        "tags": [
+          "datenzentren",
+          "ebm-papst",
+          "kühlung",
+          "goldgrube",
+          "beschert"
+        ]
+      },
+      {
+        "title": "Babyboomer überraschen: Viele würden auch nach der Rente weiterarbeiten",
+        "url": "https://www.ingenieur.de/karriere/arbeitsleben/babyboomer-ueberraschen-viele-wuerden-auch-nach-der-rente-weiterarbeiten/",
+        "source": "Ingenieur.de",
+        "date": "2026-06-24",
+        "why": "Babyboomer zeigen überraschend hohe Bereitschaft zur Weiterarbeit im Rentenalter. Für viele zählen Sinn, Kontakte und geistige Fitness mehr als Geld. Der Beitrag Babyboomer überraschen: Viele würden a",
+        "tags": [
+          "babyboomer",
+          "viele",
+          "überraschen",
+          "würden",
+          "auch"
+        ]
+      },
+      {
+        "title": "Rost gegen die Dunkelflaute: Hier entsteht Europas größte Eisen-Luft-Batterie",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/energie/rost-fur-die-dunkelflaute-hier-entsteht-europas-grosste-eisen-luft-batterie/",
+        "source": "Ingenieur.de",
+        "date": "2026-06-24",
+        "why": "Für lange Dunkelflauten sind Lithium-Batterien zu teuer. Ein niederländischer Versorger setzt deshalb im großen Stil auf eine Eisen-Luft-Batterie. 1 GWh hat er bestellt, die erste Stufe soll 2028 ans ",
+        "tags": [
+          "eisen-luft-batterie",
+          "rost",
+          "gegen",
+          "dunkelflaute",
+          "hier"
+        ]
+      },
+      {
+        "title": "Jobmotor Energiewende: Warum dennoch viele Arbeitsplätze in Gefahr sind",
+        "url": "https://www.ingenieur.de/karriere/arbeitsleben/arbeitsmarkt-boom-durch-energiewende-doch-tausende-jobs-stehen-auf-dem-spiel/",
+        "source": "Ingenieur.de",
+        "date": "2026-06-24",
+        "why": "Windkraft, Solarenergie und Wärmepumpen schaffen immer mehr Arbeitsplätze. Eine Studie zeigt jedoch, warum der Boom nicht selbstverständlich ist. Der Beitrag Jobmotor Energiewende: Warum dennoch viele",
+        "tags": [
+          "warum",
+          "arbeitsplätze",
+          "jobmotor",
+          "energiewende",
+          "dennoch"
+        ]
+      },
+      {
+        "title": "Cambridge-Team demonstriert erstmals großflächigen Solarreaktor für Plastikabfälle",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/umwelt/forscher-demonstrieren-erstmals-grossflaechigen-solarreaktor-fuer-plastikabfaelle/",
+        "source": "Ingenieur.de",
+        "date": "2026-06-24",
+        "why": "Forscher aus Cambridge haben erstmals einen großflächigen Solarreaktor getestet. Die Anlage wandelt Plastikabfälle mit Sonnenlicht in Wasserstoff um. Der Beitrag Cambridge-Team demonstriert erstmals g",
+        "tags": [
+          "erstmals",
+          "großflächigen",
+          "solarreaktor",
+          "plastikabfälle",
+          "cambridge-team"
+        ]
+      },
+      {
+        "title": "Eine Stunde UV-Licht und die Kontaktlinse repariert sich selbst",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/medizin/eine-stunde-uv-licht-und-die-kontaktlinse-repariert-sich-selbst/",
+        "source": "Ingenieur.de",
+        "date": "2026-06-24",
+        "why": "Kratzfest, antibakteriell und selbstheilend: Ein neues Hydrogel könnte die Lebensdauer von Kontaktlinsen deutlich verlängern. Der Beitrag Eine Stunde UV-Licht und die Kontaktlinse repariert sich selbs",
+        "tags": [
+          "stunde",
+          "uv-licht",
+          "kontaktlinse",
+          "repariert",
+          "sich"
+        ]
+      },
+      {
+        "title": "Mars-Rover war gestern: Dieser Roboter kriecht wie ein Zollwurm",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/automation/mars-rover-war-gestern-dieser-roboter-kriecht-wie-ein-zollwurm/",
+        "source": "Ingenieur.de",
+        "date": "2026-06-24",
+        "why": "Ein neuer Roboter aus künstlichen Muskeln bewegt sich wie ein Zollwurm. Die ESA sieht Potenzial für Marsmissionen und extreme Einsatzorte auf der Erde. Der Beitrag Mars-Rover war gestern: Dieser Robot",
+        "tags": [
+          "roboter",
+          "zollwurm",
+          "mars-rover",
+          "gestern",
+          "dieser"
+        ]
+      },
+      {
+        "title": "Solar: Scheitert Vorreiter Deutschland am eigenen Erfolg?",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/energie/wie-es-um-die-solarbranche-in-deutschland-steht/",
+        "source": "Ingenieur.de",
+        "date": "2026-06-24",
+        "why": "Deutschlands Solarboom stockt: Netze, Speicher und Politik bremsen den Ausbau. Die Branche steht vor neuer Phase der Marktintegration. Der Beitrag Solar: Scheitert Vorreiter Deutschland am eigenen Erf",
+        "tags": [
+          "solar",
+          "scheitert",
+          "vorreiter",
+          "deutschland",
+          "eigenen"
+        ]
+      },
+      {
+        "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+        "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-24",
+        "why": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+        "tags": [
+          "infosys",
+          "former",
+          "chief",
+          "startup",
+          "wants"
+        ]
+      }
+    ],
+    "action_items": []
+  },
+  "raw_articles": [
+    {
+      "title": "Totgesagte leben länger: Wo der Wasserstoffzug doch noch gewinnt",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/verkehr/totgesagte-leben-laenger-wo-der-wasserstoffzug-doch-noch-gewinnt/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-06-24T16:25:58+00:00",
+      "summary": "In Deutschland fährt der Wasserstoffzug langsam aufs Abstellgleis. Italien lässt 21 Stück bei Stadler bauen - der Schweizer Hersteller feiert die Weltpremiere eines neuen Modells. Hat der H2-Zug jetzt endlich seine Nische gefunden? Der Beitrag Totgesagte leben länger: Wo der Wasserstoffzug doch noch gewinnt erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "wasserstoffzug",
+        "totgesagte",
+        "leben",
+        "länger",
+        "doch",
+        "noch"
+      ]
+    },
+    {
+      "title": "Kühlung von Datenzentren als Goldgrube: KI beschert ebm-Papst kräftiges Wachstum",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/kuenstliche-intelligenz/kuehlung-fuer-datenzentren-ebm-papst-waechst-mit-ki-gesteuerten-ventilatoren/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-06-24T12:00:00+00:00",
+      "summary": "Das Geschäft mit Datenzentren boomt. Davon profitiert auch der Ventilatorenhersteller ebm-Papst, für den auch intern künstliche Intelligenz immer mehr zum Thema wird. Der Beitrag Kühlung von Datenzentren als Goldgrube: KI beschert ebm-Papst kräftiges Wachstum erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "datenzentren",
+        "ebm-papst",
+        "kühlung",
+        "goldgrube",
+        "beschert",
+        "kräftiges"
+      ]
+    },
+    {
+      "title": "Babyboomer überraschen: Viele würden auch nach der Rente weiterarbeiten",
+      "url": "https://www.ingenieur.de/karriere/arbeitsleben/babyboomer-ueberraschen-viele-wuerden-auch-nach-der-rente-weiterarbeiten/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-06-24T11:30:00+00:00",
+      "summary": "Babyboomer zeigen überraschend hohe Bereitschaft zur Weiterarbeit im Rentenalter. Für viele zählen Sinn, Kontakte und geistige Fitness mehr als Geld. Der Beitrag Babyboomer überraschen: Viele würden auch nach der Rente weiterarbeiten erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "babyboomer",
+        "viele",
+        "überraschen",
+        "würden",
+        "auch",
+        "rente"
+      ]
+    },
+    {
+      "title": "Rost gegen die Dunkelflaute: Hier entsteht Europas größte Eisen-Luft-Batterie",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/energie/rost-fur-die-dunkelflaute-hier-entsteht-europas-grosste-eisen-luft-batterie/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-06-24T10:30:00+00:00",
+      "summary": "Für lange Dunkelflauten sind Lithium-Batterien zu teuer. Ein niederländischer Versorger setzt deshalb im großen Stil auf eine Eisen-Luft-Batterie. 1 GWh hat er bestellt, die erste Stufe soll 2028 ans Netz gehen. Was steckt hinter dem neuen Hoffnungsträger unter den Speichertechnologien? Der Beitrag Rost gegen die Dunkelflaute: Hier entsteht Europas größte Eisen-Luft-Batterie erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "eisen-luft-batterie",
+        "rost",
+        "gegen",
+        "dunkelflaute",
+        "hier",
+        "entsteht"
+      ]
+    },
+    {
+      "title": "Jobmotor Energiewende: Warum dennoch viele Arbeitsplätze in Gefahr sind",
+      "url": "https://www.ingenieur.de/karriere/arbeitsleben/arbeitsmarkt-boom-durch-energiewende-doch-tausende-jobs-stehen-auf-dem-spiel/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-06-24T10:00:00+00:00",
+      "summary": "Windkraft, Solarenergie und Wärmepumpen schaffen immer mehr Arbeitsplätze. Eine Studie zeigt jedoch, warum der Boom nicht selbstverständlich ist. Der Beitrag Jobmotor Energiewende: Warum dennoch viele Arbeitsplätze in Gefahr sind erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "warum",
+        "arbeitsplätze",
+        "jobmotor",
+        "energiewende",
+        "dennoch",
+        "viele"
+      ]
+    },
+    {
+      "title": "Cambridge-Team demonstriert erstmals großflächigen Solarreaktor für Plastikabfälle",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/umwelt/forscher-demonstrieren-erstmals-grossflaechigen-solarreaktor-fuer-plastikabfaelle/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-06-24T09:26:34+00:00",
+      "summary": "Forscher aus Cambridge haben erstmals einen großflächigen Solarreaktor getestet. Die Anlage wandelt Plastikabfälle mit Sonnenlicht in Wasserstoff um. Der Beitrag Cambridge-Team demonstriert erstmals großflächigen Solarreaktor für Plastikabfälle erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "erstmals",
+        "großflächigen",
+        "solarreaktor",
+        "plastikabfälle",
+        "cambridge-team",
+        "demonstriert"
+      ]
+    },
+    {
+      "title": "Eine Stunde UV-Licht und die Kontaktlinse repariert sich selbst",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/medizin/eine-stunde-uv-licht-und-die-kontaktlinse-repariert-sich-selbst/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-06-24T07:30:00+00:00",
+      "summary": "Kratzfest, antibakteriell und selbstheilend: Ein neues Hydrogel könnte die Lebensdauer von Kontaktlinsen deutlich verlängern. Der Beitrag Eine Stunde UV-Licht und die Kontaktlinse repariert sich selbst erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "stunde",
+        "uv-licht",
+        "kontaktlinse",
+        "repariert",
+        "sich",
+        "selbst"
+      ]
+    },
+    {
+      "title": "Mars-Rover war gestern: Dieser Roboter kriecht wie ein Zollwurm",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/automation/mars-rover-war-gestern-dieser-roboter-kriecht-wie-ein-zollwurm/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-06-24T06:30:00+00:00",
+      "summary": "Ein neuer Roboter aus künstlichen Muskeln bewegt sich wie ein Zollwurm. Die ESA sieht Potenzial für Marsmissionen und extreme Einsatzorte auf der Erde. Der Beitrag Mars-Rover war gestern: Dieser Roboter kriecht wie ein Zollwurm erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "roboter",
+        "zollwurm",
+        "mars-rover",
+        "gestern",
+        "dieser",
+        "kriecht"
+      ]
+    },
+    {
+      "title": "Solar: Scheitert Vorreiter Deutschland am eigenen Erfolg?",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/energie/wie-es-um-die-solarbranche-in-deutschland-steht/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-06-24T06:00:00+00:00",
+      "summary": "Deutschlands Solarboom stockt: Netze, Speicher und Politik bremsen den Ausbau. Die Branche steht vor neuer Phase der Marktintegration. Der Beitrag Solar: Scheitert Vorreiter Deutschland am eigenen Erfolg? erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "solar",
+        "scheitert",
+        "vorreiter",
+        "deutschland",
+        "eigenen",
+        "erfolg"
+      ]
+    },
+    {
+      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-24T23:26:52+00:00",
+      "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+      "keywords": [
+        "infosys",
+        "former",
+        "chief",
+        "startup",
+        "wants",
+        "challenge"
+      ]
+    },
+    {
+      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+      "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-24T22:41:41+00:00",
+      "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+      "keywords": [
+        "earnings",
+        "margin",
+        "cerebras",
+        "stock",
+        "plunges",
+        "after"
+      ]
+    },
+    {
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-24T21:56:41+00:00",
+      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+      "keywords": [
+        "data",
+        "supposed",
+        "kill",
+        "engineering",
+        "jobs",
+        "suggests"
+      ]
+    },
+    {
+      "title": "AI researchers continue to leave Google for its rivals",
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-24T21:42:07+00:00",
+      "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+      "keywords": [
+        "researchers",
+        "google",
+        "continue",
+        "leave",
+        "rivals",
+        "jonas"
+      ]
+    },
+    {
+      "title": "The memory chip crunch is paying off for this US company",
+      "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-24T21:30:55+00:00",
+      "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
+      "keywords": [
+        "billion",
+        "company",
+        "memory",
+        "chip",
+        "crunch",
+        "paying"
+      ]
+    },
+    {
+      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-24T20:09:45+00:00",
+      "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+      "keywords": [
+        "companies",
+        "scrambling",
+        "stop",
+        "employees",
+        "maxing",
+        "budgets"
+      ]
+    },
+    {
+      "title": "Facebook rolls out an AI companion app for creators",
+      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-24T17:16:24+00:00",
+      "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
+      "keywords": [
+        "facebook",
+        "creators",
+        "rolls",
+        "companion",
+        "which",
+        "currently"
+      ]
+    },
+    {
+      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-24T16:48:43+00:00",
+      "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
+      "keywords": [
+        "robotics",
+        "agility",
+        "plans",
+        "public",
+        "spac",
+        "deal"
+      ]
+    },
+    {
+      "title": "Figma adds code layers, support for animations, more AI features in new update",
+      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-24T16:15:00+00:00",
+      "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
+      "keywords": [
+        "figma",
+        "adds",
+        "code",
+        "support",
+        "update",
+        "layers"
+      ]
+    },
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-24T14:54:46+00:00",
+      "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
+      "keywords": [
+        "openai",
+        "unveils",
+        "first",
+        "custom",
+        "chip",
+        "built"
+      ]
+    },
+    {
+      "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+      "url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-24T14:00:00+00:00",
+      "summary": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
+      "keywords": [
+        "days",
+        "left",
+        "save",
+        "your",
+        "techcrunch",
+        "founder"
+      ]
+    },
+    {
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "source": "MIT Technology Review (AI)",
+      "lang": "en",
+      "published": "2026-06-24T11:59:54+00:00",
+      "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;",
+      "keywords": [
+        "data",
+        "cases",
+        "emergence",
+        "infrastructure",
+        "layer",
+        "booming"
+      ]
+    },
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "published": "2026-06-24T06:00:00+00:00",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "keywords": [
+        "openai",
+        "broadcom",
+        "inference",
+        "chip",
+        "unveil",
+        "llm-optimized"
+      ]
+    },
+    {
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "published": "2026-06-24T16:00:13+00:00",
+      "summary": "",
+      "keywords": [
+        "accelerating",
+        "transformers",
+        "fine-tuning",
+        "nvidia",
+        "nemo",
+        "automodel"
+      ]
+    },
+    {
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "published": "2026-06-24T00:00:00+00:00",
+      "summary": "",
+      "keywords": [
+        "introducing",
+        "ffasr",
+        "leaderboard",
+        "benchmarking",
+        "real",
+        "world"
+      ]
+    }
+  ]
+}

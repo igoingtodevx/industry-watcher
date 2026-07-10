@@ -1,0 +1,385 @@
+{
+  "generated_at": "2026-06-23T18:00:00+00:00",
+  "edition_id": "2026-06-23",
+  "date": "2026-06-23",
+  "brief": {
+    "headline": "23.06.2026: espresso · kaffeepuck",
+    "subheadline": "Tageszusammenfassung mit 12 Artikeln aus 5 Quellen.",
+    "executive_summary": "<p>Am 23.06.2026 wurden 12 relevante Branchen-Meldungen aus 5 Quellen erfasst. Die thematischen Schwerpunkte lagen bei espresso · kaffeepuck.</p><p>Die wichtigsten Meldungen des Tages sind nachfolgend kuratiert — sortiert nach Recency und Quellen-Autorität. Vollständige Artikel-Liste unten.</p>",
+    "trends": [
+      {
+        "title": "Bitterer Espresso, komplexe Physik: Was im Kaffeepuck wirklich passiert",
+        "what": "Warum wird Espresso manchmal bitter? Forscher haben untersucht, was im Kaffeepuck unter hohem Druck passiert – mit überraschenden Ergebnissen. Der Beitrag Bitterer Espresso, komplexe Physik: Was im Kaffeepuck wirklich passiert erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ing",
+        "why": "Gemeldet von Ingenieur.de am 2026-06-23.",
+        "signal": "mittel"
+      },
+      {
+        "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+        "what": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-23.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+        "what": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-23.",
+        "signal": "mittel"
+      },
+      {
+        "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+        "what": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-23.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+        "what": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-23.",
+        "signal": "mittel"
+      },
+      {
+        "title": "OpenAI launches new initiative to help find and patch open source bugs",
+        "what": "OpenAI is using AI to help the open source community better protect itself.",
+        "why": "Gemeldet von TechCrunch (AI category) am 2026-06-23.",
+        "signal": "mittel"
+      }
+    ],
+    "opportunities": [],
+    "top_articles": [
+      {
+        "title": "Bitterer Espresso, komplexe Physik: Was im Kaffeepuck wirklich passiert",
+        "url": "https://www.ingenieur.de/technik/fachbereiche/rekorde/bitterer-espresso-komplexe-physik-was-im-kaffeepuck-wirklich-passiert/",
+        "source": "Ingenieur.de",
+        "date": "2026-06-23",
+        "why": "Warum wird Espresso manchmal bitter? Forscher haben untersucht, was im Kaffeepuck unter hohem Druck passiert – mit überraschenden Ergebnissen. Der Beitrag Bitterer Espresso, komplexe Physik: Was im Ka",
+        "tags": [
+          "espresso",
+          "kaffeepuck",
+          "passiert",
+          "bitterer",
+          "komplexe"
+        ]
+      },
+      {
+        "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+        "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-23",
+        "why": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+        "tags": [
+          "moengage",
+          "agents",
+          "india",
+          "bets",
+          "future"
+        ]
+      },
+      {
+        "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+        "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-23",
+        "why": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise",
+        "tags": [
+          "anthropic",
+          "claude",
+          "slack",
+          "learning",
+          "your"
+        ]
+      },
+      {
+        "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+        "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-23",
+        "why": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
+        "tags": [
+          "founder",
+          "days",
+          "left",
+          "save",
+          "techcrunch"
+        ]
+      },
+      {
+        "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+        "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-23",
+        "why": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedI",
+        "tags": [
+          "fika",
+          "jobs",
+          "video-first",
+          "hiring",
+          "platform"
+        ]
+      },
+      {
+        "title": "OpenAI launches new initiative to help find and patch open source bugs",
+        "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+        "source": "TechCrunch (AI category)",
+        "date": "2026-06-23",
+        "why": "OpenAI is using AI to help the open source community better protect itself.",
+        "tags": [
+          "openai",
+          "help",
+          "open",
+          "source",
+          "launches"
+        ]
+      },
+      {
+        "title": "The $400 million machine powering the future of chipmaking",
+        "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+        "source": "MIT Technology Review (AI)",
+        "date": "2026-06-23",
+        "why": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-mil",
+        "tags": [
+          "machine",
+          "million",
+          "powering",
+          "future",
+          "chipmaking"
+        ]
+      },
+      {
+        "title": "Helping build shared standards for advanced AI",
+        "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+        "source": "OpenAI Blog",
+        "date": "2026-06-23",
+        "why": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+        "tags": [
+          "build",
+          "shared",
+          "standards",
+          "advanced",
+          "helping"
+        ]
+      },
+      {
+        "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+        "url": "https://openai.com/index/gpt-5-immunology-mystery",
+        "source": "OpenAI Blog",
+        "date": "2026-06-23",
+        "why": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+        "tags": [
+          "gpt-5",
+          "helped",
+          "solve",
+          "3-year-old",
+          "mystery"
+        ]
+      },
+      {
+        "title": "How Omio is building the future of conversational travel",
+        "url": "https://openai.com/index/omio",
+        "source": "OpenAI Blog",
+        "date": "2026-06-23",
+        "why": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+        "tags": [
+          "omio",
+          "conversational",
+          "travel",
+          "building",
+          "future"
+        ]
+      }
+    ],
+    "action_items": []
+  },
+  "raw_articles": [
+    {
+      "title": "Bitterer Espresso, komplexe Physik: Was im Kaffeepuck wirklich passiert",
+      "url": "https://www.ingenieur.de/technik/fachbereiche/rekorde/bitterer-espresso-komplexe-physik-was-im-kaffeepuck-wirklich-passiert/",
+      "source": "Ingenieur.de",
+      "lang": "de",
+      "published": "2026-06-23T16:15:37+00:00",
+      "summary": "Warum wird Espresso manchmal bitter? Forscher haben untersucht, was im Kaffeepuck unter hohem Druck passiert – mit überraschenden Ergebnissen. Der Beitrag Bitterer Espresso, komplexe Physik: Was im Kaffeepuck wirklich passiert erschien zuerst auf ingenieur.de - Jobbörse und Nachrichtenportal für Ingenieure .",
+      "keywords": [
+        "espresso",
+        "kaffeepuck",
+        "passiert",
+        "bitterer",
+        "komplexe",
+        "physik"
+      ]
+    },
+    {
+      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-23T23:30:00+00:00",
+      "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers.",
+      "keywords": [
+        "moengage",
+        "agents",
+        "india",
+        "bets",
+        "future",
+        "marketing"
+      ]
+    },
+    {
+      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-23T17:00:00+00:00",
+      "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+      "keywords": [
+        "anthropic",
+        "claude",
+        "slack",
+        "learning",
+        "your",
+        "company"
+      ]
+    },
+    {
+      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-23T14:00:00+00:00",
+      "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today.",
+      "keywords": [
+        "founder",
+        "days",
+        "left",
+        "save",
+        "techcrunch",
+        "summit"
+      ]
+    },
+    {
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-23T13:00:00+00:00",
+      "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+      "keywords": [
+        "fika",
+        "jobs",
+        "video-first",
+        "hiring",
+        "platform",
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenAI launches new initiative to help find and patch open source bugs",
+      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "source": "TechCrunch (AI category)",
+      "lang": "en",
+      "published": "2026-06-23T00:11:31+00:00",
+      "summary": "OpenAI is using AI to help the open source community better protect itself.",
+      "keywords": [
+        "openai",
+        "help",
+        "open",
+        "source",
+        "launches",
+        "initiative"
+      ]
+    },
+    {
+      "title": "The $400 million machine powering the future of chipmaking",
+      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+      "source": "MIT Technology Review (AI)",
+      "lang": "en",
+      "published": "2026-06-23T09:00:00+00:00",
+      "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the ground, it looks like a&#8230;",
+      "keywords": [
+        "machine",
+        "million",
+        "powering",
+        "future",
+        "chipmaking",
+        "benschop"
+      ]
+    },
+    {
+      "title": "Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "published": "2026-06-23T13:00:00+00:00",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "keywords": [
+        "build",
+        "shared",
+        "standards",
+        "advanced",
+        "helping",
+        "openai"
+      ]
+    },
+    {
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "published": "2026-06-23T17:00:00+00:00",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "keywords": [
+        "gpt-5",
+        "helped",
+        "solve",
+        "3-year-old",
+        "mystery",
+        "immunologist"
+      ]
+    },
+    {
+      "title": "How Omio is building the future of conversational travel",
+      "url": "https://openai.com/index/omio",
+      "source": "OpenAI Blog",
+      "lang": "en",
+      "published": "2026-06-23T00:00:00+00:00",
+      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "keywords": [
+        "omio",
+        "conversational",
+        "travel",
+        "building",
+        "future",
+        "discover"
+      ]
+    },
+    {
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "published": "2026-06-23T00:00:00+00:00",
+      "summary": "",
+      "keywords": [
+        "shipping",
+        "huggingface",
+        "every",
+        "week",
+        "open",
+        "tools"
+      ]
+    },
+    {
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
+      "source": "Hugging Face Blog",
+      "lang": "en",
+      "published": "2026-06-23T00:00:00+00:00",
+      "summary": "",
+      "keywords": [
+        "experimenting",
+        "proposed",
+        "cross-origin",
+        "storage",
+        "transformers"
+      ]
+    }
+  ]
+}
