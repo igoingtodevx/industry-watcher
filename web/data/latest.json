@@ -1,754 +1,701 @@
 {
-  "generated_at": "2026-07-13T08:56:01.388921+00:00",
+  "generated_at": "2026-07-14T07:51:24.281428+00:00",
   "brief": {
-    "headline": "Microsoft setzt auf eigene KI-Modelle und reduziert Abhängigkeit von OpenAI",
-    "subheadline": "Die Umstellung auf interne KI-Modelle könnte signifikante Kosteneinsparungen für Microsoft bringen.",
-    "executive_summary": "<p>Microsoft plant, in einigen seiner Anwendungen eigene KI-Modelle anstelle von OpenAI und Anthropic zu nutzen. Diese Entscheidung könnte durch die steigenden Kosten für die Nutzung externer KI-Dienste motiviert sein. Gleichzeitig hat Anthropic die kostenlose Nutzung von Claude Fable 5 bis Mitte Juli 2026 verlängert, um mit der Konkurrenz Schritt zu halten. In der Zwischenzeit zeigt eine Analyse, dass LinkedIn die Plattform mit dem höchsten Anteil an KI-generierten Inhalten ist, was Fragen zur Qualität und Authentizität aufwirft. Der Digital Fairness Act der EU könnte zudem den Verbraucherschutz im Internet stärken, was für Unternehmen im digitalen Sektor von Bedeutung ist.</p>",
+    "headline": "KI-Transformation erfordert sofortige Maßnahmen zur Sicherung von Arbeitsplätzen",
+    "subheadline": "Ökonomen warnen vor drastischen Folgen der KI-Revolution für den Arbeitsmarkt.",
+    "executive_summary": "<p>Diese Woche haben mehr als 200 Ökonomen und KI-Experten, darunter 16 Nobelpreisträger, vor den potenziell katastrophalen Auswirkungen der KI auf den Arbeitsmarkt gewarnt. Ihre Analyse zeigt, dass die Transformation schneller und tiefgreifender als die industrielle Revolution sein könnte. Unternehmen müssen jetzt Strategien entwickeln, um ihre Belegschaft zu schützen und die Integration von KI sinnvoll zu gestalten. Gleichzeitig gibt es neue Entwicklungen im Bereich der KI-gestützten Softwaretests und Open-Source-Modelle, die für den Mittelstand von Interesse sind.</p>",
     "trends": [
       {
-        "title": "Microsoft reduziert Abhängigkeit von OpenAI",
-        "what": "Microsoft plant, in einigen Anwendungen eigene KI-Modelle einzusetzen, um Kosten zu sparen.",
-        "why": "Die Entscheidung könnte die Betriebskosten signifikant senken und die Kontrolle über KI-Anwendungen erhöhen.",
+        "title": "Drastische Warnungen vor KI-Folgen für den Arbeitsmarkt",
+        "what": "Über 200 Ökonomen und KI-Forscher warnen vor den Auswirkungen der KI-Revolution auf Jobs.",
+        "why": "Diese Warnungen verdeutlichen die Notwendigkeit für Unternehmen, proaktive Maßnahmen zu ergreifen.",
         "signal": "hoch"
       },
       {
-        "title": "Anthropic verlängert Abo-Modell für Claude Fable 5",
-        "what": "Anthropic gibt Abo-Nutzern mehr Zeit, um Claude Fable 5 kostenlos zu nutzen, um mit der Konkurrenz Schritt zu halten.",
-        "why": "Dies könnte den Wettbewerb im KI-Markt anheizen und den Druck auf andere Anbieter erhöhen.",
+        "title": "Wachstum von KI-gestützten Softwarelösungen",
+        "what": "Neue Ansätze zur Automatisierung von Softwaretests mit KI-Personas zeigen vielversprechende Ergebnisse.",
+        "why": "Mittelständler können durch solche Lösungen ihre Effizienz steigern und Kosten senken.",
         "signal": "hoch"
       },
       {
-        "title": "LinkedIn als KI-Inhaltsgenerator",
-        "what": "Eine Analyse zeigt, dass 41% der längeren Beiträge auf LinkedIn KI-generiert sind.",
-        "why": "Das wirft Fragen zur Qualität und Authentizität der Inhalte auf, was für Unternehmen von Bedeutung ist.",
-        "signal": "hoch"
-      },
-      {
-        "title": "EU plant Digital Fairness Act",
-        "what": "Der Digital Fairness Act soll ab Ende 2026 den Verbraucherschutz im Internet stärken.",
-        "why": "Unternehmen müssen sich auf neue Regulierungen einstellen, die ihre Geschäftspraktiken beeinflussen könnten.",
-        "signal": "hoch"
-      },
-      {
-        "title": "Zunehmende Cyberangriffe im Gesundheitswesen",
-        "what": "Cyberangriffe und Datenlecks im Gesundheitsbereich nehmen zu, was zu einem erhöhten Sicherheitsbedarf führt.",
-        "why": "Unternehmen im Gesundheitssektor müssen ihre Sicherheitsmaßnahmen verstärken, um Datenlecks zu verhindern.",
-        "signal": "hoch"
-      },
-      {
-        "title": "Wachstum von KI-Tools in der Softwareentwicklung",
-        "what": "Neue KI-Modelle zielen darauf ab, die Nutzung von Excel und anderen Office-Programmen zu optimieren.",
-        "why": "Das könnte die Effizienz in der Datenverarbeitung und -analyse für Unternehmen steigern.",
+        "title": "Steigende Nachfrage nach Open-Source KI-Modellen",
+        "what": "Das deutsche Konsortium hat ein offenes KI-Modell veröffentlicht, das für Unternehmen von Interesse sein könnte.",
+        "why": "Open-Source-Lösungen bieten Flexibilität und Kosteneffizienz für Mittelständler.",
         "signal": "mittel"
       },
       {
-        "title": "Verstärkter Fokus auf digitale Souveränität",
-        "what": "Die c't-Konferenz Public IT thematisiert, wie Behörden ihre digitale Souveränität stärken können.",
-        "why": "Das könnte auch für Unternehmen im öffentlichen Sektor von Interesse sein, die digitale Lösungen implementieren.",
+        "title": "Erhöhung der Investitionen in KI-Infrastruktur",
+        "what": "Unternehmen investieren verstärkt in KI-Infrastruktur, um wettbewerbsfähig zu bleiben.",
+        "why": "Mittelständler sollten ebenfalls in ihre digitale Infrastruktur investieren, um nicht abgehängt zu werden.",
+        "signal": "hoch"
+      },
+      {
+        "title": "Integration von KI in bestehende Softwarelösungen",
+        "what": "Fortschritte bei der Modernisierung bestehender Software durch KI-Technologien werden sichtbar.",
+        "why": "Die Modernisierung kann Unternehmen helfen, ihre Software effizienter zu nutzen und den Betrieb zu optimieren.",
+        "signal": "hoch"
+      },
+      {
+        "title": "Zunehmende Bedeutung von Datenschutz bei KI-Anwendungen",
+        "what": "Die Diskussion um Datenschutz und KI-Anwendungen wird intensiver.",
+        "why": "Unternehmen müssen sicherstellen, dass ihre KI-Lösungen datenschutzkonform sind, um rechtliche Probleme zu vermeiden.",
         "signal": "mittel"
       },
       {
-        "title": "IT-Sicherheitswerkzeuge werden zunehmend genutzt",
-        "what": "KI-Methoden und Werkzeuge für die IT-Sicherheit gewinnen an Bedeutung.",
-        "why": "Unternehmen müssen sich besser gegen Cyberbedrohungen wappnen und entsprechende Tools implementieren.",
-        "signal": "hoch"
+        "title": "Marktanalyse zeigt Vorteile schneller Internetverträge",
+        "what": "Eine Marktanalyse zeigt, dass langsame Internetverträge langfristig teurer sind.",
+        "why": "Mittelständler sollten ihre Internetverträge überprüfen, um Kosten zu sparen.",
+        "signal": "niedrig"
       }
     ],
     "opportunities": [
       {
-        "title": "Beratung zur Implementierung eigener KI-Modelle",
-        "what": "Unternehmen suchen nach Wegen, eigene KI-Lösungen zu entwickeln, um Kosten zu sparen und Abhängigkeiten zu reduzieren.",
-        "who": "Mittelständische Unternehmen in der Softwareentwicklung.",
+        "title": "Entwicklung von KI-gestützten Schulungsprogrammen",
+        "what": "Es besteht ein Bedarf an Schulungen für Mitarbeiter zur Nutzung von KI-Tools.",
+        "who": "Unternehmen, die ihre Mitarbeiter in KI schulen möchten.",
         "how": "hoch",
         "price": "3.000-10.000€",
         "time": "Wochen"
       },
       {
-        "title": "Sicherheitslösungen für den Gesundheitssektor",
-        "what": "Steigender Bedarf an Sicherheitslösungen zur Verhinderung von Datenlecks im Gesundheitswesen.",
-        "who": "Gesundheitsdienstleister und Kliniken.",
+        "title": "Beratung zur Integration von Open-Source KI-Modellen",
+        "what": "Unternehmen suchen Unterstützung bei der Implementierung von Open-Source KI-Lösungen.",
+        "who": "Mittelständische Unternehmen, die Kosten senken möchten.",
         "how": "hoch",
-        "price": "5.000-15.000€",
-        "time": "Wochen"
-      },
-      {
-        "title": "Entwicklung von KI-gestützten Tools für die Datenanalyse",
-        "what": "Unternehmen benötigen effektive Lösungen zur Datenanalyse, um KI-Modelle effizient zu integrieren.",
-        "who": "Unternehmen, die große Datenmengen verarbeiten.",
-        "how": "mittel",
         "price": "2.000-7.000€",
-        "time": "Monate"
-      },
-      {
-        "title": "Schulungen zur digitalen Souveränität",
-        "what": "Behörden und Unternehmen benötigen Schulungen zur Stärkung ihrer digitalen Souveränität.",
-        "who": "Öffentliche Institutionen und Unternehmen im digitalen Sektor.",
-        "how": "hoch",
-        "price": "1.500-5.000€",
         "time": "Wochen"
       },
       {
-        "title": "IT-Sicherheitsworkshops",
-        "what": "Wachsende Nachfrage nach Workshops zu IT-Sicherheit und der Anwendung von KI in diesem Bereich.",
-        "who": "IT-Abteilungen und Unternehmen mit sensiblen Daten.",
+        "title": "Entwicklung von Software-Testlösungen mit KI",
+        "what": "Es gibt einen Bedarf an Lösungen, die Softwaretests automatisieren und dokumentieren.",
+        "who": "Softwareentwicklungsfirmen.",
         "how": "hoch",
-        "price": "1.000-3.000€",
-        "time": "Tagen"
-      },
-      {
-        "title": "Entwicklung von Compliance-Tools für den Digital Fairness Act",
-        "what": "Unternehmen benötigen Unterstützung bei der Einhaltung der neuen Vorschriften des Digital Fairness Acts.",
-        "who": "Unternehmen im digitalen Sektor.",
-        "how": "mittel",
         "price": "5.000-15.000€",
         "time": "Monate"
+      },
+      {
+        "title": "Implementierung von Datenschutzmaßnahmen für KI",
+        "what": "Unternehmen benötigen Unterstützung bei der Einhaltung von Datenschutzbestimmungen für KI-Anwendungen.",
+        "who": "Mittelständler, die KI-Lösungen einführen.",
+        "how": "hoch",
+        "price": "2.000-8.000€",
+        "time": "Wochen"
+      },
+      {
+        "title": "Optimierung bestehender Software durch KI",
+        "what": "Unternehmen suchen nach Wegen, ihre bestehende Software effizienter zu gestalten.",
+        "who": "IT-Abteilungen von Mittelständlern.",
+        "how": "hoch",
+        "price": "4.000-12.000€",
+        "time": "Monate"
+      },
+      {
+        "title": "Marktanalyse für Internetverträge",
+        "what": "Unternehmen benötigen Unterstützung bei der Auswahl der besten Internetverträge.",
+        "who": "Mittelständische Unternehmen, die Kosten optimieren möchten.",
+        "how": "mittel",
+        "price": "1.000-3.000€",
+        "time": "Wochen"
       }
     ],
     "top_articles": [
       {
-        "title": "Microsoft nutzt in manchen Apps offenbar eigene KI statt OpenAI und Anthropic",
-        "url": "https://www.heise.de/news/Microsoft-nutzt-in-manchen-Apps-offenbar-eigene-KI-statt-OpenAI-und-Anthropic-11362060.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "title": "„Nie dagewesene Transformation“: Hochrangige Warnung vor Folgen von KI für Jobs",
+        "url": "https://www.heise.de/news/Groesser-als-die-Industrielle-Revolution-230-Fachleute-warnen-vor-Folgen-von-KI-11363619.html?wt_mc=rss.red.ho.ho.atom.beitrag",
         "source": "Heise Online",
-        "date": "2026-07-13",
-        "why": "Microsoft plant, eigene KI-Modelle zu nutzen, um Kosten zu sparen und Abhängigkeiten zu reduzieren.",
+        "date": "2026-07-14",
+        "why": "Wichtige Warnungen vor den Auswirkungen der KI-Revolution auf den Arbeitsmarkt.",
         "tags": [
-          "Microsoft",
           "KI",
-          "OpenAI"
+          "Jobs"
         ]
       },
       {
-        "title": "Digital Fairness Act soll auch Spielehersteller und kleine Händler treffen",
-        "url": "https://www.heise.de/news/Digital-Fairness-Act-soll-auch-Spielehersteller-und-kleine-Haendler-treffen-11361948.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-12",
-        "why": "Der Digital Fairness Act wird Unternehmen im digitalen Sektor betreffen.",
-        "tags": [
-          "EU",
-          "Digitalisierung",
-          "Gesetz"
-        ]
-      },
-      {
-        "title": "Claude Fable 5 bleibt doch im Abo: Anthropic gibt Abo-Nutzern mehr Zeit",
-        "url": "https://the-decoder.de/claude-fable-5-bleibt-doch-im-abo-anthropic-gibt-abo-nutzern-mehr-zeit/",
+        "title": "Neuer Prompting-Guide: OpenAI empfiehlt Prompts, die sich am Ergebnis statt am Prozess orientieren",
+        "url": "https://the-decoder.de/neuer-prompting-guide-openai-empfiehlt-prompts-die-sich-am-ergebnis-statt-am-prozess-orientieren/",
         "source": "The Decoder",
         "date": "2026-07-13",
-        "why": "Anthropic verlängert die kostenlose Nutzung von Claude Fable 5, um mit der Konkurrenz Schritt zu halten.",
+        "why": "Wichtige Informationen zur Verbesserung der Nutzung von KI-Tools.",
         "tags": [
-          "Anthropic",
-          "KI",
-          "Abo"
+          "OpenAI",
+          "KI"
         ]
       },
       {
-        "title": "LinkedIn ist laut Analyse die KI-Slop-Schleuder unter den Social-Media-Plattformen",
-        "url": "https://the-decoder.de/linkedin-ist-laut-analyse-die-ki-slop-schleuder-unter-den-social-media-plattformen/",
-        "source": "The Decoder",
-        "date": "2026-07-12",
-        "why": "Die Analyse zeigt, dass LinkedIn einen hohen Anteil an KI-generierten Inhalten hat, was Fragen zur Qualität aufwirft.",
-        "tags": [
-          "LinkedIn",
-          "KI",
-          "Social Media"
-        ]
-      },
-      {
-        "title": "Zunehmende Cyberangriffe im Gesundheitswesen",
-        "url": "https://www.heise.de/hintergrund/Digital-Health-Podcast-Wie-ein-mehrfach-Betroffener-Datenlecks-verhindern-will-11362114.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-13",
-        "why": "Cyberangriffe im Gesundheitswesen sorgen für Unsicherheit und erhöhen den Bedarf an Sicherheitslösungen.",
-        "tags": [
-          "Gesundheit",
-          "Cybersecurity",
-          "Daten"
-        ]
-      },
-      {
-        "title": "Wachstum von KI-Tools in der Softwareentwicklung",
-        "url": "https://t3n.de/news/large-tabular-models-neue-ki-modelle-machen-schluss-mit-dem-excel-handicap-1752212/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-        "source": "t3n Digital Pioneers",
-        "date": "2026-07-12",
-        "why": "Neue KI-Modelle sollen die Nutzung von Excel und anderen Office-Programmen optimieren.",
-        "tags": [
-          "KI",
-          "Softwareentwicklung",
-          "Excel"
-        ]
-      },
-      {
-        "title": "IT-Sicherheitswerkzeuge werden zunehmend genutzt",
-        "url": "https://www.heise.de/news/iX-Workshop-KI-Methoden-und-Werkzeuge-fuer-die-IT-Sicherheit-11347527.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "source": "Heise iX",
-        "date": "2026-07-12",
-        "why": "Die Nachfrage nach IT-Sicherheitslösungen wächst, um Cyberbedrohungen zu begegnen.",
-        "tags": [
-          "IT-Sicherheit",
-          "KI",
-          "Cybersecurity"
-        ]
-      },
-      {
-        "title": "Kulturinstitutionen fordern digitales Langzeitarchiv für Deutschland",
-        "url": "https://www.heise.de/news/Kulturinstitutionen-fordern-digitales-Langzeitarchiv-fuer-Deutschland-11361846.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-12",
-        "why": "Das nationale Kulturerbe soll in einem zentralen Datenspeicher archiviert werden.",
-        "tags": [
-          "Kultur",
-          "Digitalisierung",
-          "Archiv"
-        ]
-      },
-      {
-        "title": "Samsung Health: Zwang zur Freigabe für KI-Training",
-        "url": "https://www.golem.de/news/samsung-health-zwang-zur-freigabe-fuer-ki-training-2607-210786.html",
+        "title": "Künstliche Intelligenz: Ökonomen warnen vor drastischen Folgen durch künstliche Intelligenz",
+        "url": "https://www.golem.de/news/kuenstliche-intelligenz-oekonomen-warnen-vor-drastischen-folgen-durch-kuenstliche-intelligenz-2607-210832.html",
         "source": "Golem.de",
-        "date": "2026-07-13",
-        "why": "Nutzer müssen zustimmen, dass ihre Daten für KI-Training verwendet werden, was neue Datenschutzfragen aufwirft.",
+        "date": "2026-07-14",
+        "why": "Ein weiteres wichtiges Signal für Unternehmen zur Notwendigkeit von Maßnahmen.",
         "tags": [
-          "Samsung",
           "KI",
-          "Datenschutz"
+          "Wirtschaft"
         ]
       },
       {
-        "title": "Entwicklung von Compliance-Tools für den Digital Fairness Act",
-        "url": "https://www.heise.de/news/BDSG-Reform-Bundesrat-will-Ende-des-Datenschutz-Flickenteppichs-11361882.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "title": "Digitaler Euro: Die meisten Deutschen wissen nicht, was er bringen soll",
+        "url": "https://www.heise.de/news/Digitaler-Euro-Die-meisten-Deutschen-wissen-nicht-was-erbringen-soll-11363119.html?wt_mc=rss.red.ho.ho.atom.beitrag",
         "source": "Heise Online",
-        "date": "2026-07-12",
-        "why": "Unternehmen müssen sich auf neue Vorschriften einstellen, die ihre Geschäftspraktiken beeinflussen könnten.",
+        "date": "2026-07-13",
+        "why": "Wichtige Informationen zur Akzeptanz des digitalen Euro.",
         "tags": [
-          "Compliance",
-          "Digitalisierung",
-          "Gesetz"
+          "Digitaler Euro"
         ]
       },
       {
-        "title": "DuckDuckGo-Browser blockiert jetzt YouTube-Werbung",
-        "url": "https://www.heise.de/news/DuckDuckGo-Browser-blockiert-jetzt-YouTube-Werbung-11361974.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "title": "Open-Source-Hardware: DIY-Saugroboter mit LiDAR und ROS 2",
+        "url": "https://www.heise.de/news/Maker-Projekt-Saugroboter-aus-dem-3D-Drucker-mit-SLAM-Navigation-11363023.html?wt_mc=rss.red.ho.ho.atom.beitrag",
         "source": "Heise Online",
-        "date": "2026-07-12",
-        "why": "Die neue Version des Browsers blockiert Werbung, was die Nutzererfahrung verbessert.",
+        "date": "2026-07-14",
+        "why": "Innovative Ansätze im Bereich Open-Source-Hardware, die für den Mittelstand interessant sein könnten.",
         "tags": [
-          "DuckDuckGo",
-          "Browser",
-          "Werbung"
+          "Open-Source",
+          "Hardware"
         ]
       },
       {
-        "title": "Hohe Kosten drohen: Diese WLAN-Funktion deines Smartphones solltest du im Urlaub abschalten",
-        "url": "https://t3n.de/news/wlan-funktion-smartphone-urlaub-abschalten-1752515/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+        "title": "Mitmachaktion: Wie ist es bei dir mit ständiger Erreichbarkeit?",
+        "url": "https://www.golem.de/news/mitmachaktion-wie-ist-es-bei-dir-mit-staendiger-erreichbarkeit-2607-210813.html",
+        "source": "Golem.de",
+        "date": "2026-07-14",
+        "why": "Diskussion über die Herausforderungen der ständigen Erreichbarkeit in der Arbeitswelt.",
+        "tags": [
+          "Erreichbarkeit",
+          "Arbeit"
+        ]
+      },
+      {
+        "title": "SpaceX: FAA mit Untersuchung zufrieden, Starship soll am Donnerstag abheben",
+        "url": "https://www.heise.de/news/SpaceX-FAA-mit-Untersuchung-zufrieden-Starship-soll-am-Donnerstag-abheben-11363647.html?wt_mc=rss.red.ho.ho.atom.beitrag",
+        "source": "Heise Online",
+        "date": "2026-07-14",
+        "why": "Technologische Fortschritte im Bereich Raumfahrt, die auch für Unternehmen von Interesse sein könnten.",
+        "tags": [
+          "SpaceX",
+          "Technologie"
+        ]
+      },
+      {
+        "title": "Betrügerischer Ransomware-Verhandler muss 70 Monate ins Gefängnis",
+        "url": "https://www.heise.de/news/Betruegerischer-Ransomware-Verhandler-muss-70-Monate-ins-Gefaengnis-11363745.html?wt_mc=rss.red.ho.ho.atom.beitrag",
+        "source": "Heise Online",
+        "date": "2026-07-14",
+        "why": "Wichtige Informationen über Cyber-Sicherheit und deren rechtliche Konsequenzen.",
+        "tags": [
+          "Ransomware",
+          "Cyber-Sicherheit"
+        ]
+      },
+      {
+        "title": "Claude 3 kann festgelegten Prinzipien folgen",
+        "url": "https://www.golem.de/news/kuenstliche-intelligenz-claude-3-kann-festgelegten-prinzipien-folgen-2607-210834.html",
+        "source": "Golem.de",
+        "date": "2026-07-14",
+        "why": "Entwicklung von KI-Systemen, die ethische Prinzipien einhalten können.",
+        "tags": [
+          "KI",
+          "Ethik"
+        ]
+      },
+      {
+        "title": "Marktanalyse: Warum dich langsames Internet mehr kostet als schnelle Tarife",
+        "url": "https://t3n.de/news/marktanalyse-warum-dich-langsames-internet-mehr-kostet-als-schnelle-tarife-1752685/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
         "source": "t3n Digital Pioneers",
-        "date": "2026-07-12",
-        "why": "Nutzer sollten sich der Kosten bewusst sein, die durch WLAN-Nutzung im Urlaub entstehen können.",
+        "date": "2026-07-14",
+        "why": "Wichtige Einsichten in die Kostenstruktur von Internetverträgen.",
         "tags": [
-          "Smartphone",
-          "WLAN",
+          "Internet",
           "Kosten"
-        ]
-      },
-      {
-        "title": "Wie Metas Kurswechsel die VR-Spielebranche verändert hat",
-        "url": "https://www.heise.de/hintergrund/Wie-Metas-Kurswechsel-die-VR-Spielebranche-veraendert-hat-11359238.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-12",
-        "why": "Der Rückzug eines wichtigen Geldgebers verändert die VR-Spielebranche grundlegend.",
-        "tags": [
-          "VR",
-          "Spiele",
-          "Metaverse"
         ]
       }
     ],
     "action_items": [
-      "Überprüfen Sie aktuelle Kostenstrukturen für KI-Dienste und prüfen Sie die Möglichkeit, eigene Modelle zu entwickeln.",
-      "Erstellen Sie einen Plan zur Sicherstellung der Datenintegrität und -sicherheit in Ihrem Unternehmen.",
-      "Organisieren Sie ein internes Meeting zur Diskussion der Auswirkungen des Digital Fairness Acts auf Ihr Unternehmen.",
-      "Informieren Sie sich über die neuesten IT-Sicherheitswerkzeuge und deren Implementierungsmöglichkeiten.",
-      "Planen Sie ein Webinar oder eine Schulung zur digitalen Souveränität für Ihre Mitarbeiter."
+      "Überprüfen Sie bestehende Softwarelösungen auf Möglichkeiten zur KI-Integration.",
+      "Planen Sie Schulungsmaßnahmen für Mitarbeiter zur Nutzung von KI-Tools.",
+      "Erstellen Sie eine Marktanalyse Ihrer Internetverträge und prüfen Sie günstigere Optionen.",
+      "Setzen Sie sich mit Datenschutzfragen im Zusammenhang mit KI-Anwendungen auseinander.",
+      "Entwickeln Sie ein Konzept zur Implementierung eines Open-Source KI-Modells."
     ]
   },
   "raw_articles": [
     {
-      "title": "Apple Pencil: Neues Modell im kommenden Jahr",
-      "url": "https://www.heise.de/news/Apple-Pencil-Neues-Modell-im-kommenden-Jahr-11362046.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "Telegram-Messenger: Kurzdomain t.me womöglich wegen US-Sanktionen gesperrt",
+      "url": "https://www.heise.de/news/Telegram-Messenger-Kurzdomain-t-me-womoeglich-wegen-US-Sanktionen-gesperrt-11363793.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-13T08:37:00+00:00",
-      "summary": "Apple plant, sein komplexes Pencil-Angebot erneut zu überholen. Das hat offenbar auch mit der Europäischen Union zu tun.",
+      "published": "2026-07-14T07:31:00+00:00",
+      "summary": "Die Domain wurde von der Vergabestelle des Landes Montenegro blockiert - womöglich stecken US-Sanktionen gegen einen VPN-Anbieter dahinter.",
       "keywords": [
-        "apple",
-        "pencil",
-        "neues",
-        "modell",
-        "kommenden",
-        "jahr"
+        "womöglich",
+        "us-sanktionen",
+        "telegram-messenger",
+        "kurzdomain",
+        "wegen",
+        "gesperrt"
       ]
     },
     {
-      "title": "heise-Angebot: c't-Konferenz Public IT: Wie Behörden ihre digitale Souveränität stärken",
-      "url": "https://www.heise.de/news/c-t-Konferenz-Public-IT-Wie-Behoerden-ihre-digitale-Souveraenitaet-staerken-11361053.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "Betrügerischer Ransomware-Verhandler muss 70 Monate ins Gefängnis",
+      "url": "https://www.heise.de/news/Betruegerischer-Ransomware-Verhandler-muss-70-Monate-ins-Gefaengnis-11363745.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-13T08:00:00+00:00",
-      "summary": "Praxiswissen aus dem öffentlichen Sektor, für den öffentlichen Sektor: Das bietet Ende Oktober die neue c't-Konferenz Public IT.",
+      "published": "2026-07-14T07:29:00+00:00",
+      "summary": "Das Urteil ist gefallen: Für 70 Monate wandert ein betrügerischer Ransomware-Verhandler aus Florida hinter Gitter.",
       "keywords": [
-        "t-konferenz",
-        "public",
-        "öffentlichen",
-        "sektor",
-        "heise-angebot",
-        "behörden"
+        "betrügerischer",
+        "ransomware-verhandler",
+        "monate",
+        "muss",
+        "gefängnis",
+        "urteil"
       ]
     },
     {
-      "title": "Claude Fable 5 bleibt doch im Abo: Anthropic gibt Abo-Nutzern mehr Zeit",
-      "url": "https://the-decoder.de/claude-fable-5-bleibt-doch-im-abo-anthropic-gibt-abo-nutzern-mehr-zeit/",
-      "source": "The Decoder",
+      "title": "Floating Companion: Leiser fliegender Begleitroboter für besseres Heim-Ambiente",
+      "url": "https://www.heise.de/news/Floating-Companion-Leiser-fliegender-Begleitroboter-fuer-besseres-Heim-Ambiente-11363759.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-13T07:28:34+00:00",
-      "summary": "Anthropic verlängert den Flatrate-Zugang zu Claude Fable 5 bis zum 19. Juli 2026, eigentlich sollte das Modell ab heute nur noch per Direktbezahlung nutzbar sein. Bis zu 50 Prozent des wöchentlichen Limits dürfen dafür verwendet werden. Der Grund dürfte der wachsende Preisdruck durch OpenAIs GPT-5.6 Sol und günstige Konkurrenzmodelle sein. Der Artikel Claude Fable 5 bleibt doch im Abo: Anthropic gibt Abo-Nutzern mehr Zeit erschien zuerst auf The Decoder .",
+      "published": "2026-07-14T07:12:00+00:00",
+      "summary": "Der Floating Companion soll seine Nutzer bei täglichen Aufgaben unterstützen. Sein Schwerpunkt liegt aber darauf, eine Wohlfühlatmosphäre zu schaffen.",
       "keywords": [
-        "claude",
-        "fable",
-        "anthropic",
-        "bleibt",
-        "doch",
-        "gibt"
+        "floating",
+        "companion",
+        "leiser",
+        "fliegender",
+        "begleitroboter",
+        "besseres"
       ]
     },
     {
-      "title": "Progress warnt Admins: ShareFile deaktivieren",
-      "url": "https://www.heise.de/news/Progress-warnt-Admins-ShareFile-deaktivieren-11362288.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "heise+ | Radio, Netzteil oder Messgerät: Ein modulares Gehäuse im Selbstbau",
+      "url": "https://www.heise.de/ratgeber/Radio-Netzteil-oder-Messgeraet-Ein-modulares-Gehaeuse-im-Selbstbau-11332936.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-13T07:24:00+00:00",
-      "summary": "Progress hat zum Wochenende eine Warnung an ShareFile-Kunden geschickt. IT-Verantwortliche sollen die Server umgehend herunterfahren.",
+      "published": "2026-07-14T07:00:00+00:00",
+      "summary": "Mit DesignSpark Mechanical baut man modulare Gehäuse, die sich mit minimalem Aufwand an verschiedene Elektronikprojekte anpassen lassen.",
       "keywords": [
-        "progress",
-        "warnt",
-        "admins",
-        "sharefile",
-        "deaktivieren",
-        "wochenende"
-      ]
-    },
-    {
-      "title": "Speedrunning für den guten Zweck: SGDQ spendet 2.408.701 US-Dollar",
-      "url": "https://www.heise.de/news/Games-Done-Quick-Speedrunning-Marathon-spendet-2-4-Millionen-US-Dollar-11362228.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-13T07:06:00+00:00",
-      "summary": "Die Speedrunning-Marathon-Woche „Summer Games Done Quick“ ist beendet: Die Teilnehmer sammelten 2.408.701 US-Dollar für Ärzte ohne Grenzen.",
-      "keywords": [
-        "us-dollar",
-        "speedrunning",
-        "guten",
-        "zweck",
-        "sgdq",
-        "spendet"
-      ]
-    },
-    {
-      "title": "Nachhaltiger Flugkraftstoff: Gulfstream misst Partikelemissionen in großer Höhe",
-      "url": "https://www.heise.de/news/Gulfstream-untersucht-Effekt-nachhaltigen-Flugkraftstoffs-auf-Partikelemissionen-11362098.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-13T06:33:00+00:00",
-      "summary": "Emissionsmessungen mit einer Gulfstream G800-Maschine im Flug sollen zeigen, wie Flugkraftstoff zukünftig noch nachhaltiger gestaltet werden kann.",
-      "keywords": [
-        "nachhaltiger",
-        "flugkraftstoff",
-        "gulfstream",
-        "misst",
-        "partikelemissionen",
-        "großer"
-      ]
-    },
-    {
-      "title": "Digital-Health-Podcast: Wie ein mehrfach Betroffener Datenlecks verhindern will",
-      "url": "https://www.heise.de/hintergrund/Digital-Health-Podcast-Wie-ein-mehrfach-Betroffener-Datenlecks-verhindern-will-11362114.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-13T06:30:00+00:00",
-      "summary": "Cyberangriffe und Datenlecks im Gesundheitswesen sorgen für Unsicherheit. Wie ein mehrfach Betroffener selbst handelt und wo es hakt, zeigt diese Podcast-Folge.",
-      "keywords": [
-        "mehrfach",
-        "betroffener",
-        "datenlecks",
-        "digital-health-podcast",
-        "verhindern",
-        "will"
-      ]
-    },
-    {
-      "title": "Anthropic: In-App-Browser für Claude Code, Fable 5 länger „gratis“",
-      "url": "https://www.heise.de/news/Claude-Code-auf-dem-Desktop-bekommt-einen-eingebauten-Browser-11362078.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-13T05:45:00+00:00",
-      "summary": "Anthropic gibt Claude Code auf dem Desktop einen eingebauten Browser. Das Frontier-Modell Fable 5 wird erneut verlängert – es bleibt bis zum 19. Juli im Abo.",
-      "keywords": [
-        "anthropic",
-        "claude",
-        "code",
-        "fable",
-        "in-app-browser",
-        "länger"
-      ]
-    },
-    {
-      "title": "heise+ | USB-Kameramikroskope zum Arbeiten und Lernen im Test",
-      "url": "https://www.heise.de/tests/USB-Kameramikroskope-zum-Arbeiten-und-Lernen-im-Test-11228118.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-13T05:30:00+00:00",
-      "summary": "Preisgünstige Kameramikroskope mit Display sind ideal zum Reparieren von Elektronik und feiner Mechanik. Kindern gewähren sie erste Blicke in den Mikrokosmos.",
-      "keywords": [
+        "gehäuse",
         "heise",
-        "usb-kameramikroskope",
-        "arbeiten",
-        "lernen",
-        "test",
-        "preisgünstige"
+        "radio",
+        "netzteil",
+        "oder",
+        "messgerät"
       ]
     },
     {
-      "title": "Auch Japans Weltraumagentur testet erfolgreich wiederverwendbare Rakete",
-      "url": "https://www.heise.de/news/Auch-Japans-Weltraumagentur-testet-erfolgreich-wiederverwendbare-Rakete-11362074.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "Software Testing: Dokumentation mit KI-Personas automatisch prüfen",
+      "url": "https://www.heise.de/blog/Software-Testing-Dokumentation-mit-KI-Personas-automatisch-pruefen-11362242.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-13T04:56:00+00:00",
-      "summary": "Nur einen Tag nach einem erfolgreichen Test in China hat auch in Japan eine Rakete abgehoben und ist wieder gelandet. Der Hüpfer war aber viel kleiner.",
+      "published": "2026-07-14T06:24:00+00:00",
+      "summary": "KI-Personas können das Verhalten von Entwicklerinnen und Entwicklern simulieren, um eine Dokumentation zu prüfen, wie Ingo Eichhorst im Gespräch ausführt.",
       "keywords": [
-        "auch",
-        "rakete",
-        "japans",
-        "weltraumagentur",
-        "testet",
-        "erfolgreich"
+        "dokumentation",
+        "ki-personas",
+        "prüfen",
+        "software",
+        "testing",
+        "automatisch"
       ]
     },
     {
-      "title": "Montag: YouTube mit DuckDuckGo ohne Werbung, Copilot mit Microsoft-eigener KI",
-      "url": "https://www.heise.de/news/Montag-YouTube-mit-DuckDuckGo-ohne-Werbung-Copilot-mit-Microsoft-eigener-KI-11362070.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "heise-Angebot: iX-Workshop: Microsoft 365 sicher einrichten und datenschutzkonform betreiben",
+      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-einrichten-und-datenschutzkonform-betreiben-11354392.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-13T04:15:00+00:00",
-      "summary": "DuckDuckGo-Browser mit uBlock für YouTube + Microsoft-KI statt OpenAI + Hynix-Börsengang mit Warnung + Abschied von eiserner Lunge + VR-Spielebranche im Umbruch",
-      "keywords": [
-        "youtube",
-        "montag",
-        "duckduckgo",
-        "ohne",
-        "werbung",
-        "copilot"
-      ]
-    },
-    {
-      "title": "Microsoft nutzt in manchen Apps offenbar eigene KI statt OpenAI und Anthropic",
-      "url": "https://www.heise.de/news/Microsoft-nutzt-in-manchen-Apps-offenbar-eigene-KI-statt-OpenAI-und-Anthropic-11362060.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-13T03:04:00+00:00",
-      "summary": "Einige Prozesse in Microsoft-Software basieren auf KI-Modellen von OpenAI und Anthropic. Doch aus Kostengründen stellt Microsoft wohl auf eigene KI-Modelle um.",
+      "published": "2026-07-14T06:00:00+00:00",
+      "summary": "Microsoft 365 sicher betreiben und notwendige Maßnahmen in Bezug auf Datenschutz und Informationssicherheit umsetzen.",
       "keywords": [
         "microsoft",
-        "eigene",
-        "openai",
-        "anthropic",
-        "nutzt",
-        "manchen"
+        "sicher",
+        "betreiben",
+        "heise-angebot",
+        "ix-workshop",
+        "einrichten"
       ]
     },
     {
-      "title": "Anzeige: Bestseller-Luftpumpe mit Akku jetzt zum Tiefpreis nur noch rund 23 Euro",
-      "url": "https://www.golem.de/news/anzeige-bestseller-luftpumpe-mit-akku-jetzt-zum-tiefpreis-nur-noch-rund-23-euro-2607-210791.html",
-      "source": "Golem.de (Hauptfeed)",
+      "title": "SpaceX: FAA mit Untersuchung zufrieden, Starship soll am Donnerstag abheben",
+      "url": "https://www.heise.de/news/SpaceX-FAA-mit-Untersuchung-zufrieden-Starship-soll-am-Donnerstag-abheben-11363647.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-13T08:52:02+00:00",
-      "summary": "Die Luftpumpe ist Bestseller bei Amazon und jetzt zum Tiefpreis verfügbar. Sie bietet Reifendrucksensor, 4.000-mAh-Akku und LED-Anzeige. ( Technik/Hardware , Auto )",
+      "published": "2026-07-14T05:59:00+00:00",
+      "summary": "2026 hat SpaceX bislang nur ein Starship gestartet, aber jetzt soll es weitergehen: Nach der Freigabe durch die FAA soll die Riesenrakete am Donnerstag abheben.",
       "keywords": [
-        "jetzt",
-        "tiefpreis",
-        "anzeige",
-        "bestseller-luftpumpe",
-        "akku",
-        "noch"
+        "soll",
+        "spacex",
+        "starship",
+        "donnerstag",
+        "abheben",
+        "untersuchung"
       ]
     },
     {
-      "title": "Werbeblocker Pi-hole: Update stopft hochriskante Sicherheitslücken",
-      "url": "https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-hochriskante-Sicherheitsluecken-11362432.html",
-      "source": "Heise iX (Magazin-Feed)",
+      "title": "Alte Cisco-Lücke attackiert: Leitfaden zum Schutz",
+      "url": "https://www.heise.de/news/Alte-Cisco-Luecke-attackiert-Leitfaden-zum-Schutz-11363639.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-13T08:16:00+00:00",
-      "summary": "Die Entwickler des DNS-basierten Werbeblockers Pi-hole verteilen Updates. Die schließen zum Teil hochriskante Sicherheitslücken.",
+      "published": "2026-07-14T05:38:00+00:00",
+      "summary": "Die US-IT-Sicherheitsbehörde CISA warnt vor Angriffen auf eine 18 Jahre alte Cisco-Lücke. Ein Leitfaden soll helfen, Router abzusichern.",
       "keywords": [
-        "pi-hole",
-        "hochriskante",
-        "sicherheitslücken",
-        "werbeblocker",
-        "update",
-        "stopft"
+        "alte",
+        "cisco-lücke",
+        "leitfaden",
+        "attackiert",
+        "schutz",
+        "us-it-sicherheitsbehörde"
       ]
     },
     {
-      "title": "Hohe Kosten drohen: Diese WLAN-Funktion deines Smartphones solltest du im Urlaub abschalten",
-      "url": "https://t3n.de/news/wlan-funktion-smartphone-urlaub-abschalten-1752515/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
+      "title": "„Nie dagewesene Transformation“: Hochrangige Warnung vor Folgen von KI für Jobs",
+      "url": "https://www.heise.de/news/Groesser-als-die-Industrielle-Revolution-230-Fachleute-warnen-vor-Folgen-von-KI-11363619.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-13T07:45:46+00:00",
-      "summary": "Wer im Urlaub Anrufe tätigt, verlässt sich dabei oft auf eine praktische WLAN-Funktion des Smartphones. Allerdings kann das zu hohen Kosten führen, sobald du wieder zu Hause bist. Wie du das vermeidest. weiterlesen auf t3n.de",
+      "published": "2026-07-14T04:54:00+00:00",
+      "summary": "Weit über 200 renommierte Ökonominnen und Ökonomen warnen vor den Folgen der KI-Revolution für den Arbeitsmarkt. Es müsse jetzt gehandelt werden, fordern sie.",
       "keywords": [
-        "kosten",
-        "wlan-funktion",
-        "smartphones",
-        "urlaub",
+        "folgen",
+        "dagewesene",
+        "transformation",
+        "hochrangige",
+        "warnung",
+        "jobs"
+      ]
+    },
+    {
+      "title": "33 Sekunden Solar-Förderung in Österreich",
+      "url": "https://www.heise.de/news/33-Sekunden-Photovoltaik-Foerderung-in-Oesterreich-11363595.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-14T03:43:00+00:00",
+      "summary": "20 Millionen Euro Solar-Subvention waren binnen Sekunden vergeben. „Unter diesen Bedingungen wäre keine Förderung besser”, sagt die Branche.",
+      "keywords": [
+        "sekunden",
+        "solar-förderung",
+        "österreich",
+        "millionen",
+        "euro",
+        "solar-subvention"
+      ]
+    },
+    {
+      "title": "Hohe Preise bremsen Smartphone-Wettbewerb",
+      "url": "https://www.heise.de/news/Hohe-Preise-bremsen-Smartphone-Wettbewerb-11363583.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-14T03:05:00+00:00",
+      "summary": "Dank KI-Boom ist Speicher teuer. Das trifft auch Handys. Die Welt kauft weniger davon. So wenige, wie seit über einem Jahrzehnt nicht mehr.",
+      "keywords": [
         "hohe",
-        "drohen"
+        "preise",
+        "bremsen",
+        "smartphone-wettbewerb",
+        "dank",
+        "ki-boom"
       ]
     },
     {
-      "title": "Googles KI-Suche: Die Antwortmaschine wird zur Slop-Maschine",
-      "url": "https://www.golem.de/news/googles-ki-suche-die-antwortmaschine-wird-zur-slop-maschine-2607-210514.html",
+      "title": "US-Bundesstaaten klagen gegen Warner Bros. Discovery-Übernahme durch Paramount",
+      "url": "https://www.heise.de/news/US-Bundesstaaten-klagen-gegen-Warner-Bros-Discovery-Uebernahme-durch-Paramount-11363551.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-13T19:18:00+00:00",
+      "summary": "Die Fusion von Warner Bros. und Paramount sieht sich einer Kartellklage mehrerer US-Bundesstaaten gegenüber. Der Streit hat auch eine politische Ebene.",
+      "keywords": [
+        "us-bundesstaaten",
+        "warner",
+        "bros",
+        "paramount",
+        "klagen",
+        "gegen"
+      ]
+    },
+    {
+      "title": "Neuer Prompting-Guide: OpenAI empfiehlt Prompts, die sich am Ergebnis statt am Prozess orientieren",
+      "url": "https://the-decoder.de/neuer-prompting-guide-openai-empfiehlt-prompts-die-sich-am-ergebnis-statt-am-prozess-orientieren/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-13T17:23:39+00:00",
+      "summary": "OpenAI hat einen neuen Prompting-Leitfaden veröffentlicht, der sich gezielt an Endnutzer statt an Entwickler richtet. Statt starrer Prompt-Formeln empfiehlt das Dokument vier optionale Bausteine – Ziel, Kontext, Format und Grenzen – und rät, mit dem gewünschten Ergebnis statt einer Schrittfolge zu starten. Der Guide behandelt erstmals Chat und Codex in einem gemeinsamen Rahmen. Der Artikel Neuer Prompting-Guide: OpenAI empfiehlt Prompts, die sich am Ergebnis statt am Prozess orientieren erschien zuerst auf The Decoder .",
+      "keywords": [
+        "statt",
+        "openai",
+        "empfiehlt",
+        "sich",
+        "ergebnis",
+        "neuer"
+      ]
+    },
+    {
+      "title": "Turing-Preisträger Sutton gründet Oak Lab und will KI-Agenten bauen, die wirklich selbst lernen",
+      "url": "https://the-decoder.de/turing-preistraeger-sutton-gruendet-oak-lab-und-will-ki-agenten-bauen-die-wirklich-selbst-lernen/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-13T17:08:58+00:00",
+      "summary": "Richard Sutton, Turing-Preisträger 2024 und Mitbegründer des modernen Reinforcement Learning, hat mit Oak Lab ein neues Startup in Toronto gegründet. Sutton kritisiert aktuelle Deep-Learning-Methoden als \"schwach und ineffizient\" und will KI-Agenten bauen, die kontinuierlich aus ihrer Umgebung lernen. Der Artikel Turing-Preisträger Sutton gründet Oak Lab und will KI-Agenten bauen, die wirklich selbst lernen erschien zuerst auf The Decoder .",
+      "keywords": [
+        "sutton",
+        "turing-preisträger",
+        "will",
+        "ki-agenten",
+        "bauen",
+        "lernen"
+      ]
+    },
+    {
+      "title": "heise+ | Kameraklassiker Polaroid SX-70 im Test: So definierte sie Technik und Design neu",
+      "url": "https://www.heise.de/tests/Kameraklassiker-Polaroid-SX-70-im-Test-So-definierte-sie-Technik-und-Design-neu-11356407.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-13T17:00:00+00:00",
+      "summary": "Mit der SX-70 kombinierte Polaroid erstmals Spiegelreflextechnik und Integralfilm, revolutionierte so die Sofortbildfotografie und schuf eine Designikone.",
+      "keywords": [
+        "polaroid",
+        "sx-70",
+        "heise",
+        "kameraklassiker",
+        "test",
+        "definierte"
+      ]
+    },
+    {
+      "title": "Elektromagnetisches Geschoss: Railgun hat Feldtest erfolgreich absolviert",
+      "url": "https://www.golem.de/news/elektromagnetisches-geschoss-railgun-hat-feldtest-erfolgreich-absolviert-2607-210828.html",
       "source": "Golem.de (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-13T07:26:02+00:00",
-      "summary": "Googles KI-Zusammenfassungen und der neue KI-Modus nehmen Content-Machern die Butter vom Brot. Das muss aufhören, sonst gibt es Italian Brainrot - aber in echt. Ein IMHO von Christian Rentrop ( Google , KI )",
+      "published": "2026-07-14T07:43:01+00:00",
+      "summary": "Das deutsch-französische Projekt will die Technik bis zur Einsatzreife weiterentwickelt. Es dient speziell dem Schutz vor Hyperschallwaffen. ( Militär , Politik )",
       "keywords": [
-        "googles",
-        "ki-suche",
-        "antwortmaschine",
-        "wird",
-        "slop-maschine",
-        "ki-zusammenfassungen"
+        "elektromagnetisches",
+        "geschoss",
+        "railgun",
+        "feldtest",
+        "erfolgreich",
+        "absolviert"
       ]
     },
     {
-      "title": "5G ergänzen: Diese Flugplattform soll Internet aus der Stratosphäre liefern",
-      "url": "https://t3n.de/news/5g-ergaenzen-diese-flugplattform-soll-internet-aus-der-stratosphaere-liefern-1752238/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
+      "title": "Künstliche Intelligenz: Claude 3 kann festgelegten Prinzipien folgen",
+      "url": "https://www.golem.de/news/kuenstliche-intelligenz-claude-3-kann-festgelegten-prinzipien-folgen-2607-210834.html",
+      "source": "Golem.de (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-13T07:15:23+00:00",
-      "summary": "Mehrere Unternehmen entwickeln Flugplattform, die Internetzugang oder Erdbeobachtung ermöglichen sollen. Ihre besondere Position dafür ist die Stratosphäre. Das hat Vorteile, stellt die Fluggeräte aber auch vor besondere Herausforderungen. weiterlesen auf t3n.de",
+      "published": "2026-07-14T07:35:01+00:00",
+      "summary": "Anthropic hat untersucht, inwieweit Claude in verschiedenen Sprachräumen den vorgegebenen Werten treu bleibt. ( KI , Software )",
       "keywords": [
-        "flugplattform",
-        "stratosphäre",
-        "besondere",
-        "ergänzen",
-        "diese",
+        "claude",
+        "künstliche",
+        "intelligenz",
+        "kann",
+        "festgelegten",
+        "prinzipien"
+      ]
+    },
+    {
+      "title": "Open-Source-Hardware: DIY-Saugroboter mit LiDAR und ROS 2",
+      "url": "https://www.heise.de/news/Maker-Projekt-Saugroboter-aus-dem-3D-Drucker-mit-SLAM-Navigation-11363023.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-13T16:00:00+00:00",
+      "summary": "Ein 3D-gedruckter Saugroboter mit LiDAR, Raspberry Pi und Home Assistant – komplett offline und quelloffen. Das Projekt Oomwoo will zeigen, dass das geht.",
+      "keywords": [
+        "lidar",
+        "open-source-hardware",
+        "diy-saugroboter",
+        "3d-gedruckter",
+        "saugroboter",
+        "raspberry"
+      ]
+    },
+    {
+      "title": "Dreo-Nebelventilator im Test: Was taugt ein Wassernebel-Ventilator bei der nächsten Hitzewelle?",
+      "url": "https://www.golem.de/news/dreo-nebelventilator-im-test-was-taugt-ein-wassernebel-ventilator-bei-der-naechsten-hitzewelle-2607-210697.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-14T07:24:02+00:00",
+      "summary": "Klimaanlagen sind im Sommer teuer und teilweise schwer zu bekommen. Dreo verspricht bei seinem Nebel-Ventilator 6 °C Kühlung - wir haben getestet, ob das klappt. Ein Test von Tobias Költzsch ( Klima , Test )",
+      "keywords": [
+        "test",
+        "dreo-nebelventilator",
+        "taugt",
+        "wassernebel-ventilator",
+        "nächsten",
+        "hitzewelle"
+      ]
+    },
+    {
+      "title": "Künstliche Intelligenz: Ökonomen warnen vor drastischen Folgen durch künstliche Intelligenz",
+      "url": "https://www.golem.de/news/kuenstliche-intelligenz-oekonomen-warnen-vor-drastischen-folgen-durch-kuenstliche-intelligenz-2607-210832.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-14T07:15:02+00:00",
+      "summary": "Fast 200 Wissenschaftler und Branchengrößen fordern schnelles Handeln der Politik angesichts der rasanten Verbreitung von KI. ( Wissenschaft , Studien )",
+      "keywords": [
+        "künstliche",
+        "intelligenz",
+        "ökonomen",
+        "warnen",
+        "drastischen",
+        "folgen"
+      ]
+    },
+    {
+      "title": "Problem mit Software-Lizenz: IT-Ausfall an Berliner Gerichten",
+      "url": "https://www.golem.de/news/problem-mit-software-lizenz-it-ausfall-an-berliner-gerichten-2607-210831.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-14T07:00:02+00:00",
+      "summary": "Ein großflächiger IT-Ausfall macht die Berliner Gerichte handlungsunfähig. Das hat gravierende Auswirkungen. ( Berlin , Server )",
+      "keywords": [
+        "it-ausfall",
+        "berliner",
+        "problem",
+        "software-lizenz",
+        "gerichten",
+        "großflächiger"
+      ]
+    },
+    {
+      "title": "16 Nobelpreisträger warnen: KI-Umbruch könnte größer als Industrielle Revolution werden",
+      "url": "https://the-decoder.de/16-nobelpreistraeger-warnen-ki-umbruch-koennte-groesser-als-industrielle-revolution-werden/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-13T15:29:24+00:00",
+      "summary": "Mehr als 200 Ökonomen und KI-Forscher, darunter Nobelpreisträger und Vertreter von Google, OpenAI und Anthropic, fordern in einem koordinierten Statement sofortiges Handeln: Die KI-Transformation könne größer als die Industrielle Revolution sein, entfalte sich aber in einem deutlich kürzeren Zeitrahmen. Konkrete Maßnahmen nennt das Papier allerdings nicht und bisherige Studien belegen noch keine signifikanten KI-Effekte auf den Arbeitsmarkt. Der Artikel 16 Nobelpreisträger warnen: KI-Umbruch könnte größer als Industrielle Revolution werden erschien zuerst auf The Decoder .",
+      "keywords": [
+        "nobelpreisträger",
+        "größer",
+        "industrielle",
+        "revolution",
+        "warnen",
+        "ki-umbruch"
+      ]
+    },
+    {
+      "title": "Metas größtes KI-Rechenzentrum soll mehr als 250 Milliarden Dollar verschlingen",
+      "url": "https://www.heise.de/news/Metas-groesstes-KI-Rechenzentrum-soll-mehr-als-250-Milliarden-Dollar-verschlingen-11363423.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-13T15:15:00+00:00",
+      "summary": "Metas Hyperion-Campus könnte laut Bloomberg mehr als 250 Milliarden US-Dollar kosten, mit positiven wie negativen Folgen für die Region.",
+      "keywords": [
+        "metas",
+        "mehr",
+        "milliarden",
+        "größtes",
+        "ki-rechenzentrum",
         "soll"
       ]
     },
     {
-      "title": "„Digital Fairness Act“ soll auch Spielehersteller und kleine Händler treffen",
-      "url": "https://www.heise.de/news/Digital-Fairness-Act-soll-auch-Spielehersteller-und-kleine-Haendler-treffen-11361948.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
+      "title": "t.me-Domain nicht erreichbar: Telegram-Links funktionieren nicht",
+      "url": "https://www.golem.de/news/t-me-domain-nicht-erreichbar-telegram-links-funktionieren-nicht-2607-210830.html",
+      "source": "Golem.de (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-12T15:38:00+00:00",
-      "summary": "Ab Ende 2026 will die EU den Verbraucherschutz im Netz stärken. Ein Grund: Bisher gibt es keine Strafen gegen bestimmte Digitalanbieter.",
+      "published": "2026-07-14T06:39:01+00:00",
+      "summary": "Unzählige im Netz kursierende Links zu Nutzern, Gruppen und Kanälen auf Telegram sind derzeit kaputt. Die Domain wird nicht mehr aufgelöst. ( Telegram , Instant Messenger )",
       "keywords": [
-        "digital",
-        "fairness",
-        "soll",
-        "auch",
-        "spielehersteller",
-        "kleine"
+        "nicht",
+        "telegram",
+        "me-domain",
+        "erreichbar",
+        "telegram-links",
+        "funktionieren"
       ]
     },
     {
-      "title": "DuckDuckGo-Browser blockiert jetzt YouTube-Werbung",
-      "url": "https://www.heise.de/news/DuckDuckGo-Browser-blockiert-jetzt-YouTube-Werbung-11361974.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
+      "title": "Marktanalyse: Warum dich langsames Internet mehr kostet als schnelle Tarife",
+      "url": "https://t3n.de/news/marktanalyse-warum-dich-langsames-internet-mehr-kostet-als-schnelle-tarife-1752685/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
       "lang": "de",
-      "published": "2026-07-12T15:29:00+00:00",
-      "summary": "Nervige Unterbrechungen sind mit der neuen Version des Browsers Geschichte, verspricht DuckDuckGo. Das Feature nutzt bekannte Komponenten.",
+      "published": "2026-07-14T06:07:15+00:00",
+      "summary": "Schneller surfen, weniger zahlen: Klingt paradox, ist aber bei den Internetverträgen fürs Festnetz aktuell so, zeigt eine Marktanalyse. Wer bewusst einen langsamen Tarif wählt, zahlt oft drauf. weiterlesen auf t3n.de",
       "keywords": [
-        "duckduckgo-browser",
-        "blockiert",
-        "jetzt",
-        "youtube-werbung",
-        "nervige",
-        "unterbrechungen"
+        "marktanalyse",
+        "warum",
+        "dich",
+        "langsames",
+        "internet",
+        "mehr"
       ]
     },
     {
-      "title": "LinkedIn ist laut Analyse die KI-Slop-Schleuder unter den Social-Media-Plattformen",
-      "url": "https://the-decoder.de/linkedin-ist-laut-analyse-die-ki-slop-schleuder-unter-den-social-media-plattformen/",
+      "title": "Mitmachaktion: Wie ist es bei dir mit ständiger Erreichbarkeit?",
+      "url": "https://www.golem.de/news/mitmachaktion-wie-ist-es-bei-dir-mit-staendiger-erreichbarkeit-2607-210813.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-14T06:05:02+00:00",
+      "summary": "Die Vermischung von privaten und beruflichen Kommunikationskanälen hat einen neuen Höchststand erreicht. Wie geht es dir damit? ( Arbeit , Instant Messenger )",
+      "keywords": [
+        "mitmachaktion",
+        "ständiger",
+        "erreichbarkeit",
+        "vermischung",
+        "privaten",
+        "beruflichen"
+      ]
+    },
+    {
+      "title": "\"Ironisch\": Microsoft-Chef wirft großen KI-Anbietern Doppelmoral bei Trainingsdaten vor",
+      "url": "https://the-decoder.de/ironisch-microsoft-chef-wirft-grossen-ki-anbietern-doppelmoral-bei-trainingsdaten-vor/",
       "source": "The Decoder",
       "lang": "de",
-      "published": "2026-07-12T15:14:47+00:00",
-      "summary": "Laut einer Pangram-Analyse ist jeder vierte längere Social-Media-Beitrag vollständig KI-generiert. LinkedIn führt mit 41 Prozent bei Langform-Posts. Obwohl die Plattform nur ein Drittel der gescannten Beiträge ausmachte, entfielen fast zwei Drittel aller KI-Inhalte darauf. Da das Erkennungsmodell eher konservativ flaggt, könnte die tatsächliche Quote noch höher liegen. Der Artikel LinkedIn ist laut Analyse die KI-Slop-Schleuder unter den Social-Media-Plattformen erschien zuerst auf The Decoder .",
+      "published": "2026-07-13T14:20:50+00:00",
+      "summary": "Microsoft-CEO Satya Nadella kritisiert OpenAI und Anthropic für ein \"umgekehrtes Informationsparadoxon\": Sie nutzen öffentliche Daten per Fair Use, verbieten aber Destillation ihrer Modelle – und lernen gleichzeitig aus Kundeninteraktionen. Nadella fordert, die Lerninfrastruktur an Unternehmen zu verteilen. Diese Infrastruktur stellt natürlich Microsoft bereit. Der Artikel &quot;Ironisch&quot;: Microsoft-Chef wirft großen KI-Anbietern Doppelmoral bei Trainingsdaten vor erschien zuerst auf The Decoder .",
       "keywords": [
-        "linkedin",
-        "laut",
-        "analyse",
-        "ki-slop-schleuder",
-        "unter",
-        "social-media-plattformen"
+        "ironisch",
+        "microsoft-chef",
+        "wirft",
+        "großen",
+        "ki-anbietern",
+        "doppelmoral"
       ]
     },
     {
-      "title": "IT-Vorfall bei Dienstleister: Lidl informiert Kunden über Datenleck",
-      "url": "https://www.golem.de/news/it-vorfall-bei-dienstleister-lidl-informiert-kunden-ueber-datenleck-2607-210785.html",
-      "source": "Golem.de (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-13T06:40:02+00:00",
-      "summary": "Unbekannte Angreifer sind über einen IT-Dienstleister an Kundendaten des Lidl-Shops gelangt. Betroffene wurden per E-Mail informiert. ( Datenleck , Onlineshop )",
-      "keywords": [
-        "informiert",
-        "datenleck",
-        "it-vorfall",
-        "dienstleister",
-        "lidl",
-        "kunden"
-      ]
-    },
-    {
-      "title": "Samsung Health: Zwang zur Freigabe für KI-Training",
-      "url": "https://www.golem.de/news/samsung-health-zwang-zur-freigabe-fuer-ki-training-2607-210786.html",
-      "source": "Golem.de (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-13T06:31:01+00:00",
-      "summary": "Samsung-Health-Nutzer müssen dem KI-Training zustimmen. Wer widerspricht, verliert die Synchronisation mit dem Samsung-Konto. ( Samsung , KI )",
-      "keywords": [
-        "samsung",
-        "ki-training",
-        "health",
-        "zwang",
-        "freigabe",
-        "samsung-health-nutzer"
-      ]
-    },
-    {
-      "title": "Tablet für die Schule: So findest du für dein Kind das passende Modell",
-      "url": "https://t3n.de/news/tablet-fuer-die-schule-so-findest-du-fuer-dein-kind-das-passende-modell-1752357/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "lang": "de",
-      "published": "2026-07-13T06:30:43+00:00",
-      "summary": "In wenigen Wochen beginnt ein neues Schuljahr. Dabei wird das Lernen von Klasse zu Klasse oft digitaler. Wir erklären dir, wann sich die Anschaffung eines Tablets für dein Kind lohnt und was du beachten musst. weiterlesen auf t3n.de",
-      "keywords": [
-        "dein",
-        "kind",
-        "klasse",
-        "tablet",
-        "schule",
-        "findest"
-      ]
-    },
-    {
-      "title": "Claude Code bekommt integrierten Browser direkt in der Desktop-App",
-      "url": "https://the-decoder.de/claude-code-bekommt-integrierten-browser-direkt-in-der-desktop-app/",
-      "source": "The Decoder",
-      "lang": "de",
-      "published": "2026-07-12T15:00:06+00:00",
-      "summary": "Claude Code erhält einen integrierten Browser, mit dem die KI direkt in der Entwicklungsumgebung Webseiten aufrufen, lesen und bedienen kann. Schreibaktionen auf externen Seiten werden durch Klassifizierer geprüft, Käufe oder Kontoerstellungen erfordern Zustimmung. Der Artikel Claude Code bekommt integrierten Browser direkt in der Desktop-App erschien zuerst auf The Decoder .",
-      "keywords": [
-        "claude",
-        "code",
-        "integrierten",
-        "browser",
-        "direkt",
-        "bekommt"
-      ]
-    },
-    {
-      "title": "5 Dinge, die du diese Woche wissen musst: Das Ende einer Ära",
-      "url": "https://t3n.de/news/5-dinge-die-du-diese-woche-wissen-musst-das-ende-einer-aera-1752220/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "lang": "de",
-      "published": "2026-07-13T06:00:13+00:00",
-      "summary": "Jeden Montagmorgen berichten wir über fünf Dinge, die zum Wochenstart wichtig sind. Diesmal geht es um das Ende physischer Medien, Vibe-Working, Claude, Fusionsreaktoren und lokale KI-Modelle. weiterlesen auf t3n.de",
-      "keywords": [
-        "dinge",
-        "ende",
-        "diese",
-        "woche",
-        "wissen",
-        "musst"
-      ]
-    },
-    {
-      "title": "Kritikalität: Vier neue Mini-AKW treiben die Kernenergie in den USA voran",
-      "url": "https://t3n.de/news/kritikalitaet-vier-neue-mini-akw-treiben-die-kernenergie-in-den-usa-voran-1752134/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "lang": "de",
-      "published": "2026-07-13T05:30:35+00:00",
-      "summary": "In Amerika hat sich die Einstellung gegenüber Kernkraft geändert – mehr und mehr kleine und große Reaktoren sollen ans Netz. Bei vier neuen Modellen gab es jetz weiterlesen auf t3n.de",
-      "keywords": [
-        "vier",
-        "mehr",
-        "kritikalität",
-        "neue",
-        "mini-akw",
-        "treiben"
-      ]
-    },
-    {
-      "title": "Xiaomi Smart Band 10 Pro im Test: Einer der besten Fitness-Tracker",
-      "url": "https://www.heise.de/bestenlisten/testbericht/xiaomi-smart-band-10-pro-im-test-einer-der-besten-fitness-tracker/wthhqc2?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "Fehmarn: Bahn will Fehmarnsundbrücke-Trasse elektrifizieren und erntet Kritik",
+      "url": "https://www.heise.de/news/Fehmarn-Bahn-will-Fehmarnsundbruecke-Trasse-elektrifizieren-und-erntet-Kritik-11363235.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-12T14:00:00+00:00",
-      "summary": "Xiaomi hat das Smart Band 10 Pro mit GPS, verbessertem Display und einer praktischen Neuerung ausgestattet – wir haben den Tracker getestet",
+      "published": "2026-07-13T14:05:00+00:00",
+      "summary": "Die Bahn sucht nach einer Zwischenlösung, bis die Trasse Hamburg - Kopenhagen fertig ist. Die Machbarkeit ist unklar. Der Rechnungshof kritisiert die Kosten.",
       "keywords": [
-        "xiaomi",
-        "smart",
-        "band",
-        "test",
-        "besten",
-        "fitness-tracker"
-      ]
-    },
-    {
-      "title": "Pocketpair: Palworld gelingt beeindruckendes Comeback",
-      "url": "https://www.golem.de/news/pocketpair-palworld-gelingt-beeindruckendes-comeback-2607-210781.html",
-      "source": "Golem.de (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-13T05:21:01+00:00",
-      "summary": "Version 1.0 beschert dem an Pokémon erinnernden Survival-Hit Palworld einen kräftigen Schub auf Steam. ( Palworld , Spiele )",
-      "keywords": [
-        "palworld",
-        "pocketpair",
-        "gelingt",
-        "beeindruckendes",
-        "comeback",
-        "version"
-      ]
-    },
-    {
-      "title": "Large Tabular Models: Neue KI-Modelle machen Schluss mit dem Excel-Handicap",
-      "url": "https://t3n.de/news/large-tabular-models-neue-ki-modelle-machen-schluss-mit-dem-excel-handicap-1752212/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "lang": "de",
-      "published": "2026-07-13T04:30:52+00:00",
-      "summary": "KI-Tools wie ChatGPT oder Claude lassen sich in Office-Programme einklinken, wirklich zuverlässig funktioniert das gerade bei der Verarbeitung von komplexen Datensätzen aber nicht. Eine neue Modellklasse will Abhilfe schaffen. weiterlesen auf t3n.de",
-      "keywords": [
-        "neue",
-        "large",
-        "tabular",
-        "models",
-        "ki-modelle",
-        "machen"
-      ]
-    },
-    {
-      "title": "Eine App für alle Züge? Die Deutsche Bahn blockiert – und der Bund lässt es zu",
-      "url": "https://t3n.de/news/app-deutsche-bahn-bund-1752095/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "lang": "de",
-      "published": "2026-07-13T04:05:00+00:00",
-      "summary": "Die Deutsche Bahn wehrt sich mit Händen und Füßen dagegen, den DB Navigator für die Fernverkehr-Konkurrenz zu öffnen. Das Ärgerlichste daran ist, dass der Bund sie damit immer wieder durchkommen lässt, meint unser Autor. weiterlesen auf t3n.de",
-      "keywords": [
-        "deutsche",
         "bahn",
-        "bund",
-        "lässt",
-        "alle",
-        "züge"
+        "fehmarn",
+        "will",
+        "fehmarnsundbrücke-trasse",
+        "elektrifizieren",
+        "erntet"
+      ]
+    },
+    {
+      "title": "Produktiver mit KI: Drei Stunden früher fertig als geplant – was macht das mit unserer Arbeitszeit?",
+      "url": "https://t3n.de/news/produktiver-mit-ki-drei-stunden-frueher-fertig-als-geplant-was-macht-das-mit-unserer-arbeitszeit-1752572/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-07-14T05:30:50+00:00",
+      "summary": "Künstliche Intelligenz sorgt dafür, dass wir unsere Arbeit schneller erledigen als früher. Jetzt müssen wir ehrlich diskutieren, wer von diesem Produktivitätssp weiterlesen auf t3n.de",
+      "keywords": [
+        "früher",
+        "produktiver",
+        "drei",
+        "stunden",
+        "fertig",
+        "geplant"
+      ]
+    },
+    {
+      "title": "Anzeige: Cloud Competence Center: Roadmap und Governance",
+      "url": "https://www.golem.de/news/anzeige-cloud-competence-center-roadmap-und-governance-2607-206827.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-14T05:15:01+00:00",
+      "summary": "Ein Cloud Competence Center bündelt Rollen, Verantwortung und Entscheidungswege für die Cloud. Ein Workshop zeigt, wie sich Cloud-Strategie, Governance und Change/Adoption zusammenführen lassen. ( Golem Karrierewelt , Internet )",
+      "keywords": [
+        "cloud",
+        "competence",
+        "center",
+        "governance",
+        "anzeige",
+        "roadmap"
       ]
     }
   ]
