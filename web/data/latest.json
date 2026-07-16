@@ -1,694 +1,725 @@
 {
-  "generated_at": "2026-07-15T07:55:02.678056+00:00",
+  "generated_at": "2026-07-16T08:01:25.441648+00:00",
   "brief": {
-    "headline": "Patentanmeldungen für generative KI steigen – Deutschland führt in Europa",
-    "subheadline": "Wachstum im Bereich generativer KI zeigt sich in einem Anstieg der Patente und Investitionen.",
-    "executive_summary": "<p>Die Patentanmeldungen für generative KI haben 2024 und 2025 einen Rekord erreicht, wobei Deutschland in Europa an der Spitze steht. Die EU-Kommission genehmigte eine Förderung von 659 Millionen Euro für neue Halbleiteranlagen, was die heimische Technologiebranche stärken könnte. Zudem hat OpenAI die Entwicklung eines Smart Speakers angekündigt, der KI in den Alltag integriert. Unternehmen wie Stripe und Advent planen die Übernahme von PayPal für 53 Milliarden US-Dollar, was die Bedeutung von Zahlungsdienstleistern im digitalen Zeitalter unterstreicht.</p>",
+    "headline": "xAI veröffentlicht Open Source KI-Tool nach Datenleck",
+    "subheadline": "Elon Musk kündigt Löschung aller Nutzerdaten an, während xAI Grok-Build als Open Source bereitstellt.",
+    "executive_summary": "<p>Diese Woche sorgte xAI für Aufsehen, als das Unternehmen nach einem massiven Datenleck sein KI-Tool Grok-Build als Open Source auf GitHub veröffentlichte. Das Leck betraf sensible Daten, was zu einer Ankündigung von Elon Musk führte, alle Nutzerdaten zu löschen. In der Zwischenzeit zeigt eine neue Umfrage, dass 9 von 10 Deutschen Emojis nutzen, was die digitale Kommunikation beeinflusst. Zudem plant die US-Regierung mit der Executive Order \"Gold Eagle\" eine koordinierte Cyberabwehr. Diese Entwicklungen verdeutlichen die wachsende Bedeutung von Sicherheit und Benutzerfreundlichkeit in digitalen Anwendungen.</p>",
     "trends": [
       {
-        "title": "Anstieg der Patentanmeldungen für generative KI",
-        "what": "Laut WIPO-Report wurden 2024 und 2025 mehr Patente für Systeme generativer KI angemeldet als im gesamten Jahrzehnt davor.",
-        "why": "Dies zeigt das wachsende Interesse und die Investitionen in KI-Technologien, insbesondere in Deutschland, das Großbritannien überholt hat.",
+        "title": "Open Source und Datensicherheit",
+        "what": "xAI hat Grok-Build nach einem Datenleck als Open Source veröffentlicht, um Vertrauen zurückzugewinnen.",
+        "why": "Mittelständler sollten Open Source als Chance zur Verbesserung ihrer Sicherheitsstrategien und zur Innovationsförderung betrachten.",
         "signal": "hoch"
       },
       {
-        "title": "EU-Förderung für Halbleiteranlagen",
-        "what": "Die EU-Kommission hat die Förderung von 659 Millionen Euro für neue Halbleiteranlagen in Deutschland genehmigt.",
-        "why": "Diese Investition könnte die Wettbewerbsfähigkeit der deutschen Chipindustrie stärken und Innovationen im KI-Bereich fördern.",
-        "signal": "hoch"
-      },
-      {
-        "title": "OpenAI betritt den Hardware-Markt",
-        "what": "OpenAI plant die Einführung eines Smart Speakers, der KI-basierte Funktionen in den Haushalt integriert.",
-        "why": "Mit diesem Schritt könnte OpenAI den Markt für KI-Hardware revolutionieren und neue Anwendungen für Unternehmen schaffen.",
+        "title": "Zunehmende Nutzung von Emojis in der digitalen Kommunikation",
+        "what": "Eine Bitkom-Umfrage zeigt, dass 90% der Deutschen Emojis nutzen, was die Art der digitalen Kommunikation verändert.",
+        "why": "Für Unternehmen im Mittelstand könnte dies eine Chance sein, Marketingstrategien anzupassen und die Kundenansprache zu optimieren.",
         "signal": "mittel"
       },
       {
-        "title": "Zunehmende Regulierung von KI-Inhalten",
-        "what": "Die Medienanstalten haben entschieden, dass KI-generierte Inhalte als eigene Inhalte eingestuft werden.",
-        "why": "Dies könnte zu höheren Anforderungen an Transparenz und Verantwortung für Unternehmen führen, die KI-Technologien nutzen.",
+        "title": "US-Regierung startet Cyberabwehr-Initiative",
+        "what": "Die US-Regierung hat die Executive Order \"Gold Eagle\" zur Koordination von Cyberabwehrmaßnahmen erlassen.",
+        "why": "Mittelständler sollten sich auf mögliche regulatorische Veränderungen und neue Sicherheitsanforderungen vorbereiten.",
         "signal": "hoch"
       },
       {
-        "title": "Übernahme von PayPal durch Stripe und Advent",
-        "what": "Stripe und Advent planen die Übernahme von PayPal für 53 Milliarden US-Dollar.",
-        "why": "Diese Transaktion zeigt die Bedeutung von Zahlungsdienstleistern in der digitalen Wirtschaft und könnte Innovationen im Finanzsektor anstoßen.",
+        "title": "Integration von KI in Kundenservice",
+        "what": "Energieversorger enercity ermöglicht Kundenverwaltung über ChatGPT.",
+        "why": "Der Einsatz von KI im Kundenservice kann Effizienz und Kundenzufriedenheit steigern.",
         "signal": "hoch"
       },
       {
-        "title": "KI-Chatbots gewinnen an Popularität",
-        "what": "Spotify testet einen KI-Chatbot, der die Musikwiedergabe steuert und Hörhistorien abfragt.",
-        "why": "Chatbots könnten die Interaktion zwischen Nutzern und Plattformen revolutionieren und neue Geschäftsmodelle ermöglichen.",
+        "title": "Entwicklung neuer KI-Modelle",
+        "what": "OpenAI hat ein 27-Milliarden-Parameter-Modell entwickelt, das auf einem iPhone läuft.",
+        "why": "Mittelständler sollten die Vorteile von On-Device-KI in Betracht ziehen, um die Datenverarbeitung zu optimieren.",
+        "signal": "hoch"
+      },
+      {
+        "title": "Wachsende Bedeutung von API-Sicherheit",
+        "what": "Ein Workshop zu den OWASP Top 10 API Security Risks zeigt die Relevanz für Unternehmen auf.",
+        "why": "Mittelständler müssen API-Sicherheitsstrategien implementieren, um Datenlecks zu verhindern.",
+        "signal": "hoch"
+      },
+      {
+        "title": "Künstliche Intelligenz in der Filmproduktion",
+        "what": "George Lucas verteidigt den Einsatz von KI in Filmen als Fortschritt.",
+        "why": "Die Filmindustrie zeigt, wie KI kreative Prozesse unterstützen kann, was auch für andere Branchen von Bedeutung ist.",
         "signal": "mittel"
       },
       {
-        "title": "Wachstum im Bereich KI-Video-Startups",
-        "what": "Das KI-Video-Startup PixVerse wird mit über zwei Milliarden Dollar bewertet, dank seiner Erfahrung mit dem TikTok-Algorithmus.",
-        "why": "Diese Entwicklung zeigt das Potenzial von KI in der Medien- und Unterhaltungsbranche.",
-        "signal": "hoch"
-      },
-      {
-        "title": "Cloudflare führt neue Bot-Erkennung ein",
-        "what": "Cloudflare hat ein neues System zur Bot-Erkennung vorgestellt, das das Nutzerverhalten analysiert.",
-        "why": "Mit dieser Technologie können Unternehmen ihre Websicherheit verbessern und sich gegen Bot-Angriffe wappnen.",
+        "title": "Südkorea plant kostenlosen KI-Zugang für Bürger",
+        "what": "Ein staatliches Projekt in Südkorea soll allen Bürgern kostenlosen Zugang zu KI-Diensten bieten.",
+        "why": "Mittelständler sollten die Auswirkungen solcher Initiativen auf den Wettbewerb und die Marktbedingungen beobachten.",
         "signal": "mittel"
       }
     ],
     "opportunities": [
       {
-        "title": "Entwicklung von KI-gestützten Sicherheitslösungen",
-        "what": "Es besteht ein Bedarf an Sicherheitslösungen, die KI nutzen, um Bedrohungen in Echtzeit zu erkennen und darauf zu reagieren.",
-        "who": "Unternehmen in der IT- und Sicherheitsbranche.",
+        "title": "Entwicklung von sicheren Open Source Tools",
+        "what": "Nach dem Datenleck von xAI besteht ein Bedarf an sicheren Open Source Tools für Unternehmen.",
+        "who": "IT-Abteilungen von Mittelständlern und Softwareentwickler.",
         "how": "hoch",
-        "price": "5.000-15.000€ Setup + 500-1.000€/Monat",
+        "price": "5.000-15.000€",
         "time": "Monate"
       },
       {
-        "title": "Integration von KI in bestehende Softwarelösungen",
-        "what": "Viele Unternehmen suchen nach Möglichkeiten, KI-Tools in ihre bestehenden Softwarelösungen zu integrieren, um Effizienz zu steigern.",
-        "who": "Mittelständische Unternehmen in verschiedenen Branchen.",
+        "title": "KI-gestützte Kundenkommunikationslösungen",
+        "what": "Unternehmen benötigen Lösungen zur Integration von KI in den Kundenservice, um Effizienz zu steigern.",
+        "who": "Kundenservice-Abteilungen von Mittelständlern.",
         "how": "hoch",
-        "price": "3.000-10.000€ Setup + 300-800€/Monat",
+        "price": "10.000-25.000€",
+        "time": "Monate"
+      },
+      {
+        "title": "API-Sicherheitsberatung",
+        "what": "Mittelständler benötigen Unterstützung bei der Implementierung von API-Sicherheitsstrategien.",
+        "who": "IT-Sicherheitsverantwortliche in Unternehmen.",
+        "how": "hoch",
+        "price": "3.000-7.000€",
         "time": "Wochen"
       },
       {
-        "title": "Beratung zu KI-Compliance und Regulierung",
-        "what": "Unternehmen benötigen Unterstützung bei der Einhaltung neuer Vorschriften für KI-generierte Inhalte und deren Transparenz.",
-        "who": "Unternehmen, die KI-Technologien nutzen.",
+        "title": "Schulung zur Nutzung von Emojis im Marketing",
+        "what": "Unternehmen suchen nach Möglichkeiten, Emojis effektiv in der Kundenkommunikation einzusetzen.",
+        "who": "Marketingabteilungen im Mittelstand.",
         "how": "mittel",
-        "price": "2.000-5.000€ Setup + 200-500€/Monat",
+        "price": "1.500-3.000€",
         "time": "Wochen"
       },
       {
-        "title": "Schulung für KI-Tools und deren Implementierung",
-        "what": "Es gibt einen Bedarf an Schulungen für Mitarbeiter, um den Umgang mit KI-Tools effektiv zu erlernen.",
-        "who": "Unternehmen, die KI-Tools einführen möchten.",
+        "title": "Entwicklung von On-Device-KI-Anwendungen",
+        "what": "Mittelständler benötigen Lösungen zur Entwicklung von On-Device-KI-Anwendungen zur Optimierung von Prozessen.",
+        "who": "Entwicklerteams in Unternehmen.",
         "how": "hoch",
-        "price": "1.500-3.000€ pro Schulung",
-        "time": "Tagen"
-      },
-      {
-        "title": "Entwicklung von KI-gestützten Chatbots",
-        "what": "Unternehmen suchen nach maßgeschneiderten KI-Chatbots, um den Kundenservice zu verbessern.",
-        "who": "E-Commerce-Unternehmen und Dienstleister.",
-        "how": "hoch",
-        "price": "5.000-12.000€ Setup + 500-1.000€/Monat",
+        "price": "15.000-50.000€",
         "time": "Monate"
       },
       {
-        "title": "Erstellung von KI-gestützten Marketing-Tools",
-        "what": "Die Nachfrage nach Tools, die KI für personalisierte Marketingkampagnen nutzen, wächst.",
-        "who": "Marketingagenturen und Unternehmen.",
+        "title": "Beratung zu Cyberabwehrmaßnahmen",
+        "what": "Unternehmen benötigen Unterstützung bei der Implementierung von Cyberabwehrstrategien.",
+        "who": "IT-Abteilungen von Mittelständlern.",
         "how": "hoch",
-        "price": "4.000-10.000€ Setup + 400-900€/Monat",
+        "price": "5.000-20.000€",
+        "time": "Monate"
+      },
+      {
+        "title": "Integration von KI in kreative Prozesse",
+        "what": "Unternehmen suchen nach Wegen, KI in kreative Prozesse zu integrieren, ähnlich wie in der Filmproduktion.",
+        "who": "Kreativabteilungen in Unternehmen.",
+        "how": "mittel",
+        "price": "10.000-30.000€",
+        "time": "Monate"
+      },
+      {
+        "title": "Entwicklung von Chatbot-Lösungen",
+        "what": "Es besteht Bedarf an maßgeschneiderten Chatbot-Lösungen für den Kundenservice.",
+        "who": "Kundenservice-Abteilungen von Mittelständlern.",
+        "how": "hoch",
+        "price": "8.000-20.000€",
         "time": "Wochen"
       }
     ],
     "top_articles": [
       {
-        "title": "WIPO-Report: Patentboom bei generativer KI – Deutschland führt in Europa",
-        "url": "https://www.heise.de/news/WIPO-Report-Patentboom-bei-generativer-KI-Deutschland-fuehrt-in-Europa-11364830.html?wt_mc=rss.red.ho.ho.atom.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-14",
-        "why": "Der Artikel beschreibt den Anstieg der Patentanmeldungen für generative KI und Deutschlands Führungsrolle in diesem Bereich.",
+        "title": "xAI stellt KI-Agen \"Grok-Build\" nach massivem Datenleck als Open Source auf GitHub",
+        "url": "https://the-decoder.de/xai-stellt-ki-agen-grok-build-nach-massivem-datenleck-als-open-source-auf-github/",
+        "source": "The Decoder",
+        "date": "2026-07-16",
+        "why": "Das Datenleck und die Open Source Veröffentlichung zeigen die Herausforderungen und Chancen im Bereich der KI-Entwicklung.",
         "tags": [
-          "Patente",
-          "KI",
-          "Deutschland"
+          "xAI",
+          "Open Source",
+          "Datenleck"
         ]
       },
       {
-        "title": "EU-Kommission genehmigt deutsche Millionenförderung neuer Halbleiteranlagen",
-        "url": "https://www.heise.de/news/EU-Kommission-genehmigt-deutsche-Millionenfoerderung-neuer-Halbleiteranlagen-11364994.html?wt_mc=rss.red.ho.ho.atom.beitrag",
+        "title": "Starlink V5: Was den neuen Empfänger von SpaceX besser macht – und was nicht",
+        "url": "https://www.heise.de/news/Starlink-V5-Was-den-neuen-Empfaenger-von-SpaceX-besser-macht-und-was-nicht-11366878.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
         "source": "Heise Online",
-        "date": "2026-07-14",
-        "why": "Die Genehmigung der Förderung könnte die deutsche Chipindustrie stärken und Innovationen im KI-Bereich fördern.",
+        "date": "2026-07-16",
+        "why": "Die neue Technologie könnte für Unternehmen im ländlichen Raum von Bedeutung sein.",
         "tags": [
-          "Halbleiter",
-          "EU",
-          "Förderung"
+          "Starlink",
+          "Technologie"
         ]
       },
       {
-        "title": "OpenAIs erstes KI-Gerät soll ein Smart Speaker mit „mechanischen Elementen“ sein",
-        "url": "https://www.heise.de/news/OpenAIs-erstes-KI-Gerät-soll-ein-Smart-Speaker-mit-mechanischen-Elementen-sein-11365030.html?wt_mc=rss.red.ho.ho.atom.beitrag",
-        "source": "Heise Online",
+        "title": "OpenAIs GPT-Red findet Sicherheitslücken in KI-Modellen besser als menschliche Red-Teamer",
+        "url": "https://the-decoder.de/openais-gpt-red-findet-sicherheitsluecken-in-ki-modellen-besser-als-menschliche-red-teamer/",
+        "source": "The Decoder",
         "date": "2026-07-15",
-        "why": "OpenAI plant die Einführung eines Smart Speakers, der KI in den Alltag integriert, was neue Marktchancen eröffnet.",
+        "why": "Die Effizienz von KI bei der Sicherheitsüberprüfung ist für Unternehmen entscheidend.",
         "tags": [
           "OpenAI",
-          "Smart Speaker",
+          "Sicherheit"
+        ]
+      },
+      {
+        "title": "Energieversorger enercity öffnet Kundenverwaltung für ChatGPT",
+        "url": "https://www.heise.de/news/Energieversorger-enercity-oeffnet-Kundenverwaltung-fuer-ChatGPT-11364387.html?wt_mc=rss.red.ho.ho.atom.beitrag",
+        "source": "Heise Online",
+        "date": "2026-07-15",
+        "why": "Die Integration von KI in die Kundenverwaltung zeigt neue Möglichkeiten für den Kundenservice.",
+        "tags": [
+          "ChatGPT",
+          "Kundenservice"
+        ]
+      },
+      {
+        "title": "Künstliche Intelligenz: Südkorea plant kostenlosen KI-Zugang für alle Bürger",
+        "url": "https://www.golem.de/news/kuenstliche-intelligenz-suedkorea-plant-kostenlosen-ki-zugang-fuer-alle-buerger-2607-210926.html",
+        "source": "Golem.de",
+        "date": "2026-07-15",
+        "why": "Der kostenlose Zugang zu KI könnte die Wettbewerbsbedingungen für Unternehmen verändern.",
+        "tags": [
+          "Südkorea",
           "KI"
         ]
       },
       {
-        "title": "Zunehmende Regulierung von KI-Inhalten",
-        "url": "https://www.heise.de/news/Bescheid-fuer-Google-und-Perplexity-Medienwaechter-gehen-gegen-KI-Uebersichten-vor-11364818.html?wt_mc=rss.red.ho.ho.atom.beitrag",
+        "title": "Star Wars“-Schöpfer George Lucas verteidigt KI-Einsatz in Filmen",
+        "url": "https://www.heise.de/news/Star-Wars-Schoepfer-George-Lucas-verteidigt-KI-Einsatz-in-Filmen-11366626.html?wt_mc=rss.red.ho.ho.atom.beitrag",
         "source": "Heise Online",
-        "date": "2026-07-14",
-        "why": "Die Regulierung von KI-Inhalten könnte erhebliche Auswirkungen auf Unternehmen haben, die KI-Technologien nutzen.",
+        "date": "2026-07-16",
+        "why": "Der Einsatz von KI in kreativen Prozessen könnte für viele Branchen von Bedeutung sein.",
         "tags": [
-          "Regulierung",
-          "KI",
-          "Inhalte"
+          "George Lucas",
+          "KI"
         ]
       },
       {
-        "title": "Übernahme von PayPal durch Stripe und Advent",
-        "url": "https://www.heise.de/news/PayPal-Uebernahme-Stripe-und-Advent-wollen-60-50-US-Dollar-pro-Aktie-bezahlen-11365050.html?wt_mc=rss.red.ho.ho.atom.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-15",
-        "why": "Die Übernahme von PayPal zeigt die Bedeutung von Zahlungsdienstleistern im digitalen Zeitalter.",
-        "tags": [
-          "PayPal",
-          "Übernahme",
-          "Stripe"
-        ]
-      },
-      {
-        "title": "KI-Chatbots gewinnen an Popularität",
-        "url": "https://www.heise.de/news/Spotify-testet-KI-Chatbot-Talk-to-Spotify-11365164.html?wt_mc=rss.red.ho.ho.atom.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-15",
-        "why": "Die Entwicklung von KI-Chatbots könnte die Interaktion zwischen Nutzern und Plattformen revolutionieren.",
-        "tags": [
-          "Chatbots",
-          "KI",
-          "Spotify"
-        ]
-      },
-      {
-        "title": "Wachstum im Bereich KI-Video-Startups",
-        "url": "https://the-decoder.de/pixverse-erfahrung-mit-tiktok-algorithmus-stuetzen-erfolg-von-ki-video-startup-bewertung-von-2-milliarden-dollar/",
+        "title": "OpenAIs erstes KI-Hardware soll ein mobiler Lautsprecher ohne Bildschirm werden",
+        "url": "https://the-decoder.de/openais-erstes-ki-hardware-soll-ein-mobiler-lautsprecher-ohne-bildschirm-werden/",
         "source": "The Decoder",
-        "date": "2026-07-14",
-        "why": "Das Wachstum von KI-Video-Startups zeigt das Potenzial von KI in der Medien- und Unterhaltungsbranche.",
+        "date": "2026-07-15",
+        "why": "Die Entwicklung neuer KI-Hardware könnte neue Geschäftsmöglichkeiten schaffen.",
         "tags": [
-          "KI",
-          "Video",
-          "Startup"
+          "OpenAI",
+          "Hardware"
         ]
       },
       {
-        "title": "Cloudflare führt neue Bot-Erkennung ein",
-        "url": "https://www.heise.de/news/Cloudflare-Precursor-Bot-Erkennung-durch-Verhaltensanalyse-11364029.html?wt_mc=rss.red.ho.ho.atom.beitrag",
+        "title": "DeepSeek will offenbar an die Börse – IPO-Einreichung noch 2026 möglich",
+        "url": "https://www.heise.de/news/DeepSeek-will-offenbar-an-die-Boerse-IPO-Einreichung-noch-2026-moeglich-11365782.html?wt_mc=rss.red.ho.ho.atom.beitrag",
         "source": "Heise Online",
-        "date": "2026-07-14",
-        "why": "Die neue Bot-Erkennung von Cloudflare könnte Unternehmen helfen, ihre Websicherheit zu verbessern.",
+        "date": "2026-07-15",
+        "why": "Der bevorstehende IPO könnte Investitionen in den KI-Sektor anziehen.",
         "tags": [
-          "Cloudflare",
-          "Bot-Erkennung",
-          "Sicherheit"
+          "DeepSeek",
+          "IPO"
+        ]
+      },
+      {
+        "title": "Bericht: Chip-Lithografie: High-NA EUV erstmals im Produktiveinsatz",
+        "url": "https://www.heise.de/news/Chip-Lithografie-High-NA-EUV-erstmals-im-Produktiveinsatz-11366348.html?wt_mc=rss.red.ho.ho.atom.beitrag",
+        "source": "Heise Online",
+        "date": "2026-07-15",
+        "why": "Die Fortschritte in der Chip-Lithografie könnten neue Möglichkeiten für KI-Anwendungen eröffnen.",
+        "tags": [
+          "Chip-Lithografie",
+          "Technologie"
+        ]
+      },
+      {
+        "title": "Amazons Leo kommt noch vor Starlink nach Südafrika",
+        "url": "https://www.heise.de/news/Amazons-Leo-kommt-noch-vor-Starlink-nach-Suedafrika-11366518.html?wt_mc=rss.red.ho.ho.atom.beitrag",
+        "source": "Heise Online",
+        "date": "2026-07-15",
+        "why": "Die Konkurrenz im Bereich der Satellitenkommunikation könnte neue Geschäftsmöglichkeiten schaffen.",
+        "tags": [
+          "Amazons Leo",
+          "Satelliten"
         ]
       }
     ],
     "action_items": [
-      "Überprüfen Sie die aktuellen Patentanmeldungen im Bereich generative KI und evaluieren Sie mögliche Innovationsansätze.",
-      "Erstellen Sie einen Plan zur Integration von KI-Tools in Ihre bestehende Softwarelösung.",
-      "Informieren Sie sich über die neuen Vorschriften zur Regulierung von KI-Inhalten und passen Sie Ihre Compliance-Strategie an.",
-      "Planen Sie eine Schulung für Mitarbeiter zur effektiven Nutzung von KI-Tools.",
-      "Erforschen Sie die Möglichkeiten zur Entwicklung von KI-gestützten Chatbots für Ihren Kundenservice."
+      "Überprüfen Sie die Sicherheitsstrategien Ihrer Softwarelösungen im Hinblick auf Open Source.",
+      "Implementieren Sie eine Schulung zur Nutzung von Emojis in der Kundenkommunikation.",
+      "Analysieren Sie die Möglichkeiten zur Integration von KI in Ihren Kundenservice.",
+      "Erstellen Sie einen Plan zur Implementierung von API-Sicherheitsstrategien.",
+      "Evaluieren Sie die Entwicklung von On-Device-KI-Anwendungen für Ihre Produkte."
     ]
   },
   "raw_articles": [
     {
-      "title": "Samsung Health: Entwarnung bei KI-Datennutzung",
-      "url": "https://www.heise.de/news/Samsung-Health-Entwarnung-bei-KI-Datennutzung-11365274.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
+      "title": "xAI stellt KI-Agen \"Grok-Build\" nach massivem Datenleck als Open Source auf GitHub",
+      "url": "https://the-decoder.de/xai-stellt-ki-agen-grok-build-nach-massivem-datenleck-als-open-source-auf-github/",
+      "source": "The Decoder",
       "lang": "de",
-      "published": "2026-07-15T07:47:00+00:00",
-      "summary": "Samsung stellt klar: Die Ablehnung der KI-Datennutzung in Samsung Health führt nicht zum Löschen persönlicher Gesundheitsdaten oder zur Deaktivierung der Cloud.",
+      "published": "2026-07-16T07:39:21+00:00",
+      "summary": "xAIs Kommandozeilen-Tool \"grok\" hat ungefragt sämtliche Dateien eines Verzeichnisses auf Google-Cloud-Server hochgeladen, darunter SSH-Schlüssel und Passwort-Datenbanken. Als Reaktion kündigte Elon Musk die vollständige Löschung aller Nutzerdaten an, und xAI veröffentlichte den Quellcode unter Apache-2.0-Lizenz. Der Artikel xAI stellt KI-Agen &quot;Grok-Build&quot; nach massivem Datenleck als Open Source auf GitHub erschien zuerst auf The Decoder .",
       "keywords": [
-        "samsung",
-        "health",
-        "ki-datennutzung",
-        "entwarnung",
         "stellt",
-        "klar"
+        "ki-agen",
+        "grok-build",
+        "massivem",
+        "datenleck",
+        "open"
       ]
     },
     {
-      "title": "Ubisoft Barcelona: Streik gegen 51 Kündigungen nach „Black Flag“-Erfolg",
-      "url": "https://www.heise.de/news/Ubisoft-Barcelona-Streik-gegen-51-Kuendigungen-nach-Black-Flag-Erfolg-11365242.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "Starlink V5: Was den neuen Empfänger von SpaceX besser macht – und was nicht",
+      "url": "https://www.heise.de/news/Starlink-V5-Was-den-neuen-Empfaenger-von-SpaceX-besser-macht-und-was-nicht-11366878.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-15T07:28:00+00:00",
-      "summary": "Ubisoft Barcelona hat am erfolgreichen „Assassin’s Creed Black Flag Resynced“ mitgearbeitet. Jetzt streikt die Belegschaft gegen 51 geplante Kündigungen.",
+      "published": "2026-07-16T07:34:00+00:00",
+      "summary": "Neue Version des Satellitenempfängers: Starlink V5 soll dem Vorgänger überlegen sein. Allerdings gibt es auch Abstriche, die dafür in Kauf genommen wurden.",
       "keywords": [
-        "ubisoft",
-        "barcelona",
-        "gegen",
-        "kündigungen",
-        "black",
-        "flag"
+        "starlink",
+        "neuen",
+        "empfänger",
+        "spacex",
+        "besser",
+        "macht"
       ]
     },
     {
-      "title": "heise+ | Smartphone-Regeln: So gelingt Medienerziehung ohne Streit",
-      "url": "https://www.heise.de/ratgeber/Smartphone-Regeln-So-gelingt-Medienerziehung-ohne-Streit-11332503.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "title": "Programmiersprache Perl 5.44: Benannte Parameter kommen und goto geht endgültig",
+      "url": "https://www.heise.de/news/Programmiersprache-Perl-5-44-fuehrt-benannte-Funktionsparameter-ein-11366654.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-15T07:00:00+00:00",
-      "summary": "Wie Eltern ihre Kinder online am besten schützen, ohne einen Krieg um Smartphone & Co. zu entfachen.",
+      "published": "2026-07-16T07:03:00+00:00",
+      "summary": "Das aktuelle Perl geht einen weiteren Schritt in Richtung moderner Objektorientierung. Außerdem schließt Perl 5.44 drei Sicherheitslücken.",
       "keywords": [
-        "ohne",
+        "perl",
+        "geht",
+        "programmiersprache",
+        "benannte",
+        "parameter",
+        "kommen"
+      ]
+    },
+    {
+      "title": "„Star Wars“-Schöpfer George Lucas verteidigt KI-Einsatz in Filmen",
+      "url": "https://www.heise.de/news/Star-Wars-Schoepfer-George-Lucas-verteidigt-KI-Einsatz-in-Filmen-11366626.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-16T06:25:00+00:00",
+      "summary": "George Lucas hält KI für Fortschritt, der nicht aufzuhalten ist. Man könne genauso gut das Auto verschmähen, um noch mit Pferd und Kutsche zu fahren.",
+      "keywords": [
+        "george",
+        "lucas",
+        "star",
+        "wars",
+        "-schöpfer",
+        "verteidigt"
+      ]
+    },
+    {
+      "title": "heise-Angebot: iX-Workshop API-Sicherheit: OWASP Top 10 API Security Risks",
+      "url": "https://www.heise.de/news/iX-Workshop-API-Sicherheit-OWASP-Top-10-API-Security-Risks-11354426.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-16T06:00:00+00:00",
+      "summary": "Lernen Sie praxisnah, wie Sie Schwachstellen in der API-Implementierung vermeiden und Angriffe abwehren.",
+      "keywords": [
+        "heise-angebot",
+        "ix-workshop",
+        "api-sicherheit",
+        "owasp",
+        "security",
+        "risks"
+      ]
+    },
+    {
+      "title": "heise+ | Postkarten-Apps im Test: Persönliche Urlaubsgrüße erstellen und verschicken",
+      "url": "https://www.heise.de/tests/Postkarten-Apps-im-Test-Persoenliche-Urlaubsgruesse-erstellen-und-verschicken-11347859.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-16T05:30:00+00:00",
+      "summary": "Postkarten-Apps schlagen die Brücke zwischen analoger und digitaler Welt. Wir haben mit fünf Apps für Android getestet, wie gut das in der Praxis funktioniert.",
+      "keywords": [
+        "postkarten-apps",
         "heise",
-        "smartphone-regeln",
-        "gelingt",
-        "medienerziehung",
-        "streit"
+        "test",
+        "persönliche",
+        "urlaubsgrüße",
+        "erstellen"
       ]
     },
     {
-      "title": "Spotify testet KI-Chatbot „Talk to Spotify“",
-      "url": "https://www.heise.de/news/Spotify-testet-KI-Chatbot-Talk-to-Spotify-11365164.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "Spotify: Verwaltete Kinderkonten jetzt auch ohne Abo",
+      "url": "https://www.heise.de/news/Spotify-Verwaltete-Kinderkonten-jetzt-auch-ohne-Abo-11366592.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-15T06:59:00+00:00",
-      "summary": "Mit „Talk to Spotify“ lässt sich per Chat Musik steuern und die eigene Hörhistorie erfragen. Die Beta läuft ohne deutsche Nutzer.",
+      "published": "2026-07-16T04:52:00+00:00",
+      "summary": "Eltern können auf Spotify verwaltete Konten für ihre Kinder anlegen. Das geht jetzt auch ohne das teure Family-Abo.",
       "keywords": [
         "spotify",
-        "talk",
-        "testet",
-        "ki-chatbot",
-        "lässt",
-        "sich"
+        "verwaltete",
+        "jetzt",
+        "auch",
+        "ohne",
+        "kinderkonten"
       ]
     },
     {
-      "title": "OpenAIs erstes KI-Gerät soll ein Smart Speaker mit „mechanischen Elementen“ sein",
-      "url": "https://www.heise.de/news/OpenAIs-erstes-KI-Geraet-soll-ein-Smart-Speaker-mit-mechanischen-Elementen-sein-11365030.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "Donnerstag: Schufa mit umstrittener Schattendatenbank, Klage wegen KI-Kündigung",
+      "url": "https://www.heise.de/news/Donnerstag-Schufa-mit-umstrittener-Schattendatenbank-Klage-wegen-KI-Kuendigung-11366584.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-15T06:41:00+00:00",
-      "summary": "OpenAI könnte noch in diesem Jahr sein erstes KI-Gerät vorstellen: einen mobilen Smart Speaker, der ChatGPT als persönlichen Begleiter in den Haushalt bringt.",
+      "published": "2026-07-16T04:15:00+00:00",
+      "summary": "Kritik an historischen Daten der Schufa + Entlassungen auf KI-Basis + Amazon Leo statt Starlink in Musks Heimatland + ChatGPT-Anbindung in enercity + #heiseshow",
       "keywords": [
-        "erstes",
-        "ki-gerät",
-        "smart",
-        "speaker",
-        "sein",
+        "schufa",
+        "donnerstag",
+        "umstrittener",
+        "schattendatenbank",
+        "klage",
+        "wegen"
+      ]
+    },
+    {
+      "title": "Schufa speichert veraltete Daten von Millionen Verbrauchern in Schattendatenbank",
+      "url": "https://www.heise.de/news/Schufa-speichert-veraltete-Daten-von-Millionen-Verbrauchern-in-Schattendatenbank-11366566.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-16T03:05:00+00:00",
+      "summary": "Die Schufa hält „historische Daten“ zu Testzwecken vor. Doch diese hätten längst gelöscht werden müssen. Es hagelt Kritik von Daten- und Verbraucherschützern.",
+      "keywords": [
+        "schufa",
+        "daten",
+        "speichert",
+        "veraltete",
+        "millionen",
+        "verbrauchern"
+      ]
+    },
+    {
+      "title": "KI-Kündigung: Kranke und behinderte Mitarbeiter verklagen Meta",
+      "url": "https://www.heise.de/news/KI-Kuendigung-Kranke-und-behinderte-Mitarbeiter-verklagen-Meta-11366544.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-15T22:01:00+00:00",
+      "summary": "Im Krankenstand haben sie keine KI-Tokens verbraucht. Das habe zu schlechter KI-Bewertung und dem Verlust des Arbeitsplatzes geführt, klagen Meta-Mitarbeiter.",
+      "keywords": [
+        "ki-kündigung",
+        "kranke",
+        "behinderte",
+        "mitarbeiter",
+        "verklagen",
+        "meta"
+      ]
+    },
+    {
+      "title": "Amazons Leo kommt noch vor Starlink nach Südafrika",
+      "url": "https://www.heise.de/news/Amazons-Leo-kommt-noch-vor-Starlink-nach-Suedafrika-11366518.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-15T20:29:00+00:00",
+      "summary": "Elon Musk bietet Starlink in seinem Heimatland nicht an. Amazon.com setzt für Leo auf örtliche Partner. So geht Business in Südafrika.",
+      "keywords": [
+        "starlink",
+        "südafrika",
+        "amazons",
+        "kommt",
+        "noch",
+        "elon"
+      ]
+    },
+    {
+      "title": "OpenAIs GPT-Red findet Sicherheitslücken in KI-Modellen besser als menschliche Red-Teamer",
+      "url": "https://the-decoder.de/openais-gpt-red-findet-sicherheitsluecken-in-ki-modellen-besser-als-menschliche-red-teamer/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-15T19:38:53+00:00",
+      "summary": "OpenAI setzt mit GPT-Red ein internes KI-Modell ein, das per Self-Play-Training automatisiert Sicherheitslücken in eigenen Modellen aufspürt und dabei in 84 Prozent der Testszenarien erfolgreiche Angriffe findet, menschliche Red-Teamer nur in 13 Prozent. Der Artikel OpenAIs GPT-Red findet Sicherheitslücken in KI-Modellen besser als menschliche Red-Teamer erschien zuerst auf The Decoder .",
+      "keywords": [
+        "gpt-red",
+        "findet",
+        "sicherheitslücken",
+        "menschliche",
+        "red-teamer",
         "openais"
       ]
     },
     {
-      "title": "OpenAIs erstes KI-Hardware soll ein mobiler Lautsprecher ohne Bildschirm werden",
-      "url": "https://the-decoder.de/openais-erstes-ki-hardware-soll-ein-mobiler-lautsprecher-ohne-bildschirm-werden/",
+      "title": "Energieversorger enercity öffnet Kundenverwaltung für ChatGPT",
+      "url": "https://www.heise.de/news/Energieversorger-enercity-oeffnet-Kundenverwaltung-fuer-ChatGPT-11364387.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-15T18:22:00+00:00",
+      "summary": "Das Energieunternehmen enercity ermöglicht Kunden, Zählerstände und andere Vertragsdaten in ChatGPT abzufragen und zu verwalten.",
+      "keywords": [
+        "enercity",
+        "chatgpt",
+        "energieversorger",
+        "öffnet",
+        "kundenverwaltung",
+        "energieunternehmen"
+      ]
+    },
+    {
+      "title": "OpenAIs GPT-5.6 Sol widerlegt angeblich 25 Jahre alte Vermutung der Statistik",
+      "url": "https://the-decoder.de/openais-gpt-5-6-sol-widerlegt-angeblich-25-jahre-alte-vermutung-der-statistik/",
       "source": "The Decoder",
       "lang": "de",
-      "published": "2026-07-15T06:24:56+00:00",
-      "summary": "OpenAI will mit einem bildschirmlosen Smart Speaker in den Hardware-Markt einsteigen. Das mobile Gerät soll mit Kamera, Sensoren und mechanischen Elementen als KI-Begleiter fungieren, der \"lebendig\" wirkt. Apples Klage wegen Geschäftsgeheimnissen gegen OpenAIs Hardware-Chef Tang Tan könnte den für 2027 geplanten Marktstart jedoch verzögern. Der Artikel OpenAIs erstes KI-Hardware soll ein mobiler Lautsprecher ohne Bildschirm werden erschien zuerst auf The Decoder .",
+      "published": "2026-07-15T17:17:12+00:00",
+      "summary": "Ein Statistikprofessor der University of Pennsylvania hat mit OpenAIs GPT-5.6 Sol Pro eine zentrale offene Vermutung zum Benjamini-Hochberg-Verfahren widerlegt – in rund 90 Minuten. Mit dem Vorgängermodell GPT-5.5 war ihm das auch nach 20 Stunden nicht gelungen. Die Lösung kombiniert bekannte Methoden neu, echte konzeptuelle Kreativität bleibt damit weiter eine offene Frage. Der Artikel OpenAIs GPT-5.6 Sol widerlegt angeblich 25 Jahre alte Vermutung der Statistik erschien zuerst auf The Decoder .",
       "keywords": [
+        "gpt-5",
         "openais",
-        "soll",
-        "erstes",
-        "ki-hardware",
-        "mobiler",
-        "lautsprecher"
+        "widerlegt",
+        "vermutung",
+        "angeblich",
+        "jahre"
       ]
     },
     {
-      "title": "PayPal-Übernahme: Stripe und Advent wollen 60,50 US-Dollar pro Aktie bezahlen",
-      "url": "https://www.heise.de/news/PayPal-Uebernahme-Stripe-und-Advent-wollen-60-50-US-Dollar-pro-Aktie-bezahlen-11365050.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "Arbeitsförderung 4.0: Regierung treibt digitales Update für Jobcenter voran",
+      "url": "https://www.heise.de/news/Arbeitsfoerderung-4-0-Regierung-treibt-digitales-Update-fuer-Jobcenter-voran-11366286.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-15T06:11:00+00:00",
-      "summary": "Trotz seiner Bedeutung hat PayPal an der Börse enorm an Wert verloren. Für 53 Milliarden US-Dollar wollen zwei US-Firmen den Zahlungsdienstleister übernehmen.",
+      "published": "2026-07-15T16:16:00+00:00",
+      "summary": "Mit einem Gesetz will das Bundeskabinett die Arbeitsverwaltung digitalisieren, die Eingliederungsvereinbarung ersetzen und Jobwechsel probeweise erleichtern.",
       "keywords": [
-        "wollen",
-        "us-dollar",
-        "paypal-übernahme",
-        "stripe",
-        "advent",
-        "aktie"
+        "arbeitsförderung",
+        "regierung",
+        "treibt",
+        "digitales",
+        "update",
+        "jobcenter"
       ]
     },
     {
-      "title": "heise-Angebot: iX-Workshop: Active Defense & Hardening – Systeme aktiv schützen",
-      "url": "https://www.heise.de/news/iX-Workshop-Active-Defense-Hardening-Systeme-aktiv-schuetzen-11357511.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-15T06:00:00+00:00",
-      "summary": "Üben Sie in einer praxisnahen Laborumgebung, wie Sie Schwachstellen in Ihrer IT-Infrastruktur finden und Ihre Systeme gegen Angriffe effektiv absichern können.",
-      "keywords": [
-        "systeme",
-        "heise-angebot",
-        "ix-workshop",
-        "active",
-        "defense",
-        "hardening"
-      ]
-    },
-    {
-      "title": "heise+ | Warum Firmen AI Coding Tools noch nicht einführen",
-      "url": "https://www.heise.de/hintergrund/Warum-Firmen-AI-Coding-Tools-noch-nicht-einfuehren-11343370.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-15T05:30:00+00:00",
-      "summary": "KI-Tools wie GitHub Copilot sind in der Entwicklung Alltag, doch viele Firmen zögern bei der Freigabe. Ein pragmatischer Umgang mit Risiken schafft Sicherheit.",
-      "keywords": [
-        "firmen",
-        "heise",
-        "warum",
-        "coding",
-        "tools",
-        "noch"
-      ]
-    },
-    {
-      "title": "Software-Update Ursache von IT-Problemen der Berliner Justiz",
-      "url": "https://www.heise.de/news/Software-Update-Ursache-von-IT-Problemen-der-Berliner-Justiz-11365024.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-15T04:46:00+00:00",
-      "summary": "Technische Probleme haben die Berliner Gerichte lahmgelegt. Ein fehlerhaftes Software-Update sorgte für einen Totalausfall, der nun schrittweise behoben wird.",
-      "keywords": [
-        "software-update",
-        "berliner",
-        "ursache",
-        "it-problemen",
-        "justiz",
-        "technische"
-      ]
-    },
-    {
-      "title": "Streaming: ProSiebenSat.1 und ZDF einigen sich offenbar auf Joyn-Embedding",
-      "url": "https://www.heise.de/news/ZDF-Inhalte-kommen-offenbar-zu-Joyn-Einigung-mit-ProSiebenSat-1-11364918.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-15T04:16:00+00:00",
-      "summary": "Im Frühjahr 2025 eskalierte der Streit um ARD- und ZDF-Inhalte bei Joyn. Nun haben sich ProSiebenSat.1 und das ZDF laut DWDL auf Embedding geeinigt.",
-      "keywords": [
-        "prosiebensat",
-        "sich",
-        "streaming",
-        "einigen",
-        "offenbar",
-        "joyn-embedding"
-      ]
-    },
-    {
-      "title": "Mittwoch: Millionenförderung deutscher Chipwerke, IBM-Aktie mit Rekordabsturz",
-      "url": "https://www.heise.de/news/Mittwoch-Millionenfoerderung-deutscher-Chipwerke-IBM-Aktie-mit-Rekordabsturz-11365004.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-15T04:15:00+00:00",
-      "summary": "EU-Genehmigung für Halbleiter-Beihilfe + Börsenreaktion auf IBM-Wachstum + New Yorker Pause für Rechenzentren + IFG-Reform ohne Anlass + Bit-Rauschen zum DE-CIX",
-      "keywords": [
-        "mittwoch",
-        "millionenförderung",
-        "deutscher",
-        "chipwerke",
-        "ibm-aktie",
-        "rekordabsturz"
-      ]
-    },
-    {
-      "title": "Bit-Rauschen, der Prozessor-Podcast: DE-CIX, der größte deutsche Internetknoten",
-      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-DE-CIX-der-groesste-deutsche-Internetknoten-11343211.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-15T04:10:00+00:00",
-      "summary": "Der DE-CIX ist eine Internet-Erfolgsgeschichte. Über dessen Geschichte sprechen wir mit seinem Gründer Arnold Nipper in Folge 2025/14 des Podcasts Bit-Rauschen.",
-      "keywords": [
-        "bit-rauschen",
-        "de-cix",
-        "prozessor-podcast",
-        "größte",
-        "deutsche",
-        "internetknoten"
-      ]
-    },
-    {
-      "title": "EU-Kommission genehmigt deutsche Millionenförderung neuer Halbleiteranlagen",
-      "url": "https://www.heise.de/news/EU-Kommission-genehmigt-deutsche-Millionenfoerderung-neuer-Halbleiteranlagen-11364994.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-15T03:04:00+00:00",
-      "summary": "Deutschland will die heimische Halbleiterfertigung mit insgesamt 659 Millionen Euro unterstützen. Die EU-Kommission bestätigt die Förderung vier neuer Anlagen.",
-      "keywords": [
-        "eu-kommission",
-        "neuer",
-        "genehmigt",
-        "deutsche",
-        "millionenförderung",
-        "halbleiteranlagen"
-      ]
-    },
-    {
-      "title": "IBM-CEO schockiert Aktionäre, Aktie kracht",
-      "url": "https://www.heise.de/news/Schlimmster-Tag-fuer-IBM-Aktie-11364934.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-14T19:23:00+00:00",
-      "summary": "Unerwartet verlautbart der IBM-Chef Finanzzahlen. Sie sind schlechter als erwartet. Die Aktie stürzt schlimm wie noch nie.",
-      "keywords": [
-        "aktie",
-        "ibm-ceo",
-        "schockiert",
-        "aktionäre",
-        "kracht",
-        "unerwartet"
-      ]
-    },
-    {
-      "title": "WIPO-Report: Patentboom bei generativer KI – Deutschland führt in Europa",
-      "url": "https://www.heise.de/news/WIPO-Report-Patentboom-bei-generativer-KI-Deutschland-fuehrt-in-Europa-11364830.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-14T17:33:00+00:00",
-      "summary": "2024 und 2025 wurden weltweit mehr Patente für Systeme generativer KI angemeldet als im gesamten Jahrzehnt davor. Deutschland überholt Großbritannien deutlich.",
-      "keywords": [
-        "generativer",
-        "deutschland",
-        "wipo-report",
-        "patentboom",
-        "führt",
-        "europa"
-      ]
-    },
-    {
-      "title": "Claude for Teachers: Anthropic bringt kostenloses KI-Paket an US-Schulen",
-      "url": "https://the-decoder.de/claude-for-teachers-anthropic-bringt-kostenloses-ki-paket-an-us-schulen/",
-      "source": "The Decoder",
-      "lang": "de",
-      "published": "2026-07-14T17:24:27+00:00",
-      "summary": "Anthropic stellt Claude for Teachers vor, ein kostenloses Angebot für verifizierte Lehrkräfte an US-Schulen von der Grundschule bis zur Oberstufe. Der Artikel Claude for Teachers: Anthropic bringt kostenloses KI-Paket an US-Schulen erschien zuerst auf The Decoder .",
-      "keywords": [
-        "claude",
-        "teachers",
-        "anthropic",
-        "kostenloses",
-        "us-schulen",
-        "bringt"
-      ]
-    },
-    {
-      "title": "Oak Lab: Turing-Preisträger Sutton gründet Startup für lernende KI",
-      "url": "https://www.heise.de/news/Oak-Lab-Turing-Preistraeger-Sutton-gruendet-Startup-fuer-lernende-KI-11364501.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-14T16:42:00+00:00",
-      "summary": "Richard Sutton gründet „Oak Lab“. Das Startup will KI-Agenten bauen, die im laufenden Betrieb lernen – statt nach dem Training statisch zu bleiben.",
-      "keywords": [
-        "sutton",
-        "gründet",
-        "startup",
-        "turing-preisträger",
-        "lernende",
-        "richard"
-      ]
-    },
-    {
-      "title": "Einen Monat nach Rekord-Finanzierung verhandelt DeepSeek bereits über neue Milliarden",
-      "url": "https://the-decoder.de/einen-monat-nach-rekord-finanzierung-verhandelt-deepseek-bereits-ueber-neue-milliarden/",
-      "source": "The Decoder",
-      "lang": "de",
-      "published": "2026-07-14T16:27:29+00:00",
-      "summary": "DeepSeek bereitet nur Wochen nach seiner 7-Milliarden-Dollar-Runde bereits die nächste Finanzierung vor, diesmal bei einer Vorbewertung von rund 71 Milliarden Dollar. Das Kapital soll in eigene Rechenzentren, Chips und die aggressive Niedrigpreisstrategie fließen, mit der das Startup US-Firmen gewinnt. Der Leistungsabstand zu OpenAI und Anthropic wächst allerdings. Der Artikel Einen Monat nach Rekord-Finanzierung verhandelt DeepSeek bereits über neue Milliarden erschien zuerst auf The Decoder .",
-      "keywords": [
-        "deepseek",
-        "bereits",
-        "milliarden",
-        "monat",
-        "rekord-finanzierung",
-        "verhandelt"
-      ]
-    },
-    {
-      "title": "Google-Suche erstellt künftig eigene KI-Bilder, wenn das Web keine passenden liefert",
-      "url": "https://the-decoder.de/google-suche-erstellt-kuenftig-eigene-ki-bilder-wenn-das-web-keine-passenden-liefert/",
-      "source": "The Decoder",
-      "lang": "de",
-      "published": "2026-07-14T16:13:58+00:00",
-      "summary": "Google baut KI-Bildgenerierung direkt in die AI-Overviews der Suche ein. Das neue Modell Nano Banana 2 Lite erzeugt Bilder aus Suchanfragen, wenn keine passenden Ergebnisse im Web existieren. Der Rollout startet in den kommenden Wochen. Der Artikel Google-Suche erstellt künftig eigene KI-Bilder, wenn das Web keine passenden liefert erschien zuerst auf The Decoder .",
-      "keywords": [
-        "wenn",
-        "keine",
-        "passenden",
-        "google-suche",
-        "erstellt",
-        "künftig"
-      ]
-    },
-    {
-      "title": "KI-Zusammenfassungen: Google und Perplexity unterliegen gegen Medienanstalten",
-      "url": "https://www.heise.de/news/Bescheid-fuer-Google-und-Perplexity-Medienwaechter-gehen-gegen-KI-Uebersichten-vor-11364818.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-14T16:07:00+00:00",
-      "summary": "Die Medienanstalten stufen KI-generierte Antworten als eigene Inhalte ein und fordern Transparenz. Das DSA-Haftungsprivileg greift hier laut Gutachtern nicht.",
-      "keywords": [
-        "medienanstalten",
-        "ki-zusammenfassungen",
-        "google",
-        "perplexity",
-        "unterliegen",
-        "gegen"
-      ]
-    },
-    {
-      "title": "KI-Agenten brauchen ein Zuhause",
-      "url": "https://t3n.de/news/ki-agenten-hosting-deutschland-1751626/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "lang": "de",
-      "published": "2026-07-15T07:05:26+00:00",
-      "summary": "Neue KI-Modelle erscheinen mittlerweile im Wochentakt. Doch mit jeder produktiven KI-Anwendung rückt eine Frage zunehmend in den Vordergrund: Wo werden Daten verarbeitet und unter welchem rechtlichen und technischen Rahmen? Für viele Unternehmen wird genau das zum entscheidenden Kriterium. weiterlesen auf t3n.de",
-      "keywords": [
-        "ki-agenten",
-        "brauchen",
-        "zuhause",
-        "neue",
-        "ki-modelle",
-        "erscheinen"
-      ]
-    },
-    {
-      "title": "Microsoft macht Passkeys zum Standard in Entra ID",
-      "url": "https://www.heise.de/news/Microsoft-macht-Passkeys-zum-Standard-in-Entra-ID-11364748.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-14T15:35:00+00:00",
-      "summary": "Microsoft führt Passkeys als Standard-Anmeldemethode in Entra ID ein. SMS- und Sprachanrufe laufen schrittweise aus.",
-      "keywords": [
-        "microsoft",
-        "passkeys",
-        "entra",
-        "macht",
-        "standard",
-        "führt"
-      ]
-    },
-    {
-      "title": "OpenAIs erstes KI-Gadget: Wie ChatGPT physisch in deinen Alltag integriert werden soll",
-      "url": "https://t3n.de/news/openai-erstes-ki-gadget-chatgpt-physisch-alltag-1752867/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "lang": "de",
-      "published": "2026-07-15T07:00:26+00:00",
-      "summary": "Insider:innen haben neue Details zu OpenAIs erstem KI-Gadget verraten. Das Gerät soll den Alltag in den eigenen vier Wänden erleichtern – und von dir lernen. weiterlesen auf t3n.de",
-      "keywords": [
-        "openais",
-        "ki-gadget",
-        "alltag",
-        "soll",
-        "erstes",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "heise+ | Wikimedia-Projekte: Wikidata als Datenquelle nutzen",
-      "url": "https://www.heise.de/hintergrund/Wikimedia-Projekte-Wikidata-als-Datenquelle-nutzen-11362464.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-14T15:30:00+00:00",
-      "summary": "Wikidata ist der zentrale Speicherort für Daten aus den Wikimedia-Projekten. Es gibt verschiedene Möglichkeiten, Wikidata als Quelle für Projekte anzubinden.",
-      "keywords": [
-        "wikidata",
-        "heise",
-        "wikimedia-projekte",
-        "datenquelle",
-        "nutzen",
-        "zentrale"
-      ]
-    },
-    {
-      "title": "Anzeige: Ninja Creami Eismaschine mit 28 Prozent Rabatt zum Bestpreis",
-      "url": "https://www.golem.de/news/anzeige-ninja-creami-eismaschine-mit-28-prozent-rabatt-zum-bestpreis-2607-210876.html",
-      "source": "Golem.de (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-15T06:46:02+00:00",
-      "summary": "Vor der nächsten Hitzewelle gibt es die Ninja Creami Eismaschine bei Amazon zum Bestpreis. Mit ihr gelingen gefrorene Desserts zu Hause. ( Technik/Hardware )",
-      "keywords": [
-        "ninja",
-        "creami",
-        "eismaschine",
-        "bestpreis",
-        "anzeige",
-        "prozent"
-      ]
-    },
-    {
-      "title": "Ungeschützte Wechselrichter: Hoymiles verspricht Update",
-      "url": "https://www.heise.de/news/Ungeschuetzte-Wechselrichter-Hoymiles-verspricht-Update-11365046.html",
+      "title": "Webkonferenztool Zoom: Kontoübernahme aus dem Netz möglich",
+      "url": "https://www.heise.de/news/Webkonferenztool-Zoom-Kontouebernahme-aus-dem-Netz-moeglich-11366838.html",
       "source": "Heise iX (Magazin-Feed)",
       "lang": "de",
-      "published": "2026-07-15T06:26:00+00:00",
-      "summary": "Angreifer können durch Sicherheitslücken in Hoymiles-Wechselrichtern die Geräte aus der Ferne lahmlegen. Ein Update soll das ändern.",
+      "published": "2026-07-16T07:38:00+00:00",
+      "summary": "Zoom hat mehrere Sicherheitslücken in der Webkonferenzsoftware geschlossen. Sie ermöglichen etwa Kontoübernahme aus dem Netz.",
       "keywords": [
-        "update",
-        "ungeschützte",
-        "wechselrichter",
-        "hoymiles",
-        "verspricht",
-        "angreifer"
+        "zoom",
+        "kontoübernahme",
+        "netz",
+        "webkonferenztool",
+        "möglich",
+        "mehrere"
       ]
     },
     {
-      "title": "Medienaufsicht: Medienrecht gilt auch für KI-Suchmaschinen",
-      "url": "https://www.golem.de/news/medienaufsicht-medienrecht-gilt-auch-fuer-ki-suchmaschinen-2607-210875.html",
+      "title": "Chip-Lithografie: High-NA EUV erstmals im Produktiveinsatz",
+      "url": "https://www.heise.de/news/Chip-Lithografie-High-NA-EUV-erstmals-im-Produktiveinsatz-11366348.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-15T16:05:00+00:00",
+      "summary": "Jetzt doch früher als gedacht: Intel betreibt erstmals produktiv ein Lithografie-System der nächsten Generation.",
+      "keywords": [
+        "erstmals",
+        "chip-lithografie",
+        "high-na",
+        "produktiveinsatz",
+        "jetzt",
+        "doch"
+      ]
+    },
+    {
+      "title": "Diese KI kann neue Sprachen erschaffen: Das steckt dahinter",
+      "url": "https://t3n.de/news/ki-neue-sprachen-erschaffen-1753030/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-07-16T07:15:41+00:00",
+      "summary": "Normalerweise verlassen sich KI-Tools auf bekannte Sprachen, um Inhalte zu generieren. Forscher:innen haben jetzt ein Tool geschaffen, das komplett neue Sprachen erfinden kann. Wie die KI dabei vorgeht. weiterlesen auf t3n.de",
+      "keywords": [
+        "sprachen",
+        "kann",
+        "neue",
+        "diese",
+        "erschaffen",
+        "steckt"
+      ]
+    },
+    {
+      "title": "Android Studio Quail 2 mit parallelen Agentenchats und LeakCanary-Integration",
+      "url": "https://www.heise.de/news/Android-Studio-Quail-2-mit-parallelen-Agentenchats-und-LeakCanary-Integration-11365583.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-15T15:46:00+00:00",
+      "summary": "Googles offizielle IDE für die Entwicklung von Android-Apps setzt verstärkt auf KI-Integration, unter anderem mit mehreren parallel laufenden Agentenchats.",
+      "keywords": [
+        "agentenchats",
+        "android",
+        "studio",
+        "quail",
+        "parallelen",
+        "leakcanary-integration"
+      ]
+    },
+    {
+      "title": "Polizei greift durch: Großer Betrugsring mit über 700 Mitarbeitern zerschlagen",
+      "url": "https://www.golem.de/news/polizei-greift-durch-grosser-betrugsring-mit-ueber-700-mitarbeitern-zerschlagen-2607-210928.html",
       "source": "Golem.de (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-15T06:22:02+00:00",
-      "summary": "Die Landesmedienanstalten stufen KI-Generierungen als eigene Inhalte ein. Auf Google und Perplexity wartet Regulierung. ( KI , Google )",
+      "published": "2026-07-16T07:13:01+00:00",
+      "summary": "Die Betrüger sollen Anleger über 20 Callcenter systematisch um mehr als 100 Millionen Euro pro Monat gebracht haben. Doch damit ist jetzt Schluss. ( Cybercrime , Security )",
       "keywords": [
-        "google",
-        "medienaufsicht",
-        "medienrecht",
-        "gilt",
-        "auch",
-        "ki-suchmaschinen"
+        "polizei",
+        "greift",
+        "durch",
+        "großer",
+        "betrugsring",
+        "mitarbeitern"
       ]
     },
     {
-      "title": "Mozilla: Open-Source-KI fast so gut wie ChatGPT & Co.",
-      "url": "https://www.heise.de/news/Mozilla-Offene-KI-kommt-an-das-Geld-aber-nicht-11364615.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
+      "title": "Tarife: Mailbox.org hebt Preise an und verdoppelt Speicher",
+      "url": "https://www.golem.de/news/tarife-mailbox-org-hebt-preise-an-und-verdoppelt-speicher-2607-210927.html",
+      "source": "Golem.de (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-14T14:47:00+00:00",
-      "summary": "Laut Mozilla-Report hat Open-Source-KI einen Wendepunkt erreicht. Der Leistungsabstand zu proprietären Modellen ist gering, Kosten sinken.",
+      "published": "2026-07-16T07:05:01+00:00",
+      "summary": "Mailbox.org stellt seine Tarife für Privat- und Geschäftskunden um. Je nach Vertrag greifen die Änderungen zu unterschiedlichen Terminen. ( Unternehmen , E-Mail )",
       "keywords": [
-        "open-source-ki",
-        "mozilla",
-        "fast",
-        "chatgpt",
-        "laut",
-        "mozilla-report"
+        "tarife",
+        "mailbox",
+        "hebt",
+        "preise",
+        "verdoppelt",
+        "speicher"
       ]
     },
     {
-      "title": "Video: Warum ihr bei Mini-PCs aus China vorsichtig sein solltet",
-      "url": "https://www.heise.de/ratgeber/Video-Warum-ihr-bei-Mini-PCs-aus-China-vorsichtig-sein-solltet-11364529.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
+      "title": "Spotifys neue KI-Funktion lässt Nutzer per Sprache Musik steuern und Fragen beantworten",
+      "url": "https://the-decoder.de/spotifys-neue-ki-funktion-laesst-nutzer-per-sprache-musik-steuern-und-fragen-beantworten/",
+      "source": "The Decoder",
       "lang": "de",
-      "published": "2026-07-14T14:30:00+00:00",
-      "summary": "Was steckt im 220-Euro-Schnäppchen? Ausgemusterte Apple-CPU, ungültige Windows-Lizenz und Trojaner ab Werk. Wir zeigen euch die besseren Alternativen.",
+      "published": "2026-07-15T15:33:26+00:00",
+      "summary": "Spotify baut seine KI-Sprachschnittstelle weiter aus: Premium-Nutzer können nun per Sprache oder Text direkt in der App mit dem Dienst kommunizieren. Der Artikel Spotifys neue KI-Funktion lässt Nutzer per Sprache Musik steuern und Fragen beantworten erschien zuerst auf The Decoder .",
       "keywords": [
-        "video",
-        "warum",
-        "mini-pcs",
+        "sprache",
+        "spotifys",
+        "neue",
+        "ki-funktion",
+        "lässt",
+        "nutzer"
+      ]
+    },
+    {
+      "title": "Mehr Kontrolle, weniger Risiko: Wie Unternehmen von europäischen Clouds und KI profitieren",
+      "url": "https://t3n.de/news/von-europaeischen-clouds-und-ki-profitieren-1727175/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-07-16T07:00:15+00:00",
+      "summary": "Ob E-Mail, Cloud-Storage oder Collaboration-Tools mit integrierter KI – die US-Konzerne dominieren den Markt. Doch immer mehr Unternehmen hinterfragen diese Abhängigkeit. weiterlesen auf t3n.de",
+      "keywords": [
+        "mehr",
+        "unternehmen",
+        "kontrolle",
+        "weniger",
+        "risiko",
+        "europäischen"
+      ]
+    },
+    {
+      "title": "Model-Schau: Neues aus China und Europas Abhängigkeit",
+      "url": "https://www.heise.de/hintergrund/Model-Schau-Neues-aus-China-und-Europas-Abhaengigkeit-11366005.html",
+      "source": "Heise iX (Magazin-Feed)",
+      "lang": "de",
+      "published": "2026-07-16T07:00:00+00:00",
+      "summary": "Die letzten Wochen haben nicht nur spannende neue Modelle gebracht, sondern gezeigt, wie abhängig Europa von US-Anbietern ist.",
+      "keywords": [
+        "model-schau",
+        "neues",
         "china",
-        "vorsichtig",
-        "sein"
+        "europas",
+        "abhängigkeit",
+        "letzten"
+      ]
+    },
+    {
+      "title": "heise+ | Proof of Concept: Dialogansatz zur Datenanalyse – was sind die Grenzen?",
+      "url": "https://www.heise.de/hintergrund/Proof-of-Concept-Dialogansatz-zur-Datenanalyse-was-sind-die-Grenzen-11353504.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-15T15:30:00+00:00",
+      "summary": "Popkultur prägt KI-Erwartungen wie J.A.R.V.I.S. Ein PoC zeigt: Dialog-Analytics braucht saubere Datenmodelle. Der Artikel teilt Erfahrungen für Entscheider.",
+      "keywords": [
+        "heise",
+        "proof",
+        "concept",
+        "dialogansatz",
+        "datenanalyse",
+        "grenzen"
+      ]
+    },
+    {
+      "title": "Offenes 27-Milliarden-Parameter-Modell \"Bonsai\" läuft auf einem iPhone",
+      "url": "https://the-decoder.de/offenes-27-milliarden-parameter-modell-bonsai-laeuft-auf-einem-iphone/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-15T15:25:14+00:00",
+      "summary": "PrismML hat mit Bonsai 27B ein 27-Milliarden-Parameter-Modell auf unter 4 GB komprimiert, sodass es direkt auf einem iPhone laufen kann. Laut eigenen Benchmarks behält die kleinste Variante 90 Prozent der Originalleistung, Mathematik und Coding bleiben nahezu unberührt. Apple testet die Technik offenbar bereits. Für den Konzern könnte das eine Antwort auf die bislang schwächelnde eigene On-Device-KI sein. Der Artikel Offenes 27-Milliarden-Parameter-Modell &quot;Bonsai&quot; läuft auf einem iPhone erschien zuerst auf The Decoder .",
+      "keywords": [
+        "27-milliarden-parameter-modell",
+        "bonsai",
+        "iphone",
+        "offenes",
+        "läuft",
+        "quot"
+      ]
+    },
+    {
+      "title": "Künstliche Intelligenz: Südkorea plant kostenlosen KI-Zugang für alle Bürger",
+      "url": "https://www.golem.de/news/kuenstliche-intelligenz-suedkorea-plant-kostenlosen-ki-zugang-fuer-alle-buerger-2607-210926.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-16T06:52:01+00:00",
+      "summary": "Ein neues staatliches Projekt in Südkorea soll allen Einwohnern kostenlosen und unbegrenzten Zugang zu Chatbots und KI-Assistenten bieten. ( KI , Nvidia )",
+      "keywords": [
+        "südkorea",
+        "kostenlosen",
+        "künstliche",
+        "intelligenz",
+        "plant",
+        "ki-zugang"
+      ]
+    },
+    {
+      "title": "Produktiver Arbeiten mit dem Stream Deck: Welches Modell sich für dich lohnt",
+      "url": "https://t3n.de/news/produktiver-arbeiten-mit-dem-stream-deck-welches-modell-sich-fuer-dich-lohnt-1752900/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-07-16T06:30:58+00:00",
+      "summary": "Die handlichen Geräte werden von Gamer:innen oder Podcast-Hosts genutzt, um per Knopfdruck verschiedene Anwendungen zu steuern. Genau diese Funktionsweise macht sie aber auch im Homeoffice zu einem praktischen Tool. weiterlesen auf t3n.de",
+      "keywords": [
+        "produktiver",
+        "arbeiten",
+        "stream",
+        "deck",
+        "welches",
+        "modell"
+      ]
+    },
+    {
+      "title": "Forschung: Airbag im Weltall soll Sonnenstürme abwehren",
+      "url": "https://www.golem.de/news/forschung-airbag-im-weltall-soll-sonnenstuerme-abwehren-2607-210737.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-16T06:28:02+00:00",
+      "summary": "Statt sich nur auf Früherkennungssysteme für das Weltraum-Wetter zu verlassen, schlagen Forscher das Auslösen eines Airbags vor, sobald ein Sonnensturm die Erde erreichen sollte. ( Sonne , Studien )",
+      "keywords": [
+        "forschung",
+        "airbag",
+        "weltall",
+        "soll",
+        "sonnenstürme",
+        "abwehren"
+      ]
+    },
+    {
+      "title": "Bitkom-Umfrage: 9 von 10 Deutschen nutzen Emojis – aber nicht alle verstehen sie",
+      "url": "https://t3n.de/news/bitkom-umfrage-9-von-10-deutschen-nutzen-emojis-aber-nicht-alle-verstehen-sie-1753018/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-07-16T06:15:12+00:00",
+      "summary": "Lachen, Herzen, Zwinkern: Emojis werden in Chats häufig benutzt. Die Gen-Z sendet sie fast immer, Boomer tun es seltener. Viele sind unsicher, was manche bedeuten. weiterlesen auf t3n.de",
+      "keywords": [
+        "emojis",
+        "bitkom-umfrage",
+        "deutschen",
+        "nutzen",
+        "aber",
+        "nicht"
       ]
     }
   ]
