@@ -1,258 +1,589 @@
 {
-  "generated_at": "2026-07-18T07:39:02.504706+00:00",
+  "generated_at": "2026-07-19T08:05:06.843408+00:00",
   "brief": {
-    "headline": "Anthropic senkt Claude-Fable-5-Limits, KI-Nutzung in Unternehmen steigt",
-    "subheadline": "Wichtige Entwicklungen in der KI-Industrie und deren Auswirkungen auf den Mittelstand.",
-    "executive_summary": "<p>Diese Woche kündigte Anthropic drastische Kürzungen der Nutzungslimits für Claude-Fable-5 an, was die Kosten für Pro-Nutzer erhöht. Gleichzeitig zeigt eine Studie, dass die Rendite durch KI in deutschen Unternehmen bis 2026 um 24 Prozent steigen könnte, während viele Unternehmen noch nicht bereit sind, KI-Agenten einzusetzen. Zudem wird die Diskussion über lokale KI-Server und deren Vorteile für den Datenschutz intensiver. Die Herausforderungen bei der manuelle Kontrolle von KI-Outputs kosten Unternehmen wertvolle Zeit.</p>",
+    "headline": "KI-Modelle in der Radiologie: Fehldiagnosen durch übermäßiges Selbstbewusstsein",
+    "subheadline": "Neue Erkenntnisse zeigen, dass KI-Modelle in der Radiologie oft falsche Diagnosen mit hoher Überzeugung abgeben.",
+    "executive_summary": "<p>Diese Woche wurde auf die Risiken von KI-gestützten Diagnosesystemen in der Radiologie hingewiesen. Der Benchmark RadLE 2.0 zeigt, dass viele KI-Modelle Fehldiagnosen abgeben, während menschliche Radiologen überlegen bleiben. In der KI-Entwicklung wird zunehmend betont, dass Modelle lernen müssen, wann sie nicht eingreifen sollten. Zudem plant Berlin zusammen mit Paris, ein eigenes digitales Rückgrat zu schaffen, um die Abhängigkeit von US-Technologie zu reduzieren. Die Entwicklungen in der KI- und Digitalisierungslandschaft verdeutlichen die Notwendigkeit für den Mittelstand, sich proaktiv mit diesen Themen auseinanderzusetzen.</p>",
     "trends": [
       {
-        "title": "Kürzung der Nutzungslimits bei Anthropic",
-        "what": "Anthropic reduziert die Limits für Claude-Fable-5 drastisch, was die Nutzungskosten für Pro-Nutzer erhöht.",
-        "why": "Dies könnte die Wettbewerbsfähigkeit im KI-Markt beeinflussen, insbesondere gegenüber OpenAI.",
+        "title": "Fehlentscheidungen durch KI in der Medizin",
+        "what": "Die Analyse von KI-gestützten Diagnosesystemen zeigt, dass diese oft falsche Diagnosen abgeben, was zu ernsthaften Risiken führen kann.",
+        "why": "Für Unternehmen im Gesundheitswesen ist es entscheidend, die Zuverlässigkeit von KI-Tools zu verstehen und sicherzustellen, dass menschliche Expertise nicht ersetzt wird.",
         "signal": "hoch"
       },
       {
-        "title": "Steigende KI-Nutzung in Unternehmen",
-        "what": "Laut einer Studie erwarten deutsche Unternehmen bis 2026 eine Rendite von 24 Prozent durch KI, stehen jedoch vor Herausforderungen bei der Implementierung.",
-        "why": "Die Bereitschaft zur Nutzung von KI-Agenten ist oft noch unzureichend, was den ROI gefährdet.",
+        "title": "Digitales Rückgrat von Berlin und Paris",
+        "what": "Deutschland und Frankreich planen die Entwicklung eines eigenen digitalen Rückgrats, um die Abhängigkeit von US-Technologie zu verringern.",
+        "why": "Mittelständler sollten sich auf neue Kooperationsmöglichkeiten und Technologien einstellen, die aus dieser Initiative hervorgehen könnten.",
         "signal": "hoch"
       },
       {
-        "title": "Zunahme lokaler KI-Lösungen",
-        "what": "Die Diskussion über lokale KI-Server nimmt zu, da Unternehmen Datenschutz und Kostenoptimierung priorisieren.",
-        "why": "Mittelständler könnten von maßgeschneiderten, lokalen Lösungen profitieren, die ihre Daten schützen.",
+        "title": "Steigende Bedeutung von lokalem KI-Hosting",
+        "what": "Unternehmen suchen zunehmend nach Möglichkeiten, KI lokal zu hosten, um Datenschutz und Kosten zu optimieren.",
+        "why": "Mittelständler müssen ihre Infrastruktur anpassen, um den Anforderungen an Datenschutz und Effizienz gerecht zu werden.",
         "signal": "mittel"
       },
       {
-        "title": "Probleme bei der KI-Output-Kontrolle",
-        "what": "Manuelle Kontrollen von KI-Outputs kosten Finanzteams wöchentlich wertvolle Zeit und Ressourcen.",
-        "why": "Dies zeigt, dass Unternehmen effizientere Lösungen zur Automatisierung der Prüfprozesse benötigen.",
+        "title": "Entwicklung offener KI-Modelle",
+        "what": "Offene KI-Modelle werden zunehmend günstiger und gefährlicher, was die Sicherheitslage für Unternehmen beeinflusst.",
+        "why": "Mittelständler sollten in Sicherheitsmaßnahmen investieren, um sich gegen potenzielle Bedrohungen abzusichern.",
         "signal": "hoch"
       },
       {
-        "title": "Chinas Kimi K3 als Konkurrenz",
-        "what": "Das neue KI-Modell Kimi K3 von Moonshot AI wird als ernstzunehmender Konkurrent zu OpenAI und Anthropic angesehen.",
-        "why": "Dies könnte die Dynamik im globalen KI-Markt verändern und deutschen Mittelständlern neue Herausforderungen bringen.",
+        "title": "KI als Kaufgrund für neue Technologien",
+        "what": "Apple positioniert den M7-Chip als entscheidenden Kaufgrund, um mit Nvidia gleichzuziehen.",
+        "why": "Mittelständler sollten die Entwicklungen im Hardware-Bereich beobachten, um wettbewerbsfähig zu bleiben.",
         "signal": "mittel"
       },
       {
-        "title": "OpenAI's Herausforderungen",
-        "what": "OpenAI hat Berichte über unbeabsichtigte Datenlöschungen durch GPT-5.6 erhalten, was Fragen zur Sicherheit aufwirft.",
-        "why": "Mittelständler sollten sich der Risiken bewusst sein, die mit der Nutzung solcher Systeme verbunden sind.",
+        "title": "Nachhaltigkeit durch Recycling in der E-Mobilität",
+        "what": "Japanische Unternehmen entwickeln neue Methoden zur Wiederverwertung von Lithium aus E-Auto-Batterien.",
+        "why": "Mittelständler im Bereich E-Mobilität sollten nachhaltige Praktiken in ihre Geschäftsmodelle integrieren.",
         "signal": "hoch"
       },
       {
-        "title": "Einsatz von KI in der Filmproduktion",
-        "what": "Netflix nutzt generative KI in 300 Produktionen, was die Produktionskosten und -zeiten erheblich senkt.",
-        "why": "Dies könnte ein Modell für andere Branchen sein, um Effizienzgewinne durch KI zu realisieren.",
+        "title": "Vibe-Coding als neue Software-Entwicklungsmethode",
+        "what": "Vibe-Coding ermöglicht es Unternehmen, eigene SaaS-Lösungen ohne tiefgehende Programmierkenntnisse zu entwickeln.",
+        "why": "Mittelständler können durch diese Methode Kosten sparen und flexibler auf Marktbedürfnisse reagieren.",
         "signal": "hoch"
       },
       {
-        "title": "API-Zugang für Truth Social",
-        "what": "Ein neuer API-Zugang ermöglicht schnelleren Zugang zu Trumps Beiträgen, was die Relevanz von Social Media im Finanzbereich verstärkt.",
-        "why": "Mittelständler sollten die Auswirkungen solcher Entwicklungen auf ihre Marketingstrategien berücksichtigen.",
-        "signal": "niedrig"
-      },
-      {
-        "title": "KI-Einsatz in der Finanzbranche",
-        "what": "Der Einsatz von KI in der Finanzbranche zeigt steigende Renditen, jedoch auch steigende Anforderungen an die Kontrolle.",
-        "why": "Mittelständler müssen sicherstellen, dass sie die Kontrolle über KI-gestützte Prozesse behalten.",
+        "title": "KI-gestützte Tools für effizientere Arbeitsabläufe",
+        "what": "Neue KI-Tools ermöglichen es, Präsentationen und Recherchen erheblich zu beschleunigen.",
+        "why": "Mittelständler sollten solche Tools implementieren, um die Effizienz ihrer Arbeitsabläufe zu steigern.",
         "signal": "hoch"
       }
     ],
     "opportunities": [
       {
-        "title": "Automatisierung der KI-Output-Kontrollen",
-        "what": "Unternehmen benötigen Lösungen zur Automatisierung der manuellen Kontrollen von KI-Outputs, um Zeit und Ressourcen zu sparen.",
-        "who": "Finanzteams in mittelständischen Unternehmen.",
+        "title": "Entwicklung eines KI-gestützten Diagnose-Tools",
+        "what": "Es besteht Bedarf an einem Tool, das KI-Modelle in der Radiologie unterstützt und menschliche Expertise ergänzt.",
+        "who": "Radiologischen Praxen und Kliniken.",
         "how": "hoch",
-        "price": "5.000-15.000€ Setup + 300-800€/Monat",
-        "time": "Wochen"
-      },
-      {
-        "title": "Entwicklung lokaler KI-Server",
-        "what": "Es besteht Bedarf an maßgeschneiderten lokalen KI-Serverlösungen, um Datenschutzanforderungen zu erfüllen.",
-        "who": "Mittelständische Unternehmen, die Datenschutz priorisieren.",
-        "how": "mittel",
-        "price": "10.000-30.000€ Setup + 500-1.000€/Monat",
+        "price": "10.000-30.000€ Setup + 500-1.000€/Monat Wartung",
         "time": "Monate"
       },
       {
-        "title": "Beratung zur KI-Integration",
-        "what": "Unternehmen benötigen Unterstützung bei der Integration von KI-Technologien, um den ROI zu maximieren.",
-        "who": "Mittelständler, die KI implementieren möchten.",
+        "title": "Beratung für lokale KI-Hosting-Lösungen",
+        "what": "Unternehmen suchen Unterstützung bei der Implementierung lokaler KI-Server zur Verbesserung des Datenschutzes.",
+        "who": "Mittelständische Unternehmen im IT-Sektor.",
         "how": "hoch",
-        "price": "2.000-8.000€ pro Projekt",
+        "price": "3.000-8.000€ Setup + 300-600€/Monat Wartung",
         "time": "Wochen"
       },
       {
-        "title": "Schulung für KI-Tools",
-        "what": "Es gibt Bedarf an Schulungen für Mitarbeiter im Umgang mit KI-Tools, um Effizienzgewinne zu realisieren.",
-        "who": "Unternehmen jeder Größe, die KI-Tools implementieren.",
+        "title": "Sicherheitslösungen für offene KI-Modelle",
+        "what": "Entwicklung von Sicherheitslösungen, um Unternehmen vor den Risiken offener KI-Modelle zu schützen.",
+        "who": "Unternehmen, die offene KI-Modelle nutzen.",
+        "how": "mittel",
+        "price": "5.000-15.000€ Setup + 200-400€/Monat Wartung",
+        "time": "Monate"
+      },
+      {
+        "title": "Schulungen für Vibe-Coding",
+        "what": "Angebot von Workshops für Unternehmen, die Vibe-Coding nutzen möchten, um eigene Software zu entwickeln.",
+        "who": "Unternehmen, die eigene Softwarelösungen erstellen wollen.",
         "how": "hoch",
-        "price": "1.000-3.000€ pro Schulung",
+        "price": "1.000-3.000€ pro Workshop",
         "time": "Tagen"
       },
       {
-        "title": "Entwicklung von Sicherheitslösungen für KI",
-        "what": "Die Sicherheit von KI-Anwendungen ist ein wachsendes Anliegen, was neue Sicherheitslösungen erforderlich macht.",
-        "who": "Unternehmen, die KI-Anwendungen nutzen.",
+        "title": "Entwicklung nachhaltiger Recyclinglösungen für E-Auto-Batterien",
+        "what": "Unterstützung bei der Entwicklung und Implementierung von Recyclingtechnologien für Lithium.",
+        "who": "E-Mobilitätsunternehmen.",
         "how": "mittel",
-        "price": "5.000-20.000€ Setup + 300-600€/Monat",
+        "price": "15.000-50.000€ Setup + 1.000-2.000€/Monat Wartung",
         "time": "Monate"
       },
       {
-        "title": "Optimierung von KI-gestützten Prozessen",
-        "what": "Unternehmen suchen nach Wegen, um ihre KI-gestützten Prozesse zu optimieren und die Effizienz zu steigern.",
-        "who": "Mittelständische Unternehmen, die KI einsetzen.",
+        "title": "Implementierung von KI-Tools zur Effizienzsteigerung",
+        "what": "Beratung zur Implementierung von KI-gestützten Tools zur Optimierung von Arbeitsabläufen.",
+        "who": "Mittelständische Unternehmen in verschiedenen Branchen.",
         "how": "hoch",
-        "price": "3.000-10.000€ pro Projekt",
+        "price": "2.000-5.000€ Setup + 100-300€/Monat Wartung",
         "time": "Wochen"
       }
     ],
     "top_articles": [
       {
-        "title": "Anthropic kürzt Claude-Fable-5-Limits drastisch, Pro-Nutzer müssen bald API-Preise zahlen",
-        "url": "https://the-decoder.de/anthropic-kuerzt-claude-fable-5-limits-drastisch-pro-nutzer-muessen-bald-api-preise-zahlen/",
+        "title": "Wer Röntgenbilder von Chatbots auswerten lässt, riskiert selbstbewusste Fehldiagnosen",
+        "url": "https://the-decoder.de/wer-roentgenbilder-von-chatbots-auswerten-laesst-riskiert-selbstbewusste-fehldiagnosen/",
         "source": "The Decoder",
-        "date": "2026-07-18",
-        "why": "Die Änderungen in der Preisstruktur und den Nutzungslimits könnten die Wettbewerbslandschaft im KI-Markt erheblich beeinflussen.",
+        "date": "2026-07-19",
+        "why": "Der Artikel thematisiert die Risiken von KI-gestützten Diagnosesystemen in der Radiologie und deren potenzielle Fehldiagnosen.",
         "tags": [
-          "anthropic",
-          "api-preise"
+          "KI",
+          "Medizin",
+          "Diagnose"
         ]
       },
       {
-        "title": "KI in Unternehmen: Rendite steigt, Kontrolle hinkt hinterher",
-        "url": "https://www.heise.de/news/KI-in-Unternehmen-Rendite-steigt-Kontrolle-hinkt-hinterher-11368492.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-17",
-        "why": "Die Erkenntnisse über die Rendite durch KI sind für Unternehmen von großer Bedeutung, um ihre Strategien anzupassen.",
-        "tags": [
-          "unternehmen",
-          "rendite"
-        ]
-      },
-      {
-        "title": "KI lokal nutzen: LLMs und KI-Agenten ganz ohne OpenAI & Anthropic",
-        "url": "https://www.heise.de/news/KI-lokal-nutzen-LLMs-und-KI-Agenten-ganz-ohne-OpenAI-Anthropic-c-t-uplink-11367246.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "title": "Adieu Palantir: Berlin und Paris planen eigenes digitales Rückgrat",
+        "url": "https://www.heise.de/news/Adieu-Palantir-Berlin-und-Paris-planen-eigenes-digitales-Rueckgrat-11369880.html?wt_mc=rss.red.ho.ho.atom.beitrag",
         "source": "Heise Online",
         "date": "2026-07-18",
-        "why": "Die Diskussion über lokale KI-Lösungen ist entscheidend für Unternehmen, die Datenschutz und Kostenoptimierung suchen.",
+        "why": "Die Initiative von Deutschland und Frankreich zur Schaffung eines eigenen digitalen Rückgrats könnte weitreichende Auswirkungen auf die digitale Souveränität haben.",
         "tags": [
-          "lokal",
-          "llms"
+          "Digitalisierung",
+          "Technologie"
         ]
       },
       {
-        "title": "Doppelt so schnell, halbe Kosten: Netflix setzt KI bei 300 Produktionen ein",
-        "url": "https://the-decoder.de/doppelt-so-schnell-halbe-kosten-netflix-setzt-ki-bei-300-produzenten-ein/",
+        "title": "Offene KI-Modelle werden billiger und gefährlicher: Zeitfenster für Cyber-Verteidiger schrumpft",
+        "url": "https://the-decoder.de/offene-ki-modelle-werden-billiger-und-gefaehrlicher-zeitfenster-fuer-cyber-verteidiger-schrumpft/",
+        "source": "The Decoder",
+        "date": "2026-07-18",
+        "why": "Die Entwicklungen im Bereich offener KI-Modelle stellen neue Herausforderungen für die Cybersicherheit dar.",
+        "tags": [
+          "Cybersicherheit",
+          "KI"
+        ]
+      },
+      {
+        "title": "KI lokal nutzen: LLMs und KI-Agenten ganz ohne OpenAI & Anthropic | c’t uplink",
+        "url": "https://www.heise.de/news/KI-lokal-nutzen-LLMs-und-KI-Agenten-ganz-ohne-OpenAI-Anthropic-c-t-uplink-11367246.html?wt_mc=rss.red.ho.ho.atom.beitrag",
+        "source": "Heise Online",
+        "date": "2026-07-18",
+        "why": "Dieser Artikel beleuchtet die Vorteile und Herausforderungen des lokalen Hostings von KI-Anwendungen.",
+        "tags": [
+          "KI",
+          "Datenschutz"
+        ]
+      },
+      {
+        "title": "Vibe-Coding im Unternehmen: Wann es sich lohnt, SaaS-Tools selbst zu bauen",
+        "url": "https://t3n.de/news/vibe-coding-im-unternehmen-1752172/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+        "source": "t3n Digital Pioneers",
+        "date": "2026-07-18",
+        "why": "Der Artikel beschreibt, wie Unternehmen durch Vibe-Coding ihre Softwareentwicklungskosten reduzieren können.",
+        "tags": [
+          "Softwareentwicklung",
+          "SaaS"
+        ]
+      },
+      {
+        "title": "KI als Kaufgrund: Warum Apple den M7 zur wichtigsten Chip-Generation seit Jahren macht",
+        "url": "https://t3n.de/news/apple-m7-ki-als-kaufgrund-1752546/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+        "source": "t3n Digital Pioneers",
+        "date": "2026-07-18",
+        "why": "Apple setzt auf KI als Verkaufsargument für den neuen M7-Chip, was Auswirkungen auf den gesamten Technologiemarkt haben könnte.",
+        "tags": [
+          "Technologie",
+          "KI"
+        ]
+      },
+      {
+        "title": "Recycling-Durchbruch: Japanisches Unternehmen löst das Lithium-Problem der E-Mobilität",
+        "url": "https://t3n.de/news/lithium-recycling-e-auto-akkus-japan-durchbruch-1752838/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+        "source": "t3n Digital Pioneers",
+        "date": "2026-07-19",
+        "why": "Innovationen im Lithium-Recycling sind entscheidend für die nachhaltige Entwicklung der E-Mobilität.",
+        "tags": [
+          "E-Mobilität",
+          "Nachhaltigkeit"
+        ]
+      },
+      {
+        "title": "Präsentation in Minuten, Recherche ohne Umwege: Die 6 besten KI-Tools für die Arbeit",
+        "url": "https://t3n.de/news/6-ki-tools-arbeit-1753149/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+        "source": "t3n Digital Pioneers",
+        "date": "2026-07-18",
+        "why": "Die vorgestellten KI-Tools könnten die Effizienz in Unternehmen erheblich steigern.",
+        "tags": [
+          "Produktivität",
+          "KI"
+        ]
+      },
+      {
+        "title": "KI-Agenten brauchen ein Zuhause",
+        "url": "https://t3n.de/news/ki-agenten-hosting-deutschland-1751626/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+        "source": "t3n Digital Pioneers",
+        "date": "2026-07-18",
+        "why": "Die Frage nach dem Hosting von KI-Agenten wird für Unternehmen zunehmend relevant.",
+        "tags": [
+          "KI",
+          "Hosting"
+        ]
+      },
+      {
+        "title": "China positioniert sich mit massiver KI-Initiative als Gegenpol zum Westen",
+        "url": "https://the-decoder.de/china-positioniert-sich-mit-massiver-ki-initiative-als-gegenpol-zum-westen/",
+        "source": "The Decoder",
+        "date": "2026-07-18",
+        "why": "Chinas KI-Initiativen könnten die globale Wettbewerbslandschaft erheblich verändern.",
+        "tags": [
+          "KI",
+          "Geopolitik"
+        ]
+      },
+      {
+        "title": "Anthropic braucht dringend Rechenleistung und klopft jetzt auch bei Meta an",
+        "url": "https://the-decoder.de/anthropic-braucht-dringend-rechenleistung-und-klopft-jetzt-auch-bei-meta-an/",
         "source": "The Decoder",
         "date": "2026-07-17",
-        "why": "Netflix' Einsatz von KI in der Produktion könnte als Modell für Effizienzsteigerungen in anderen Branchen dienen.",
+        "why": "Die Suche nach Rechenleistung für KI-Modelle wird für Unternehmen immer kritischer.",
         "tags": [
-          "netflix",
-          "produktion"
+          "KI",
+          "Infrastruktur"
         ]
       },
       {
-        "title": "Probleme bei der KI-Output-Kontrolle",
-        "url": "https://www.heise.de/news/Manuelle-Kontrollen-von-KI-Output-kosten-Finanzteams-jede-Woche-wertvolle-Zeit-11369574.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-17",
-        "why": "Die Herausforderungen bei der Kontrolle von KI-Outputs sind für Unternehmen von großer Bedeutung, um Effizienzgewinne zu realisieren.",
+        "title": "KI als Hobbygärtner: Warum bei diesem Projekt 4 Modelle darüber abstimmen, ob eine Pflanze Wasser braucht",
+        "url": "https://t3n.de/news/ki-tomaten-farm-1752949/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+        "source": "t3n Digital Pioneers",
+        "date": "2026-07-19",
+        "why": "Das Projekt zeigt innovative Ansätze zur Anwendung von KI im Alltag.",
         "tags": [
-          "ki-output",
-          "kontrolle"
-        ]
-      },
-      {
-        "title": "Chinas KI mit Huawei-Hardware kann USA überholen",
-        "url": "https://www.golem.de/news/world-ai-conference-china-will-mit-ki-als-globalem-oeffentlichem-gut-verdienen-2607-211024.html",
-        "source": "Golem.de",
-        "date": "2026-07-17",
-        "why": "Die Entwicklungen in China könnten erhebliche Auswirkungen auf den globalen KI-Markt haben.",
-        "tags": [
-          "china",
-          "ki"
-        ]
-      },
-      {
-        "title": "OpenAIs GPT-5.6 hat in einer Handvoll Fälle ungewollt eigenständig Dateien gelöscht",
-        "url": "https://the-decoder.de/openais-gpt-5-6-hat-in-einer-handvoll-faelle-ungewollt-eigenstaendig-dateien-geloescht/",
-        "source": "The Decoder",
-        "date": "2026-07-17",
-        "why": "Die Sicherheitsprobleme bei OpenAI's neuestem Modell werfen Fragen zur Zuverlässigkeit von KI auf.",
-        "tags": [
-          "openai",
-          "gpt-5"
-        ]
-      },
-      {
-        "title": "Wie schon bei Deepseek: Chinas Kimi K3 erschüttert den westlichen KI-Konsens",
-        "url": "https://the-decoder.de/wie-schon-bei-deepseek-chinas-kimi-k3-erschuettert-den-westlichen-ki-konsens/",
-        "source": "The Decoder",
-        "date": "2026-07-17",
-        "why": "Die Einführung von Kimi K3 könnte die Marktverhältnisse im KI-Sektor nachhaltig verändern.",
-        "tags": [
-          "kimi",
-          "deepseek"
-        ]
-      },
-      {
-        "title": "Manuelle Kontrollen von KI-Output kosten Finanzteams jede Woche wertvolle Zeit",
-        "url": "https://www.heise.de/news/Manuelle-Kontrollen-von-KI-Output-kosten-Finanzteams-jede-Woche-wertvolle-Zeit-11369574.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-17",
-        "why": "Dieser Artikel beleuchtet die Effizienzverluste, die durch manuelle Kontrollen entstehen.",
-        "tags": [
-          "manuelle kontrolle",
-          "finanzteams"
-        ]
-      },
-      {
-        "title": "API-Zugang für Truth Social: Schnellerer Zugang zu Trumps Beiträgen gegen Geld",
-        "url": "https://www.heise.de/news/API-Zugang-fuer-Truth-Social-Schnellerer-Zugang-zu-Trumps-Beitraegen-gegen-Geld-11368703.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-17",
-        "why": "Die Monetarisierung von Social Media-Inhalten könnte neue Geschäftsmöglichkeiten für Unternehmen schaffen.",
-        "tags": [
-          "api-zugang",
-          "social media"
-        ]
-      },
-      {
-        "title": "E-Mail, SMS, Messenger: Niedersachsen will als erstes Land Archivpflicht lockern",
-        "url": "https://www.heise.de/news/E-Mail-SMS-Messenger-Niedersachsen-will-als-erstes-Land-Archivpflicht-lockern-11355092.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-17",
-        "why": "Die Lockerung der Archivpflicht könnte Auswirkungen auf die Datenverwaltung in Unternehmen haben.",
-        "tags": [
-          "niedersachsen",
-          "archivpflicht"
-        ]
-      },
-      {
-        "title": "Vorsicht, Kunde: Defekte Neuware erhalten? So setzen Sie Ihre Ansprüche durch",
-        "url": "https://www.heise.de/news/Vorsicht-Kunde-Defekte-Neuware-erhalten-So-setzen-Sie-Ihre-Ansprueche-durch-11369360.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-17",
-        "why": "Wichtige Informationen zu Verbraucherrechten, die Unternehmen beachten sollten.",
-        "tags": [
-          "neuware",
-          "verbraucherrechte"
+          "KI",
+          "Innovation"
         ]
       }
     ],
     "action_items": [
-      "Überprüfen Sie die aktuellen Nutzungslimits Ihrer KI-Tools und kalkulieren Sie die Kosten für Änderungen.",
-      "Planen Sie Schulungen für Mitarbeiter zur Nutzung von KI-Tools zur Verbesserung der Effizienz.",
-      "Erforschen Sie lokale KI-Serverlösungen, um den Datenschutz in Ihrem Unternehmen zu stärken.",
-      "Implementieren Sie automatisierte Kontrollen für KI-Outputs, um Zeit und Ressourcen zu sparen.",
-      "Analysieren Sie die aktuellen KI-Strategien Ihres Unternehmens und identifizieren Sie Verbesserungspotenziale."
+      "Überprüfen Sie die aktuellen KI-Modelle in Ihrer Praxis und evaluieren Sie deren Zuverlässigkeit.",
+      "Informieren Sie sich über lokale Hosting-Lösungen für KI-Modelle und deren Vorteile.",
+      "Erstellen Sie einen Plan für Schulungen zu Vibe-Coding in Ihrem Unternehmen.",
+      "Analysieren Sie, wie Ihr Unternehmen von den neuen KI-Tools profitieren kann und implementieren Sie diese.",
+      "Erforschen Sie Möglichkeiten zur Integration nachhaltiger Praktiken in Ihre E-Mobilitätsstrategie."
     ]
   },
   "raw_articles": [
+    {
+      "title": "Wer Röntgenbilder von Chatbots auswerten lässt, riskiert selbstbewusste Fehldiagnosen",
+      "url": "https://the-decoder.de/wer-roentgenbilder-von-chatbots-auswerten-laesst-riskiert-selbstbewusste-fehldiagnosen/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-19T07:11:20+00:00",
+      "summary": "Der Benchmark RadLE 2.0 prüft, ob KI-Modelle in der Radiologie erkennen, wann sie eine Diagnose besser einem Menschen überlassen. Viele Modelle liefern falsche Befunde mit voller Überzeugung, menschliche Radiologen liegen deutlich vorn. Bevor KI eigenständig diagnostiziert, müsse sie lernen, wann sie besser schweigt. Der Artikel Wer Röntgenbilder von Chatbots auswerten lässt, riskiert selbstbewusste Fehldiagnosen erschien zuerst auf The Decoder .",
+      "keywords": [
+        "röntgenbilder",
+        "chatbots",
+        "auswerten",
+        "lässt",
+        "riskiert",
+        "selbstbewusste"
+      ]
+    },
+    {
+      "title": "Missing Link: Was ist eigentlich aus Cryptopartys geworden?",
+      "url": "https://www.heise.de/hintergrund/Missing-Link-Was-ist-eigentlich-aus-Cryptopartys-geworden-11366070.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-19T06:22:00+00:00",
+      "summary": "Cryptopartys waren die Antwort auf die Snowden-Enthüllungen. Doch was ist aus der Bewegung geworden und wie hat sich der Kampf für digitale Freiheit gewandelt?",
+      "keywords": [
+        "cryptopartys",
+        "geworden",
+        "missing",
+        "link",
+        "eigentlich",
+        "waren"
+      ]
+    },
+    {
+      "title": "heise+ | Postkarten-Apps im Test: Persönliche Urlaubsgrüße erstellen und verschicken",
+      "url": "https://www.heise.de/tests/Postkarten-Apps-im-Test-Persoenliche-Urlaubsgruesse-erstellen-und-verschicken-11347859.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-19T06:00:00+00:00",
+      "summary": "Postkarten-Apps schlagen die Brücke zwischen analoger und digitaler Welt. Wir haben mit fünf Apps für Android getestet, wie gut das in der Praxis funktioniert.",
+      "keywords": [
+        "postkarten-apps",
+        "heise",
+        "test",
+        "persönliche",
+        "urlaubsgrüße",
+        "erstellen"
+      ]
+    },
+    {
+      "title": "(g+) Anime.js 4: Wenn Animation zur Architektur wird",
+      "url": "https://www.golem.de/news/anime-js-4-wenn-animation-zur-architektur-wird-2607-210823.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-19T08:00:02+00:00",
+      "summary": "Von Timelines über Scroll-Animationen bis zu React und Three.js: Anime.js entwickelt sich zum modularen Animationssystem für moderne Weboberflächen. Eine Anleitung von Fabian Deitelhoff ( Spannendes Web , Javascript )",
+      "keywords": [
+        "anime",
+        "wenn",
+        "animation",
+        "architektur",
+        "wird",
+        "timelines"
+      ]
+    },
+    {
+      "title": "Adieu Palantir: Berlin und Paris planen eigenes digitales Rückgrat",
+      "url": "https://www.heise.de/news/Adieu-Palantir-Berlin-und-Paris-planen-eigenes-digitales-Rueckgrat-11369880.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-18T16:28:00+00:00",
+      "summary": "Mit neuen KI-Sicherheitsinstituten und gemeinsamer Rüstungs-IT wollen Deutschland und Frankreich die Abhängigkeit von US-Technologie deutlich reduzieren.",
+      "keywords": [
+        "adieu",
+        "palantir",
+        "berlin",
+        "paris",
+        "planen",
+        "eigenes"
+      ]
+    },
+    {
+      "title": "Indiens erste private entwickelte Trägerrakete gestartet",
+      "url": "https://www.heise.de/news/Indiens-erste-private-entwickelte-Traegerrakete-gestartet-11369894.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-18T16:15:00+00:00",
+      "summary": "Mit der Vikram-1 betritt Indien als drittes Land die Bühne privater Starts von Trägerraketen. Was macht die Rakete und ihre Mission „Aagman“ so besonders?",
+      "keywords": [
+        "indiens",
+        "erste",
+        "private",
+        "entwickelte",
+        "trägerrakete",
+        "gestartet"
+      ]
+    },
+    {
+      "title": "Fitbit Air vs. Whoop: Kann Googles 99-Euro-Tracker mit dem Profi-Armband mithalten?",
+      "url": "https://t3n.de/news/fitbit-air-vs-whoop-test-vergleich-1751700/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-07-19T07:40:00+00:00",
+      "summary": "Das Whoop ist bei Sport-Influencer:innen und Profis beliebt, allerdings an ein teures Abomodell gekoppelt. Mit dem Fitbit Air hat Google eine Alternative für unter 100 Euro im Angebot. Kann das Armband mithalten? Wir haben es angelegt. weiterlesen auf t3n.de",
+      "keywords": [
+        "fitbit",
+        "whoop",
+        "kann",
+        "mithalten",
+        "googles",
+        "99-euro-tracker"
+      ]
+    },
+    {
+      "title": "Recycling-Durchbruch: Japanisches Unternehmen löst das Lithium-Problem der E-Mobilität",
+      "url": "https://t3n.de/news/lithium-recycling-e-auto-akkus-japan-durchbruch-1752838/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-07-19T07:10:00+00:00",
+      "summary": "Elektroautos gelten als Schlüssel für eine saubere Mobilität, doch am Ende ihrer Lebensdauer offenbart sich ein massives Problem. Bisherige Methoden zur Wiederverwertung zentraler Rohstoffe stoßen schnell an physikalische Grenzen. weiterlesen auf t3n.de",
+      "keywords": [
+        "recycling-durchbruch",
+        "japanisches",
+        "unternehmen",
+        "löst",
+        "lithium-problem",
+        "e-mobilität"
+      ]
+    },
+    {
+      "title": "OpenAI-Überläufer: Apple nimmt weitere Ex-Beschäftigte  ins Visier",
+      "url": "https://www.heise.de/news/OpenAI-Ueberlaeufer-Apple-nimmt-weitere-Ex-Beschaeftigte-ins-Visier-11369834.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-18T15:18:00+00:00",
+      "summary": "Mehrere Dutzend ehemalige Apple-Beschäftigte sollen Geschäftsgeheimnisse an OpenAI weitergegeben haben. Sie bekamen Post von Apple.",
+      "keywords": [
+        "apple",
+        "openai-überläufer",
+        "nimmt",
+        "weitere",
+        "ex-beschäftigte",
+        "visier"
+      ]
+    },
+    {
+      "title": "Whatsapp bekommt Geburtstagserinnerungen: So aktivierst du sie",
+      "url": "https://t3n.de/news/whatsapp-geburtstagserinnerungen-aktivieren-1752836/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-07-19T06:30:00+00:00",
+      "summary": "In Zukunft will dir Whatsapp unter die Arme greifen und dich daran erinnern, wenn jemand aus deinen Kontakten Geburtstag hat. Warum du dafür noch ein paar Vorkehrungen treffen musst. weiterlesen auf t3n.de",
+      "keywords": [
+        "whatsapp",
+        "bekommt",
+        "geburtstagserinnerungen",
+        "aktivierst",
+        "zukunft",
+        "will"
+      ]
+    },
+    {
+      "title": "KI als Hobbygärtner: Warum bei diesem Projekt 4 Modelle darüber abstimmen, ob eine Pflanze Wasser braucht",
+      "url": "https://t3n.de/news/ki-tomaten-farm-1752949/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-07-19T06:00:25+00:00",
+      "summary": "Eigene Tomatenpflanzen sind nicht ungewöhnlich. Diese hier werden allerdings von drei KI-Modellen großgezogen. Dahinter steckt ein Hobbyprojekt, das laut dem Ma weiterlesen auf t3n.de",
+      "keywords": [
+        "hobbygärtner",
+        "warum",
+        "diesem",
+        "projekt",
+        "modelle",
+        "darüber"
+      ]
+    },
+    {
+      "title": "Amazfit Cheetah 2 Pro im Test: Ist die Sportuhr besser als Garmin?",
+      "url": "https://www.heise.de/bestenlisten/testbericht/amazfit-cheetah-2-pro-im-test-ist-die-sportuhr-besser-als-garmin/z0tgk40?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-18T14:00:00+00:00",
+      "summary": "Die Amazfit Cheetah Pro gehört zu den besten Amazfit-Sportuhren. Ob der Nachfolger Cheetah 2 Pro sinnvolle Verbesserungen bringt, klären wir im Test.",
+      "keywords": [
+        "cheetah",
+        "amazfit",
+        "test",
+        "sportuhr",
+        "besser",
+        "garmin"
+      ]
+    },
+    {
+      "title": "Kein USB-Stick zur Hand? So verschiebst du ganz einfach Daten von einem PC zum anderen",
+      "url": "https://t3n.de/news/daten-pc-verschieben-ohne-usb-stick-1752638/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-07-19T05:00:11+00:00",
+      "summary": "Wer Daten von einem PC zum anderen transferieren will, greift häufig zu externen Datenträgern wie USB-Sticks. Doch was, wenn du keinen Speicher griffbereit hast? Dann gibt es noch weitere Methoden, um die Daten zu übertragen. weiterlesen auf t3n.de",
+      "keywords": [
+        "daten",
+        "anderen",
+        "kein",
+        "usb-stick",
+        "hand",
+        "verschiebst"
+      ]
+    },
+    {
+      "title": "Anzeige: IT-Jobs in Sicherheit, Administration und Entwicklung",
+      "url": "https://www.golem.de/news/anzeige-it-jobs-in-sicherheit-administration-und-entwicklung-2607-210993.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-19T05:00:02+00:00",
+      "summary": "Von Informationssicherheit über IT-Betrieb bis Netzwerktechnik - sechs IT-Jobs mit vielseitigen Aufgaben und moderner Technik. ( Golem Karrierewelt , Unternehmenssoftware )",
+      "keywords": [
+        "it-jobs",
+        "anzeige",
+        "sicherheit",
+        "administration",
+        "entwicklung",
+        "informationssicherheit"
+      ]
+    },
+    {
+      "title": "QR-Code auf dem Smartphone-Bildschirm: So scannt ihr ihn auch ohne ein zweites Gerät",
+      "url": "https://t3n.de/news/qr-code-auf-smartphone-scannen-trick-1711476/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-07-19T04:00:00+00:00",
+      "summary": "Ein QR-Code auf dem Handy stellt selbst erfahrene Smartphone-User:innen womöglich vor eine Herausforderung. Wie kann der gespeicherte Code auch ohne eine zweite Handykamera gescannt werden? Sowohl Android-Smartphones als auch iPhones bieten hierfür nützliche Funktionen. weiterlesen auf t3n.de",
+      "keywords": [
+        "auch",
+        "qr-code",
+        "ohne",
+        "smartphone-bildschirm",
+        "scannt",
+        "zweites"
+      ]
+    },
+    {
+      "title": "Solar-Förderung: Reiche lenkt bei EEG-Plänen für kleine Anlagen ein",
+      "url": "https://www.heise.de/news/Oekostrom-vom-eigenen-Dach-Reiche-mildert-Einschnitte-ab-11369772.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-18T11:44:00+00:00",
+      "summary": "Nach monatelangem Vorlauf legt das Bundeswirtschaftsministerium einen neuen Entwurf des Erneuerbare-Energien-Gesetzes vor. Teils wurde nachgebessert.",
+      "keywords": [
+        "solar-förderung",
+        "reiche",
+        "lenkt",
+        "eeg-plänen",
+        "kleine",
+        "anlagen"
+      ]
+    },
+    {
+      "title": "heise-Angebot: c’t-Webinar: Energiekosten senken mit dem Elektroauto",
+      "url": "https://www.heise.de/news/c-t-Webinar-Energiekosten-senken-mit-dem-Elektroauto-11351733.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-18T11:00:00+00:00",
+      "summary": "Wer ein E-Auto besitzt, kann damit nicht nur fahren, sondern auch Stromkosten senken. Das Webinar zeigt, welche Konzepte sich heute tatsächlich rechnen.",
+      "keywords": [
+        "senken",
+        "heise-angebot",
+        "t-webinar",
+        "energiekosten",
+        "elektroauto",
+        "e-auto"
+      ]
+    },
+    {
+      "title": "China positioniert sich mit massiver KI-Initiative als Gegenpol zum Westen",
+      "url": "https://the-decoder.de/china-positioniert-sich-mit-massiver-ki-initiative-als-gegenpol-zum-westen/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-18T10:41:04+00:00",
+      "summary": "Xi Jinping hat auf der World AI Conference in Shanghai 5000 KI-Trainingsplätze für Länder des Globalen Südens angekündigt und die Gründung der \"World Artificial Intelligence Cooperation Organization\" verkündet. Kooperationszentren mit ASEAN, Afrikanischer Union, BRICS und weiteren Bündnissen sollen folgen. China baut sich damit systematisch als Gegenpol zur westlichen KI-Governance auf. Der Artikel China positioniert sich mit massiver KI-Initiative als Gegenpol zum Westen erschien zuerst auf The Decoder .",
+      "keywords": [
+        "china",
+        "sich",
+        "gegenpol",
+        "positioniert",
+        "massiver",
+        "ki-initiative"
+      ]
+    },
+    {
+      "title": "Offene KI-Modelle werden billiger und gefährlicher: Zeitfenster für Cyber-Verteidiger schrumpft",
+      "url": "https://the-decoder.de/offene-ki-modelle-werden-billiger-und-gefaehrlicher-zeitfenster-fuer-cyber-verteidiger-schrumpft/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-18T09:51:02+00:00",
+      "summary": "Das britische AI Security Institute zeigt: Open-Weight-Modelle wie GLM-5.2 und DeepSeek V4-Pro liegen bei Cyber-Fähigkeiten nur noch vier bis sieben Monate hinter geschlossenen Frontier-Modellen. Anfang 2025 waren es noch bis zu zehn Monate. Sicherheitsvorkehrungen offener Modelle erwiesen sich weitgehend als wirkungslos. Das Zeitfenster, in dem Verteidiger sich vorbereiten können, wird spürbar enger. Der Artikel Offene KI-Modelle werden billiger und gefährlicher: Zeitfenster für Cyber-Verteidiger schrumpft erschien zuerst auf The Decoder .",
+      "keywords": [
+        "zeitfenster",
+        "offene",
+        "ki-modelle",
+        "werden",
+        "billiger",
+        "gefährlicher"
+      ]
+    },
+    {
+      "title": "Verbraucherschützer gegen Social-Media-Verbot für Kinder",
+      "url": "https://www.heise.de/news/Verbraucherschuetzer-gegen-Social-Media-Verbot-fuer-Kinder-11369746.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-18T09:11:00+00:00",
+      "summary": "Statt einem Verbot sollten Funktionen wie Autoplay härter reguliert werden, sagen die Verbraucherzentralen. Das würden auch junge Menschen so sehen.",
+      "keywords": [
+        "verbraucherschützer",
+        "gegen",
+        "social-media-verbot",
+        "kinder",
+        "statt",
+        "verbot"
+      ]
+    },
+    {
+      "title": "Wer schneller lernt, gewinnt: US-Militär will bei KI lieber sofort handeln als auf perfekte Systeme warten",
+      "url": "https://the-decoder.de/wer-schneller-lernt-gewinnt-us-militaer-will-bei-ki-lieber-sofort-handeln-als-auf-perfekte-systeme-warten/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-18T07:43:40+00:00",
+      "summary": "Das US-Marineministerium hat eine Strategie zur \"Weaponization\" von Daten und KI unterzeichnet, um eine \"AI-First\"-Flotte aufzubauen. Große Sprachmodelle sollen direkt auf Kriegsschiffen laufen, ein KI-Kriegsrat Einsatzfälle priorisieren. Die Kernbotschaft: Die Risiken zu langsamen Handelns seien größer als die einer \"unvollkommenen Ausrichtung\" der Systeme. Der Artikel Wer schneller lernt, gewinnt: US-Militär will bei KI lieber sofort handeln als auf perfekte Systeme warten erschien zuerst auf The Decoder .",
+      "keywords": [
+        "systeme",
+        "schneller",
+        "lernt",
+        "gewinnt",
+        "us-militär",
+        "will"
+      ]
+    },
     {
       "title": "Anthropic kürzt Claude-Fable-5-Limits drastisch, Pro-Nutzer müssen bald API-Preise zahlen",
       "url": "https://the-decoder.de/anthropic-kuerzt-claude-fable-5-limits-drastisch-pro-nutzer-muessen-bald-api-preise-zahlen/",
@@ -286,6 +617,22 @@
       ]
     },
     {
+      "title": "Grok-Skandal: xAI verklagt Nutzer wegen der Erstellung sexualisierender Deepfakes",
+      "url": "https://t3n.de/news/grok-skandal-xai-verklagt-nutzer-wegen-der-erstellung-sexualisierender-deepfakes-1753539/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-07-18T20:05:30+00:00",
+      "summary": "Ende 2025 wurde der Chatbot massenhaft genutzt, um Personen mithilfe von KI in missbräuchlicher Weise darzustellen. Vor allem Frauen waren betroffen, zahlreiche Bilder zeigten aber auch Jugendliche und Kinder. weiterlesen auf t3n.de",
+      "keywords": [
+        "grok-skandal",
+        "verklagt",
+        "nutzer",
+        "wegen",
+        "erstellung",
+        "sexualisierender"
+      ]
+    },
+    {
       "title": "KI lokal nutzen: LLMs und KI-Agenten ganz ohne OpenAI &  Anthropic | c’t uplink",
       "url": "https://www.heise.de/news/KI-lokal-nutzen-LLMs-und-KI-Agenten-ganz-ohne-OpenAI-Anthropic-c-t-uplink-11367246.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "Heise Online (Hauptfeed)",
@@ -302,435 +649,83 @@
       ]
     },
     {
-      "title": "Anthropic braucht dringend Rechenleistung und klopft jetzt auch bei Meta an",
-      "url": "https://the-decoder.de/anthropic-braucht-dringend-rechenleistung-und-klopft-jetzt-auch-bei-meta-an/",
-      "source": "The Decoder",
-      "lang": "de",
-      "published": "2026-07-17T21:16:00+00:00",
-      "summary": "Meta verhandelt Berichten zufolge mit Anthropic über die Vermietung von Rechenleistung aus seinen Rechenzentren. Der Artikel Anthropic braucht dringend Rechenleistung und klopft jetzt auch bei Meta an erschien zuerst auf The Decoder .",
-      "keywords": [
-        "anthropic",
-        "rechenleistung",
-        "meta",
-        "braucht",
-        "dringend",
-        "klopft"
-      ]
-    },
-    {
-      "title": "OpenAIs GPT-5.6 hat in einer Handvoll Fälle ungewollt eigenständig Dateien gelöscht",
-      "url": "https://the-decoder.de/openais-gpt-5-6-hat-in-einer-handvoll-faelle-ungewollt-eigenstaendig-dateien-geloescht/",
-      "source": "The Decoder",
-      "lang": "de",
-      "published": "2026-07-17T19:30:52+00:00",
-      "summary": "OpenAIs GPT-5.6 hat in mehreren Fällen unbeabsichtigt komplette Home-Verzeichnisse von Nutzern gelöscht, besonders im ungeschützten \"Full Access Mode\". Das Modell überschreibt dabei eine temporäre Verzeichnisvariable und führt zerstörerische Aktionen eigenständig aus, statt nachzufragen. OpenAI kündigt zusätzliche Schutzmaßnahmen und eine ausführliche Fehleranalyse an. Der Artikel OpenAIs GPT-5.6 hat in einer Handvoll Fälle ungewollt eigenständig Dateien gelöscht erschien zuerst auf The Decoder .",
-      "keywords": [
-        "openais",
-        "gpt-5",
-        "eigenständig",
-        "gelöscht",
-        "handvoll",
-        "fälle"
-      ]
-    },
-    {
-      "title": "Top 10: Die besten Poolroboter mit Akku im Test – Aiper vor Wybot und Mammotion",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-poolroboter-mit-akku-im-test-aiper-vor-wybot-und-mammotion/c9wkf56?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-17T18:00:00+00:00",
-      "summary": "Poolroboter halten Wasser sowie Becken sauber und sparen Zeit. Wir zeigen die besten Modelle aus unseren Tests von Aiper, Wybot, Mammotion & Co.",
-      "keywords": [
-        "besten",
-        "poolroboter",
-        "aiper",
-        "wybot",
-        "mammotion",
-        "akku"
-      ]
-    },
-    {
-      "title": "Wie schon bei Deepseek: Chinas Kimi K3 erschüttert den westlichen KI-Konsens",
-      "url": "https://the-decoder.de/wie-schon-bei-deepseek-chinas-kimi-k3-erschuettert-den-westlichen-ki-konsens/",
-      "source": "The Decoder",
-      "lang": "de",
-      "published": "2026-07-17T17:27:07+00:00",
-      "summary": "Moonshot AI hat mit Kimi K3 ein Modell veröffentlicht, das laut ersten Einschätzungen auf dem Niveau von Anthropics Opus 4.8 liegt – mit einem Team von nur 300 Leuten. Selbst OpenAI-Stratege Dean W. Ball nennt es \"sehr gut\", warnt aber vor einer Open-Weight-Welt als \"KI-Kommunismus\". Die Debatte um die Bedeutung von Rechenleistung und die Wirksamkeit der US-Exportkontrollen flammt erneut auf. Der Artikel Wie schon bei Deepseek: Chinas Kimi K3 erschüttert den westlichen KI-Konsens erschien zuerst auf The Decoder .",
-      "keywords": [
-        "kimi",
-        "schon",
-        "deepseek",
-        "chinas",
-        "erschüttert",
-        "westlichen"
-      ]
-    },
-    {
-      "title": "Manuelle Kontrollen von KI-Output kosten Finanzteams jede Woche wertvolle Zeit",
-      "url": "https://www.heise.de/news/Manuelle-Kontrollen-von-KI-Output-kosten-Finanzteams-jede-Woche-wertvolle-Zeit-11369574.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-17T16:04:00+00:00",
-      "summary": "Laut einer Studie im Auftrag von Sage werden mühsam mit KI gewonnene Effizienzgewinne durch den Aufwand bei der händischen Prüfung häufig wieder aufgefressen.",
-      "keywords": [
-        "manuelle",
-        "kontrollen",
-        "ki-output",
-        "kosten",
-        "finanzteams",
-        "jede"
-      ]
-    },
-    {
-      "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
-      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11363727.html",
-      "source": "Heise iX (Magazin-Feed)",
-      "lang": "de",
-      "published": "2026-07-18T07:11:00+00:00",
-      "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Git Browser, Microsoft, Mirantis, Google, Flux, JetBrains, W3C, Gradle und OllyGarden.",
-      "keywords": [
-        "developer-häppchen",
-        "fürs",
-        "wochenende",
-        "kleinere",
-        "news",
-        "woche"
-      ]
-    },
-    {
-      "title": "Observability als Engineering-Problem: Weniger sammeln, mehr verstehen",
-      "url": "https://www.heise.de/hintergrund/Observability-als-Engineering-Problem-Weniger-sammeln-mehr-verstehen-11362984.html",
-      "source": "Heise iX (Magazin-Feed)",
-      "lang": "de",
-      "published": "2026-07-18T07:05:00+00:00",
-      "summary": "Zwei OpenTelemetry-Experten erklären, warum zu viele Daten schaden – und wie ein Top-down-Ansatz die Zuverlässigkeit der Observability rettet.",
-      "keywords": [
-        "observability",
-        "engineering-problem",
-        "weniger",
-        "sammeln",
-        "mehr",
-        "verstehen"
-      ]
-    },
-    {
-      "title": "Internet aus 18 Kilometern Höhe: „Silberpfeil&quot; soll im August über Japan funken",
-      "url": "https://t3n.de/news/silberpfeil-flugplattform-internet-stratosphaere-japan-1752238/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "title": "Präsentation in Minuten, Recherche ohne Umwege: Die 6 besten KI-Tools für die Arbeit",
+      "url": "https://t3n.de/news/6-ki-tools-arbeit-1753149/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
       "source": "t3n Digital Pioneers",
       "lang": "de",
-      "published": "2026-07-18T06:50:00+00:00",
-      "summary": "Mehrere Unternehmen entwickeln Flugplattform, die Internetzugang oder Erdbeobachtung ermöglichen sollen. Ihre besondere Position dafür ist die Stratosphäre. Das hat Vorteile, stellt die Fluggeräte aber auch vor besondere Herausforderungen. weiterlesen auf t3n.de",
+      "published": "2026-07-18T16:05:00+00:00",
+      "summary": "Eine Suchmaschine, die wirklich verlässliche Antworten gibt, oder ein Tool, das in Minuten eine Präsentation erstellt: wir stellen KI-Lösungen für viele Aufgabe weiterlesen auf t3n.de",
       "keywords": [
-        "besondere",
-        "internet",
-        "kilometern",
-        "höhe",
-        "silberpfeil",
-        "quot"
-      ]
-    },
-    {
-      "title": "Girocards neue Funktion: Hotels und Autovermietungen brauchen bald keine Kreditkarte mehr",
-      "url": "https://t3n.de/news/girocard-neue-funktion-hotels-autovermietungen-keine-kreditkarte-1752570/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "lang": "de",
-      "published": "2026-07-18T06:15:00+00:00",
-      "summary": "Kautionen und Reservierungsgarantien lassen sich mit der Girocard bislang nur schwer abwickeln, weil Beträge nicht flexibel blockiert werden können, ohne sie gleich abzubuchen. Eine technische Erweiterung des Zahlungssystems soll diese Lücke schließen. weiterlesen auf t3n.de",
-      "keywords": [
-        "girocards",
-        "neue",
-        "funktion",
-        "hotels",
-        "autovermietungen",
-        "brauchen"
-      ]
-    },
-    {
-      "title": "Vorsicht, Kunde: Defekte Neuware erhalten? So setzen Sie Ihre Ansprüche durch",
-      "url": "https://www.heise.de/news/Vorsicht-Kunde-Defekte-Neuware-erhalten-So-setzen-Sie-Ihre-Ansprueche-durch-11369360.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-17T14:35:00+00:00",
-      "summary": "Wer Neuware ordert und beschädigte oder gebrauchte erhält, hat Anspruch auf Ersatz. Doch nicht jede schon mal ausgepackte Ware gilt rechtlich als gebraucht.",
-      "keywords": [
-        "neuware",
-        "vorsicht",
-        "kunde",
-        "defekte",
-        "erhalten",
-        "setzen"
-      ]
-    },
-    {
-      "title": "E-Mail, SMS, Messenger: Niedersachsen will als erstes Land Archivpflicht lockern",
-      "url": "https://www.heise.de/news/E-Mail-SMS-Messenger-Niedersachsen-will-als-erstes-Land-Archivpflicht-lockern-11355092.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-17T14:28:00+00:00",
-      "summary": "Die rot-grüne Landesregierung überarbeitet derzeit das Archivrecht. Fachleute befürchten, dass Verwaltungsvorgänge dadurch intransparenter werden könnten.",
-      "keywords": [
-        "e-mail",
-        "messenger",
-        "niedersachsen",
-        "will",
-        "erstes",
-        "land"
-      ]
-    },
-    {
-      "title": "KI am Arbeitsmarkt: Nicht nur Gen Z – auch Beschäftigte vor der Rente betroffen",
-      "url": "https://t3n.de/news/ki-arbeitsmarkt-gen-z-rente-jobs-verdraengt-1752438/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "lang": "de",
-      "published": "2026-07-18T05:45:00+00:00",
-      "summary": "Ein Forscher des Center for Retirement Research hat untersucht, wie sich der Arbeitsmarkt für ältere Mitarbeiter:innen seit der Einführung von ChatGPT verändert hat – und kommt zu einem ernüchternden Ergebnis. weiterlesen auf t3n.de",
-      "keywords": [
-        "arbeitsmarkt",
-        "nicht",
-        "auch",
-        "beschäftigte",
-        "rente",
-        "betroffen"
-      ]
-    },
-    {
-      "title": "Amazons Alexa+ im Test: Damit hätte Captain Kirk die USS Enterprise nicht steuern können",
-      "url": "https://www.golem.de/news/amazons-alexa-im-test-damit-haette-captain-kirk-die-uss-enterprise-nicht-steuern-koennen-2607-210898.html",
-      "source": "Golem.de (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-18T05:30:01+00:00",
-      "summary": "Für Amazon war die Sprachsteuerung auf dem Raumschiff USS Enterprise die Vorlage für Alexa. Wir zeigen, wie weit Alexa+ davon noch entfernt ist. Ein Test von Ingo Pakalski ( Amazon Alexa , KI )",
-      "keywords": [
-        "alexa",
-        "test",
-        "enterprise",
-        "amazon",
-        "amazons",
-        "damit"
-      ]
-    },
-    {
-      "title": "Stromspeicher Anker Solarbank 4 Pro im Test: für ein Balkonkraftwerk zu schade",
-      "url": "https://www.heise.de/bestenlisten/testbericht/stromspeicher-anker-solarbank-4-pro-im-test-fuer-ein-balkonkraftwerk-zu-schade/g4gf1v6?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-17T14:00:00+00:00",
-      "summary": "Die Anker Solarbank 4 Pro bietet eine PV-Eingangsleistung von 5000 Watt und kann bis zu 2500 Watt einspeisen. Was sie sonst noch leistet, zeigt der Test.",
-      "keywords": [
-        "anker",
-        "solarbank",
-        "test",
-        "watt",
-        "stromspeicher",
-        "balkonkraftwerk"
-      ]
-    },
-    {
-      "title": "25 Jahre digitales Leben einfach weg: Was ein Hack mit deinem Microsoft-Konto anrichten kann",
-      "url": "https://t3n.de/news/streamer-verliert-microsoft-konto-hack-25-jahre-daten-1752992/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "lang": "de",
-      "published": "2026-07-18T05:25:00+00:00",
-      "summary": "Ein gesperrtes Microsoft-Konto sorgt aktuell für Trauer und Wut bei einem Streamer. Er hatte das Konto zunächst durch einen Hackerangriff verloren. Obwohl er beweisen konnte, dass ihm der Account gehört, wurden jetzt sämtliche Daten unwiederbringlich gelöscht. weiterlesen auf t3n.de",
-      "keywords": [
-        "microsoft-konto",
-        "jahre",
-        "digitales",
-        "leben",
-        "einfach",
-        "hack"
-      ]
-    },
-    {
-      "title": "ChatGPT auf Whatsapp: So nutzt du den KI-Chatbot ab sofort",
-      "url": "https://t3n.de/news/chatgpt-whatsapp-nutzen-1752976/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "lang": "de",
-      "published": "2026-07-18T05:10:00+00:00",
-      "summary": "Ein Kartellverfahren der Europäischen Kommission hat Meta dazu gezwungen, die Messaging-App wieder für KI von Drittanbietern zu öffnen. Der Tech-Konzern hat angekündigt, gegen die Entscheidung vorzugehen. weiterlesen auf t3n.de",
-      "keywords": [
-        "chatgpt",
-        "whatsapp",
-        "nutzt",
-        "ki-chatbot",
-        "sofort",
-        "kartellverfahren"
-      ]
-    },
-    {
-      "title": "Projektmanagement ohne US-Tech: 4 starke gratis Alternativen aus Europa",
-      "url": "https://t3n.de/news/projektmanagement-alternativen-us-tech-europa-kostenlos-1726731/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "lang": "de",
-      "published": "2026-07-18T04:35:00+00:00",
-      "summary": "Der Markt für Projektmanagement-Tools wird von US-Firmen dominiert. Wir zeigen euch drei Alternativen aus Europa und ein Offline-Tool für Freelancer und kleine weiterlesen auf t3n.de",
-      "keywords": [
-        "alternativen",
-        "europa",
-        "projektmanagement",
+        "präsentation",
+        "minuten",
+        "recherche",
         "ohne",
-        "us-tech",
-        "starke"
+        "umwege",
+        "besten"
       ]
     },
     {
-      "title": "Moonshot AI präsentiert Kimi K3: Chinas Antwort auf OpenAI und Anthropic",
-      "url": "https://www.heise.de/news/Chinas-neuer-KI-Riese-Moonshot-AI-fordert-US-Dominanz-heraus-11369310.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-17T12:58:00+00:00",
-      "summary": "Chinas KI-Start-up Moonshot AI setzt die USA mit seinem neuen Sprachmodell unter Druck. Wie reagieren Washington und das Silicon Valley auf den Wettbewerb?",
-      "keywords": [
-        "moonshot",
-        "chinas",
-        "präsentiert",
-        "kimi",
-        "antwort",
-        "openai"
-      ]
-    },
-    {
-      "title": "WLAN-Call im Urlaub: Warum du diese Funktion jetzt deaktivieren solltest",
-      "url": "https://t3n.de/news/wlan-call-urlaub-kostenfalle-deaktivieren-1752515/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "title": "Nostalgie aus 700 Teilen: Lego könnte Apples kultigsten Computer nachbauen",
+      "url": "https://t3n.de/news/lego-apple-700-teile-1753144/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
       "source": "t3n Digital Pioneers",
       "lang": "de",
-      "published": "2026-07-18T04:05:00+00:00",
-      "summary": "Wer im Urlaub Anrufe tätigt, verlässt sich dabei oft auf eine praktische WLAN-Funktion des Smartphones. Allerdings kann das zu hohen Kosten führen, sobald du wieder zu Hause bist. Wie du das vermeidest. weiterlesen auf t3n.de",
+      "published": "2026-07-18T15:10:00+00:00",
+      "summary": "Ein Lego-Fanprojekt hat eine neue Stufe bei seiner Verwirklichung erreicht. Das Unternehmen prüft jetzt genauer, ob ein solches Set umsetzbar wäre. Was Apple-Fans bei einem solchen Lego-Modell erwarten könnte. weiterlesen auf t3n.de",
       "keywords": [
-        "urlaub",
-        "wlan-call",
-        "warum",
-        "diese",
-        "funktion",
+        "könnte",
+        "nostalgie",
+        "teilen",
+        "lego",
+        "apples",
+        "kultigsten"
+      ]
+    },
+    {
+      "title": "Command &amp; Conquer von 2003 läuft jetzt auf iPhone und iPad – dank KI und einem Hobby-Entwickler",
+      "url": "https://t3n.de/news/command-and-conquer-2003-ipad-iphone-1752211/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-07-18T14:40:00+00:00",
+      "summary": "Der Spieleklassiker Command &amp; Conquer: Generäle – Die Stunde Null hat es auf moderne Plattformen geschafft. Dank Claude Fable konnte ein Entwickler das Strategiespiel auf iPads, iPhones und aktuellere Macs portieren. Welche Hindernisse er dabei überwinden musste. weiterlesen auf t3n.de",
+      "keywords": [
+        "command",
+        "conquer",
+        "dank",
+        "2003",
+        "läuft",
         "jetzt"
       ]
     },
     {
-      "title": "heise-Angebot: iX-Workshop: Netzwerkprobleme mit Wireshark analysieren und beheben",
-      "url": "https://www.heise.de/news/iX-Workshop-Netzwerkprobleme-mit-Wireshark-analysieren-und-beheben-11354446.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
+      "title": "Student entdeckt seltsame Welle in Messdaten – und hilft damit, einen Meteoriten zu finden",
+      "url": "https://t3n.de/news/student-welle-meteorit-1752258/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
       "lang": "de",
-      "published": "2026-07-17T12:00:00+00:00",
-      "summary": "Praktische Übungen, Experten-Tipps und fundiertes Wissen: Lernen Sie, wie Sie mit Wireshark Netzwerkprobleme erkennen und beheben.",
+      "published": "2026-07-18T14:05:00+00:00",
+      "summary": "Gesteinsbrocken aus dem All sind keine Seltenheit. Jetzt ist es einem US-Forschungsteam allerdings erstmals gelungen, die Flugbahn des Himmelskörpers allein anhand von Schallwellen und Bodenvibrationen zurückzuverfolgen. weiterlesen auf t3n.de",
       "keywords": [
-        "netzwerkprobleme",
-        "wireshark",
-        "beheben",
-        "heise-angebot",
-        "ix-workshop",
-        "analysieren"
+        "student",
+        "entdeckt",
+        "seltsame",
+        "welle",
+        "messdaten",
+        "hilft"
       ]
     },
     {
-      "title": "Das Quiz rund um künstliche Intelligenz",
-      "url": "https://www.heise.de/hintergrund/Das-Quiz-rund-um-kuenstliche-Intelligenz-11368647.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
+      "title": "Nach Ende von Sora: Erleiden andere Video-KIs das gleiche Schicksal?",
+      "url": "https://t3n.de/news/nach-sora-ende-haben-video-kis-eine-zukunft-1753038/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
       "lang": "de",
-      "published": "2026-07-17T11:51:00+00:00",
-      "summary": "Der Begriff „Künstliche Intelligenz“ wird in diesem Sommer 70. Dazu gibt's bei uns ein Nerdquiz rund um die Anfänge von KI, ChatGPT und Co. Knobeln Sie mit!",
+      "published": "2026-07-18T13:00:02+00:00",
+      "summary": "OpenAIs Sora ist krachend gescheitert. Nun wird es eingestellt. Sind jetzt die anderen Video-KIs in Gefahr, das gleiche Schicksal zu erleiden? weiterlesen auf t3n.de",
       "keywords": [
-        "rund",
-        "künstliche",
-        "intelligenz",
-        "quiz",
-        "begriff",
-        "wird"
-      ]
-    },
-    {
-      "title": "Rechtsstreit Apple vs. OpenAI: Missverständliche E-Mails und andere Probleme",
-      "url": "https://www.heise.de/news/Rechtsstreit-Apple-vs-OpenAI-Missverstaendliche-E-Mails-und-andere-Probleme-11367416.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-17T11:26:00+00:00",
-      "summary": "Apple behauptet in seiner Klage wegen des Diebstahls von Geschäftsgeheimnissen, OpenAI habe nicht reagiert. Dort verweist man nun auf Verwechselungsprobleme.",
-      "keywords": [
-        "apple",
-        "openai",
-        "rechtsstreit",
-        "missverständliche",
-        "e-mails",
-        "andere"
-      ]
-    },
-    {
-      "title": "Monatlich kündbar: Der beste Handyvertrag im Juli – 20 GB im O2-Netz für 5 Euro",
-      "url": "https://www.heise.de/bestenlisten/deals/monatlich-kuendbar-der-beste-handyvertrag-im-juli-20-gb-im-o2-netz-fuer-5-euro/evw1p7e?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-17T11:00:00+00:00",
-      "summary": "75 GB im O2-Netz für 10 Euro, 20 GB für 5 Euro oder 70 GB im Vodafone-Netz für 10 Euro: Das sind die besten monatlich kündbaren Handytarife im Juli 2026.",
-      "keywords": [
-        "euro",
-        "monatlich",
-        "juli",
-        "o2-netz",
-        "kündbar",
-        "beste"
-      ]
-    },
-    {
-      "title": "Linux-Schöpfer Torvalds an KI-Kritiker: Wer ein Problem hat, kann das Projekt forken oder gehen",
-      "url": "https://the-decoder.de/linux-schoepfer-torvalds-an-ki-kritiker-wer-ein-problem-hat-kann-das-projekt-forken-oder-gehen/",
-      "source": "The Decoder",
-      "lang": "de",
-      "published": "2026-07-17T10:57:47+00:00",
-      "summary": "Der Linux-Entwickler Linus Torvalds hat sich unmissverständlich für KI-Werkzeuge in der Linux-Entwicklung ausgesprochen: \"Linux ist keines dieser Anti-KI-Projekte.\" Anlass ist eine Debatte um das agentische KI-Code-Review-Tool Sashiko der Linux Foundation. Wer anderen die Nutzung ausreden wolle, den werde er \"laut ignorieren\", so Torvalds. Der Artikel Linux-Schöpfer Torvalds an KI-Kritiker: Wer ein Problem hat, kann das Projekt forken oder gehen erschien zuerst auf The Decoder .",
-      "keywords": [
-        "torvalds",
-        "linux-schöpfer",
-        "ki-kritiker",
-        "problem",
-        "kann",
-        "projekt"
-      ]
-    },
-    {
-      "title": "mailbox.org erhöht Preise – und verdoppelt Speicher",
-      "url": "https://www.heise.de/news/mailbox-org-erhoeht-Preise-und-verdoppelt-Speicher-11369019.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-17T10:51:00+00:00",
-      "summary": "mailbox.org erhöht ab September 2026 die Preise für Geschäfts- und Privatkunden. Dafür gibt es mehr Speicherplatz.",
-      "keywords": [
-        "mailbox",
-        "erhöht",
-        "preise",
-        "verdoppelt",
-        "speicher",
-        "september"
-      ]
-    },
-    {
-      "title": "Microsoft macht IRC-Client Comic Chat zu Open Source",
-      "url": "https://www.heise.de/news/Microsoft-macht-IRC-Client-Comic-Chat-zu-Open-Source-11368917.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-17T10:45:00+00:00",
-      "summary": "Microsofts IRC-Client aus den 90er-Jahren sollte den „Internet Relay Chat“ mit grafischen Elementen aufpeppen. Nun wird er Open Source.",
-      "keywords": [
-        "irc-client",
-        "chat",
-        "open",
-        "source",
-        "microsoft",
-        "macht"
-      ]
-    },
-    {
-      "title": "Besseres Pairing: Das soll bei Meta-Produkten am iPhone in der EU künftig gehen",
-      "url": "https://www.heise.de/news/Besseres-Pairing-Das-soll-bei-Meta-Produkten-am-iPhone-in-der-EU-kuenftig-gehen-11367394.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-17T10:42:00+00:00",
-      "summary": "Ähnlich wie AirPods und andere Apple-Produkte sollen auch Zubehöranbieter mit dem iPhone kommunizieren. Zu Metas Brillen und VR-Headsets gibt es nun neue Infos.",
-      "keywords": [
-        "iphone",
-        "besseres",
-        "pairing",
-        "soll",
-        "meta-produkten",
-        "künftig"
+        "sora",
+        "erleiden",
+        "video-kis",
+        "gleiche",
+        "schicksal",
+        "ende"
       ]
     }
   ]
