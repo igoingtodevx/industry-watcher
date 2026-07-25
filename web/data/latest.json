@@ -1,736 +1,730 @@
 {
-  "generated_at": "2026-07-24T08:13:25.727276+00:00",
+  "generated_at": "2026-07-25T07:55:06.162646+00:00",
   "brief": {
-    "headline": "OpenAI-Crawler verursacht Datenschutzvorfälle – Auswirkungen auf den Mittelstand",
-    "subheadline": "Zunehmende Sicherheitsbedenken durch KI-gestützte Datenlecks und neue Cloud-Technologien.",
-    "executive_summary": "<p>Diese Woche dominieren Berichte über Datenschutzvorfälle, die durch KI-gestützte Crawler wie die von OpenAI verursacht wurden. Unternehmen wie uniVersa sehen sich mit massiven Sicherheitsrisiken konfrontiert, was die Notwendigkeit für robuste Sicherheitslösungen im Mittelstand unterstreicht. Gleichzeitig zeigt SAP überraschend hohe Cloud-Verträge, was auf eine wachsende Akzeptanz von Cloud-Lösungen hinweist. Neue Entwicklungen in der KI, wie der multimodale Flux 3 von Black Forest Labs, könnten für Unternehmen von Interesse sein, die in der Robotik tätig sind. Der Druck auf Unternehmen, in IT-Sicherheit zu investieren, nimmt zu, da die Gehälter für Security-Experten auf über 90.000 Euro steigen.</p>",
+    "headline": "Anthropic stellt Claude Opus 5 vor: Günstigere KI-Alternative für den Mittelstand",
+    "subheadline": "Neue KI-Modelle bieten Mittelständlern kostengünstige Lösungen zur Automatisierung.",
+    "executive_summary": "<p>Diese Woche präsentierte Anthropic das KI-Modell Claude Opus 5, das in der Leistung mit Fable 5 konkurriert, jedoch nur die Hälfte der Kosten verursacht. Microsoft setzt verstärkt auf eigene KI-Modelle, was die Abhängigkeit von externen Anbietern verringert. Gleichzeitig zeigt eine Cisco-Studie, dass die IT-Infrastruktur vieler deutscher Unternehmen für die Integration von KI aufgerüstet werden muss. Der Batteriehersteller Varta meldete Insolvenz an, was die Herausforderungen in der Lieferkette verdeutlicht. Diese Entwicklungen bieten sowohl Risiken als auch Chancen für den deutschen Mittelstand in der digitalen Transformation.</p>",
     "trends": [
       {
-        "title": "Zunehmende Datenschutzvorfälle durch KI-Crawler",
-        "what": "OpenAI-Crawler haben Kundendaten von uniVersa abgegriffen, was auf Sicherheitslücken hinweist, die durch KI-Technologie entstehen können.",
-        "why": "Mittelständler müssen sich der Risiken bewusst sein und ihre Sicherheitsstrategien anpassen, um Datenlecks zu verhindern.",
+        "title": "Kosteneffiziente KI-Modelle im Aufwind",
+        "what": "Anthropic stellt Claude Opus 5 vor, das Fable 5 in der Leistung übertrifft und nur die Hälfte kostet.",
+        "why": "Mittelständler können durch die Nutzung günstigerer KI-Modelle ihre Automatisierungskosten senken.",
         "signal": "hoch"
       },
       {
-        "title": "Steigende Gehälter für IT-Security-Experten",
-        "what": "Die Gehälter für Security-Experten in Deutschland erreichen 90.000 Euro und mehr, was auf eine hohe Nachfrage hinweist.",
-        "why": "Mittelständler sollten in Fachkräfte investieren, um ihre IT-Sicherheit zu stärken.",
+        "title": "Microsofts Fokus auf eigene KI-Modelle",
+        "what": "Microsoft integriert verstärkt eigene MAI-Modelle in Produkte, um Kosten zu sparen und Unabhängigkeit von externen Anbietern zu gewinnen.",
+        "why": "Für Mittelständler könnte dies eine stabile und kostengünstige Lösung für KI-Anwendungen darstellen.",
         "signal": "hoch"
       },
       {
-        "title": "SAP schließt viele Cloud-Verträge ab",
-        "what": "SAP meldet eine unerwartet hohe Anzahl an Cloud-Verträgen, trotz einer gesenkten Ergebnisprognose.",
-        "why": "Cloud-Lösungen werden zunehmend als kritischer Bestandteil der Unternehmensstrategie angesehen.",
+        "title": "Infrastrukturprobleme mit KI-Integration",
+        "what": "Eine Cisco-Studie zeigt, dass viele deutsche Firmennetzwerke nicht mit den Anforderungen der KI umgehen können.",
+        "why": "Mittelständler müssen in IT-Infrastruktur investieren, um KI erfolgreich zu implementieren.",
+        "signal": "hoch"
+      },
+      {
+        "title": "Varta beantragt Insolvenz",
+        "what": "Der Rückzug von Apple als Großkunde und sinkende Nachfrage führen zur Insolvenz von Varta.",
+        "why": "Dies könnte die Lieferketten für Unternehmen im Elektronikbereich beeinträchtigen.",
         "signal": "mittel"
       },
       {
-        "title": "Neuer Sensorchip gegen Deepfakes",
-        "what": "Ein neuer Sensorchip der ETH Zürich soll Manipulationen von Bild- und Tondaten verhindern.",
-        "why": "Technologien zur Verhinderung von Deepfakes könnten für Unternehmen relevant sein, die ihre Markenintegrität schützen wollen.",
+        "title": "Wachstum der Ladeinfrastruktur für E-Autos",
+        "what": "Das Ladenetz in Deutschland wächst schneller als die Nachfrage, was auf ein Ungleichgewicht hinweist.",
+        "why": "Mittelständler im Automobilsektor sollten die E-Mobilität und Ladeinfrastruktur in ihre Strategien einbeziehen.",
         "signal": "mittel"
       },
       {
-        "title": "Black Forest Labs präsentiert multimodales KI-Modell",
-        "what": "Das neue Modell Flux 3 von Black Forest Labs kann gleichzeitig mit Bild, Video und Audio arbeiten.",
-        "why": "Unternehmen in der Robotik und Medienproduktion könnten von dieser Technologie profitieren.",
+        "title": "Open-Weight-KI als Trend",
+        "what": "Microsoft und Partner lobbyieren für Open-Weight-KI-Modelle, um die Abhängigkeit von teuren Modellen zu reduzieren.",
+        "why": "Für Mittelständler könnte dies eine kostengünstigere und flexiblere Lösung bieten.",
         "signal": "hoch"
       },
       {
-        "title": "Microsoft testet Werbeunterbrechungen im Gaming",
-        "what": "Microsoft plant, Werbung direkt vor Spielsessions anzuzeigen, was neue Monetarisierungsmöglichkeiten eröffnet.",
-        "why": "Mittelständler in der Gaming-Branche sollten diese Entwicklung beobachten, um neue Einnahmequellen zu erschließen.",
+        "title": "Zunehmende Bedeutung von Datenschutz bei KI",
+        "what": "Neue KI-Modelle fordern klare Richtlinien zur Datenverarbeitung und -sicherheit.",
+        "why": "Mittelständler müssen sich anpassen, um Compliance und Datenschutz zu gewährleisten.",
+        "signal": "hoch"
+      },
+      {
+        "title": "Entwicklung neuer Programmiersprachen",
+        "what": "Die neue Programmiersprache Rhombus bietet eine lesbare Syntax und mächtige Makrofunktionen.",
+        "why": "Mittelständler könnten durch den Einsatz solcher Sprachen die Effizienz in der Softwareentwicklung steigern.",
         "signal": "mittel"
-      },
-      {
-        "title": "Varta vor Insolvenz",
-        "what": "Varta steht aufgrund von Problemen mit Apple und der allgemeinen Geschäftslage vor der Insolvenz.",
-        "why": "Mittelständler sollten ihre Abhängigkeiten von Großkunden überprüfen, um ähnliche Risiken zu vermeiden.",
-        "signal": "hoch"
-      },
-      {
-        "title": "Huawei und ZTE: Milliardenlast für Europas Netze",
-        "what": "Ein Verbot von Huawei und ZTE könnte europäische Mobilfunker bis zu 40 Milliarden Euro kosten.",
-        "why": "Mittelständler in der Telekommunikation müssen sich auf mögliche Kosten und Veränderungen im Markt einstellen.",
-        "signal": "hoch"
-      },
-      {
-        "title": "Penetration Testing für Webanwendungen",
-        "what": "Penetration Testing wird als kritisches Tool zur Identifizierung von Schwachstellen in Webanwendungen hervorgehoben.",
-        "why": "Mittelständler sollten solche Tests in ihre Sicherheitsstrategie integrieren, um Risiken zu minimieren.",
-        "signal": "hoch"
       }
     ],
     "opportunities": [
       {
-        "title": "Entwicklung eines Sicherheits-Plugins für WordPress",
-        "what": "Es gibt einen Bedarf an Lösungen, die Datenlecks auf WordPress-Websites verhindern.",
-        "who": "Webentwickler und Unternehmen, die WordPress nutzen.",
+        "title": "Implementierung kosteneffizienter KI-Lösungen",
+        "what": "Mittelständler benötigen kostengünstige KI-Modelle für Automatisierungsprozesse.",
+        "who": "Unternehmen, die Automatisierungslösungen suchen.",
         "how": "hoch",
-        "price": "2.000-4.000€ Setup + 150-300€/Monat Wartung",
+        "price": "2.000-10.000€ Setup + 300-800€/Monat Retainer",
         "time": "Wochen"
       },
       {
-        "title": "Cloud-Sicherheitslösungen für den Mittelstand",
-        "what": "Mittelständler benötigen sichere Cloud-Lösungen, um ihre Daten zu schützen.",
-        "who": "KMUs, die Cloud-Dienste nutzen.",
+        "title": "Beratung zur IT-Infrastruktur für KI",
+        "what": "Unternehmen benötigen Unterstützung beim Ausbau ihrer IT-Infrastruktur zur Integration von KI.",
+        "who": "KMUs, die KI-Technologien implementieren möchten.",
         "how": "hoch",
-        "price": "5.000-15.000€ Setup + 500-1.000€/Monat",
+        "price": "3.000-15.000€ je nach Umfang",
         "time": "Monate"
       },
       {
-        "title": "KI-gestütztes Monitoring für Datenschutz",
-        "what": "Unternehmen benötigen Tools, die Datenschutzvorfälle in Echtzeit erkennen.",
-        "who": "Unternehmen, die große Datenmengen verarbeiten.",
+        "title": "Entwicklung von Datenschutzlösungen für KI",
+        "what": "Es besteht Bedarf an Lösungen, die Datenschutz und Compliance bei KI-Anwendungen gewährleisten.",
+        "who": "Unternehmen, die KI-Modelle nutzen wollen.",
         "how": "mittel",
-        "price": "3.000-7.000€ Setup + 200-400€/Monat",
-        "time": "Wochen"
-      },
-      {
-        "title": "Training für IT-Security-Mitarbeiter",
-        "what": "Es gibt einen Bedarf an Schulungen für Mitarbeiter im Bereich IT-Sicherheit.",
-        "who": "Unternehmen in der Tech-Branche.",
-        "how": "hoch",
-        "price": "1.000-3.000€ pro Kurs",
-        "time": "Tagen"
-      },
-      {
-        "title": "Beratung zur IT-Sicherheitsstrategie",
-        "what": "Mittelständler benötigen Unterstützung bei der Entwicklung einer umfassenden IT-Sicherheitsstrategie.",
-        "who": "KMUs, die ihre Sicherheitslage verbessern möchten.",
-        "how": "hoch",
-        "price": "5.000-10.000€ pro Projekt",
+        "price": "5.000-20.000€",
         "time": "Monate"
       },
       {
-        "title": "Implementierung von Penetration Testing-Diensten",
-        "what": "Unternehmen benötigen regelmäßige Penetrationstests, um Schwachstellen zu identifizieren.",
-        "who": "Mittelständler in verschiedenen Branchen.",
+        "title": "Schulung in neuen Programmiersprachen",
+        "what": "Unternehmen benötigen Schulungen für neue Programmiersprachen wie Rhombus zur Verbesserung der Softwareentwicklung.",
+        "who": "IT-Abteilungen in Unternehmen.",
         "how": "hoch",
-        "price": "2.500-5.000€ pro Test",
+        "price": "1.000-5.000€ pro Schulung",
         "time": "Wochen"
+      },
+      {
+        "title": "E-Mobilitätsberatung",
+        "what": "Beratung für Unternehmen, die ihre Flotte auf E-Autos umstellen möchten.",
+        "who": "Logistikunternehmen und Fuhrparks.",
+        "how": "hoch",
+        "price": "2.000-10.000€",
+        "time": "Wochen"
+      },
+      {
+        "title": "Entwicklung von Open-Weight-KI-Anwendungen",
+        "what": "Unternehmen suchen nach maßgeschneiderten Anwendungen auf Basis von Open-Weight-KI.",
+        "who": "Technologie-Startups und KMUs.",
+        "how": "mittel",
+        "price": "5.000-25.000€",
+        "time": "Monate"
       }
     ],
     "top_articles": [
       {
-        "title": "Datenpanne: OpenAI-Crawler greift Kundendaten von Universa ab",
-        "url": "https://www.golem.de/news/datenpanne-openai-crawler-greift-kundendaten-von-universa-ab-2607-211234.html",
+        "title": "Anthropic stellt Claude Opus 5 vor, das 'günstige Fable 5'",
+        "url": "https://the-decoder.de/anthropic-stellt-claude-opus-5-vor-das-guenstige-fable-5/",
+        "source": "The Decoder",
+        "date": "2026-07-24",
+        "why": "Das neue KI-Modell könnte für viele Unternehmen eine kosteneffiziente Lösung bieten.",
+        "tags": [
+          "KI",
+          "Anthropic"
+        ]
+      },
+      {
+        "title": "Microsoft setzt auf eigene KI-Modelle: MAI statt OpenAI",
+        "url": "https://www.heise.de/news/Microsoft-setzt-auf-eigene-KI-Modelle-MAI-statt-OpenAI-11377386.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "source": "Heise Online",
+        "date": "2026-07-24",
+        "why": "Die Strategie könnte die Kosten für Unternehmen erheblich senken.",
+        "tags": [
+          "Microsoft",
+          "KI"
+        ]
+      },
+      {
+        "title": "Cisco-Studie: Deutschlands Firmennetzwerke kommen ohne Ausbau nicht mit KI klar",
+        "url": "https://www.golem.de/news/cisco-studie-deutschlands-firmennetzwerke-kommen-ohne-ausbau-nicht-mit-ki-klar-2607-211268.html",
         "source": "Golem.de",
         "date": "2026-07-24",
-        "why": "Dieser Vorfall zeigt die Risiken, die mit KI-gestützten Technologien verbunden sind, und zwingt Unternehmen, ihre Sicherheitsstrategien zu überdenken.",
+        "why": "Mittelständler sollten ihre IT-Infrastruktur dringend überprüfen.",
         "tags": [
-          "Datenschutz",
+          "IT",
+          "Infrastruktur"
+        ]
+      },
+      {
+        "title": "Varta beantragt Insolvenzverfahren",
+        "url": "https://www.heise.de/news/Batteriehersteller-Varta-meldet-Insolvenz-an-11377904.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "source": "Heise Online",
+        "date": "2026-07-24",
+        "why": "Die Insolvenz könnte Auswirkungen auf die gesamte Elektronikbranche haben.",
+        "tags": [
+          "Varta",
+          "Insolvenz"
+        ]
+      },
+      {
+        "title": "Absturz einer Ikone: Varta beantragt Insolvenzverfahren",
+        "url": "https://www.heise.de/news/Batteriehersteller-Varta-meldet-Insolvenz-an-11377904.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "source": "Heise Online",
+        "date": "2026-07-24",
+        "why": "Die Insolvenz könnte Auswirkungen auf die gesamte Elektronikbranche haben.",
+        "tags": [
+          "Varta",
+          "Insolvenz"
+        ]
+      },
+      {
+        "title": "Klimageräterechner: Kühlbedarf, Kosten und passende Geräte einschätzen",
+        "url": "https://www.heise.de/ratgeber/Klimageraeterechner-Kuehlbedarf-Kosten-und-passende-Geraete-einschaetzen-11369926.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+        "source": "Heise Online",
+        "date": "2026-07-24",
+        "why": "Ein hilfreiches Tool für Unternehmen, die ihre Energiekosten optimieren möchten.",
+        "tags": [
+          "Energie",
+          "Klimageräte"
+        ]
+      },
+      {
+        "title": "Entwicklung neuer Programmiersprache Rhombus: Makro-Macht trifft auf lesbare Syntax",
+        "url": "https://www.heise.de/hintergrund/Lisp-Makro-Power-ohne-Klammerflut-Die-neue-Sprache-Rhombus-11368404.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "source": "Heise Online",
+        "date": "2026-07-24",
+        "why": "Neue Programmiersprachen könnten die Effizienz in der Softwareentwicklung steigern.",
+        "tags": [
+          "Programmiersprache",
+          "Rhombus"
+        ]
+      },
+      {
+        "title": "Wachstum der Ladeinfrastruktur für E-Autos",
+        "url": "https://www.heise.de/news/Ladeinfrastruktur-in-Deutschland-Ueber-200-000-Ladepunkte-ausgebaut-11377948.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "source": "Heise Online",
+        "date": "2026-07-24",
+        "why": "Wachstum der Ladeinfrastruktur könnte neue Geschäftsmöglichkeiten für den Mittelstand schaffen.",
+        "tags": [
+          "E-Autos",
+          "Infrastruktur"
+        ]
+      },
+      {
+        "title": "Open-Weight-KI als Trend",
+        "url": "https://the-decoder.de/so-offensichtlich-dass-es-wehtut-microsoft-kaempft-fuer-open-weight-ki-und-meint-damit-vor-allem-azure/",
+        "source": "The Decoder",
+        "date": "2026-07-24",
+        "why": "Die Entwicklung könnte die Kosten für KI-Modelle erheblich senken.",
+        "tags": [
+          "Open-Weight",
+          "KI"
+        ]
+      },
+      {
+        "title": "Kimi K3 im Cyber-Test: Chinesisches KI-Modell liegt deutlich hinter US-Spitzenmodellen",
+        "url": "https://the-decoder.de/kimi-k3-im-cyber-test-chinesisches-ki-modell-liegt-deutlich-hinter-us-spitzenmodellen/",
+        "source": "The Decoder",
+        "date": "2026-07-24",
+        "why": "Die Leistungsunterschiede zwischen KI-Modellen sind für Unternehmen entscheidend.",
+        "tags": [
           "KI",
-          "Sicherheit"
+          "Cyber"
+        ]
+      },
+      {
+        "title": "Drei Fragen und Antworten: Wie KI wirklich bei der Schwachstellensuche hilft",
+        "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Wie-KI-wirklich-bei-der-Schwachstellensuche-hilft-11377461.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "source": "Heise Online",
+        "date": "2026-07-24",
+        "why": "Wichtige Erkenntnisse zur Nutzung von KI in der IT-Sicherheit.",
+        "tags": [
+          "KI",
+          "IT-Sicherheit"
         ]
       },
       {
         "title": "SAP kann überraschend viele Cloudverträge abschließen",
-        "url": "https://www.heise.de/news/SAP-kann-ueberraschend-viele-Cloudvertraege-abschliessen-11376865.html",
+        "url": "https://www.heise.de/news/SAP-kann-ueberraschend-viele-Cloudvertraege-abschliessen-11376865.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
         "source": "Heise Online",
         "date": "2026-07-24",
-        "why": "SAPs Erfolge im Cloud-Bereich könnten als Modell für andere Unternehmen dienen, die Cloud-Lösungen implementieren möchten.",
+        "why": "SAPs Cloud-Strategie könnte auch für andere Unternehmen von Interesse sein.",
         "tags": [
-          "Cloud",
           "SAP",
-          "IT"
-        ]
-      },
-      {
-        "title": "Zunehmende Gehälter für IT-Security-Experten in Deutschland",
-        "url": "https://www.heise.de/hintergrund/IT-Gehaelter-2026-Das-verdienen-Security-Experten-in-Deutschland-11348804.html",
-        "source": "Heise Online",
-        "date": "2026-07-24",
-        "why": "Die steigende Nachfrage nach IT-Security-Experten verdeutlicht die Notwendigkeit, in Fachkräfte zu investieren.",
-        "tags": [
-          "IT",
-          "Sicherheit",
-          "Gehälter"
-        ]
-      },
-      {
-        "title": "Neuer Sensorchip der ETH Zürich macht Deepfakes unmöglich",
-        "url": "https://www.heise.de/news/Neuer-Sensorchip-der-ETH-Zuerich-macht-Deepfakes-unmoeglich-11374836.html",
-        "source": "Heise Online",
-        "date": "2026-07-24",
-        "why": "Diese Technologie könnte für Unternehmen wichtig sein, die ihre Inhalte vor Manipulation schützen wollen.",
-        "tags": [
-          "Technologie",
-          "Deepfake",
-          "ETH"
-        ]
-      },
-      {
-        "title": "Black Forest Labs stellt Flux 3 vor: Ein Modell für Bild, Video, Audio und Robotik",
-        "url": "https://the-decoder.de/black-forest-labs-stellt-flux-3-vor-ein-modell-fuer-bild-video-audio-und-robotik/",
-        "source": "The Decoder",
-        "date": "2026-07-23",
-        "why": "Das multimodale Modell könnte neue Anwendungen in der Robotik und Medienproduktion ermöglichen.",
-        "tags": [
-          "KI",
-          "Robotik",
-          "Medien"
-        ]
-      },
-      {
-        "title": "Varta vor Insolvenz: Probleme wegen Apple und allgemeiner Geschäftslage",
-        "url": "https://www.heise.de/news/Varta-vor-Insolvenz-Probleme-wegen-Apple-und-allgemeiner-Geschaeftslage-11375676.html",
-        "source": "Heise Online",
-        "date": "2026-07-24",
-        "why": "Die Probleme von Varta könnten als Warnsignal für andere Unternehmen dienen, die auf große Kunden angewiesen sind.",
-        "tags": [
-          "Insolvenz",
-          "Varta",
-          "Geschäft"
-        ]
-      },
-      {
-        "title": "Penetration Testing: Schwachstellen in Webanwendungen erkennen",
-        "url": "https://www.golem.de/news/anzeige-penetration-testing-schwachstellen-in-webanwendungen-erkennen-2607-208603.html",
-        "source": "Golem.de",
-        "date": "2026-07-24",
-        "why": "Regelmäßige Penetrationstests sind entscheidend für die Identifikation von Sicherheitsrisiken.",
-        "tags": [
-          "Sicherheit",
-          "Testing",
-          "Web"
-        ]
-      },
-      {
-        "title": "Huawei und ZTE: Milliardenlast für Europas Netze",
-        "url": "https://www.heise.de/news/Milliardenlast-fuer-Europas-Netze-Der-teure-Abschied-von-Huawei-und-ZTE-11376401.html",
-        "source": "Heise Online",
-        "date": "2026-07-23",
-        "why": "Die finanziellen Auswirkungen eines Verbots dieser Unternehmen müssen von Mittelständlern in der Telekommunikation berücksichtigt werden.",
-        "tags": [
-          "Telekommunikation",
-          "Huawei",
-          "ZTE"
-        ]
-      },
-      {
-        "title": "Gaming mit Werbeunterbrechung: So will Microsoft es jetzt testen",
-        "url": "https://t3n.de/news/gaming-werbeunterbrechung-microsoft-test-1754578/",
-        "source": "t3n Digital Pioneers",
-        "date": "2026-07-24",
-        "why": "Das neue Werbemodell könnte für Unternehmen im Gaming-Sektor neue Einnahmequellen erschließen.",
-        "tags": [
-          "Gaming",
-          "Werbung",
-          "Microsoft"
-        ]
-      },
-      {
-        "title": "Manipulierter ChatGPT-Link reicht aus, um einen autonomen KI-Agenten im Firmennetzwerk zu installieren",
-        "url": "https://the-decoder.de/manipulierter-chatgpt-link-reicht-aus-um-einen-autonomen-ki-agenten-im-firmennetzwerk-zu-installieren/",
-        "source": "The Decoder",
-        "date": "2026-07-23",
-        "why": "Dieser Vorfall zeigt, wie verwundbar Unternehmensnetzwerke durch KI-gestützte Angriffe sind.",
-        "tags": [
-          "KI",
-          "Sicherheit",
-          "Angriff"
-        ]
-      },
-      {
-        "title": "BGH-Urteil: Reisezeit im Firmenwagen ist voll zu vergütende Arbeitszeit",
-        "url": "https://t3n.de/news/eugh-urteil-fahrtzeit-arbeitszeit-it-branche-1754592/",
-        "source": "t3n Digital Pioneers",
-        "date": "2026-07-24",
-        "why": "Das Urteil könnte weitreichende finanzielle Auswirkungen auf Unternehmen in der IT-Branche haben.",
-        "tags": [
-          "Recht",
-          "Arbeitszeit",
-          "BGH"
+          "Cloud"
         ]
       }
     ],
     "action_items": [
-      "Überprüfen Sie die Sicherheitsprotokolle in Ihrem Unternehmen und identifizieren Sie Schwachstellen.",
-      "Planen Sie ein Training für Ihre IT-Mitarbeiter zu aktuellen Sicherheitsbedrohungen.",
-      "Erstellen Sie einen Plan zur Implementierung von Penetration Testing in Ihrem Unternehmen.",
-      "Evaluieren Sie Cloud-Dienste und deren Sicherheitsstandards, um sicherzustellen, dass Ihre Daten geschützt sind.",
-      "Informieren Sie sich über neue Technologien zur Verhinderung von Datenlecks und deren Implementierung."
+      "Informiere dich über die neuen KI-Modelle wie Claude Opus 5 und evaluiere deren Einsatzmöglichkeiten für dein Unternehmen.",
+      "Überprüfe die aktuelle IT-Infrastruktur deines Unternehmens und identifiziere notwendige Upgrades für die Integration von KI.",
+      "Setze ein Meeting an, um die Implementierung von Datenschutzlösungen für KI-Anwendungen zu besprechen.",
+      "Plane eine Schulung für dein Entwicklungsteam zur neuen Programmiersprache Rhombus.",
+      "Erstelle einen Plan zur E-Mobilitätsberatung für die Umstellung auf E-Autos in deiner Flotte."
     ]
   },
   "raw_articles": [
     {
-      "title": "Bundesverkehrsminister Schnieder offenbar vor Rücktritt",
+      "title": "Kinderschutz im Netz: Was die Politik plant, was Eltern tun können | c’t uplink",
+      "url": "https://www.heise.de/news/Kinderschutz-im-Netz-Was-die-Politik-plant-was-Eltern-tun-koennen-c-t-uplink-11375604.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-25T04:30:00+00:00",
+      "summary": "Im Podcast besprechen wir, wie die Politik junge Menschen online schützen will und was Tiktok und Co. tun. Außerdem gibt‘s Tipps für Eltern und Jugendliche.",
+      "keywords": [
+        "politik",
+        "eltern",
+        "kinderschutz",
+        "netz",
+        "plant",
+        "können"
+      ]
+    },
+    {
+      "title": "Anthropic stellt Claude Opus 5 vor, das \"günstige Fable 5\"",
+      "url": "https://the-decoder.de/anthropic-stellt-claude-opus-5-vor-das-guenstige-fable-5/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-24T18:15:42+00:00",
+      "summary": "Anthropic bringt mit Claude Opus 5 ein neues Spitzenmodell, das beim agentischen Coding Fable 5 und GPT-5.6 Sol übertrifft – zum halben Fable-Preis. Beim ARC-AGI-3-Benchmark für neuartiges Problemlösen erzielt Opus 5 mit 30,2 Prozent einen fast vierfach höheren Wert als das nächstbeste Modell GPT-5.6 Sol. Der Artikel Anthropic stellt Claude Opus 5 vor, das &quot;günstige Fable 5&quot; erschien zuerst auf The Decoder .",
+      "keywords": [
+        "opus",
+        "anthropic",
+        "claude",
+        "fable",
+        "stellt",
+        "günstige"
+      ]
+    },
+    {
+      "title": "Sommerurlaub mit dem E-Auto: Ladenetz wächst schneller als der Bedarf",
+      "url": "https://www.heise.de/news/Ladeinfrastruktur-in-Deutschland-Ueber-200-000-Ladepunkte-ausgebaut-11377948.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-24T17:02:00+00:00",
+      "summary": "Trotz steigender E-Auto-Zahlen bleiben Ladesäulen oft frei. Der Branchenverband BDEW fordert stärkere Impulse bei der Nachfrage und verlässliche Steuervorteile.",
+      "keywords": [
+        "sommerurlaub",
+        "e-auto",
+        "ladenetz",
+        "wächst",
+        "schneller",
+        "bedarf"
+      ]
+    },
+    {
+      "title": "So offensichtlich, dass es wehtut: Microsoft kämpft für Open-Weight-KI und meint damit vor allem Azure",
+      "url": "https://the-decoder.de/so-offensichtlich-dass-es-wehtut-microsoft-kaempft-fuer-open-weight-ki-und-meint-damit-vor-allem-azure/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-24T15:47:02+00:00",
+      "summary": "Microsoft lobbyiert gemeinsam mit Meta, Nvidia und mehr als 20 weiteren Unternehmen in einem offenen Brief für Open-Weight-KI-Modelle. Dahinter steckt Kalkül: Je mehr Modelle auf Azure laufen, desto weniger ist Microsoft von teuren OpenAI- und Anthropic-Modellen abhängig. Gleichzeitig ersetzt das Unternehmen in eigenen Produkten wie Copilot externe Modelle durch die hauseigene MAI-Familie – die in Benchmarks allerdings deutlich schwächer abschneidet. Der Artikel So offensichtlich, dass es wehtut: Microsoft kämpft für Open-Weight-KI und meint damit vor allem Azure erschien zuerst auf The Decode",
+      "keywords": [
+        "microsoft",
+        "azure",
+        "offensichtlich",
+        "dass",
+        "wehtut",
+        "kämpft"
+      ]
+    },
+    {
+      "title": "GitLab 19.2, Kotlin feiert Geburtstag, Unity CLI",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11372973.html",
+      "source": "Heise iX (Magazin-Feed)",
+      "lang": "de",
+      "published": "2026-07-25T07:11:00+00:00",
+      "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu GitLab, Kotlin, Unity, WebAuthn, Nuxt, Angular, distr, Apache Arrow, VS Code und GitHub.",
+      "keywords": [
+        "gitlab",
+        "kotlin",
+        "unity",
+        "feiert",
+        "geburtstag",
+        "kleine"
+      ]
+    },
+    {
+      "title": "3,4 Milliarden Lichtjahre entfernt: Wie ein Schwarzes Loch einen Stern zerriss – und was danach passierte",
+      "url": "https://t3n.de/news/3-4-milliarden-lichtjahre-entfernt-1753013/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-07-25T07:05:00+00:00",
+      "summary": "Ein ungewöhnlicher Lichtblitz aus den Tiefen des Alls gab der Wissenschaft jahrelang Rätsel auf. Durch die Kombination von Himmelsdurchmusterungen und aufwendigen Computersimulationen zeigt sich nun ein völlig neues Bild dieses Phänomens. weiterlesen auf t3n.de",
+      "keywords": [
+        "milliarden",
+        "lichtjahre",
+        "entfernt",
+        "schwarzes",
+        "loch",
+        "stern"
+      ]
+    },
+    {
+      "title": "Mitmachaktion: Was denkst du über die KI-Blase?",
+      "url": "https://www.golem.de/news/mitmachaktion-was-denkst-du-ueber-die-ki-blase-2607-211204.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-25T07:00:01+00:00",
+      "summary": "Von verbrannter Erde bis zum friedlichen Utopia mit billiger Hardware. Erzähl uns, was passieren könnte, wenn die KI-Blase platzt. ( KI , Wirtschaft )",
+      "keywords": [
+        "ki-blase",
+        "mitmachaktion",
+        "denkst",
+        "verbrannter",
+        "erde",
+        "friedlichen"
+      ]
+    },
+    {
+      "title": "heise+ | Klimageräterechner: Kühlbedarf, Kosten und passende Geräte einschätzen",
+      "url": "https://www.heise.de/ratgeber/Klimageraeterechner-Kuehlbedarf-Kosten-und-passende-Geraete-einschaetzen-11369926.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-24T15:17:00+00:00",
+      "summary": "Wie viel Kühlleistung braucht eine Wohnung? Unser Rechner schätzt Kosten, Strombedarf und passende Gerätetypen für eine belastbare erste Orientierung.",
+      "keywords": [
+        "kosten",
+        "passende",
+        "heise",
+        "klimageräterechner",
+        "kühlbedarf",
+        "geräte"
+      ]
+    },
+    {
+      "title": "Absturz einer Ikone: Varta beantragt Insolvenzverfahren",
+      "url": "https://www.heise.de/news/Batteriehersteller-Varta-meldet-Insolvenz-an-11377904.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-24T15:10:00+00:00",
+      "summary": "Apple zieht sich als Großkunde zurück – Varta kämpft mit sinkender Nachfrage und tiefroten Zahlen. Was steckt hinter dem Absturz der Batterie-Ikone?",
+      "keywords": [
+        "absturz",
+        "varta",
+        "ikone",
+        "beantragt",
+        "insolvenzverfahren",
+        "apple"
+      ]
+    },
+    {
+      "title": "Wander-Apps im Überblick: So kommst du nie mehr vom Weg ab",
+      "url": "https://t3n.de/news/wandern-apps-wanderwege-komoot-strava-1617847/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-07-25T06:00:00+00:00",
+      "summary": "Eine Vielzahl von Apps soll euch dabei helfen, interessante Wanderwege zu finden. Wir erklären, welche Vorteile diese Apps bieten und warum sie für immer mehr Wanderer zum Dauerbegleiter werden. weiterlesen auf t3n.de",
+      "keywords": [
+        "mehr",
+        "apps",
+        "wander-apps",
+        "überblick",
+        "kommst",
+        "vielzahl"
+      ]
+    },
+    {
+      "title": "Fugu Ultra v1.1: KI-Router von Sakana AI soll jetzt sogar Anthropics Fable 5 übertreffen",
+      "url": "https://the-decoder.de/fugu-ultra-v1-1-ki-router-von-sakana-ai-soll-jetzt-sogar-anthropics-fable-5-uebertreffen/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-24T14:18:57+00:00",
+      "summary": "Sakana AI aktualisiert seinen KI-Router Fugu Ultra auf Version 1.1 und meldet bis zu 7,9 Punkte Zugewinn gegenüber dem Vorgänger, unabhängige Messungen fehlen allerdings. Neu ist ein Claude-Code-kompatibler Endpunkt. In der EU ist der Dienst unter Verweis auf die DSGVO weiterhin nicht verfügbar. Der Artikel Fugu Ultra v1.1: KI-Router von Sakana AI soll jetzt sogar Anthropics Fable 5 übertreffen erschien zuerst auf The Decoder .",
+      "keywords": [
+        "fugu",
+        "ultra",
+        "ki-router",
+        "sakana",
+        "soll",
+        "jetzt"
+      ]
+    },
+    {
+      "title": "Mobile Games: Nintendo und Goblin-Sushi bringen Spaß aufs Smartphone",
+      "url": "https://www.golem.de/news/mobile-games-nintendo-und-goblin-sushi-bringen-spass-aufs-smartphone-2607-211017.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-25T05:30:02+00:00",
+      "summary": "Katzenmagier, Goblin-Sushi und ein neues Nintendo-Spiel: Diese Mobile-Games lohnen sich auf iPhone und Android. Von Rainer Sigl ( Mobile Games , Spieletest )",
+      "keywords": [
+        "mobile",
+        "games",
+        "goblin-sushi",
+        "nintendo",
+        "bringen",
+        "spaß"
+      ]
+    },
+    {
+      "title": "Urtopia Carbon Fold 2 im Test: Richtig gutes Klapprad-E-Bike wiegt nur 16 kg",
+      "url": "https://www.heise.de/bestenlisten/testbericht/urtopia-carbon-fold-2-im-test-richtig-gutes-klapprad-e-bike-wiegt-nur-16-kg/ms7l3hw?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-24T14:00:00+00:00",
+      "summary": "Carbon, 16 kg, feiner Drehmomentsensor, schickes Design – das erstaunlich bequeme City-E-Bike Urtopia Carbon Fold 2 überzeugt uns im Test.",
+      "keywords": [
+        "carbon",
+        "urtopia",
+        "fold",
+        "test",
+        "richtig",
+        "gutes"
+      ]
+    },
+    {
+      "title": "KI-Agenten brauchen ein Zuhause",
+      "url": "https://t3n.de/news/ki-agenten-hosting-deutschland-1751626/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-07-25T05:00:00+00:00",
+      "summary": "Neue KI-Modelle erscheinen mittlerweile im Wochentakt. Doch mit jeder produktiven KI-Anwendung rückt eine Frage zunehmend in den Vordergrund: Wo werden Daten verarbeitet und unter welchem rechtlichen und technischen Rahmen? Für viele Unternehmen wird genau das zum entscheidenden Kriterium. weiterlesen auf t3n.de",
+      "keywords": [
+        "ki-agenten",
+        "brauchen",
+        "zuhause",
+        "neue",
+        "ki-modelle",
+        "erscheinen"
+      ]
+    },
+    {
+      "title": "Chip-Lithografie: Zeiss baut deutsche Herstellung um über 25.000 m² aus",
+      "url": "https://www.heise.de/news/Chip-Lithografie-Zeiss-baut-deutsche-Herstellung-um-ueber-25-000-m2-aus-11377726.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-24T13:22:00+00:00",
+      "summary": "Die komplette Chipindustrie hängt von ASML ab und ASML wiederum von Zeiss. Dessen Halbleitersparte baut jetzt aus.",
+      "keywords": [
+        "zeiss",
+        "baut",
+        "asml",
+        "chip-lithografie",
+        "deutsche",
+        "herstellung"
+      ]
+    },
+    {
+      "title": "WhatsApp: iPad-Einrichtung verfügbar, außerdem neues CarPlay und PDFs",
+      "url": "https://www.heise.de/news/WhatsApp-iPad-Einrichtung-verfuegbar-ausserdem-neues-CarPlay-und-PDFs-11377624.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-24T13:12:00+00:00",
+      "summary": "Wie angekündigt kann man den Meta-Messenger WhatsApp nun auch von einem Apple-Tablet aus einrichten. Weitere Neuerungen betreffen CarPlay und PDF-Darstellung.",
+      "keywords": [
+        "whatsapp",
+        "carplay",
+        "ipad-einrichtung",
+        "verfügbar",
+        "außerdem",
+        "neues"
+      ]
+    },
+    {
+      "title": "Drei Fragen und Antworten: Wie KI wirklich bei der Schwachstellensuche hilft",
+      "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Wie-KI-wirklich-bei-der-Schwachstellensuche-hilft-11377461.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-24T12:53:00+00:00",
+      "summary": "Um KI erfolgreich in Code-Audits einzusetzen, ist die Wahl des Modells gar nicht so wichtig. Entscheidend ist der Workflow, damit man nicht in Funden versinkt.",
+      "keywords": [
+        "nicht",
+        "drei",
+        "fragen",
+        "antworten",
+        "wirklich",
+        "schwachstellensuche"
+      ]
+    },
+    {
+      "title": "Deutsches Konsortium veröffentlicht offenes KI-Modell Soofi S für Deutsch und Englisch",
+      "url": "https://the-decoder.de/deutsches-konsortium-veroeffentlicht-offenes-ki-modell-soofi-s-fuer-deutsch-und-englisch/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-24T12:53:01+00:00",
+      "summary": "Das deutsche Konsortium hinter dem KI-Modell Soofi S hat in Version 3.0 seines Tech Reports eingeräumt, dass versehentlich Prüfungsfragen des Wissenschafts-Benchmarks GPQA in die Trainingsdaten gelangt sind. Aufgedeckt hat den Fehler die Community anhand der offengelegten Daten. Das Team hat den Benchmark aus der Wertung genommen und alle Ergebnisse neu berechnet. Der Artikel Deutsches Konsortium veröffentlicht offenes KI-Modell Soofi S für Deutsch und Englisch erschien zuerst auf The Decoder .",
+      "keywords": [
+        "konsortium",
+        "ki-modell",
+        "soofi",
+        "deutsches",
+        "veröffentlicht",
+        "offenes"
+      ]
+    },
+    {
+      "title": "„Halo Campaign Evolved“ im Test: Früher war alles besser",
+      "url": "https://www.heise.de/tests/Halo-Campaign-Evolved-im-Test-Frueher-war-alles-besser-11377578.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-24T12:41:00+00:00",
+      "summary": "Jeder alte Hit bekommt ein Remake. Auch „Halo: Campaign Evolved“ ist nicht neu, sondern kehrt zu den Wurzeln zurück. Doch so schön sehen Wurzeln selten aus!",
+      "keywords": [
+        "halo",
+        "campaign",
+        "evolved",
+        "wurzeln",
+        "test",
+        "früher"
+      ]
+    },
+    {
+      "title": "Hardware-Gerüchte: 7-Zoll-Display fürs Jubiläums-iPhone, Doppelakku fürs Ultra",
+      "url": "https://www.heise.de/news/Hardware-Geruechte-7-Zoll-Display-fuers-Jubilaeums-iPhone-Doppelakku-fuers-Ultra-11373769.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-24T12:09:00+00:00",
+      "summary": "Apple leakt Details zum Akkuaufbau seines ersten faltbaren Smartphones. Aus China gibt es unterdessen Neuigkeiten zur übernächsten iPhone-Generation.",
+      "keywords": [
+        "fürs",
+        "hardware-gerüchte",
+        "7-zoll-display",
+        "jubiläums-iphone",
+        "doppelakku",
+        "ultra"
+      ]
+    },
+    {
+      "title": "Claude bekommt Sprachmodus-Update: Opus, Sonnet und Tool-Anbindung per Stimme",
+      "url": "https://the-decoder.de/claude-sprachmodus-update/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-24T11:01:49+00:00",
+      "summary": "Sprachen und Tool-Zugriff auf Gmail, Google Calendar oder Slack. Als einziger Anbieter kann Claude direkt aus dem Audiomodus heraus etwa E-Mails verfassen und ablegen, ein Vorteil gegenüber OpenAI und Google, deren Sprachausgabe sich dafür natürlicher anfühlt. Der Artikel Claude bekommt Sprachmodus-Update: Opus, Sonnet und Tool-Anbindung per Stimme erschien zuerst auf The Decoder .",
+      "keywords": [
+        "claude",
+        "bekommt",
+        "sprachmodus-update",
+        "opus",
+        "sonnet",
+        "tool-anbindung"
+      ]
+    },
+    {
+      "title": "Microsoft setzt auf eigene KI-Modelle: MAI statt OpenAI",
+      "url": "https://www.heise.de/news/Microsoft-setzt-auf-eigene-KI-Modelle-MAI-statt-OpenAI-11377386.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-24T10:49:00+00:00",
+      "summary": "Microsoft integriert verstärkt eigene MAI-Modelle in Produkte wie Bing Image Creator, PowerPoint und OneDrive. Das spart Kosten.",
+      "keywords": [
+        "microsoft",
+        "eigene",
+        "setzt",
+        "ki-modelle",
+        "statt",
+        "openai"
+      ]
+    },
+    {
+      "title": "Kimi K3: Chinesische KI findet mehrere Zero-Day-Lücken in redis-Datenbank",
+      "url": "https://www.heise.de/news/Kimi-K3-Chinesische-KI-findet-mehrere-Zero-Day-Luecken-in-redis-Datenbank-11377360.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-24T09:47:00+00:00",
+      "summary": "Ein IT-Forscher hat mit der chinesischen KI Kimi K3 mehrere Zero-Day-Lücken in der redis-Datenbank entdeckt. Updates bestätigen die Funde.",
+      "keywords": [
+        "kimi",
+        "mehrere",
+        "zero-day-lücken",
+        "redis-datenbank",
+        "chinesische",
+        "findet"
+      ]
+    },
+    {
+      "title": "Kimi K3 im Cyber-Test: Chinesisches KI-Modell liegt deutlich hinter US-Spitzenmodellen",
+      "url": "https://the-decoder.de/kimi-k3-im-cyber-test-chinesisches-ki-modell-liegt-deutlich-hinter-us-spitzenmodellen/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-24T08:45:32+00:00",
+      "summary": "Das britische AI Security Institute und das US-amerikanische CAISI haben Moonshot AIs Modell Kimi K3 auf offensive Cyber-Fähigkeiten getestet. Ergebnis: Kimi K3 erreicht auf dem ExploitBench nur 32 Prozent, führende US-Modelle 76 Prozent. Die Sicherheitsvorkehrungen des Modells verhinderten weder Exploit-Entwicklung noch Angriffssimulationen. Der Artikel Kimi K3 im Cyber-Test: Chinesisches KI-Modell liegt deutlich hinter US-Spitzenmodellen erschien zuerst auf The Decoder .",
+      "keywords": [
+        "kimi",
+        "cyber-test",
+        "chinesisches",
+        "ki-modell",
+        "liegt",
+        "deutlich"
+      ]
+    },
+    {
+      "title": "Heimlich mit Smart Glasses gefilmt: Instagram geht gegen Täter vor",
+      "url": "https://www.heise.de/news/Heimlich-mit-Smart-Glasses-gefilmt-Instagram-geht-gegen-Taeter-vor-11377147.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-24T08:45:00+00:00",
+      "summary": "Meta reagiert auf die wachsende Kritik an Kamerabrillen und entfernt künftig Instagram-Videos, in denen Menschen heimlich gefilmt und belästigt werden.",
+      "keywords": [
+        "heimlich",
+        "gefilmt",
+        "smart",
+        "glasses",
+        "instagram",
+        "geht"
+      ]
+    },
+    {
+      "title": "Chinesisches Frachtschiff mit Photovoltaik-Anlage nimmt 10.800 Fahrzeuge auf",
+      "url": "https://www.heise.de/news/Chinesisches-Frachtschiff-mit-Photovoltaik-Anlage-nimmt-10-800-Fahrzeuge-auf-11376953.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-24T08:40:00+00:00",
+      "summary": "Eine Photovoltaik-Anlage reduziert indirekt den Kraftstoffverbrauch des Fahrzeug-Transportschiffes, dessen Antrieb von Schweröl oder LNG befeuert wird.",
+      "keywords": [
+        "photovoltaik-anlage",
+        "chinesisches",
+        "frachtschiff",
+        "nimmt",
+        "fahrzeuge",
+        "reduziert"
+      ]
+    },
+    {
+      "title": "NetBird: WireGuard-Verbindungen per Desktop-App steuern",
+      "url": "https://www.heise.de/news/WireGuard-Overlay-NetBird-erhaelt-neue-Desktop-App-11376979.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-24T08:32:00+00:00",
+      "summary": "NetBird 0.75.0 ersetzt den Tray-Client durch eine neue Desktop-App und öffnet die Daemon-API für HTTP und JSON.",
+      "keywords": [
+        "netbird",
+        "desktop-app",
+        "wireguard-verbindungen",
+        "steuern",
+        "ersetzt",
+        "tray-client"
+      ]
+    },
+    {
+      "title": "Claude Code erhält Zugriff auf iPhone-Simulator",
+      "url": "https://www.heise.de/news/Claude-Code-erhaelt-Zugriff-auf-iPhone-Simulator-11375592.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-24T08:19:00+00:00",
+      "summary": "Im App Store landen immer mehr Apps, die per Prompt entwickelt wurden. Claude Code macht es Interessierten noch ein bisschen einfacher.",
+      "keywords": [
+        "claude",
+        "code",
+        "erhält",
+        "zugriff",
+        "iphone-simulator",
+        "store"
+      ]
+    },
+    {
+      "title": "IETF: Warnung vor Nebenwirkungen eines Social-Media-Verbots für Jugendliche",
+      "url": "https://www.heise.de/news/IETF-Warnung-vor-Nebenwirkungen-eines-Social-Media-Verbots-fuer-Jugendliche-11376975.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-24T08:12:00+00:00",
+      "summary": "Auf dem IETF-Treffen in Wien warnten Entwickler vor den Risiken von Altersverifikationssystemen. Diese könnten Sicherheit und Vertraulichkeit im Netz gefährden.",
+      "keywords": [
+        "ietf",
+        "warnung",
+        "nebenwirkungen",
+        "social-media-verbots",
+        "jugendliche",
+        "ietf-treffen"
+      ]
+    },
+    {
+      "title": "Bundesverkehrsminister Schnieder muss offenbar gehen",
       "url": "https://www.heise.de/news/Bundesverkehrsminister-Schnieder-offenbar-vor-Ruecktritt-11377081.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
       "published": "2026-07-24T07:55:00+00:00",
-      "summary": "Im Rahmen der aktuellen Kabinettsumbildung muss Bundesverkehrsminister Schnieder offenbar seinen Posten aufgeben.",
+      "summary": "Im Rahmen der aktuellen Kabinettsumbildung muss Bundesverkehrsminister Schnieder seinen Posten aufgeben. Ihm könnte der CDU-Politiker Fritz Güntzler folgen.",
       "keywords": [
         "bundesverkehrsminister",
         "schnieder",
+        "muss",
         "offenbar",
-        "rücktritt",
-        "rahmen",
-        "aktuellen"
-      ]
-    },
-    {
-      "title": "Adobe-Chrome-Erweiterung ermöglichte Datenklau",
-      "url": "https://www.heise.de/news/Adobe-Chrome-Erweiterung-ermoeglichte-Datenklau-11376957.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-24T07:52:00+00:00",
-      "summary": "In der Chrome-Erweiterung Adobe Acrobat mit 312 Millionen Nutzern klaffte eine Schwachstelle. Dadurch konnten Angreifer Daten stehlen.",
-      "keywords": [
-        "adobe-chrome-erweiterung",
-        "ermöglichte",
-        "datenklau",
-        "chrome-erweiterung",
-        "adobe",
-        "acrobat"
-      ]
-    },
-    {
-      "title": "Volkswagen verdient im zweiten Quartal 1,54 Milliarden Euro",
-      "url": "https://www.heise.de/news/Volkswagen-Gewinn-bricht-um-ein-Drittel-auf-1-54-Milliarden-Euro-ein-11376909.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-24T07:15:00+00:00",
-      "summary": "Schwache Verkaufszahlen in China setzen dem Volkswagen-Konzern zu: Der Gewinn nach Steuern ist im zweiten Quartal auf 1,54 Mrd. Euro gesunken.",
-      "keywords": [
-        "zweiten",
-        "quartal",
-        "euro",
-        "volkswagen",
-        "verdient",
-        "milliarden"
-      ]
-    },
-    {
-      "title": "Günstiger Standort nötig: Partielle Sonnenfinsternis am Abend des 12. Augusts",
-      "url": "https://www.heise.de/news/Guenstiger-Standort-noetig-Partielle-Sonnenfinsternis-am-Abend-des-12-Augusts-11372263.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-24T07:11:00+00:00",
-      "summary": "Die untergehende Sonne wird am 12. August auch über dem deutschsprachigen Raum partiell vom Mond verdeckt. Für die Beobachtung muss nicht nur das Wetter passen.",
-      "keywords": [
-        "günstiger",
-        "standort",
-        "nötig",
-        "partielle",
-        "sonnenfinsternis",
-        "abend"
-      ]
-    },
-    {
-      "title": "heise+ | IT-Gehälter 2026: Das verdienen Security-Experten in Deutschland",
-      "url": "https://www.heise.de/hintergrund/IT-Gehaelter-2026-Das-verdienen-Security-Experten-in-Deutschland-11348804.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-24T07:00:00+00:00",
-      "summary": "IT-Security-Experten sichern IT-Infrastruktur von Firmen ab. Beim Gehalt sind 90.000 Euro und mehr möglich – außerdem ist die Nachfrage nach Spezialisten hoch.",
-      "keywords": [
-        "heise",
-        "it-gehälter",
-        "2026",
-        "verdienen",
-        "security-experten",
-        "deutschland"
-      ]
-    },
-    {
-      "title": "heise+ | Neuer Sensorchip der ETH Zürich macht Deepfakes unmöglich",
-      "url": "https://www.heise.de/news/Neuer-Sensorchip-der-ETH-Zuerich-macht-Deepfakes-unmoeglich-11374836.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-24T06:52:00+00:00",
-      "summary": "Forscher der ETH Zürich haben ein Sensorsystem entwickelt, das Bild- und Tondaten direkt im Chip kryptografisch signiert, um Manipulationen zu verhindern.",
-      "keywords": [
-        "zürich",
-        "heise",
-        "neuer",
-        "sensorchip",
-        "macht",
-        "deepfakes"
-      ]
-    },
-    {
-      "title": "Starship: SpaceX beginnt angeblich mit dem Abschied von der Falcon 9",
-      "url": "https://www.heise.de/news/Umstieg-aufs-Starship-SpaceX-lehnt-angeblich-Reservierungen-fuer-Falcon-9-ab-11376853.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-24T06:26:00+00:00",
-      "summary": "Noch wird das Starship getestet, wann die Riesenrakete einsatzbereit ist, ist unklar. Trotzdem nimmt SpaceX wohl schon keine Reservierungen für die Falcon 9 an.",
-      "keywords": [
-        "starship",
-        "spacex",
-        "falcon",
-        "beginnt",
-        "angeblich",
-        "abschied"
-      ]
-    },
-    {
-      "title": "SAP kann überraschend viele Cloudverträge abschließen",
-      "url": "https://www.heise.de/news/SAP-kann-ueberraschend-viele-Cloudvertraege-abschliessen-11376865.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-24T05:36:00+00:00",
-      "summary": "Der Dax-Riese SAP senkt trotz gesteigertem Cloud-Umsatz die Ergebnisprognose. Wie Übernahmen und KI-Initiativen die Entwicklung beeinflussen.",
-      "keywords": [
-        "kann",
-        "überraschend",
-        "viele",
-        "cloudverträge",
-        "abschließen",
-        "dax-riese"
-      ]
-    },
-    {
-      "title": "heise+ | Skoda Elroq: Das kostet Ihre Wunschvariante tatsächlich",
-      "url": "https://www.heise.de/ratgeber/Skoda-Elroq-Das-kostet-Ihre-Wunschvariante-tatsaechlich-11354570.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-24T05:30:00+00:00",
-      "summary": "Zwei Batteriegrößen, vier Motorisierungen , vier Ausstattungslinien: Wir zeigen, mit welchen Kosten Sie beim Skoda Elroq rechnen müssen.",
-      "keywords": [
-        "skoda",
-        "elroq",
-        "vier",
-        "heise",
-        "kostet",
-        "ihre"
-      ]
-    },
-    {
-      "title": "„Russlands Amazon“: Ukraine greift immer mehr Logistikzentren von Wildberries an",
-      "url": "https://www.heise.de/news/Russlands-Amazon-Ukraine-greift-immer-mehr-Logistikzentren-von-Wildberries-an-11376839.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-24T04:53:00+00:00",
-      "summary": "Die Ukraine hat in den vergangenen Tagen immer wieder Lager von Wildberries angegriffen, Russlands größtem Onlinehändler. Die würden auch fürs Militär genutzt.",
-      "keywords": [
-        "russlands",
-        "ukraine",
-        "immer",
-        "wildberries",
-        "amazon",
-        "greift"
-      ]
-    },
-    {
-      "title": "heise+ | Raging Bull im Heimkino-Test: De Niro wie ein wilder Stier",
-      "url": "https://www.heise.de/tests/Raging-Bull-im-Heimkino-Test-De-Niro-wie-ein-wilder-Stier-11362500.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-24T04:02:00+00:00",
-      "summary": "Mit Raging Bull setzte Scorsese 1980 einen Kontrapunkt zu Hollywoods heroischen Biopics. Erringt die 4K-Restauration einen Sieg, oder geht sie technisch k. o.?",
-      "keywords": [
-        "raging",
-        "bull",
-        "heise",
-        "heimkino-test",
-        "niro",
-        "wilder"
-      ]
-    },
-    {
-      "title": "Taiwan testet bei Katastrophenschutzübung Abschaltung von mobilem Internet",
-      "url": "https://www.heise.de/news/Taiwan-testet-bei-Katastrophenschutzuebung-Abschaltung-von-mobilem-Internet-11376815.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-24T03:05:00+00:00",
-      "summary": "Während der jährlichen Krisenübung wird Taiwan erstmals Internet-Einschränkungen testen. Bevölkerung und Militär sollen auf derartige Fälle vorbereitet werden.",
-      "keywords": [
-        "taiwan",
-        "testet",
-        "katastrophenschutzübung",
-        "abschaltung",
-        "mobilem",
-        "internet"
-      ]
-    },
-    {
-      "title": "Intels 11 Milliarden US-Dollar Nettoverlust existieren nur auf dem Papier",
-      "url": "https://www.heise.de/news/Intel-verbucht-11-Milliarden-US-Dollar-Nettoverlust-wegen-Kursexplosion-11376771.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-23T21:50:00+00:00",
-      "summary": "Die Börse honoriert ein starkes Intel-Quartal. Der ausgewiesene milliardenschwere Verlust existiert ausschließlich in den Büchern.",
-      "keywords": [
-        "intels",
-        "milliarden",
-        "us-dollar",
-        "nettoverlust",
-        "existieren",
-        "papier"
-      ]
-    },
-    {
-      "title": "ChatGPT wird zum Gesundheitsberater: OpenAI verbindet Apple Health und Patientenakten",
-      "url": "https://the-decoder.de/chatgpt-wird-zum-gesundheitsberater-openai-verbindet-apple-health-und-patientenakten/",
-      "source": "The Decoder",
-      "lang": "de",
-      "published": "2026-07-23T19:00:51+00:00",
-      "summary": "OpenAI rollt \"Health in ChatGPT\" breit für US‑Nutzer aus, mit Anbindung an Apple Health, medizinische Akten und Wellness-Apps. Über 300 Millionen Menschen stellen wöchentlich Gesundheitsfragen an ChatGPT. Zahlende Nutzer erhalten dabei bessere Antworten: Das stärkere Modell GPT-5.6 Sol bleibt Premiumkunden vorbehalten, während Gratis-Nutzer mit dem schwächeren GPT-5.5 Instant auskommen müssen. Der Artikel ChatGPT wird zum Gesundheitsberater: OpenAI verbindet Apple Health und Patientenakten erschien zuerst auf The Decoder .",
-      "keywords": [
-        "chatgpt",
-        "health",
-        "openai",
-        "apple",
-        "wird",
-        "gesundheitsberater"
-      ]
-    },
-    {
-      "title": "Black Forest Labs stellt Flux 3 vor: Ein Modell für Bild, Video, Audio und Robotik",
-      "url": "https://the-decoder.de/black-forest-labs-stellt-flux-3-vor-ein-modell-fuer-bild-video-audio-und-robotik/",
-      "source": "The Decoder",
-      "lang": "de",
-      "published": "2026-07-23T17:52:01+00:00",
-      "summary": "Black Forest Labs veröffentlicht mit Flux 3 ein multimodales Foundation-Modell, das aus Bildern, Videos und Audio gleichzeitig lernt und erstmals Videos mit nativem Sound generiert. In eigenen Evaluierungen schlägt es sogar den Platzhirsch Seedance 2.0, unabhängige Tests stehen allerdings noch aus. Langfristig zielt BFL auf ein Weltmodell ab. Gemeinsam mit mimic robotics wird Flux 3 bereits für Robotik-Aufgaben erprobt. Der Artikel Black Forest Labs stellt Flux 3 vor: Ein Modell für Bild, Video, Audio und Robotik erschien zuerst auf The Decoder .",
-      "keywords": [
-        "flux",
-        "black",
-        "forest",
-        "labs",
-        "audio",
-        "stellt"
-      ]
-    },
-    {
-      "title": "AMD Epyc 9006: Zen-6-Generation der Serverprozessoren bringt neue Varianten",
-      "url": "https://www.heise.de/news/AMD-Epyc-9006-Zen-6-Generation-der-Serverprozessoren-bringt-neue-Varianten-11376591.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-23T17:34:00+00:00",
-      "summary": "AMD-CPUs für Server mit Zen-6-Technik bieten bis zu 256 Kerne oder besonders hohen Takt sowie PCIe 6.0. Sie steuern bis zu 16 RAM-Kanäle oder LPDDR an.",
-      "keywords": [
-        "oder",
-        "epyc",
-        "9006",
-        "zen-6-generation",
-        "serverprozessoren",
-        "bringt"
-      ]
-    },
-    {
-      "title": "Bürgerinitiative „Stop Killing The Internet“ stemmt sich gegen Alterskontrollen",
-      "url": "https://www.heise.de/news/Buergerinitiative-Stop-Killing-The-Internet-stemmt-sich-gegen-Alterskontrollen-11376601.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-23T17:16:00+00:00",
-      "summary": "Die EU-Kommission hat die die Initiative „Stop Killing The Internet“ gegen verpflichtende eIDs und Altersschranken registriert. Nun geht es um Unterschriften.",
-      "keywords": [
-        "stop",
-        "killing",
-        "internet",
-        "gegen",
-        "bürgerinitiative",
-        "stemmt"
-      ]
-    },
-    {
-      "title": "EuGH-Urteil: Reisezeit im Firmenwagen ist voll zu vergütende Arbeitszeit - Lohnnachforderungen von bis zu 400 EUR pro Monat möglich",
-      "url": "https://t3n.de/news/eugh-urteil-fahrtzeit-arbeitszeit-it-branche-1754592/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "lang": "de",
-      "published": "2026-07-24T08:02:34+00:00",
-      "summary": "Ein weitreichendes Urteil aus Luxemburg rüttelt massiv an den gängigen Regeln zur Arbeitszeit und ermöglicht Millionen Angestellten ein spürbares Gehaltsplus. Die Details der Entscheidung betreffen auch unzählige Fachkräfte innerhalb der Tech-Branche. weiterlesen auf t3n.de",
-      "keywords": [
-        "arbeitszeit",
-        "eugh-urteil",
-        "reisezeit",
-        "firmenwagen",
-        "voll",
-        "vergütende"
-      ]
-    },
-    {
-      "title": "Apple drängt mit Karten-SDK ins Auto: Ford erster Partner",
-      "url": "https://www.heise.de/news/Apple-draengt-mit-Karten-SDK-ins-Auto-Ford-erster-Partner-11376557.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-23T16:27:00+00:00",
-      "summary": "Autohersteller können Apple Maps in ihr Bordsystem integrieren, auch für assistiertes Fahren. Erster Partner ist Ford, Apple sammelt mehr Eyeballs für Werbung.",
-      "keywords": [
-        "apple",
-        "ford",
-        "erster",
-        "partner",
-        "drängt",
-        "karten-sdk"
-      ]
-    },
-    {
-      "title": "Innere Sicherheit: Innenministerium zielt auf Kern der Informationsfreiheit",
-      "url": "https://www.golem.de/news/innere-sicherheit-innenministerium-zielt-auf-kern-der-informationsfreiheit-2607-211241.html",
-      "source": "Golem.de (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-24T07:54:02+00:00",
-      "summary": "Das Innenministerium plant offenbar weit mehr als eine Reform des Informationsfreiheitsgesetzes. Ein internes Papier zeigt, wohin die Reise geht. ( BMI , Politik )",
-      "keywords": [
-        "innenministerium",
-        "innere",
-        "sicherheit",
-        "zielt",
-        "kern",
-        "informationsfreiheit"
-      ]
-    },
-    {
-      "title": "Lisp-Makro-Power ohne Klammerflut: Die neue Sprache Rhombus",
-      "url": "https://www.heise.de/hintergrund/Lisp-Makro-Power-ohne-Klammerflut-Die-neue-Sprache-Rhombus-11368404.html",
-      "source": "Heise iX (Magazin-Feed)",
-      "lang": "de",
-      "published": "2026-07-24T07:47:00+00:00",
-      "summary": "Die neue, auf Racket basierende Sprache Rhombus erlaubt mächtige, flexible und saubere Makroprogrammierung bei einfach zu lesender Syntax.",
-      "keywords": [
-        "neue",
-        "sprache",
-        "rhombus",
-        "lisp-makro-power",
-        "ohne",
-        "klammerflut"
-      ]
-    },
-    {
-      "title": "Neu in .NET 10.0 [33]: Verbesserungen bei ValidationContext",
-      "url": "https://www.heise.de/blog/Neu-in-NET-10-0-33-Verbesserungen-bei-ValidationContext-11377007.html",
-      "source": "Heise iX (Magazin-Feed)",
-      "lang": "de",
-      "published": "2026-07-24T07:46:00+00:00",
-      "summary": "ValidationContext funktioniert nun auch mit dem Native AOT-Compiler.",
-      "keywords": [
-        "validationcontext",
-        "verbesserungen",
-        "funktioniert",
-        "auch",
-        "native",
-        "aot-compiler"
-      ]
-    },
-    {
-      "title": "Vier Volltreffer: Fields-Medaillen für große Fortschritte in der Mathematik",
-      "url": "https://www.heise.de/news/Vier-Volltreffer-Fields-Medaillen-fuer-grosse-Fortschritte-in-der-Mathematik-11376575.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-23T16:09:00+00:00",
-      "summary": "Die Fields-Medaille gilt als Nobelpreis der Mathematik. In diesem Jahr werden vier Forscher für die Lösung von Problemen geehrt, die Jahrzehnte überdauerten.",
-      "keywords": [
-        "vier",
-        "mathematik",
-        "volltreffer",
-        "fields-medaillen",
-        "große",
-        "fortschritte"
-      ]
-    },
-    {
-      "title": "Smart #5 Brabus im Test: Familienkutschen-Sleeper mit unerwartet viel Wumms und Gebimmel",
-      "url": "https://www.golem.de/news/smart-5-brabus-im-test-familienkutschen-sleeper-mit-unerwartet-viel-wumms-und-gebimmel-2607-211206.html",
-      "source": "Golem.de (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-24T07:10:05+00:00",
-      "summary": "Die Brabus-Version von Smarts #5 mit 646 PS beschleunigt rasant und ist ein großartiges Langstreckenauto. Die Software nervt allerdings oft. Ein Praxistest von Tobias Költzsch ( Elektroauto , Test )",
-      "keywords": [
-        "test",
-        "smart",
-        "brabus",
-        "familienkutschen-sleeper",
-        "unerwartet",
-        "viel"
-      ]
-    },
-    {
-      "title": "Gaming mit Werbeunterbrechung: So will Microsoft es jetzt testen",
-      "url": "https://t3n.de/news/gaming-werbeunterbrechung-microsoft-test-1754578/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "lang": "de",
-      "published": "2026-07-24T07:03:45+00:00",
-      "summary": "Microsoft testet ein neues Werbemodell für Gamer:innen. Dadurch werden Anzeigen direkt vor der Spielesession angezeigt. Wie das Ganze funktioniert und welche Vorteile Spieler:innen dadurch haben sollen. weiterlesen auf t3n.de",
-      "keywords": [
-        "microsoft",
-        "innen",
-        "dadurch",
-        "gaming",
-        "werbeunterbrechung",
-        "will"
-      ]
-    },
-    {
-      "title": "Manipulierter ChatGPT-Link reicht aus, um einen autonomen KI-Agenten im Firmennetzwerk zu installieren",
-      "url": "https://the-decoder.de/manipulierter-chatgpt-link-reicht-aus-um-einen-autonomen-ki-agenten-im-firmennetzwerk-zu-installieren/",
-      "source": "The Decoder",
-      "lang": "de",
-      "published": "2026-07-23T15:36:30+00:00",
-      "summary": "Zenity Labs hat mit \"AgentForger\" eine Schwachstelle in OpenAIs Agent Builder aufgedeckt. Ein einziger manipulierter ChatGPT-Link genügte, um im Namen eines Mitarbeitenden einen autonomen Agenten zu erstellen, der alle fünf Minuten neue Anweisungen aus dem Postfach des Angreifers abholte. Der Agent erbte Identität und Zugriffsrechte des Opfers, während die Freigabepflichten durch den präparierten Prompt unterdrückt wurden. Der Artikel Manipulierter ChatGPT-Link reicht aus, um einen autonomen KI-Agenten im Firmennetzwerk zu installieren erschien zuerst auf The Decoder .",
-      "keywords": [
-        "manipulierter",
-        "chatgpt-link",
-        "autonomen",
-        "reicht",
-        "ki-agenten",
-        "firmennetzwerk"
-      ]
-    },
-    {
-      "title": "heise+ | BGH-Urteil: Vereinsmitglieder haben Anspruch auf E-Mail-Listen",
-      "url": "https://www.heise.de/hintergrund/BGH-Urteil-Vereinsmitglieder-haben-Anspruch-auf-E-Mail-Listen-11350158.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-23T15:30:00+00:00",
-      "summary": "Ein Verein verweigert einem Mitglied die E-Mail-Adressen der anderen – der BGH sieht darin einen Mangel mit Sprengkraft für gefasste Beschlüsse.",
-      "keywords": [
-        "heise",
-        "bgh-urteil",
-        "vereinsmitglieder",
-        "haben",
-        "anspruch",
-        "e-mail-listen"
-      ]
-    },
-    {
-      "title": "Datenpanne: OpenAI-Crawler greift Kundendaten von Universa ab",
-      "url": "https://www.golem.de/news/datenpanne-openai-crawler-greift-kundendaten-von-universa-ab-2607-211234.html",
-      "source": "Golem.de (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-24T06:47:01+00:00",
-      "summary": "Durch eine Fehlkonfiguration sind Kundendaten der Universa-Versicherungen zeitweise offen im Netz gestanden. Ein Crawler von OpenAI hat die Gelegenheit genutzt. ( Datenleck , KI )",
-      "keywords": [
-        "kundendaten",
-        "datenpanne",
-        "openai-crawler",
-        "greift",
-        "universa",
-        "durch"
-      ]
-    },
-    {
-      "title": "Messenger-Interoperabilität: Threema lehnt Vernetzung mit Whatsapp ab",
-      "url": "https://www.golem.de/news/messenger-interoperabilitaet-threema-lehnt-vernetzung-mit-whatsapp-ab-2607-211236.html",
-      "source": "Golem.de (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-24T06:40:00+00:00",
-      "summary": "Trotz EU-Vorgaben verzichtet Threema auf eine Anbindung an Whatsapp und verweist auf Datenschutz- sowie Finanzierungsrisiken. ( Threema , Instant Messenger )",
-      "keywords": [
-        "threema",
-        "whatsapp",
-        "messenger-interoperabilität",
-        "lehnt",
-        "vernetzung",
-        "trotz"
-      ]
-    },
-    {
-      "title": "SteuerGPT, Alma und ChatGPT im Praxistest: Welche KI hilft wirklich bei der Steuer?",
-      "url": "https://t3n.de/news/steuergpt-alma-und-chatgpt-im-praxistest-welche-ki-hilft-wirklich-bei-der-steuer-1754503/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "lang": "de",
-      "published": "2026-07-24T06:30:45+00:00",
-      "summary": "Künstliche Intelligenz hat die Steuererklärung verändert: Statt sich durch Formulare zu kämpfen, stehen viele Nutzer:innen heute einfach mit ihrer Steuersoftwar weiterlesen auf t3n.de",
-      "keywords": [
-        "steuergpt",
-        "alma",
-        "chatgpt",
-        "praxistest",
-        "welche",
-        "hilft"
+        "gehen",
+        "rahmen"
       ]
     }
   ]
