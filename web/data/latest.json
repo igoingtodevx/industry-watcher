@@ -1,724 +1,741 @@
 {
-  "generated_at": "2026-07-29T08:27:32.443381+00:00",
+  "generated_at": "2026-07-30T08:12:15.133965+00:00",
   "brief": {
-    "headline": "KI-ROI und Cybersecurity im Fokus der Mittelstands-Digitalisierung",
-    "subheadline": "Neue Ansätze zur Messung des KI-Nutzens und innovative Sicherheitslösungen prägen die Debatte.",
-    "executive_summary": "<p>Diese Woche stehen die wirtschaftlichen Vorteile von KI und Cybersecurity im Mittelpunkt. Heise Online berichtet über ein Webinar zur Messung des KI-ROI (Return on Investment) und die wachsende Besorgnis hinsichtlich KI-Müdigkeit unter Mitarbeitern. Zudem hat Microsoft ein neues KI-Modell für Cybersecurity vorgestellt, das kosteneffizienter sein soll. Über 1000 Experten fordern einen internationalen Bremsmechanismus für KI, um Risiken zu minimieren. In den USA wird der Import ausländischer Roboter aufgrund von Sicherheitsbedenken gestoppt, was auch Auswirkungen auf den deutschen Mittelstand haben könnte.</p>",
+    "headline": "KI-Modelle und Sicherheitslücken prägen die digitale Landschaft der Woche",
+    "subheadline": "Wachsende Herausforderungen durch Cyberangriffe und innovative KI-Entwicklungen im Mittelstand.",
+    "executive_summary": "<p>Diese Woche stehen mehrere Entwicklungen im Mittelpunkt, die den deutschen Mittelstand betreffen. OpenAI hat neue KI-Modelle veröffentlicht, die sowohl Chancen als auch Herausforderungen mit sich bringen, während Sicherheitslücken in weit verbreiteten Softwarelösungen die Cybersicherheit gefährden. Metas KI-Wette hat Anleger verunsichert, während die Nachfrage nach Smart Glasses und neuen Technologien wie Quantencomputern wächst. Zudem hat die Bundesnetzagentur neue Befugnisse zur KI-Aufsicht erhalten, was die regulatorischen Rahmenbedingungen für Unternehmen verändert.</p>",
     "trends": [
       {
-        "title": "Messung des KI-ROI",
-        "what": "Ein Webinar von Heise KI PRO zeigt praxisnahe Ansätze zur Messung des wirtschaftlichen Nutzens von KI im Unternehmen.",
-        "why": "Mittelständler müssen den Nutzen von KI quantifizieren, um Investitionen zu rechtfertigen und strategische Entscheidungen zu treffen.",
+        "title": "Zunehmende Cyberangriffe auf Unternehmen",
+        "what": "Sicherheitslücken in Software wie VMware und Cisco werden ausgenutzt, was zu einer erhöhten Bedrohung für Unternehmen führt.",
+        "why": "Mittelständler müssen ihre IT-Sicherheitsstrategien überdenken, um sich gegen diese wachsenden Bedrohungen zu wappnen.",
         "signal": "hoch"
       },
       {
-        "title": "KI-Müdigkeit unter Mitarbeitern",
-        "what": "Fast drei Viertel der Mitarbeiter wünschen sich die Arbeitswelt vor ChatGPT zurück, da sie frustriert von der Technologie sind.",
-        "why": "Ein Rückgang der Produktivität könnte den Einsatz von KI gefährden, was Unternehmen vor Herausforderungen stellt.",
+        "title": "Wachstum im Bereich Smart Glasses",
+        "what": "Der Umsatz mit Smart Glasses hat sich nahezu verdoppelt, was auf ein wachsendes Interesse an dieser Technologie hinweist.",
+        "why": "Mittelständler sollten die Integration von Smart Glasses in ihre Geschäftsprozesse in Betracht ziehen, um wettbewerbsfähig zu bleiben.",
         "signal": "hoch"
       },
       {
-        "title": "Cybersecurity durch KI-Modelle",
-        "what": "Microsoft hat ein neues KI-Modell für Cybersecurity vorgestellt, das kosteneffizienter als frühere Lösungen sein soll.",
-        "why": "Mittelständler können von günstigeren und effektiveren Sicherheitslösungen profitieren, um Cyberangriffe zu verhindern.",
+        "title": "Regulatorische Änderungen in der KI-Aufsicht",
+        "what": "Die Bundesnetzagentur hat neue Befugnisse zur Aufsicht über KI-Technologien in Deutschland erhalten.",
+        "why": "Unternehmen müssen sich auf strengere Regulierungen einstellen und ihre KI-Strategien entsprechend anpassen.",
         "signal": "hoch"
       },
       {
-        "title": "Internationale KI-Regulierung",
-        "what": "Über 1000 Experten fordern einen internationalen Bremsmechanismus für KI, um eigenständige Cyberangriffe zu verhindern.",
-        "why": "Regulierungen könnten den Rahmen für sichere KI-Anwendungen im Mittelstand schaffen.",
-        "signal": "hoch"
-      },
-      {
-        "title": "Importverbot für ausländische Roboter",
-        "what": "Die USA haben den Import von ausländischen Robotern und Wechselrichtern gestoppt, vor allem aus China.",
-        "why": "Dies könnte den Wettbewerb im Robotermarkt beeinflussen und deutsche Hersteller unter Druck setzen.",
-        "signal": "hoch"
-      },
-      {
-        "title": "Trinkgeldabfrage im Einzelhandel",
-        "what": "Digitale Trinkgeldabfragen könnten auch im Einzelhandel eingeführt werden, ähnlich wie in der Gastronomie.",
-        "why": "Neue Zahlungsmethoden könnten den Umsatz im Einzelhandel steigern und das Kundenerlebnis verbessern.",
+        "title": "Innovationen in der KI-Musikgenerierung",
+        "what": "Google hat ein neues KI-Modell zur Musikgenerierung veröffentlicht, das qualitativ hochwertige Tracks erzeugt.",
+        "why": "Mittelständler im Kreativsektor können diese Technologie nutzen, um ihre Produktionsprozesse zu optimieren.",
         "signal": "mittel"
       },
       {
-        "title": "KI-Wasserzeichen für Bilder",
-        "what": "KI-generierte Wasserzeichen werden entwickelt, um die Authentizität von Bildern zu überprüfen.",
-        "why": "Mittelständler im kreativen Bereich können von diesen Technologien profitieren, um Urheberrechtsverletzungen zu verhindern.",
-        "signal": "mittel"
-      },
-      {
-        "title": "Ernteroboter in der Landwirtschaft",
-        "what": "Wissenschaftler testen Ernteroboter, die künftig bei der Apfelernte helfen sollen.",
-        "why": "Automatisierung in der Landwirtschaft könnte die Effizienz steigern und Arbeitskräfte entlasten.",
-        "signal": "mittel"
-      },
-      {
-        "title": "Open Source und Cyber Resilience",
-        "what": "Die EU-Kommission schafft mehr Klarheit für Open-Source-Projekte im Rahmen des Cyber Resilience Act.",
-        "why": "Mittelständler, die auf Open Source setzen, erhalten rechtliche Sicherheit und können ihre Produkte besser absichern.",
+        "title": "KI-gestützte Automatisierung im Reporting",
+        "what": "LLMs können Datenanfragen direkt in SQL übersetzen, wodurch die Analysezeit erheblich verkürzt wird.",
+        "why": "Mittelständler sollten in solche Technologien investieren, um ihre Effizienz im Reporting zu steigern.",
         "signal": "hoch"
+      },
+      {
+        "title": "Rückgang bei Amazon's Nova-KI-Modellen",
+        "what": "Amazon hat mehrere KI-Modelle zurückgestuft, um sich auf wenige Modelle zu konzentrieren.",
+        "why": "Mittelständler sollten die Entwicklungen bei großen Anbietern beobachten, um eigene Strategien anzupassen.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Kritische Sicherheitslücken in weit verbreiteten Softwarelösungen",
+        "what": "Die Entdeckung kritischer Lücken in VMware und TeamViewer zeigt die Verletzlichkeit gängiger Software.",
+        "why": "Unternehmen müssen ihre Software regelmäßig aktualisieren und Sicherheitsstrategien anpassen.",
+        "signal": "hoch"
+      },
+      {
+        "title": "Forderung nach globaler Notbremse für KI-Entwicklung",
+        "what": "Über 1.200 KI-Forscher fordern internationale Maßnahmen zur Regulierung von KI-Entwicklungen.",
+        "why": "Mittelständler sollten sich auf mögliche regulatorische Veränderungen vorbereiten, die ihre Innovationsfähigkeit beeinflussen könnten.",
+        "signal": "mittel"
       }
     ],
     "opportunities": [
       {
-        "title": "KI-ROI-Analyse-Tool",
-        "what": "Entwicklung eines Tools zur quantitativen Bewertung des KI-Einsatzes in Unternehmen.",
-        "who": "Mittelständler, die KI-Technologien implementieren.",
+        "title": "Entwicklung von Sicherheitslösungen für KMUs",
+        "what": "Es gibt einen dringenden Bedarf an maßgeschneiderten Sicherheitslösungen für kleine und mittelständische Unternehmen, um gegen Cyberangriffe gewappnet zu sein.",
+        "who": "KMUs in verschiedenen Branchen.",
         "how": "hoch",
-        "price": "5.000-15.000€ Setup + 500-1.000€/Monat Retainer",
-        "time": "1-2 Monate"
+        "price": "5.000-15.000€ Setup + 500-1.000€/Monat Wartung",
+        "time": "Monate"
       },
       {
-        "title": "Schulungen zur KI-Nutzung",
-        "what": "Angebot von Schulungen für Mitarbeiter zur effektiven Nutzung von KI-Tools und zur Überwindung von KI-Müdigkeit.",
-        "who": "Unternehmen mit KI-Implementierungen.",
+        "title": "Integration von Smart Glasses in Geschäftsprozesse",
+        "what": "Unternehmen benötigen Unterstützung bei der Implementierung von Smart Glasses für Schulungen und Prozesse.",
+        "who": "Industrieunternehmen und Dienstleister.",
+        "how": "mittel",
+        "price": "3.000-10.000€ Setup + 300-700€/Monat Support",
+        "time": "Wochen"
+      },
+      {
+        "title": "Beratungsdienstleistungen zur KI-Compliance",
+        "what": "Die neuen regulatorischen Anforderungen erfordern Beratung zur Einhaltung von KI-Vorgaben.",
+        "who": "Unternehmen, die KI-Technologien einsetzen.",
         "how": "hoch",
-        "price": "2.000-5.000€ pro Schulung",
-        "time": "1 Woche"
+        "price": "2.000-8.000€ pro Projekt",
+        "time": "Wochen"
       },
       {
-        "title": "Cybersecurity-Optimierung",
-        "what": "Beratung zur Implementierung von Microsofts neuem KI-Modell für Cybersecurity.",
-        "who": "Mittelständler, die ihre Sicherheitsinfrastruktur verbessern wollen.",
+        "title": "Optimierung von Reporting-Prozessen mit LLMs",
+        "what": "Es besteht Bedarf an Lösungen, die LLMs für die Datenanalyse und das Reporting nutzen.",
+        "who": "Unternehmen mit umfangreichen Datenanalysen.",
         "how": "hoch",
-        "price": "3.000-10.000€ Setup + 300-800€/Monat Support",
-        "time": "2-4 Wochen"
+        "price": "4.000-12.000€ Setup + 400-800€/Monat Wartung",
+        "time": "Monate"
       },
       {
-        "title": "Digitale Trinkgeldabfrage-Lösung",
-        "what": "Entwicklung einer Softwarelösung zur Implementierung digitaler Trinkgeldabfragen im Einzelhandel.",
-        "who": "Einzelhändler, die ihren Service verbessern wollen.",
+        "title": "Entwicklung von KI-gestützten Musiklösungen",
+        "what": "Die Nachfrage nach KI-generierten Musiklösungen wächst, insbesondere im Marketing und in der Werbung.",
+        "who": "Agenturen und Unternehmen im kreativen Bereich.",
         "how": "mittel",
-        "price": "4.000-8.000€ Setup + 200-400€/Monat Wartung",
-        "time": "2 Monate"
+        "price": "5.000-15.000€ Setup + 500-1.000€/Monat Lizenzgebühren",
+        "time": "Monate"
       },
       {
-        "title": "KI-Wasserzeichen-Service",
-        "what": "Angebot eines Services zur Implementierung von KI-Wasserzeichen in digitale Inhalte.",
-        "who": "Kreativagenturen und Fotografen.",
-        "how": "mittel",
-        "price": "3.000-7.000€ Setup + 100-300€/Monat Wartung",
-        "time": "1-3 Monate"
-      },
-      {
-        "title": "Automatisierungslösungen für die Landwirtschaft",
-        "what": "Entwicklung und Implementierung von Automatisierungslösungen, einschließlich Ernterobotern.",
-        "who": "Landwirte und Agrarunternehmen.",
-        "how": "mittel",
-        "price": "10.000-50.000€ Setup + 500-1.000€/Monat Support",
-        "time": "3-6 Monate"
+        "title": "Schulungen zur Cybersicherheit für Mitarbeiter",
+        "what": "Unternehmen benötigen Schulungen, um Mitarbeiter auf Cyberbedrohungen vorzubereiten.",
+        "who": "Alle Unternehmen, die Mitarbeiter im Umgang mit IT schulen möchten.",
+        "how": "hoch",
+        "price": "1.500-5.000€ pro Schulung",
+        "time": "Wochen"
       }
     ],
     "top_articles": [
       {
-        "title": "KI-ROI messen: Was bringt der KI-Einsatz wirtschaftlich wirklich?",
-        "url": "https://www.heise.de/news/KI-ROI-messen-Was-bringt-der-KI-Einsatz-wirtschaftlich-wirklich-11377346.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "title": "Angreifer missbrauchen Backdoor in Ciscos Firewall-Verwaltungssoftware",
+        "url": "https://www.heise.de/news/Angreifer-missbrauchen-Backdoor-in-Ciscos-Firewall-Verwaltungssoftware-11384735.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
         "source": "Heise Online",
-        "date": "2026-07-29",
-        "why": "Das Webinar bietet praxisnahe Ansätze zur Messung des wirtschaftlichen Nutzens von KI.",
+        "date": "2026-07-30",
+        "why": "Die Sicherheitslücke in Ciscos Software zeigt die Verletzlichkeit gängiger IT-Lösungen und erfordert sofortige Maßnahmen.",
         "tags": [
-          "KI",
-          "ROI",
-          "Webinar"
+          "Sicherheit",
+          "Cisco"
         ]
       },
       {
-        "title": "KI-Müdigkeit: Fast drei Viertel wünschen sich die Arbeitswelt vor ChatGPT zurück",
-        "url": "https://www.heise.de/news/KI-Muedigkeit-Fast-drei-Viertel-wuenschen-sich-die-Arbeitswelt-vor-ChatGPT-zurueck-11381313.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "source": "Heise Online",
+        "title": "OpenAI veröffentlicht Codex Security CLI als Open-Source-Tool zur automatischen Schwachstellenerkennung",
+        "url": "https://the-decoder.de/openai-veroeffentlicht-codex-security-cli-als-open-source-tool-zur-automatischen-schwachstellenerkennung/",
+        "source": "The Decoder",
         "date": "2026-07-29",
-        "why": "Der Artikel beleuchtet die Frustration der Mitarbeiter mit KI-Technologien.",
+        "why": "Das Tool könnte Unternehmen helfen, Sicherheitslücken effizienter zu identifizieren und zu beheben.",
         "tags": [
-          "KI",
-          "Müdigkeit",
-          "Mitarbeiter"
+          "OpenAI",
+          "Sicherheit"
         ]
       },
       {
-        "title": "Microsoft stellt eigenes KI-Modell für Cybersecurity vor",
-        "url": "https://www.heise.de/news/Microsoft-stellt-eigenes-KI-Modell-fuer-Cybersecurity-vor-11379956.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "title": "Metas KI-Wette überschattet starkes Werbegeschäft",
+        "url": "https://www.heise.de/news/Metas-KI-Wette-ueberschattet-starkes-Werbegeschäft-11384511.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
         "source": "Heise Online",
-        "date": "2026-07-28",
-        "why": "Das neue Modell könnte für Unternehmen kosteneffiziente Sicherheitslösungen bieten.",
+        "date": "2026-07-30",
+        "why": "Die Unsicherheiten bei Metas KI-Strategien könnten Auswirkungen auf die gesamte Branche haben.",
         "tags": [
-          "Cybersecurity",
           "KI",
-          "Microsoft"
+          "Meta"
         ]
       },
       {
-        "title": "Über 1000 Experten fordern KI-Bremsmechanismus",
-        "url": "https://www.heise.de/news/Ueber-1000-Experten-fordern-KI-Bremsmechanismus-11381185.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "title": "Neue Befugnisse: Bundesnetzagentur übernimmt KI-Aufsicht in Deutschland",
+        "url": "https://www.heise.de/news/Neue-Befugnisse-Bundesnetzagentur-uebernimmt-KI-Aufsicht-in-Deutschland-11383935.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
         "source": "Heise Online",
         "date": "2026-07-29",
-        "why": "Der Artikel diskutiert die Notwendigkeit eines internationalen Bremsmechanismus für KI.",
+        "why": "Die neuen Aufsichtsbefugnisse der Bundesnetzagentur werden die Rahmenbedingungen für Unternehmen verändern.",
         "tags": [
-          "KI",
           "Regulierung",
-          "Experten"
+          "KI"
         ]
       },
       {
-        "title": "USA untersagen Import ausländischer Roboter und Wechselrichter",
-        "url": "https://www.heise.de/news/USA-untersagen-Import-auslaendischer-Roboter-und-Wechselrichter-11381195.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-29",
-        "why": "Das Importverbot könnte deutsche Hersteller vor Wettbewerb schützen.",
-        "tags": [
-          "Roboter",
-          "Import",
-          "USA"
-        ]
-      },
-      {
-        "title": "Digitale Trinkgeldabfrage: Kommt sie auch im Einzelhandel?",
-        "url": "https://www.heise.de/news/Digitale-Trinkgeldabfrage-Kommt-sie-auch-im-Einzelhandel-11381181.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-29",
-        "why": "Die Einführung könnte das Kundenerlebnis im Einzelhandel verbessern.",
-        "tags": [
-          "Einzelhandel",
-          "Trinkgeld",
-          "Digitalisierung"
-        ]
-      },
-      {
-        "title": "KI-Wasserzeichen für Bilder: Was sie verraten und wie robust sie sind",
-        "url": "https://www.heise.de/ratgeber/KI-Wasserzeichen-fuer-Bilder-Was-sie-verraten-und-wie-robust-sie-sind-11340639.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-        "source": "Heise Online",
-        "date": "2026-07-29",
-        "why": "Der Artikel erklärt die Funktionsweise und die Bedeutung von KI-Wasserzeichen.",
-        "tags": [
-          "KI",
-          "Wasserzeichen",
-          "Bilder"
-        ]
-      },
-      {
-        "title": "Ernteroboter sollen künftig bei der Apfelernte helfen",
-        "url": "https://www.heise.de/news/Roboter-soll-kuenftig-bei-der-Apfelernte-helfen-11380731.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-28",
-        "why": "Die Automatisierung in der Landwirtschaft könnte die Effizienz steigern.",
-        "tags": [
-          "Roboter",
-          "Landwirtschaft",
-          "Automatisierung"
-        ]
-      },
-      {
-        "title": "Cyber Resilience Act: EU-Kommission schafft mehr Klarheit für Open Source",
-        "url": "https://www.heise.de/news/Cyber-Resilience-Act-EU-Kommission-schafft-mehr-Klarheit-fuer-Open-Source-11381011.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-28",
-        "why": "Mittelständler erhalten rechtliche Sicherheit für Open-Source-Projekte.",
-        "tags": [
-          "Open Source",
-          "Cybersecurity",
-          "EU"
-        ]
-      },
-      {
-        "title": "KI-Projekte im Marketing: 85 Prozent scheitern – und das liegt nicht an der Technologie",
-        "url": "https://t3n.de/news/ki-projekte-im-marketing-85-prozent-scheitern-und-das-liegt-nicht-an-der-technologie-1754718/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+        "title": "Wieso Amazon jetzt mehr als 300 Millionen Euro in Pforzheim investiert",
+        "url": "https://t3n.de/news/amazon-investiert-pforzheim-1755577/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
         "source": "t3n Digital Pioneers",
+        "date": "2026-07-30",
+        "why": "Die Investitionen von Amazon zeigen das Potenzial für Wachstum in der Region und die Bedeutung von Technologie.",
+        "tags": [
+          "Amazon",
+          "Investition"
+        ]
+      },
+      {
+        "title": "Musikcharts: Labels wollen KI-Songs aus den Charts fernhalten",
+        "url": "https://www.heise.de/news/Musikcharts-Labels-wollen-KI-Songs-aus-den-Charts-fernhalten-11384133.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "source": "Heise Online",
+        "date": "2026-07-30",
+        "why": "Die Diskussion über KI in der Musikindustrie wirft Fragen zur Authentizität und Kreativität auf.",
+        "tags": [
+          "Musik",
+          "KI"
+        ]
+      },
+      {
+        "title": "Über 1.200 KI-Forscher fordern eine globale Notbremse für die Entwicklung von Frontier-Modellen",
+        "url": "https://the-decoder.de/ueber-1-200-beschaeftigte-von-openai-anthropic-google-und-meta-fordern-werkzeuge-zum-ausbremsen-der-ki-entwicklung/",
+        "source": "The Decoder",
         "date": "2026-07-29",
-        "why": "Die Analyse zeigt, dass viele KI-Projekte im Marketing nicht erfolgreich sind und was Unternehmen anders machen können.",
+        "why": "Die Forderung nach einer globalen Regulierung der KI-Entwicklung könnte weitreichende Auswirkungen auf die Branche haben.",
+        "tags": [
+          "Regulierung",
+          "KI"
+        ]
+      },
+      {
+        "title": "Doordash darf in den USA per Flugdrohne liefern",
+        "url": "https://www.heise.de/news/Doordash-darf-in-den-USA-per-Flugdrohne-liefern-11384021.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "source": "Heise Online",
+        "date": "2026-07-29",
+        "why": "Die Erlaubnis für Drohnenlieferungen könnte die Logistikbranche revolutionieren.",
+        "tags": [
+          "Logistik",
+          "Drohnen"
+        ]
+      },
+      {
+        "title": "Kritische Sicherheitslücken in weit verbreiteten Softwarelösungen",
+        "url": "https://www.golem.de/news/dringend-patchen-kritische-vmware-luecke-laesst-hacker-aus-vms-ausbrechen-2607-211426.html",
+        "source": "Golem.de",
+        "date": "2026-07-30",
+        "why": "Die Entdeckung dieser Lücken erfordert sofortige Maßnahmen von Unternehmen zur Sicherstellung ihrer IT-Sicherheit.",
+        "tags": [
+          "Sicherheit",
+          "VMware"
+        ]
+      },
+      {
+        "title": "Wachstum im Bereich Smart Glasses: Umsatz mit Meta-Brillen hat sich nahezu verdoppelt",
+        "url": "https://www.heise.de/news/Nachfrage-nach-Smart-Glasses-Umsatz-mit-Meta-Brillen-hat-sich-nahezu-verdoppelt-11383578.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "source": "Heise Online",
+        "date": "2026-07-29",
+        "why": "Das Wachstum in diesem Bereich bietet neue Geschäftsmöglichkeiten für Unternehmen im Technologiebereich.",
+        "tags": [
+          "Technologie",
+          "Smart Glasses"
+        ]
+      },
+      {
+        "title": "Optimierung von Reporting-Prozessen mit LLMs",
+        "url": "https://www.heise.de/hintergrund/Talk-to-Database-im-Praxistest-Sprachmodell-statt-Reporting-Engpass-11355296.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+        "source": "Heise Online",
+        "date": "2026-07-29",
+        "why": "Die Anwendung von LLMs könnte die Effizienz in der Datenanalyse erheblich steigern.",
         "tags": [
           "KI",
-          "Marketing",
-          "Projekte"
+          "Reporting"
+        ]
+      },
+      {
+        "title": "Oracle und die riskanteste Wette der KI-Branche",
+        "url": "https://www.golem.de/news/milliarden-investitionen-oracle-und-die-riskanteste-wette-der-ki-branche-2607-211411.html",
+        "source": "Golem.de",
+        "date": "2026-07-30",
+        "why": "Oracles massive Investitionen in KI-Rechenzentren könnten die Branche nachhaltig beeinflussen.",
+        "tags": [
+          "Oracle",
+          "Investitionen"
+        ]
+      },
+      {
+        "title": "Pangrams neuer KI-Text-Detektor funktioniert angeblich fast perfekt",
+        "url": "https://the-decoder.de/pangrams-neuer-ki-text-detektor-funktioniert-angeblich-fast-perfekt/",
+        "source": "The Decoder",
+        "date": "2026-07-29",
+        "why": "Die Technologie zur Erkennung von KI-Texten könnte für Unternehmen zur Sicherstellung der Authentizität ihrer Inhalte entscheidend sein.",
+        "tags": [
+          "KI",
+          "Text-Detektion"
         ]
       }
     ],
     "action_items": [
-      "Teilnahme am Webinar zur KI-ROI-Messung für bessere Entscheidungsgrundlagen.",
-      "Einführung von Schulungen zur effektiven Nutzung von KI-Tools im Unternehmen.",
-      "Überprüfung und ggf. Implementierung von Microsofts neuem KI-Modell für Cybersecurity.",
-      "Erforschung der Möglichkeiten zur Einführung digitaler Trinkgeldabfragen im Einzelhandel.",
-      "Analyse von KI-Wasserzeichen-Technologien zur Verbesserung des Urheberrechtsschutzes."
+      "Überprüfen Sie alle Softwarelösungen auf aktuelle Sicherheitsupdates und patchen Sie kritische Lücken.",
+      "Planen Sie eine Schulung zur Cybersicherheit für Ihre Mitarbeiter innerhalb der nächsten Woche.",
+      "Analysieren Sie die Möglichkeit, Smart Glasses in Ihre Geschäftsprozesse zu integrieren.",
+      "Erstellen Sie einen Plan zur Einhaltung der neuen KI-Regulierungen der Bundesnetzagentur.",
+      "Erforschen Sie den Einsatz von LLMs zur Optimierung Ihrer Reporting-Prozesse."
     ]
   },
   "raw_articles": [
     {
-      "title": "heise-Angebot: KI-ROI messen: Was bringt der KI-Einsatz wirtschaftlich wirklich?",
-      "url": "https://www.heise.de/news/KI-ROI-messen-Was-bringt-der-KI-Einsatz-wirtschaftlich-wirklich-11377346.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "heise-Angebot: iX-Workshop: Microsoft Purview – Daten klassifizieren und schützen",
+      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-Purview-Daten-klassifizieren-und-schuetzen-11366214.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-29T08:00:00+00:00",
-      "summary": "Im Webinar von heise KI PRO zeigt die Fachredaktion praxisnahe Ansätze, mit denen sich der wirtschaftliche Nutzen von KI im Unternehmen messen lässt.",
+      "published": "2026-07-30T08:00:00+00:00",
+      "summary": "Lernen Sie, sensible Daten in Microsoft 365 zu klassifizieren, zu schützen und Datenabflüsse zu verhindern.",
       "keywords": [
-        "messen",
+        "microsoft",
+        "daten",
+        "klassifizieren",
+        "schützen",
         "heise-angebot",
-        "ki-roi",
-        "bringt",
-        "ki-einsatz",
-        "wirtschaftlich"
+        "ix-workshop"
       ]
     },
     {
-      "title": "Windows-Update-Vorschau: Besserer Sound im Dark-Mode",
-      "url": "https://www.heise.de/news/Windows-Update-Vorschau-Login-auch-mit-externen-Fingerabdruck-Sensoren-11381285.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-29T07:46:00+00:00",
-      "summary": "Die Update-Vorschau für Windows 11 bringt einige Verbesserungen mit – darunter skurrile wie besseren Klang im Dark-Mode.",
-      "keywords": [
-        "dark-mode",
-        "windows-update-vorschau",
-        "besserer",
-        "sound",
-        "update-vorschau",
-        "windows"
-      ]
-    },
-    {
-      "title": "„Demeo x Dungeons & Dragons: Battlemarked“ kommt auf die Xbox",
-      "url": "https://www.heise.de/news/Demeo-x-Dungeons-Dragons-Battlemarked-kommt-auf-die-Xbox-11381321.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-29T07:39:00+00:00",
-      "summary": "Das Tabletop-Rollenspiel mit D&amp;D-Lizenz erscheint auf einer weiteren Plattform und setzt damit auf eine breite Multiplayer-Strategie.",
-      "keywords": [
-        "demeo",
-        "dungeons",
-        "dragons",
-        "battlemarked",
-        "kommt",
-        "xbox"
-      ]
-    },
-    {
-      "title": "KI-Müdigkeit: Fast drei Viertel wünschen sich die Arbeitswelt vor ChatGPT zurück",
-      "url": "https://www.heise.de/news/KI-Muedigkeit-Fast-drei-Viertel-wuenschen-sich-die-Arbeitswelt-vor-ChatGPT-zurueck-11381313.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-29T07:18:00+00:00",
-      "summary": "Eigentlich sollte sie die Produktivität steigern – inzwischen sind Mitarbeiter frustriert von KI. Viele würden die Technologie am liebsten abschaffen.",
-      "keywords": [
-        "ki-müdigkeit",
-        "fast",
-        "drei",
-        "viertel",
-        "wünschen",
-        "sich"
-      ]
-    },
-    {
-      "title": "heise-Angebot: iX-Workshop: Active Directory Hardening – Vom Audit zur sicheren Umgebung",
-      "url": "https://www.heise.de/news/iX-Workshop-Active-Directory-Hardening-Vom-Audit-zur-sicheren-Umgebung-11363703.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-29T06:00:00+00:00",
-      "summary": "Lernen in einer Übungsumgebung: Sicherheitsrisiken in der Windows-Active-Directory-Infrastruktur erkennen und beheben, um die IT vor Cyberangriffen zu schützen.",
-      "keywords": [
-        "heise-angebot",
-        "ix-workshop",
-        "active",
-        "directory",
-        "hardening",
-        "audit"
-      ]
-    },
-    {
-      "title": "heise+ | KI-Wasserzeichen für Bilder: Was sie verraten und wie robust sie sind",
-      "url": "https://www.heise.de/ratgeber/KI-Wasserzeichen-fuer-Bilder-Was-sie-verraten-und-wie-robust-sie-sind-11340639.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-29T05:30:00+00:00",
-      "summary": "KI-generierte Wasserzeichen wie Googles SynthID sind robust, aber nicht unangreifbar. Wir erklären, wie sie funktionieren und wie sie sich manipulieren lassen.",
-      "keywords": [
-        "robust",
-        "heise",
-        "ki-wasserzeichen",
-        "bilder",
-        "verraten",
-        "ki-generierte"
-      ]
-    },
-    {
-      "title": "USA untersagen Import ausländischer Roboter und Wechselrichter",
-      "url": "https://www.heise.de/news/USA-untersagen-Import-auslaendischer-Roboter-und-Wechselrichter-11381195.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-29T05:22:00+00:00",
-      "summary": "Die USA stoppen die Einfuhr von Robotern und Wechselrichtern aus dem Ausland. Das Importverbot richtet sich vornehmlich gegen China.",
-      "keywords": [
-        "untersagen",
-        "import",
-        "ausländischer",
-        "roboter",
-        "wechselrichter",
-        "stoppen"
-      ]
-    },
-    {
-      "title": "Digitale Trinkgeldabfrage: Kommt sie auch im Einzelhandel?",
-      "url": "https://www.heise.de/news/Digitale-Trinkgeldabfrage-Kommt-sie-auch-im-Einzelhandel-11381181.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-29T04:51:00+00:00",
-      "summary": "Ein Trinkgeld gibt man gerne für guten Service. Im Einzelhandel könnte er auch honoriert werden – wie im Restaurant mit Trinkgeldvorschlag am Zahlterminal.",
-      "keywords": [
-        "auch",
-        "einzelhandel",
-        "digitale",
-        "trinkgeldabfrage",
-        "kommt",
-        "trinkgeld"
-      ]
-    },
-    {
-      "title": "Über 1000 Experten fordern KI-Bremsmechanismus",
-      "url": "https://www.heise.de/news/Ueber-1000-Experten-fordern-KI-Bremsmechanismus-11381185.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-29T04:34:00+00:00",
-      "summary": "Ein eigenständig von KI durchgeführter Cyberangriff schreckte die Tech-Branche auf. Jetzt folgt der Ruf nach einem internationalen Bremsmechanismus.",
-      "keywords": [
-        "1000",
-        "experten",
-        "fordern",
-        "ki-bremsmechanismus",
-        "eigenständig",
-        "durchgeführter"
-      ]
-    },
-    {
-      "title": "Mittwoch: Österreichs Datenschutzstrafe für Post, PayPal-Fokus auf Trendwende",
-      "url": "https://www.heise.de/news/Mittwoch-Oesterreichs-Datenschutzstrafe-fuer-Post-PayPal-Fokus-auf-Trendwende-11381177.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-29T04:15:00+00:00",
-      "summary": "Millionenstrafe nach 7-jährigem Verfahren + PayPals Übernahme und Wachstum + Auswirkungen von KI-Suchmaschinen + US-Kraftwerke ohne Grenzwerte + Bit-Rauschen",
-      "keywords": [
-        "mittwoch",
-        "österreichs",
-        "datenschutzstrafe",
-        "post",
-        "paypal-fokus",
-        "trendwende"
-      ]
-    },
-    {
-      "title": "Bit-Rauschen, der Prozessor-Podcast: Leistungsvergleich von Rechenzentren",
-      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Leistungsvergleich-von-Rechenzentren-11336238.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-29T04:10:00+00:00",
-      "summary": "Bei vielen Rechenzentren wird die elektrische Leistung anstelle der Rechenleistung genannt – weil es kaum anders geht: Folge 2025/15 des Podcasts Bit-Rauschen.",
-      "keywords": [
-        "bit-rauschen",
-        "rechenzentren",
-        "prozessor-podcast",
-        "leistungsvergleich",
-        "vielen",
-        "wird"
-      ]
-    },
-    {
-      "title": "Googles KI-Suche verändert das Suchverhalten",
-      "url": "https://www.heise.de/news/Googles-KI-Suche-veraendert-das-Suchverhalten-11381073.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-29T04:00:00+00:00",
-      "summary": "Eine neue Studie zeigt, wie Googles KI-Suche das Suchverhalten verändert und welchen Einfluss selbst kleine Änderungen an der Benutzeroberfläche haben können.",
-      "keywords": [
-        "googles",
-        "ki-suche",
-        "verändert",
-        "suchverhalten",
-        "neue",
-        "studie"
-      ]
-    },
-    {
-      "title": "Millionenstrafe für österreichische Post wegen Datenschacher",
-      "url": "https://www.heise.de/news/Millionenstrafe-fuer-oesterreichische-Post-wegen-Datenschacher-11381121.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-28T21:11:00+00:00",
-      "summary": "Welcher Partei stehen Sie nahe? Österreichs Post schätzte das für 2,2 Millionen Leute und verkaufte die Angaben. Nach 7 Jahren Verfahren steht die Strafe fest.",
-      "keywords": [
-        "post",
-        "millionenstrafe",
-        "österreichische",
-        "wegen",
-        "datenschacher",
-        "welcher"
-      ]
-    },
-    {
-      "title": "SO2: Keine US-Grenzwerte für fossile Kraftwerke, die nur Datenzentren versorgen",
-      "url": "https://www.heise.de/news/Saurer-Regen-Emissionsgrenzen-gelten-nicht-fuer-US-Kraftwerke-fuer-KI-11381087.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-28T19:24:00+00:00",
-      "summary": "Mit Stolz verkündet die US-Umweltbehörde eine Gesetzeslücke. Sie befreit Kraftwerke ohne Netzanschluss von Emissionsbestimmungen. Das hilft KI-Datenzentren.",
-      "keywords": [
-        "kraftwerke",
-        "keine",
-        "us-grenzwerte",
-        "fossile",
-        "datenzentren",
-        "versorgen"
-      ]
-    },
-    {
-      "title": "Anthropics KI-Modell Mythos Preview findet Schwachstellen in kryptografischen Algorithmen, die das Internet absichern",
-      "url": "https://the-decoder.de/anthropics-ki-modell-mythos-preview-findet-schwachstellen-in-kryptografischen-algorithmen-die-das-internet-absichern/",
+      "title": "GPT-5.6 Sol schlägt Claude Opus 5 bei ARC-AGI-3, aber nur mit speziellen API-Tricks",
+      "url": "https://the-decoder.de/gpt-5-6-sol-schlaegt-claude-opus-5-bei-arc-agi-3-aber-nur-mit-speziellen-api-tricks/",
       "source": "The Decoder",
       "lang": "de",
-      "published": "2026-07-28T18:56:27+00:00",
-      "summary": "Anthropics KI-Modell Mythos Preview hat Schwachstellen in kryptografischen Verfahren gefunden, darunter einen verbesserten Angriff auf das Post-Quanten-Verfahren HAWK, das menschliche Experten zwei Jahre lang geprüft hatten. Das Modell benötigte dafür 60 Stunden und API-Kosten von rund 100.000 Dollar. Unmittelbare Auswirkungen auf produktive Systeme gibt es nicht, doch die Ergebnisse zeigen, wie KI künftig Kernannahmen der Internetsicherheit infrage stellen könnte. Der Artikel Anthropics KI-Modell Mythos Preview findet Schwachstellen in kryptografischen Algorithmen, die das Internet absichern ",
+      "published": "2026-07-30T07:31:11+00:00",
+      "summary": "OpenAI kontert Anthropics ARC-AGI-3-Rekord: GPT-5.6 Sol erreicht 38,3 Prozent, allerdings nur mit eigener API-Infrastruktur statt der offiziellen Testumgebung, in der das Modell bei 7,8 Prozent landet. Opus 5 hatte seine 30,2 Prozent ohne solche Hilfsmittel erzielt, was die Vergleichbarkeit infrage stellt. Der Artikel GPT-5.6 Sol schlägt Claude Opus 5 bei ARC-AGI-3, aber nur mit speziellen API-Tricks erschien zuerst auf The Decoder .",
       "keywords": [
-        "anthropics",
-        "ki-modell",
-        "mythos",
-        "preview",
-        "schwachstellen",
-        "kryptografischen"
+        "gpt-5",
+        "opus",
+        "prozent",
+        "schlägt",
+        "claude",
+        "arc-agi-3"
       ]
     },
     {
-      "title": "Top 10: Das beste Mittelklasse-Smartphone im Test",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-mittelklasse-smartphone-im-test-xiaomi-vor-motorola/z2jyxsr?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "Angreifer missbrauchen Backdoor in Ciscos Firewall-Verwaltungssoftware",
+      "url": "https://www.heise.de/news/Angreifer-missbrauchen-Backdoor-in-Ciscos-Firewall-Verwaltungssoftware-11384735.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-28T18:00:00+00:00",
-      "summary": "Ein Flaggschiff ist zu teuer? Unser Vergleich zeigt die besten Mittelklasse-Smartphones bis 600 Euro mit guter Kamera.",
+      "published": "2026-07-30T07:28:00+00:00",
+      "summary": "Angreifer missbrauchen fest einprogrammierte Zugangsdaten in Ciscos Firewall-Verwaltungssoftware. Updates sollen dagegen helfen.",
       "keywords": [
-        "beste",
-        "mittelklasse-smartphone",
-        "test",
-        "flaggschiff",
-        "teuer",
-        "unser"
+        "angreifer",
+        "missbrauchen",
+        "ciscos",
+        "firewall-verwaltungssoftware",
+        "backdoor",
+        "fest"
       ]
     },
     {
-      "title": "Cyber Resilience Act: EU-Kommission schafft mehr Klarheit für Open Source",
-      "url": "https://www.heise.de/news/Cyber-Resilience-Act-EU-Kommission-schafft-mehr-Klarheit-fuer-Open-Source-11381011.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "„Thimbleweed Park 2“: Ron Gilbert setzt sein Point-&-Click-Adventure fort",
+      "url": "https://www.heise.de/news/Thimbleweed-Park-2-Ron-Gilbert-setzt-sein-Point-Click-Adventure-fort-11384425.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-28T16:46:00+00:00",
-      "summary": "Ein Brüsseler Leitfaden konkretisiert die Cyberresilienz-Verordnung. Hersteller und Open-Source-Projekte erhalten Rechtsgewissheit vor Start der Meldepflichten.",
+      "published": "2026-07-30T07:05:00+00:00",
+      "summary": "Ron Gilbert hat eine Fortsetzung seines Point-&-Click-Adventures „Thimbleweed Park“ angekündigt. Diesmal zahlt ein privater Investor.",
       "keywords": [
-        "cyber",
-        "resilience",
-        "eu-kommission",
-        "schafft",
-        "mehr",
-        "klarheit"
+        "thimbleweed",
+        "park",
+        "gilbert",
+        "point-",
+        "setzt",
+        "sein"
       ]
     },
     {
-      "title": "Gezeitenstrom: Turbine soll im Schwarm bezahlbaren Strom liefern",
-      "url": "https://www.golem.de/news/gezeitenstrom-turbine-soll-im-schwarm-bezahlbaren-strom-liefern-2607-211390.html",
-      "source": "Golem.de (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-29T08:06:02+00:00",
-      "summary": "Statt große Anlagen am Meeresgrund zu verankern, sollen die kleinen Turbinen als erweiterbares Netzwerk verlässlich Strom produzieren. ( Erneuerbare Energien , Windkraft )",
-      "keywords": [
-        "strom",
-        "gezeitenstrom",
-        "turbine",
-        "soll",
-        "schwarm",
-        "bezahlbaren"
-      ]
-    },
-    {
-      "title": "Carsharing: Stellantis verkauft Free2move",
-      "url": "https://www.heise.de/news/Carsharing-Stellantis-verkauft-Free2move-11381005.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "heise+ | Framework Laptop 13 Pro: Modulares Notebook im Test",
+      "url": "https://www.heise.de/tests/Framework-Laptop-13-Pro-Modulares-Notebook-im-Test-11379580.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-28T16:36:00+00:00",
-      "summary": "Carsharing gehört für Stellantis nicht mehr zum Kerngeschäft. Der Autokonzern verkauft seine Tochter Free2move an einen Finanzinvestor.",
+      "published": "2026-07-30T07:00:00+00:00",
+      "summary": "Framework macht beim Laptop 13 Pro einiges neu und bewirbt es als Alternative zum MacBook Pro. Wir haben das Notebook mit vorinstalliertem Ubuntu getestet.",
       "keywords": [
-        "carsharing",
-        "stellantis",
-        "verkauft",
-        "free2move",
-        "gehört",
-        "nicht"
+        "framework",
+        "laptop",
+        "notebook",
+        "heise",
+        "modulares",
+        "test"
       ]
     },
     {
-      "title": "Ente, Proton, 2FAS: Diese quelloffenen Alternativen zum Google Authenticator musst du kennen",
-      "url": "https://t3n.de/news/quelloffene-alternativen-google-authenticator-1754095/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "lang": "de",
-      "published": "2026-07-29T08:00:22+00:00",
-      "summary": "Suchst du nach einer Alternative zum Google- oder Microsoft-Authenticator? Diese quelloffenen 2FA-Apps haben mehr Features auf Lager und sind dadurch einen Blick wert. weiterlesen auf t3n.de",
-      "keywords": [
-        "diese",
-        "quelloffenen",
-        "ente",
-        "proton",
-        "2fas",
-        "alternativen"
-      ]
-    },
-    {
-      "title": "(g+) Heute 13 Uhr live: Stellt eure Fragen zur IT-Selbstständigkeit!",
-      "url": "https://www.golem.de/news/heute-13-uhr-live-stellt-eure-fragen-zur-it-selbststaendigkeit-2607-210641.html",
-      "source": "Golem.de (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-29T08:00:01+00:00",
-      "summary": "Heute beantwortet der IT-Unternehmer Pierre Wilken live im Video-AMA eure Fragen zum Thema Selbstständigkeit! Seid dabei - den Teilnahmelink findet ihr weiter unten im Text. ( Arbeit , Wirtschaft )",
-      "keywords": [
-        "heute",
-        "live",
-        "eure",
-        "fragen",
-        "stellt",
-        "it-selbstständigkeit"
-      ]
-    },
-    {
-      "title": "Nvidia verhandelt über 250-Milliarden-Dollar-Bürgschaft für OpenAI",
-      "url": "https://www.heise.de/news/Nvidia-verhandelt-ueber-250-Milliarden-Dollar-Buergschaft-fuer-OpenAI-11380911.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "Metas KI-Wette überschattet starkes Werbegeschäft",
+      "url": "https://www.heise.de/news/Metas-KI-Wette-ueberschattet-starkes-Werbegeschaeft-11384511.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-28T16:29:00+00:00",
-      "summary": "Nvidia soll OpenAI mit einer 250-Milliarden-Dollar-Garantie den Zugang zu Softbanks geplantem 10-Gigawatt-Rechenzentrum in Ohio ermöglichen.",
+      "published": "2026-07-30T06:23:00+00:00",
+      "summary": "Metas Werbegeschäft boomt, doch der milliardenschwere KI-Ausbau und die ungewissen Geschäftsaussichten machen Anleger zunehmend nervös.",
       "keywords": [
-        "nvidia",
-        "openai",
-        "verhandelt",
-        "250-milliarden-dollar-bürgschaft",
-        "soll",
-        "250-milliarden-dollar-garantie"
+        "metas",
+        "werbegeschäft",
+        "ki-wette",
+        "überschattet",
+        "starkes",
+        "boomt"
       ]
     },
     {
-      "title": "Tacho in Google Maps: So richtet ihr die neue Android-Auto-Funktion ein",
-      "url": "https://t3n.de/news/tacho-in-google-maps-android-auto-1753605/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
+      "title": "Ecosia und Qwant starten deutschen Webindex",
+      "url": "https://www.heise.de/news/Ecosia-und-Qwant-starten-deutschen-Webindex-11383500.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-29T07:55:00+00:00",
-      "summary": "Google Maps zeigt in Android Auto wohl bald die aktuelle Geschwindigkeit an. Diese Funktion hatte gefehlt, was viele Nutzer:innen genervt hat. So könnt ihr die Funktion aktivieren. weiterlesen auf t3n.de",
+      "published": "2026-07-30T06:00:00+00:00",
+      "summary": "Die beiden Suchdienste bauen eine Suchinfrastruktur ohne Google und Microsoft auf. Jetzt liefert das Joint Venture Suchergebnisse aus einem deutschen Index.",
+      "keywords": [
+        "deutschen",
+        "ecosia",
+        "qwant",
+        "starten",
+        "webindex",
+        "beiden"
+      ]
+    },
+    {
+      "title": "heise+ | Von IMAX bis Ultra Panavision: Warum Filme schwarze Balken haben",
+      "url": "https://www.heise.de/hintergrund/Von-IMAX-bis-Ultra-Panavision-Warum-Filme-schwarze-Balken-haben-11362520.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-30T05:30:00+00:00",
+      "summary": "Warum passen Filme eigentlich nie richtig auf den Bildschirm? Unsere Reise durch die Filmgeschichte erklärt die technischen und wirtschaftlichen Hintergründe.",
+      "keywords": [
+        "warum",
+        "filme",
+        "heise",
+        "imax",
+        "ultra",
+        "panavision"
+      ]
+    },
+    {
+      "title": "Musikcharts: Labels wollen KI-Songs aus den Charts fernhalten",
+      "url": "https://www.heise.de/news/Musikcharts-Labels-wollen-KI-Songs-aus-den-Charts-fernhalten-11384133.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-30T05:03:00+00:00",
+      "summary": "Elf Musikfirmen wollen KI-Songs aus den offiziellen Charts verbannen. Gewertet werden sollen nur Titel, die zum großen Teil von Menschen gemacht wurden.",
+      "keywords": [
+        "wollen",
+        "ki-songs",
+        "charts",
+        "musikcharts",
+        "labels",
+        "fernhalten"
+      ]
+    },
+    {
+      "title": "OpenAIs KI-Agent knackte nicht nur Hugging Face – was genau passierte",
+      "url": "https://www.heise.de/news/OpenAIs-KI-Agent-knackte-nicht-nur-Hugging-Face-was-genau-passierte-11382132.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-30T04:24:00+00:00",
+      "summary": "OpenAI-Modelle attackierten vergangene Woche scheinbar weitere Software. Die Firma erklärt nun ausführlicher, was genau passiert ist.",
+      "keywords": [
+        "genau",
+        "openais",
+        "ki-agent",
+        "knackte",
+        "nicht",
+        "hugging"
+      ]
+    },
+    {
+      "title": "Doordash darf in den USA per Flugdrohne liefern",
+      "url": "https://www.heise.de/news/Doordash-darf-in-den-USA-per-Flugdrohne-liefern-11384021.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-29T19:41:00+00:00",
+      "summary": "Lieferdienst Doordash hat eine US-Lizenz für Drohnenflüge außer Sichtweite über bewohntem Gebiet erhalten. Das alleine reicht für kommerziellen Betrieb nicht.",
+      "keywords": [
+        "doordash",
+        "darf",
+        "flugdrohne",
+        "liefern",
+        "lieferdienst",
+        "us-lizenz"
+      ]
+    },
+    {
+      "title": "Google veröffentlicht Lyria 3.5: Neues KI-Modell soll natürlichere Musik mit besserem Gesang erzeugen",
+      "url": "https://the-decoder.de/google-veroeffentlicht-lyria-3-5-neues-ki-modell-soll-natuerlichere-musik-mit-besserem-gesang-erzeugen/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-29T18:33:49+00:00",
+      "summary": "Google hat mit Lyria 3.5 ein neues Musikgenerierungsmodell vorgestellt und in die Plattform Google Flow Music integriert. Das Modell erzeugt Tracks von 30 Sekunden bis 3 Minuten, eine neue Funktion namens \"Selective Section Painting\" erlaubt die gezielte Bearbeitung einzelner Abschnitte. Konkrete Angaben zu den Trainingsdaten macht Google weiterhin nicht. Der Artikel Google veröffentlicht Lyria 3.5: Neues KI-Modell soll natürlichere Musik mit besserem Gesang erzeugen erschien zuerst auf The Decoder .",
       "keywords": [
         "google",
-        "maps",
-        "funktion",
-        "tacho",
-        "richtet",
-        "neue"
+        "lyria",
+        "neues",
+        "veröffentlicht",
+        "ki-modell",
+        "soll"
       ]
     },
     {
-      "title": "Blogger berichteten kritisch über Ebay – und bekamen lebende Kakerlaken zugeschickt",
-      "url": "https://t3n.de/news/ebay-blogger-terror-1755405/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
+      "title": "Solardusche für Garten, Pool & Camping",
+      "url": "https://www.heise.de/bestenlisten/ratgeber/gartendusche-vs-solardusche-selber-bauen-fuer-garten-pool-und-camping/5t92pqg?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-29T07:30:08+00:00",
-      "summary": "Erst kam per Post ein Trauerkranz und dann eine mit Kunstblut verschmierte Schweinemaske &#8211; so versuchten Ebay-Mitarbeiter, kritische Blogger einzuschüchtern. Das wird jetzt für Ebay richtig teuer. weiterlesen auf t3n.de",
+      "published": "2026-07-29T18:00:00+00:00",
+      "summary": "Solarduschen liefern warmes Wasser – nur durch Sonnenkraft. Worauf beim Kauf zu achten ist, zeigt diese Kaufberatung.",
       "keywords": [
-        "blogger",
-        "ebay",
-        "berichteten",
-        "kritisch",
-        "bekamen",
-        "lebende"
+        "solardusche",
+        "garten",
+        "pool",
+        "camping",
+        "solarduschen",
+        "liefern"
       ]
     },
     {
-      "title": "Nationale Sicherheit: FCC verbietet Importe chinesischer Roboter",
-      "url": "https://www.golem.de/news/nationale-sicherheit-fcc-verbietet-importe-chinesischer-roboter-2607-211388.html",
-      "source": "Golem.de (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-29T07:30:02+00:00",
-      "summary": "Die US-Fernmeldebehörde FCC verbietet die Zulassung neuer chinesischer Roboter und Wechselrichter wegen angeblicher Sicherheitsrisiken. ( FCC , Roboter )",
-      "keywords": [
-        "roboter",
-        "verbietet",
-        "chinesischer",
-        "nationale",
-        "sicherheit",
-        "importe"
-      ]
-    },
-    {
-      "title": "Amazon fährt eigene Nova-KI-Modelle zurück und setzt auf neues Frontier-Forschungsteam",
-      "url": "https://the-decoder.de/amazon-faehrt-eigene-nova-ki-modelle-zurueck-und-setzt-auf-neues-frontier-forschungsteam/",
+      "title": "PwC hat angeblich KI-generierte Berichte mit falschen oder erfundenen Quellen publiziert",
+      "url": "https://the-decoder.de/pwc-hat-angeblich-ki-generierte-berichte-mit-falschen-oder-erfundenen-quellen-publiziert/",
       "source": "The Decoder",
       "lang": "de",
-      "published": "2026-07-28T15:54:39+00:00",
-      "summary": "Amazon fährt einen Großteil seiner eigenen Nova-KI-Modelle zurück, darunter Nova Premier, Omni, Reel und Canvas. Intern gilt das Motto \"keep the lights on\": Wartung ja, Weiterentwicklung nein. Stattdessen setzt Amazon auf eine neue Frontier-Model-Research-Gruppe und ein neues Basismodell, das im Herbst auf der re:Invent vorgestellt werden soll. Der Artikel Amazon fährt eigene Nova-KI-Modelle zurück und setzt auf neues Frontier-Forschungsteam erschien zuerst auf The Decoder .",
+      "published": "2026-07-29T17:40:18+00:00",
+      "summary": "Nach KPMG, Deloitte und Ernst &#038; Young hat GPTZero nun auch bei PwC Middle East erfundene Quellen und falsche Behauptungen in vier Berichten nachgewiesen. Ein Report über Governance sei zu 84 Prozent KI-generiert und bewerbe ein PwC-Produkt mit nicht belegbaren Kundenreferenzen. Damit sind alle Big Four von KI-Halluzinationen betroffen. Der Artikel PwC hat angeblich KI-generierte Berichte mit falschen oder erfundenen Quellen publiziert erschien zuerst auf The Decoder .",
       "keywords": [
-        "amazon",
-        "fährt",
-        "nova-ki-modelle",
-        "zurück",
-        "setzt",
-        "neues"
+        "quellen",
+        "angeblich",
+        "ki-generierte",
+        "berichte",
+        "falschen",
+        "oder"
       ]
     },
     {
-      "title": "Neue Details zum KI-Angriff: OpenAI hat mehr als nur Hugging Face gehackt",
-      "url": "https://www.golem.de/news/neue-details-zum-ki-angriff-openai-hat-mehr-als-nur-hugging-face-gehackt-2607-211385.html",
-      "source": "Golem.de (Hauptfeed)",
+      "title": "heise+ | Kühlen mit der Wärmepumpe: Warum die naheliegende Idee selten zum Einsatz kommt",
+      "url": "https://www.heise.de/ratgeber/Kuehlen-mit-der-Waermepumpe-Warum-die-naheliegende-Idee-selten-zum-Einsatz-kommt-11378924.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-29T07:17:02+00:00",
-      "summary": "Neben Hugging Face haben die bei OpenAI ausgebrochenen KI-Modelle Nutzerkonten bei mindestens vier weiteren Onlinediensten kompromittiert. ( KI , Cyberwar )",
+      "published": "2026-07-29T17:23:00+00:00",
+      "summary": "Eine Wärmepumpe kann meistens auch kühlen. Wir erklären, worauf es bei der Heizungsplanung ankommt, wenn Heizen und Kühlen implementiert werden sollen.",
       "keywords": [
-        "openai",
-        "hugging",
-        "face",
+        "kühlen",
+        "wärmepumpe",
+        "heise",
+        "warum",
+        "naheliegende",
+        "idee"
+      ]
+    },
+    {
+      "title": "Pangrams neuer KI-Text-Detektor funktioniert angeblich fast perfekt",
+      "url": "https://the-decoder.de/pangrams-neuer-ki-text-detektor-funktioniert-angeblich-fast-perfekt/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-29T16:48:53+00:00",
+      "summary": "Pangram stellt mit Pangram 4 ein neues Modell zur Erkennung von KI-Texten vor, das laut eigenen Benchmarks 99,66 Prozent aller KI-Texte erkennt bei nur einem Fehlalarm pro 24 000 Dokumente. Auch gegen sogenannte Humanizer-Tools soll das Modell robust sein. Die API-Preise steigen dafür um das Zwei- bis Zehnfache. Der Artikel Pangrams neuer KI-Text-Detektor funktioniert angeblich fast perfekt erschien zuerst auf The Decoder .",
+      "keywords": [
+        "pangrams",
+        "neuer",
+        "ki-text-detektor",
+        "funktioniert",
+        "angeblich",
+        "fast"
+      ]
+    },
+    {
+      "title": "Neue Befugnisse: Bundesnetzagentur übernimmt KI-Aufsicht in Deutschland",
+      "url": "https://www.heise.de/news/Neue-Befugnisse-Bundesnetzagentur-uebernimmt-KI-Aufsicht-in-Deutschland-11383935.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-29T16:48:00+00:00",
+      "summary": "Ein neues KI-Gesetz tritt in Kraft: Die Regulierungsbehörde ist damit für Marktüberwachung, Beschwerden und Innovationsförderung im Sinne des AI Acts zuständig.",
+      "keywords": [
         "neue",
-        "details",
-        "ki-angriff"
+        "befugnisse",
+        "bundesnetzagentur",
+        "übernimmt",
+        "ki-aufsicht",
+        "deutschland"
       ]
     },
     {
-      "title": "Anzeige: Blackview Nest 10 - Smart-Home-Display zum exklusiven Golem-Preis bei Amazon",
-      "url": "https://www.golem.de/news/anzeige-blackview-nest-10-smart-home-display-zum-exklusiven-golem-preis-bei-amazon-2607-210969.html",
+      "title": "Schienenverkehr: Bahn verzeichnet erstmals seit sieben Jahren wieder Gewinn",
+      "url": "https://www.golem.de/news/schienenverkehr-bahn-verzeichnet-erstmals-seit-sieben-jahren-wieder-gewinn-2607-211433.html",
       "source": "Golem.de (Hauptfeed)",
       "lang": "de",
-      "published": "2026-07-29T07:10:02+00:00",
-      "summary": "Für eine bessere Übersicht und Terminplanung hat Blackview mit dem Nest 10 jetzt einen digitalen Kalender im Angebot. Golem-Leser zahlen weniger. ( Technik/Hardware )",
+      "published": "2026-07-30T07:43:02+00:00",
+      "summary": "Die Bahn macht mal wieder Plus. Auch die Zahl der Passagiere ist gestiegen - die hohen Spritpreise sollen Pendler vom Auto zur Bahn gebracht haben. ( Deutsche Bahn , Wirtschaft )",
       "keywords": [
-        "blackview",
-        "nest",
-        "anzeige",
-        "smart-home-display",
-        "exklusiven",
-        "golem-preis"
+        "bahn",
+        "wieder",
+        "schienenverkehr",
+        "verzeichnet",
+        "erstmals",
+        "seit"
       ]
     },
     {
-      "title": "Stellenausschreibung: Cyberagentur sucht Autor für Science-Fiction-Roman",
-      "url": "https://www.golem.de/news/stellenausschreibung-cyberagentur-sucht-autor-fuer-science-fiction-roman-2607-211386.html",
-      "source": "Golem.de (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-29T07:05:02+00:00",
-      "summary": "Die Cyberagentur möchte ihre Foresight-Projekte als Science-Fiction-Roman aufbereiten lassen und sucht dafür einen externen Autor. ( Science-Fiction , Security )",
-      "keywords": [
-        "cyberagentur",
-        "sucht",
-        "autor",
-        "science-fiction-roman",
-        "stellenausschreibung",
-        "möchte"
-      ]
-    },
-    {
-      "title": "USA sperren chinesische Roboter aus – und schützen damit ihre eigenen Hersteller",
-      "url": "https://t3n.de/news/usa-sperren-chinesische-roboter-aus-und-schuetzen-damit-ihre-eigenen-hersteller-1755392/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "title": "Copilot: Microsoft-Chef verrät, wann die Super-App erscheinen soll",
+      "url": "https://t3n.de/news/copilot-microsoft-chef-super-app-1755572/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
       "source": "t3n Digital Pioneers",
       "lang": "de",
-      "published": "2026-07-29T07:00:02+00:00",
-      "summary": "Entwickler aus den USA und China sind im Wettstreit bei der Entwicklung humanoider Roboter. Jetzt schirmt die US-Regierung den amerikanischen Markt vor Konkurrenz aus dem Ausland ab. weiterlesen auf t3n.de",
+      "published": "2026-07-30T07:30:23+00:00",
+      "summary": "Microsoft soll hinter verschlossenen Türen an einer Super-App für Copilot arbeiten. Jetzt sprach CEO Satya Nadella erstmals darüber, wann User:innen mit der Anwendung rechnen können. Was zum Termin und den Inhalten bekannt ist. weiterlesen auf t3n.de",
       "keywords": [
-        "roboter",
-        "sperren",
-        "chinesische",
-        "schützen",
-        "damit",
-        "ihre"
+        "copilot",
+        "super-app",
+        "soll",
+        "microsoft-chef",
+        "verrät",
+        "erscheinen"
+      ]
+    },
+    {
+      "title": "OpenAI räumt ein: Autonome KI-Modelle hackten sich über Hugging Face hinaus auf weitere Plattformen",
+      "url": "https://the-decoder.de/openai-raeumt-ein-autonome-ki-modelle-hackten-sich-ueber-hugging-face-hinaus-auf-weitere-plattformen/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-07-29T15:55:56+00:00",
+      "summary": "OpenAIs autonome Hack-Modelle hatten bei einer Sicherheitsevaluierung offenbar nicht nur Hugging Face kompromittiert, sondern auch Zugangsdaten auf vier weiteren Plattformen genutzt. Hugging Face direkt rekonstruierte rund 17.600 Aktionen über zweieinhalb Tage, inklusive eines Zero-Day-Exploits und aktiver Datenverschleierung. Der Agent wollte offenbar Testlösungen stehlen. Der Artikel OpenAI räumt ein: Autonome KI-Modelle hackten sich über Hugging Face hinaus auf weitere Plattformen erschien zuerst auf The Decoder .",
+      "keywords": [
+        "hugging",
+        "face",
+        "autonome",
+        "plattformen",
+        "openai",
+        "räumt"
+      ]
+    },
+    {
+      "title": "Nachfrage nach Smart Glasses: Umsatz mit Meta-Brillen hat sich nahezu verdoppelt",
+      "url": "https://www.heise.de/news/Nachfrage-nach-Smart-Glasses-Umsatz-mit-Meta-Brillen-hat-sich-nahezu-verdoppelt-11383578.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-29T15:46:00+00:00",
+      "summary": "Die Nachfrage nach Smart Glasses wächst weiter: Meta-Partner EssilorLuxottica meldet, dass sich der Umsatz im vergangenen Quartal fast verdoppelt habe.",
+      "keywords": [
+        "nachfrage",
+        "smart",
+        "glasses",
+        "umsatz",
+        "sich",
+        "verdoppelt"
+      ]
+    },
+    {
+      "title": "Fotogalerie mit KI: Windows 11 installiert obskure Onedrive-Photos-App automatisch",
+      "url": "https://www.golem.de/news/fotogalerie-mit-ki-windows-11-installiert-obskure-onedrive-photos-app-automatisch-2607-211427.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-30T07:11:01+00:00",
+      "summary": "Onedrive Photos scheint sich nicht nur ohne Nachfrage auf Windows-PCs zu installieren. Sie kann auch Gesichter auf Fotos mittels KI scannen. ( Onedrive , Microsoft )",
+      "keywords": [
+        "onedrive",
+        "fotogalerie",
+        "windows",
+        "installiert",
+        "obskure",
+        "onedrive-photos-app"
+      ]
+    },
+    {
+      "title": "Wieso Amazon jetzt mehr als 300 Millionen Euro in Pforzheim investiert",
+      "url": "https://t3n.de/news/amazon-investiert-pforzheim-1755577/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-07-30T07:05:12+00:00",
+      "summary": "Amazon verdoppelt seine Mitarbeiterzahl am Standort und setzt auf Transportroboter. Was das für die Region und die Jobs bedeutet. weiterlesen auf t3n.de",
+      "keywords": [
+        "amazon",
+        "wieso",
+        "jetzt",
+        "mehr",
+        "millionen",
+        "euro"
+      ]
+    },
+    {
+      "title": "heise+ | Talk-to-Database im Praxistest: Sprachmodell statt Reporting-Engpass?",
+      "url": "https://www.heise.de/hintergrund/Talk-to-Database-im-Praxistest-Sprachmodell-statt-Reporting-Engpass-11355296.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-29T15:30:00+00:00",
+      "summary": "LLMs übersetzen Datenanfragen direkt in SQL und verkürzen Analysen von Stunden auf Sekunden. Ein PoC zeigt Chancen und Grenzen für BI-Architekturen.",
+      "keywords": [
+        "heise",
+        "talk-to-database",
+        "praxistest",
+        "sprachmodell",
+        "statt",
+        "reporting-engpass"
+      ]
+    },
+    {
+      "title": "Dringend patchen: Kritische VMware-Lücke lässt Hacker aus VMs ausbrechen",
+      "url": "https://www.golem.de/news/dringend-patchen-kritische-vmware-luecke-laesst-hacker-aus-vms-ausbrechen-2607-211426.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-30T06:47:02+00:00",
+      "summary": "In VMware ESX klafft eine kritische Sicherheitslücke, mit der Angreifer aus VMs ausbrechen und potenziell ganze Cloudumgebungen kapern können. ( Sicherheitslücke , Virtualisierung )",
+      "keywords": [
+        "kritische",
+        "ausbrechen",
+        "sicherheitslücke",
+        "dringend",
+        "patchen",
+        "vmware-lücke"
+      ]
+    },
+    {
+      "title": "Reich werden mit Dividenden? Was dir Ausschüttungen wirklich bringen",
+      "url": "https://t3n.de/news/reich-dividenden-etf-passives-einkommen-1755557/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-07-30T06:30:27+00:00",
+      "summary": "Dividenden gelten als bequemer Weg zum passiven Einkommen: Aktien halten, Geld kassieren, fertig. Doch ganz so einfach, wie es unzählige Rechnungen im Netz suggerieren, ist die Sache am Ende nicht. weiterlesen auf t3n.de",
+      "keywords": [
+        "dividenden",
+        "reich",
+        "werden",
+        "ausschüttungen",
+        "wirklich",
+        "bringen"
+      ]
+    },
+    {
+      "title": "Milliarden-Investitionen: Oracle und die riskanteste Wette der KI-Branche",
+      "url": "https://www.golem.de/news/milliarden-investitionen-oracle-und-die-riskanteste-wette-der-ki-branche-2607-211411.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-07-30T06:22:02+00:00",
+      "summary": "Oracle investiert Hunderte Milliarden in KI-Rechenzentren - und ist dabei abhängig von OpenAI. Gerät die Wette ins Wanken, drohen weitreichende Folgen. Eine Analyse von Markus Feilner ( Oracle , Börse )",
+      "keywords": [
+        "oracle",
+        "wette",
+        "milliarden-investitionen",
+        "riskanteste",
+        "ki-branche",
+        "investiert"
+      ]
+    },
+    {
+      "title": "Made in Germany: Wie ein Startup aus Sachsen den Quantencomputer-Markt aufmischen will",
+      "url": "https://t3n.de/news/startup-sachsen-quantencomputer-1755511/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-07-30T06:00:57+00:00",
+      "summary": "Ein Spin-out der Universität Leipzig hat einen Quantenchip auf Basis von Diamanten entwickelt. Anders als bei Google und IBM müssen diese Quantencomputer-Chips weiterlesen auf t3n.de",
+      "keywords": [
+        "made",
+        "germany",
+        "startup",
+        "sachsen",
+        "quantencomputer-markt",
+        "aufmischen"
+      ]
+    },
+    {
+      "title": "Verschlüsselt, aber falsch: Gruppenchats anfällig für manipulierte Inhalte",
+      "url": "https://www.heise.de/news/Verschluesselt-aber-falsch-Gruppenchats-anfaellig-fuer-manipulierte-Inhalte-11384095.html",
+      "source": "Heise iX (Magazin-Feed)",
+      "lang": "de",
+      "published": "2026-07-30T05:57:00+00:00",
+      "summary": "Alle Mitglieder eines Gruppenchats sollten dieselben Inhalte sehen. Die üblichen Chat-Dienste stellen das nicht sicher. Das ist riskant.",
+      "keywords": [
+        "gruppenchats",
+        "inhalte",
+        "verschlüsselt",
+        "aber",
+        "falsch",
+        "anfällig"
+      ]
+    },
+    {
+      "title": "Chrome-Update stopft weitere 370 Sicherheitslecks",
+      "url": "https://www.heise.de/news/Chrome-Update-stopft-weitere-370-Sicherheitslecks-11384153.html",
+      "source": "Heise iX (Magazin-Feed)",
+      "lang": "de",
+      "published": "2026-07-30T05:45:00+00:00",
+      "summary": "Google hat wieder ein massives Sicherheitsupdate für Chrome veröffentlicht. Sieben der geschlossenen Lücken gelten als kritisch.",
+      "keywords": [
+        "chrome-update",
+        "stopft",
+        "weitere",
+        "sicherheitslecks",
+        "google",
+        "wieder"
       ]
     }
   ]
