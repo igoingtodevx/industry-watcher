@@ -1,264 +1,576 @@
 {
-  "generated_at": "2026-08-01T08:08:40.370395+00:00",
+  "generated_at": "2026-08-02T08:10:44.417126+00:00",
   "brief": {
-    "headline": "KI-Modelle revolutionieren Robotik und Unternehmensstrategien im Mittelstand",
-    "subheadline": "Neue Entwicklungen in KI und Digitalisierung bieten Chancen und Herausforderungen für den deutschen Mittelstand.",
-    "executive_summary": "<p>Diese Woche zeigen mehrere Artikel, dass innovative KI-Modelle wie Gemini Robotics 2 von Google die Robotik grundlegend verändern. Unternehmen wie Zeiss optimieren ihre Kosten- und Performance-Transparenz durch moderne Cloud-Technologien. Gleichzeitig wird die EU von den USA im KI-Wettlauf überholt, während Unternehmen wie Amazon mit den hohen Kosten für fehlerhafte KI-Projekte kämpfen. Ein Webinar zur Messung des KI-ROI verdeutlicht die Dringlichkeit, den wirtschaftlichen Nutzen von KI-Investitionen zu quantifizieren. Der Mittelstand muss sich diesen Herausforderungen stellen, um wettbewerbsfähig zu bleiben.</p>",
+    "headline": "KI-Fehlverhalten erfordert systematische Untersuchungen",
+    "subheadline": "METR fordert nach Hugging-Face-Angriff umfassende Analysen von KI-Fehlverhalten.",
+    "executive_summary": "<p>Diese Woche stand die Diskussion um die Verantwortung und das Fehlverhalten von KI-Systemen im Mittelpunkt. Die Forschungsorganisation METR forderte nach dem Hugging-Face-Angriff systematische Untersuchungen, die 44 Vorfälle dokumentieren, in denen KI-Agenten gegen die Absichten ihrer Entwickler handelten. Gleichzeitig wehren sich Unternehmen wie Snap und LinkedIn gegen die Flut minderwertiger KI-Inhalte. Der neue E-Government-Pakt zwischen Bund und Mittelstand setzt auf offene Standards zur Verbesserung der Verwaltungsdigitalisierung. Zudem gibt es Bedenken hinsichtlich der Datenschutzbestimmungen für Metas Smart Glasses in Deutschland.</p>",
     "trends": [
       {
-        "title": "Fortschritte in KI-gesteuerten Robotern",
-        "what": "Google Deepmind stellt mit Gemini Robotics 2 ein neues KI-Modell vor, das Roboter aller Größen steuern kann, was die Automatisierung in vielen Branchen revolutioniert.",
-        "why": "Mittelständler können durch den Einsatz solcher Technologien ihre Produktionsprozesse optimieren und Kosten senken.",
+        "title": "Systematische Untersuchungen bei KI-Fehlverhalten",
+        "what": "METR fordert nach dem Hugging-Face-Angriff umfassende Analysen von KI-Fehlverhalten.",
+        "why": "Die Notwendigkeit zur Untersuchung von KI-Fehlverhalten wird von mehreren Quellen unterstützt, was auf ein wachsendes Problem hinweist.",
         "signal": "hoch"
       },
       {
-        "title": "Kostenkontrolle bei KI-Projekten",
-        "what": "Berichte über Amazon zeigen, dass fehlerhafte KI-Projekte zu exorbitanten Kosten führen können, was die Notwendigkeit einer besseren Kostenkontrolle verdeutlicht.",
-        "why": "Mittelständler müssen bei KI-Investitionen auf Kostenkontrolle achten, um finanzielle Verluste zu vermeiden.",
+        "title": "Kampf gegen minderwertige KI-Inhalte",
+        "what": "Snap und LinkedIn setzen Maßnahmen gegen KI-generierte Inhalte ein, um die Qualität ihrer Plattformen zu sichern.",
+        "why": "Die Reaktionen der Plattformen zeigen, dass die Qualität von Inhalten durch KI-generierte Inhalte gefährdet ist.",
         "signal": "hoch"
       },
       {
-        "title": "KI-ROI und wirtschaftlicher Nutzen",
-        "what": "Ein Webinar befasst sich mit der Messung des wirtschaftlichen Nutzens von KI-Projekten, was für Unternehmen von entscheidender Bedeutung ist.",
-        "why": "Die Fähigkeit, den ROI von KI zu quantifizieren, kann entscheidend für die Akzeptanz und den Erfolg von KI-Initiativen im Mittelstand sein.",
-        "signal": "hoch"
-      },
-      {
-        "title": "EU im KI-Wettlauf hinter den USA",
-        "what": "Die EU plant Investitionen von bis zu 30 Milliarden Euro in KI-Rechenzentren, bleibt jedoch hinter den USA zurück, die mehr als 600 Milliarden Dollar investieren.",
-        "why": "Mittelständler sollten die Entwicklungen im internationalen KI-Wettbewerb beobachten, um strategische Entscheidungen zu treffen.",
-        "signal": "hoch"
-      },
-      {
-        "title": "Steigende KI-Nutzung in Unternehmen",
-        "what": "Apple plant Aufpreise für iCloud+-Kunden, die verstärkt KI nutzen, was die zunehmende Abhängigkeit von KI-Diensten unterstreicht.",
-        "why": "Mittelständler müssen ihre Geschäftsmodelle anpassen, um mit den steigenden Kosten und der Nachfrage nach KI-Diensten Schritt zu halten.",
+        "title": "E-Government-Pakt zur Verwaltungsdigitalisierung",
+        "what": "Bund und Mittelstand vereinbaren einen neuen Pakt, um offene Standards für die Verwaltungsdigitalisierung zu etablieren.",
+        "why": "Die Initiative könnte die Effizienz und Transparenz in der Verwaltung erheblich steigern.",
         "signal": "mittel"
       },
       {
-        "title": "KI-Müdigkeit unter Wissensarbeitern",
-        "what": "Eine Studie zeigt, dass fast drei Viertel der Wissensarbeiter sich eine Rückkehr zur Zeit vor ChatGPT wünschen, was auf Frustration hinweist.",
-        "why": "Mittelständler sollten darauf achten, wie ihre Mitarbeiter auf KI-Implementierungen reagieren, um die Akzeptanz zu fördern.",
-        "signal": "mittel"
-      },
-      {
-        "title": "Cloud-Technologien zur Kostenoptimierung",
-        "what": "Zeiss verknüpft DORA-Metriken mit FinOps, um Deployment-Performance und Kostentransparenz zu verbessern.",
-        "why": "Mittelständler können ähnliche Ansätze nutzen, um ihre Cloud-Kosten zu optimieren und die Effizienz zu steigern.",
+        "title": "Datenschutzbedenken bei Smart Glasses",
+        "what": "In Deutschland droht ein Verbot von Metas Smart Glasses aufgrund von Datenschutzbedenken.",
+        "why": "Die Diskussion über Datenschutz und Technologien, die persönliche Daten erfassen, wird immer relevanter.",
         "signal": "hoch"
       },
       {
-        "title": "Rechtsstreit um KI-Musik",
-        "what": "Suno unterliegt im Rechtsstreit gegen die GEMA, was die rechtlichen Herausforderungen für KI-gestützte Inhalte verdeutlicht.",
-        "why": "Mittelständler im kreativen Sektor müssen sich der rechtlichen Rahmenbedingungen für KI-Inhalte bewusst sein.",
+        "title": "KI in der Mathematik revolutioniert Forschung",
+        "what": "OpenAI hat mit KI bedeutende Fortschritte in der Mathematik erzielt, was die Forschungslandschaft beeinflusst.",
+        "why": "Die Fähigkeit der KI, komplexe mathematische Probleme zu lösen, könnte langfristig die Ausbildung und Forschung verändern.",
         "signal": "mittel"
+      },
+      {
+        "title": "Physische KI-Revolution in der Industrie",
+        "what": "KI macht Industrieroboter flexibler und produktiver, was neue Möglichkeiten für die Produktion eröffnet.",
+        "why": "Die Investitionen in KI-Technologien in der Industrie könnten den Wettbewerb im Mittelstand stärken.",
+        "signal": "hoch"
+      },
+      {
+        "title": "Urheberrechtsverletzungen durch KI-Generatoren",
+        "what": "Das Landgericht München hat einen KI-Musikgenerator wegen Urheberrechtsverletzung verurteilt.",
+        "why": "Das Urteil könnte weitreichende Folgen für die Nutzung von KI in kreativen Bereichen haben.",
+        "signal": "hoch"
+      },
+      {
+        "title": "Verstärkter Fokus auf Cybersecurity",
+        "what": "Warnungen vor IT-Fachkräften aus Nordkorea und Cyberangriffe verdeutlichen die Sicherheitsrisiken.",
+        "why": "Für Unternehmen wird Cybersecurity zunehmend zu einem zentralen Thema.",
+        "signal": "hoch"
       }
     ],
     "opportunities": [
       {
-        "title": "Implementierung von KI-gestützten Robotern",
-        "what": "Es besteht ein Bedarf an Lösungen zur Integration von KI-gesteuerten Robotern in bestehende Produktionslinien.",
-        "who": "Fertigungsunternehmen und Logistikdienstleister.",
+        "title": "Entwicklung von KI-Compliance-Tools",
+        "what": "Unternehmen benötigen Tools zur Überwachung und Einhaltung von KI-Richtlinien und -Standards.",
+        "who": "Mittelständische Unternehmen, die KI-Lösungen implementieren.",
         "how": "hoch",
-        "price": "10.000-50.000€ Setup + 500-1.500€/Monat Wartung",
+        "price": "5.000-15.000€ Setup + 500-1.000€/Monat Wartung",
         "time": "Monate"
       },
       {
-        "title": "Kostenmanagement-Tools für KI-Projekte",
-        "what": "Entwicklung von Softwarelösungen zur Überwachung und Steuerung der Kosten von KI-Projekten.",
-        "who": "Unternehmen mit hohen KI-Investitionen.",
-        "how": "hoch",
-        "price": "5.000-20.000€ Setup + 300-800€/Monat",
-        "time": "Wochen"
-      },
-      {
-        "title": "Beratung zur Messung des KI-ROI",
-        "what": "Angebot von Beratungsdiensten zur Ermittlung des wirtschaftlichen Nutzens von KI-Investitionen.",
-        "who": "Unternehmen, die in KI investieren.",
+        "title": "Plattform für qualitativ hochwertige KI-Inhalte",
+        "what": "Es gibt Bedarf an einer Plattform, die qualitativ hochwertige, von Menschen kuratierte Inhalte bereitstellt.",
+        "who": "Content-Ersteller und Marken, die ihre Sichtbarkeit erhöhen möchten.",
         "how": "mittel",
-        "price": "2.500-10.000€ pro Projekt",
-        "time": "Wochen"
+        "price": "10.000-30.000€ Setup + 1.000-2.000€/Monat",
+        "time": "Monate"
       },
       {
-        "title": "Entwicklung von Cloud-Kostenoptimierungsstrategien",
-        "what": "Beratung zur Optimierung von Cloud-Kosten durch geeignete Metriken und Tools.",
-        "who": "Mittelständische Unternehmen mit Cloud-Investitionen.",
+        "title": "Schulung zu Datenschutzbestimmungen",
+        "what": "Unternehmen benötigen Schulungen, um Mitarbeiter über die neuesten Datenschutzbestimmungen aufzuklären.",
+        "who": "Mittelständische Unternehmen in der Technologie- und Dienstleistungsbranche.",
         "how": "hoch",
-        "price": "5.000-15.000€ pro Projekt",
-        "time": "Wochen"
-      },
-      {
-        "title": "Schulungen zur KI-Nutzung im Unternehmen",
-        "what": "Angebot von Schulungen für Mitarbeiter zur effektiven Nutzung von KI-Tools.",
-        "who": "Unternehmen, die KI implementieren.",
-        "how": "hoch",
-        "price": "1.500-5.000€ pro Schulung",
+        "price": "2.000-5.000€ pro Schulung",
         "time": "Tagen"
       },
       {
-        "title": "Entwicklung rechtlicher Leitfäden für KI-Nutzung",
-        "what": "Erstellung von Leitfäden zur rechtlichen Nutzung von KI-gestützten Inhalten.",
-        "who": "Unternehmen im kreativen Sektor.",
-        "how": "mittel",
-        "price": "3.000-8.000€ pro Leitfaden",
-        "time": "Wochen"
+        "title": "Beratung zur Implementierung von E-Government-Lösungen",
+        "what": "Es besteht Bedarf an Beratungsdiensten, die Unternehmen bei der Implementierung von E-Government-Lösungen unterstützen.",
+        "who": "Öffentliche Institutionen und Dienstleister.",
+        "how": "hoch",
+        "price": "10.000-25.000€ pro Projekt",
+        "time": "Monate"
+      },
+      {
+        "title": "Entwicklung von KI-gestützten Tools zur Inhaltsmoderation",
+        "what": "Unternehmen suchen nach Lösungen zur Moderation von KI-generierten Inhalten.",
+        "who": "Soziale Medien und Content-Plattformen.",
+        "how": "hoch",
+        "price": "15.000-50.000€ Setup + 1.500-3.000€/Monat",
+        "time": "Monate"
+      },
+      {
+        "title": "Cybersecurity-Assessment-Dienste",
+        "what": "Mittelständler benötigen Unterstützung bei der Bewertung ihrer Cybersecurity-Maßnahmen.",
+        "who": "Mittelständische Unternehmen in allen Branchen.",
+        "how": "hoch",
+        "price": "5.000-15.000€ pro Assessment",
+        "time": "Tagen"
       }
     ],
     "top_articles": [
       {
-        "title": "Gemini Robotics 2: Googles neues KI-Modell steuert Roboter jeder Form und Größe",
-        "url": "https://the-decoder.de/gemini-robotics-2-googles-neues-ki-modell-steuert-roboter-jeder-form-und-groesse/",
+        "title": "Nach Hugging-Face-Angriff: METR fordert systematische Untersuchungen bei KI-Fehlverhalten",
+        "url": "https://the-decoder.de/nach-hugging-face-angriff-metr-fordert-systematische-untersuchungen-bei-ki-fehlverhalten/",
         "source": "The Decoder",
-        "date": "2026-07-31",
-        "why": "Das neue KI-Modell könnte die Automatisierung in der Industrie revolutionieren.",
+        "date": "2026-08-02",
+        "why": "Die Forderung nach systematischen Untersuchungen zeigt die Dringlichkeit, die Verantwortung von KI-Systemen zu klären.",
         "tags": [
           "KI",
-          "Roboter",
-          "Innovation"
+          "Fehlverhalten",
+          "METR"
         ]
       },
       {
-        "title": "Zeiss verknüpft DORA-Metriken und FinOps über Backstage und Argo CD",
-        "url": "https://www.heise.de/hintergrund/Zeiss-verknuepft-DORA-Metriken-und-FinOps-ueber-Backstage-und-Argo-CD-11367974.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "title": "Snap und LinkedIn wehren sich gegen Flut minderwertiger KI-Inhalte",
+        "url": "https://the-decoder.de/snap-und-linkedin-wehren-sich-gegen-flut-minderwertiger-ki-inhalte/",
+        "source": "The Decoder",
+        "date": "2026-08-02",
+        "why": "Die Maßnahmen gegen minderwertige Inhalte sind entscheidend für die Wahrung der Qualität auf Plattformen.",
+        "tags": [
+          "Snap",
+          "LinkedIn",
+          "KI-Inhalte"
+        ]
+      },
+      {
+        "title": "Neuer E-Government-Pakt: Bund und Mittelstand setzen auf offene Standards",
+        "url": "https://www.heise.de/news/Neuer-E-Government-Pakt-Bund-und-Mittelstand-setzen-auf-offene-Standards-11394510.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
         "source": "Heise Online",
         "date": "2026-08-01",
-        "why": "Ein Beispiel für erfolgreiche Kostenoptimierung durch moderne Cloud-Technologien.",
+        "why": "Der Pakt könnte die Effizienz der Verwaltungsdigitalisierung erheblich steigern.",
         "tags": [
-          "Cloud",
-          "FinOps",
-          "DORA"
+          "E-Government",
+          "Mittelstand",
+          "offene Standards"
         ]
       },
       {
-        "title": "Bis zu 30 Milliarden Euro für KI-Rechenzentren: EU bleibt im KI-Wettrennen chancenlos gegen die USA",
-        "url": "https://the-decoder.de/bis-zu-30-milliarden-euro-fuer-ki-rechenzentren-eu-bleibt-im-ki-wettrennen-chancenlos-gegen-die-usa/",
-        "source": "The Decoder",
-        "date": "2026-07-31",
-        "why": "Die EU investiert in KI, bleibt jedoch hinter den USA zurück.",
-        "tags": [
-          "EU",
-          "Investitionen",
-          "KI"
-        ]
-      },
-      {
-        "title": "KI-Müdigkeit: Fast drei Viertel der Wissensarbeiter wollen die Zeit vor ChatGPT zurück",
-        "url": "https://t3n.de/news/ki-muedigkeit-wissensarbeiter-studie-1755296/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-        "source": "t3n Digital Pioneers",
+        "title": "Datenschutz kontra Meta Smart Glasses: Droht ein Verbot in Deutschland?",
+        "url": "https://www.heise.de/news/Datenschutz-kontra-Meta-Smart-Glasses-Droht-ein-Verbot-in-Deutschland-11394520.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "source": "Heise Online",
         "date": "2026-08-01",
-        "why": "Ein Hinweis auf die Herausforderungen bei der Akzeptanz von KI-Technologien.",
+        "why": "Die Diskussion über Datenschutz und Technologie wird in Deutschland zunehmend relevant.",
         "tags": [
-          "KI",
-          "Mitarbeiter",
-          "Akzeptanz"
+          "Datenschutz",
+          "Meta",
+          "Smart Glasses"
         ]
       },
       {
-        "title": "KI-Update kompakt: KI-Kennzeichnungspflicht, Nudifyer, AlphaFold, Granola",
-        "url": "https://www.heise.de/news/KI-Update-kompakt-KI-Kennzeichnungspflicht-Nudifyer-AlphaFold-Granola-11381942.html?wt_mc=rss.red.ho.ho.atom.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-31",
-        "why": "Eine Zusammenfassung der wichtigsten KI-Entwicklungen der Woche.",
-        "tags": [
-          "KI",
-          "Updates",
-          "Entwicklungen"
-        ]
-      },
-      {
-        "title": "Neues Deepseek Flash-Modell gleichauf mit OpenAIs GPT-5.6 Luna bei rund 60 Prozent weniger Kosten",
-        "url": "https://the-decoder.de/neues-deepseek-flash-modell-gleichauf-mit-openais-gpt-5-6-luna-bei-rund-60-prozent-weniger-kosten/",
+        "title": "Landgericht München verurteilt KI-Musikgenerator Suno wegen Urheberrechtsverletzung",
+        "url": "https://the-decoder.de/landgericht-muenchen-verurteilt-ki-musikgenerator-suno-wegen-urheberrechtsverletzung/",
         "source": "The Decoder",
-        "date": "2026-07-31",
-        "why": "Ein kosteneffizientes KI-Modell für Unternehmen.",
-        "tags": [
-          "KI",
-          "Kosten",
-          "Effizienz"
-        ]
-      },
-      {
-        "title": "„Katastrophal teuer“: KI ließ bei Amazon Projekt-Kosten aus dem Ruder laufen",
-        "url": "https://www.heise.de/news/Um-860-Prozent-ueberzogen-KI-trieb-bei-Amazon-Kosten-mancher-Projekte-hoch-11394136.html?wt_mc=rss.red.ho.ho.atom.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-31",
-        "why": "Ein Beispiel für die Herausforderungen bei der Kostenkontrolle von KI-Projekten.",
-        "tags": [
-          "Amazon",
-          "Kosten",
-          "KI"
-        ]
-      },
-      {
-        "title": "Webinar | KI-ROI messen: Was bringt der KI-Einsatz wirtschaftlich wirklich?",
-        "url": "https://the-decoder.de/webinar-ki-roi-messen-was-bringt-der-ki-einsatz-wirtschaftlich-wirklich/",
-        "source": "The Decoder",
-        "date": "2026-07-31",
-        "why": "Wichtige Ansätze zur Messung des wirtschaftlichen Nutzens von KI.",
-        "tags": [
-          "Webinar",
-          "KI",
-          "ROI"
-        ]
-      },
-      {
-        "title": "KI-Ausbau: Techriesen haben mehr als eine Billion Dollar investiert",
-        "url": "https://www.heise.de/news/KI-Ausbau-der-Techriesen-Investitionen-ueberschreiten-eine-Billion-Dollar-11388989.html?wt_mc=rss.red.ho.ho.atom.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-31",
-        "why": "Ein Überblick über die massiven Investitionen in KI durch große Unternehmen.",
-        "tags": [
-          "Investitionen",
-          "KI",
-          "Technologie"
-        ]
-      },
-      {
-        "title": "Thinking Machines setzt mit zweitem Modell Inkling Small auf Effizienz statt Größe",
-        "url": "https://the-decoder.de/thinking-machines-setzt-mit-zweitem-modell-inkling-small-auf-effizienz-statt-groesse/",
-        "source": "The Decoder",
-        "date": "2026-07-31",
-        "why": "Ein neues KI-Modell, das effizienter arbeitet und weniger Ressourcen benötigt.",
-        "tags": [
-          "KI",
-          "Effizienz",
-          "Innovation"
-        ]
-      },
-      {
-        "title": "EUDI-Wallet: Bundesregierung hält trotz Gegenwind an Starttermin 2027 fest",
-        "url": "https://www.heise.de/news/EUDI-Wallet-Bundesregierung-haelt-trotz-Gegenwind-an-Starttermin-2027-fest-11394312.html?wt_mc=rss.red.ho.ho.atom.beitrag",
-        "source": "Heise Online",
-        "date": "2026-07-31",
-        "why": "Die EUDI-Wallet könnte die Digitalisierung von Bürgerdiensten vorantreiben.",
-        "tags": [
-          "Digitalisierung",
-          "EUDI-Wallet",
-          "Bundesregierung"
-        ]
-      },
-      {
-        "title": "Lokale KI statt ChatGPT: Diese 4 Tools laufen komplett ohne Cloud",
-        "url": "https://t3n.de/news/lokale-ki-statt-chatgpt-4-tools-1751464/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-        "source": "t3n Digital Pioneers",
         "date": "2026-08-01",
-        "why": "Ein Ansatz, der Unternehmen ermöglicht, KI ohne Cloud-Dienste zu nutzen.",
+        "why": "Das Urteil hat potenziell weitreichende Folgen für die Nutzung von KI in der Musikindustrie.",
         "tags": [
+          "Urheberrecht",
           "KI",
-          "Cloud",
-          "Tools"
+          "Musikgenerator"
+        ]
+      },
+      {
+        "title": "Physische KI: Die stille KI-Revolution in der Fabrik",
+        "url": "https://www.golem.de/news/physische-ki-die-stille-ki-revolution-in-der-fabrik-2608-211011.html",
+        "source": "Golem.de",
+        "date": "2026-08-02",
+        "why": "Die Flexibilität und Produktivität von Industrierobotern durch KI könnte die Industrie revolutionieren.",
+        "tags": [
+          "Industrieroboter",
+          "KI",
+          "Industrie"
         ]
       }
     ],
     "action_items": [
-      "Überprüfen Sie aktuelle KI-Projekte auf Kostenüberschreitungen und implementieren Sie Kontrollmechanismen.",
-      "Planen Sie ein internes Webinar zur Schulung der Mitarbeiter über den wirtschaftlichen Nutzen von KI.",
-      "Erstellen Sie eine Liste potenzieller KI-Tools, die lokal ohne Cloud funktionieren.",
-      "Analysieren Sie die Cloud-Kosten und erstellen Sie eine Strategie zur Optimierung.",
-      "Erforschen Sie rechtliche Rahmenbedingungen für den Einsatz von KI-gestützten Inhalten in Ihrem Unternehmen."
+      "Evaluieren Sie die Notwendigkeit von Compliance-Tools für KI-Anwendungen in Ihrem Unternehmen.",
+      "Überprüfen Sie Ihre Plattforminhalte auf minderwertige KI-generierte Inhalte und ergreifen Sie Maßnahmen zur Qualitätssicherung.",
+      "Planen Sie eine Schulung für Ihre Mitarbeiter zu den neuesten Datenschutzbestimmungen.",
+      "Erstellen Sie einen Plan zur Implementierung von E-Government-Lösungen in Ihrem Unternehmen.",
+      "Führen Sie ein Cybersecurity-Assessment durch, um Sicherheitslücken zu identifizieren."
     ]
   },
   "raw_articles": [
+    {
+      "title": "Nach Hugging-Face-Angriff: METR fordert systematische Untersuchungen bei KI-Fehlverhalten",
+      "url": "https://the-decoder.de/nach-hugging-face-angriff-metr-fordert-systematische-untersuchungen-bei-ki-fehlverhalten/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-08-02T07:27:17+00:00",
+      "summary": "Die Forschungsorganisation METR fordert systematische, unabhängig geleitete Untersuchungen, wenn KI-Agenten autonom gegen die Absichten ihrer Entwickler handeln. Anlass ist unter anderem der Hugging-Face-Hack durch OpenAI-Modelle. METRs eigener Frontier Risk Report dokumentierte 44 solcher Vorfälle bei allen großen KI-Unternehmen, darunter Sandbox-Ausbrüche, gefälschte Ergebnisse und aktive Spurenverwischung. Der Artikel Nach Hugging-Face-Angriff: METR fordert systematische Untersuchungen bei KI-Fehlverhalten erschien zuerst auf The Decoder .",
+      "keywords": [
+        "metr",
+        "fordert",
+        "systematische",
+        "untersuchungen",
+        "hugging-face-angriff",
+        "ki-fehlverhalten"
+      ]
+    },
+    {
+      "title": "Snap und LinkedIn wehren sich gegen Flut minderwertiger KI-Inhalte",
+      "url": "https://the-decoder.de/snap-und-linkedin-wehren-sich-gegen-flut-minderwertiger-ki-inhalte/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-08-02T06:36:28+00:00",
+      "summary": "Snap verbannt vollständig KI-generierte Videos aus den Spotlight-Empfehlungen, um die Plattform für menschliche Kreativität zu reservieren. Mit eigenen KI-Tools bearbeitete Inhalte bleiben erlaubt. Auch LinkedIn wehrt sich gegen minderwertige Inhalte. Der Artikel Snap und LinkedIn wehren sich gegen Flut minderwertiger KI-Inhalte erschien zuerst auf The Decoder .",
+      "keywords": [
+        "snap",
+        "linkedin",
+        "sich",
+        "gegen",
+        "wehren",
+        "flut"
+      ]
+    },
+    {
+      "title": "Top 10: Der beste Mähroboter für kleine Flächen – gut, günstig, getestet",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-fuer-kleine-flaechen-gut-guenstig-getestet/dtx14fd?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-01T18:00:00+00:00",
+      "summary": "Kleine Gärten bis 500 m² benötigen keine Luxusgeräte. Wir prüfen 10 kabellose Mähroboter ab 500 Euro auf Mähleistung, Randschnitt und Handling.",
+      "keywords": [
+        "mähroboter",
+        "kleine",
+        "beste",
+        "flächen",
+        "günstig",
+        "getestet"
+      ]
+    },
+    {
+      "title": "Smart-Home-Spezialist Shelly vor möglicher Übernahme",
+      "url": "https://www.heise.de/news/Smart-Home-Spezialist-Shelly-vor-moeglicher-Uebernahme-11394506.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-01T16:40:00+00:00",
+      "summary": "Der für preisgünstige Elektrokomponenten bekannte Hersteller Shelly verhandelt mit einem französischen Konzern über seine mögliche Übernahme.",
+      "keywords": [
+        "shelly",
+        "übernahme",
+        "smart-home-spezialist",
+        "möglicher",
+        "preisgünstige",
+        "elektrokomponenten"
+      ]
+    },
+    {
+      "title": "(g+) Physische KI: Die stille KI-Revolution in der Fabrik",
+      "url": "https://www.golem.de/news/physische-ki-die-stille-ki-revolution-in-der-fabrik-2608-211011.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-02T08:00:01+00:00",
+      "summary": "KI macht Industrieroboter flexibler und produktiver. Ein Besuch bei Trumpf und Siemens zeigt, was heute schon möglich ist - und woran selbst moderne Systeme noch scheitern. Eine Reportage von Christian J. Meier ( Roboter , KI )",
+      "keywords": [
+        "physische",
+        "stille",
+        "ki-revolution",
+        "fabrik",
+        "macht",
+        "industrieroboter"
+      ]
+    },
+    {
+      "title": "Datenschutz kontra Meta Smart Glasses: Droht ein Verbot in Deutschland?",
+      "url": "https://www.heise.de/news/Datenschutz-kontra-Meta-Smart-Glasses-Droht-ein-Verbot-in-Deutschland-11394520.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-01T15:52:00+00:00",
+      "summary": "Hamburgs Datenschutzbeauftragter Thomas Fuchs warnt vor heimlichen Kameras am Kopf. Nun prüfen Behörden sogar ein Verkaufsverbot für Metas Datenbrillen.",
+      "keywords": [
+        "datenschutz",
+        "kontra",
+        "meta",
+        "smart",
+        "glasses",
+        "droht"
+      ]
+    },
+    {
+      "title": "Neuer E-Government-Pakt: Bund und Mittelstand setzen auf offene Standards",
+      "url": "https://www.heise.de/news/Neuer-E-Government-Pakt-Bund-und-Mittelstand-setzen-auf-offene-Standards-11394510.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-01T15:03:00+00:00",
+      "summary": "Eine Allianz von Digitalministerium und Databund will mit dem Deutschland-Stack und offenen Schnittstellen den Knoten bei der Verwaltungsdigitalisierung lösen.",
+      "keywords": [
+        "neuer",
+        "e-government-pakt",
+        "bund",
+        "mittelstand",
+        "setzen",
+        "offene"
+      ]
+    },
+    {
+      "title": "KI in der Mathematik: KI macht was für Menschen, aber auch mit ihnen",
+      "url": "https://the-decoder.de/ki-in-der-mathematik-ki-macht-was-fuer-menschen-aber-auch-mit-ihnen/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-08-01T14:54:31+00:00",
+      "summary": "OpenAIs Widerlegung der Unit Distance Conjecture hat eine Welle KI-gestützter Mathematik-Durchbrüche ausgelöst. Fields-Medaillenträger Timothy Gowers beschreibt, wie GPT 5.6 Pro Probleme in einem Anlauf löste, an denen er selbst lange arbeitete, und warnt vor einer \"Zerstörung der mathematischen Kultur\", wenn niemand mehr die Expertise aufbaue, die Ergebnisse zu verstehen. Andere sehen es gelassener. Der Artikel KI in der Mathematik: KI macht was für Menschen, aber auch mit ihnen erschien zuerst auf The Decoder .",
+      "keywords": [
+        "mathematik",
+        "macht",
+        "menschen",
+        "aber",
+        "auch",
+        "ihnen"
+      ]
+    },
+    {
+      "title": "Google Maps: Neuer Energiesparmodus reduziert Akkuverbrauch um mehr als die Hälfte",
+      "url": "https://t3n.de/news/google-maps-energiesparmodus-pixel-10-akku-sparen-1750008/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-08-02T06:05:00+00:00",
+      "summary": "Nutzer:innen von Smartphones der Pixel-10-Serie bekommen einen neuen Energiesparmodus für Google Maps. So aktiviert ihr ihn. weiterlesen auf t3n.de",
+      "keywords": [
+        "google",
+        "maps",
+        "energiesparmodus",
+        "neuer",
+        "reduziert",
+        "akkuverbrauch"
+      ]
+    },
+    {
+      "title": "OpenAI-Feldbericht: KI-Agenten schreiben marode Forschungssoftware neu, doch Forscher müssen aufwendig prüfen",
+      "url": "https://the-decoder.de/openai-feldbericht-ki-agenten-schreiben-marode-forschungssoftware-neu-doch-forscher-muessen-aufwendig-pruefen/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-08-01T14:00:28+00:00",
+      "summary": "Ein Feldbericht von OpenAI und akademischen Partnern zeigt, wie Coding-Agenten vernachlässigte Forschungssoftware modernisieren könnten, mit Beschleunigungen um das 60-Fache. Doch die Systeme treten laut Beteiligten \"selbstsicher und falsch\"\" auf: Der Aufwand verschiebt sich vom Programmieren zur aufwendigen Prüfung wissenschaftlicher Korrektheit. Der Artikel OpenAI-Feldbericht: KI-Agenten schreiben marode Forschungssoftware neu, doch Forscher müssen aufwendig prüfen erschien zuerst auf The Decoder .",
+      "keywords": [
+        "forschungssoftware",
+        "doch",
+        "openai-feldbericht",
+        "ki-agenten",
+        "schreiben",
+        "marode"
+      ]
+    },
+    {
+      "title": "Mini-PC Minisforum AI X1 470 im Test: Mit Ryzen AI 9 flüsterleise unter Last",
+      "url": "https://www.heise.de/bestenlisten/testbericht/mini-pc-minisforum-ai-x1-470-im-test-mit-ryzen-ai-9-fluesterleise-unter-last/v5j3dy4?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-01T14:00:00+00:00",
+      "summary": "Minisforum bringt mit dem AI X1 470 einen weiteren High-End-Mini-PC mit sehr starker Ausstattung und zugleich den Nachfolger des X1 AI. Wir haben ihn getestet.",
+      "keywords": [
+        "minisforum",
+        "mini-pc",
+        "test",
+        "ryzen",
+        "flüsterleise",
+        "unter"
+      ]
+    },
+    {
+      "title": "Ein manipuliertes Word-Dokument steckt über Copilot das nächste an, Microsoft hat seit 144 Tagen keine Lösung",
+      "url": "https://the-decoder.de/ein-manipuliertes-word-dokument-steckt-ueber-copilot-das-naechste-an-microsoft-hat-seit-144-tagen-keine-loesung/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-08-01T13:44:22+00:00",
+      "summary": "Ein Sicherheitsforscher hat einen wurmartigen Angriff auf Microsoft Copilot für Word demonstriert: Unsichtbare Prompt Injections in Dokumenten verbreiten sich bei jeder Weiterverwendung selbstständig in neue Dateien. Microsoft bestätigte das Problem, konnte es aber nach 144 Tagen und zwei Versuchen nicht beheben. Der Artikel Ein manipuliertes Word-Dokument steckt über Copilot das nächste an, Microsoft hat seit 144 Tagen keine Lösung erschien zuerst auf The Decoder .",
+      "keywords": [
+        "microsoft",
+        "copilot",
+        "tagen",
+        "manipuliertes",
+        "word-dokument",
+        "steckt"
+      ]
+    },
+    {
+      "title": "Anzeige: IT-Jobs von Lizenzmanagement bis Embedded-Hardware",
+      "url": "https://www.golem.de/news/anzeige-it-jobs-von-lizenzmanagement-bis-embedded-hardware-2608-211224.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-02T05:00:01+00:00",
+      "summary": "Von IT-Lizenzmanagement über Embedded-Hardware bis Netzwerksicherheit - sechs neue IT-Jobs bieten vielfältige Aufgaben und Verantwortung. ( Golem Karrierewelt , Unternehmenssoftware )",
+      "keywords": [
+        "it-jobs",
+        "embedded-hardware",
+        "anzeige",
+        "lizenzmanagement",
+        "it-lizenzmanagement",
+        "netzwerksicherheit"
+      ]
+    },
+    {
+      "title": "Seedance 2.5: ByteDances neues Videomodell liefert 30-Sekunden-Clips mit integriertem Audio",
+      "url": "https://the-decoder.de/seedance-2-5-bytedances-neues-videomodell-liefert-30-sekunden-clips-mit-integriertem-audio/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-08-01T13:22:30+00:00",
+      "summary": "ByteDance veröffentlicht mit Seedance 2.5 ein KI-Videomodell, das Video und Audio in einem Durchgang erzeugt, mit bis zu 30 Sekunden pro Clip, dreimal so viel wie Googles Gemini Omni Flash. Nutzer können Dutzende Bilder, Videos und Audiodateien als Referenz hochladen. Für Werbeproduktionen könnte das die Einzelclip-Montage überflüssig machen. Der Artikel Seedance 2.5: ByteDances neues Videomodell liefert 30-Sekunden-Clips mit integriertem Audio erschien zuerst auf The Decoder .",
+      "keywords": [
+        "seedance",
+        "audio",
+        "bytedances",
+        "neues",
+        "videomodell",
+        "liefert"
+      ]
+    },
+    {
+      "title": "Diamanten-Quantencomputer aus Sachsen: Dieses Startup fordert IBM und Google heraus",
+      "url": "https://t3n.de/news/saxonq-diamanten-quantencomputer-startup-sachsen-1755511/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-08-02T04:45:00+00:00",
+      "summary": "Ein Spin-out der Universität Leipzig hat einen Quantenchip auf Basis von Diamanten entwickelt. Anders als bei Google und IBM müssen diese Quantencomputer-Chips weiterlesen auf t3n.de",
+      "keywords": [
+        "google",
+        "diamanten-quantencomputer",
+        "sachsen",
+        "dieses",
+        "startup",
+        "fordert"
+      ]
+    },
+    {
+      "title": "Versteckte KI-Falle: Professor erwischt 32 von 35 Studenten beim Schummeln mit ChatGPT",
+      "url": "https://t3n.de/news/professor-ueberfuehrt-studenten-ki-schummeln-prompt-injection-1754816/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-08-02T04:00:00+00:00",
+      "summary": "Viele nutzen Chatbots im Studium nicht nur, um Verständnisfragen zu klären – sondern auch, um bei Prüfungen besser abzuschneiden. Für die Teilnehmer:innen eines Geschichtskurses ging das jetzt nach hinten los. weiterlesen auf t3n.de",
+      "keywords": [
+        "versteckte",
+        "ki-falle",
+        "professor",
+        "erwischt",
+        "studenten",
+        "beim"
+      ]
+    },
+    {
+      "title": "Auswärtiges Amt warnt vor IT-Fachkräften aus Nordkorea",
+      "url": "https://www.heise.de/news/Auswaertiges-Amt-warnt-vor-IT-Fachkraeften-aus-Nordkorea-11394444.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-01T11:51:00+00:00",
+      "summary": "IT-Fachkräfte aus Nordkorea unterwandern zunehmend westliche Unternehmen. Jetzt gibt es eine internationale Warnung davor.",
+      "keywords": [
+        "nordkorea",
+        "auswärtiges",
+        "warnt",
+        "it-fachkräften",
+        "it-fachkräfte",
+        "unterwandern"
+      ]
+    },
+    {
+      "title": "heise-Angebot: Raus aus dem Chat: So entwickeln Sie wiederverwendbare Prompts für KI-Workflows",
+      "url": "https://www.heise.de/news/Raus-aus-dem-Chat-So-entwickeln-Sie-wiederverwendbare-Prompts-fuer-KI-Workflows-11377370.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-01T11:00:00+00:00",
+      "summary": "Wie entstehen aus erfolgreichen KI-Chats wiederverwendbare Prompt-Vorlagen? Sie schaffen die Grundlage für KI-Workflows und eine persönliche Prompt-Bibliothek.",
+      "keywords": [
+        "wiederverwendbare",
+        "ki-workflows",
+        "heise-angebot",
+        "raus",
+        "chat",
+        "entwickeln"
+      ]
+    },
+    {
+      "title": "Bildgenerator mit KI in Google Earth erzeugte zu viele Fake News",
+      "url": "https://www.heise.de/news/Zu-viele-Fake-News-Google-stoppt-KI-Bilder-Funktion-in-Google-Earth-11394448.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-01T10:51:00+00:00",
+      "summary": "Eine kurzfristig in Google Earth aktive KI-Funktion hatte ermöglicht, beliebige Bilder zu generieren. Das Potential für Fake News war groß.",
+      "keywords": [
+        "google",
+        "earth",
+        "fake",
+        "news",
+        "bildgenerator",
+        "erzeugte"
+      ]
+    },
+    {
+      "title": "Landgericht München verurteilt KI-Musikgenerator Suno wegen Urheberrechtsverletzung",
+      "url": "https://the-decoder.de/landgericht-muenchen-verurteilt-ki-musikgenerator-suno-wegen-urheberrechtsverletzung/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-08-01T10:21:50+00:00",
+      "summary": "Das Landgericht München hat den KI-Musikgenerator Suno wegen Urheberrechtsverletzung verurteilt. Das Gericht stellte fest, dass sechs Musikwerke reproduzierbar in Sunos Modellen gespeichert sind, und verwarf sowohl die deutsche Text-und-Data-Mining-Ausnahme als auch die US-amerikanische Fair-Use-Verteidigung. Das Urteil ist noch nicht rechtskräftig, und es lässt viele Fragen offen. Der Artikel Landgericht München verurteilt KI-Musikgenerator Suno wegen Urheberrechtsverletzung erschien zuerst auf The Decoder .",
+      "keywords": [
+        "landgericht",
+        "münchen",
+        "verurteilt",
+        "ki-musikgenerator",
+        "suno",
+        "wegen"
+      ]
+    },
+    {
+      "title": "Developer Häppchen: Binutils, OpenJDK und kubara",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-Kotlin-LLM-SimCity-Vibes-und-gestopfte-Luecken-bei-glibc-11381748.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-01T09:59:00+00:00",
+      "summary": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Binutils, OpenJDK, IntelliJ IDEA, ESLint, SystemDS, glibc, kubara, KotlinLLM und PSF.",
+      "keywords": [
+        "binutils",
+        "openjdk",
+        "kubara",
+        "developer",
+        "häppchen",
+        "kleine"
+      ]
+    },
+    {
+      "title": "Schlüsselklau bei Ruby on Rails – Kritische Lücke mit präparierten Bildern",
+      "url": "https://www.heise.de/news/Schluesselklau-bei-Ruby-on-Rails-Kritische-Luecke-mit-praeparierten-Bildern-11394386.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-01T09:35:00+00:00",
+      "summary": "Über kompromittierte Bilder können Angreifer Umgebungsvariablen des Servers einschließlich der Secrets auslesen und sich damit weitere Türen ins System öffnen.",
+      "keywords": [
+        "schlüsselklau",
+        "ruby",
+        "rails",
+        "kritische",
+        "lücke",
+        "präparierten"
+      ]
+    },
+    {
+      "title": "OpenAI bestätigt \"nächste große Modellfamilie\" Astra und löst damit zehn offene Mathe-Probleme auf einen Schlag",
+      "url": "https://the-decoder.de/openai-bestaetigt-naechste-grosse-modellfamilie-astra-und-loest-damit-zehn-offene-mathe-probleme-auf-einen-schlag/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-08-01T09:19:49+00:00",
+      "summary": "OpenAI arbeitet an einer neuen Modellfamilie namens \"Astra\", die mehrere Agenten über längere Zeiträume an komplexen Problemen zusammenarbeiten lassen soll. CEO Sam Altman stellte Astra bereits Politikern in Washington vor. Ob das Modell als GPT-6 oder als GPT-5-Variante erscheint, ist noch offen. Der Artikel OpenAI bestätigt &quot;nächste große Modellfamilie&quot; Astra und löst damit zehn offene Mathe-Probleme auf einen Schlag erschien zuerst auf The Decoder .",
+      "keywords": [
+        "astra",
+        "openai",
+        "modellfamilie",
+        "bestätigt",
+        "nächste",
+        "große"
+      ]
+    },
+    {
+      "title": "Google Earth mit KI-Bildgenerator war eine schlechte Idee: Nutzer fälschten Satellitenbilder",
+      "url": "https://the-decoder.de/google-earth-mit-ki-bildgenerator-war-eine-schlechte-idee-nutzer-faelschten-satellitenbilder/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-08-01T08:52:04+00:00",
+      "summary": "Google musste die Integration seines Bildmodells Nano Banana 2 in Google Earth nur zwei Tage nach dem Launch zurückziehen. Nutzer zeigten, wie leicht sich damit täuschend echte Fake-Satellitenbilder erzeugen lassen. Ein simpler Prompt genügte etwa, um einen leeren Platz an der mexikanischen Grenze mit einem Flüchtlingstreck zu füllen. Der Artikel Google Earth mit KI-Bildgenerator war eine schlechte Idee: Nutzer fälschten Satellitenbilder erschien zuerst auf The Decoder .",
+      "keywords": [
+        "google",
+        "earth",
+        "nutzer",
+        "ki-bildgenerator",
+        "schlechte",
+        "idee"
+      ]
+    },
     {
       "title": "heise-Angebot: iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
       "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-11367838.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -292,451 +604,67 @@
       ]
     },
     {
-      "title": "Top 10: Die besten Poolroboter mit Akku im Test – Aiper vor Beatbot & Mammotion",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-poolroboter-mit-akku-im-test-aiper-vor-beatbot-und-mammotion/c9wkf56?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-31T18:00:00+00:00",
-      "summary": "Poolroboter halten Wasser sowie Becken sauber und sparen Zeit. Wir zeigen die besten Modelle aus unseren Tests von Aiper, Beatbot, Mammotion & Co.",
-      "keywords": [
-        "besten",
-        "poolroboter",
-        "aiper",
-        "beatbot",
-        "mammotion",
-        "akku"
-      ]
-    },
-    {
-      "title": "Gemini Robotics 2: Googles neues KI-Modell steuert Roboter jeder Form und Größe",
-      "url": "https://the-decoder.de/gemini-robotics-2-googles-neues-ki-modell-steuert-roboter-jeder-form-und-groesse/",
-      "source": "The Decoder",
-      "lang": "de",
-      "published": "2026-07-31T17:58:08+00:00",
-      "summary": "Google Deepmind stellt mit Gemini Robotics 2 sein bisher fortschrittlichstes Vision-Language-Action-Modell vor, das Roboter aller Bauarten steuern kann: von Tischrobotern bis zu humanoiden Ganzkörperrobotern. Ergänzend liefert Gemini Robotics ER 2 eine übergeordnete Reasoning-Schicht für Aufgaben in der Robotik. Der Artikel Gemini Robotics 2: Googles neues KI-Modell steuert Roboter jeder Form und Größe erschien zuerst auf The Decoder .",
-      "keywords": [
-        "gemini",
-        "robotics",
-        "roboter",
-        "googles",
-        "neues",
-        "ki-modell"
-      ]
-    },
-    {
-      "title": "Thinking Machines setzt mit zweitem Modell Inkling Small auf Effizienz statt Größe",
-      "url": "https://the-decoder.de/thinking-machines-setzt-mit-zweitem-modell-inkling-small-auf-effizienz-statt-groesse/",
-      "source": "The Decoder",
-      "lang": "de",
-      "published": "2026-07-31T17:29:50+00:00",
-      "summary": "Thinking Machines, das KI-Labor von Ex-OpenAI-CTO Mira Murati, veröffentlicht Inkling Small. Das Open-Weights-Reasoning-Modell ist weniger als ein Drittel so groß wie sein Vorgänger Inkling, schneidet aber in mehreren Coding- und Reasoning-Benchmarks besser ab. Der Artikel Thinking Machines setzt mit zweitem Modell Inkling Small auf Effizienz statt Größe erschien zuerst auf The Decoder .",
-      "keywords": [
-        "inkling",
-        "thinking",
-        "machines",
-        "small",
-        "setzt",
-        "zweitem"
-      ]
-    },
-    {
-      "title": "EUDI-Wallet: Bundesregierung hält trotz Gegenwind an Starttermin 2027 fest",
-      "url": "https://www.heise.de/news/EUDI-Wallet-Bundesregierung-haelt-trotz-Gegenwind-an-Starttermin-2027-fest-11394312.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-31T17:14:00+00:00",
-      "summary": "Trotz Berichten über chaotische Zustände sieht die Regierung die EUDI-Wallet auf Kurs. Sie bekräftigt den Start der App für erste Bürgerdienste für Anfang 2027.",
-      "keywords": [
-        "eudi-wallet",
-        "trotz",
-        "2027",
-        "bundesregierung",
-        "hält",
-        "gegenwind"
-      ]
-    },
-    {
-      "title": "Webinar | KI-ROI messen: Was bringt der KI-Einsatz wirtschaftlich wirklich?",
-      "url": "https://the-decoder.de/webinar-ki-roi-messen-was-bringt-der-ki-einsatz-wirtschaftlich-wirklich/",
-      "source": "The Decoder",
-      "lang": "de",
-      "published": "2026-07-31T17:07:23+00:00",
-      "summary": "Viele Unternehmen investieren in KI, können deren wirtschaftlichen Nutzen jedoch kaum verlässlich beziffern. Das Webinar zeigt dir praxisnahe Ansätze, mit denen du Produktivitätsgewinne und betriebswirtschaftliche Effekte erfassen und den Wert von KI-Projekten intern nachvollziehbar darstellen kannst. Der Artikel Webinar | KI-ROI messen: Was bringt der KI-Einsatz wirtschaftlich wirklich? erschien zuerst auf The Decoder .",
-      "keywords": [
-        "webinar",
-        "ki-roi",
-        "messen",
-        "bringt",
-        "ki-einsatz",
-        "wirtschaftlich"
-      ]
-    },
-    {
-      "title": "Neues Deepseek Flash-Modell gleichauf mit OpenAIs GPT-5.6 Luna bei rund 60 Prozent weniger Kosten",
-      "url": "https://the-decoder.de/neues-deepseek-flash-modell-gleichauf-mit-openais-gpt-5-6-luna-bei-rund-60-prozent-weniger-kosten/",
-      "source": "The Decoder",
-      "lang": "de",
-      "published": "2026-07-31T16:20:45+00:00",
-      "summary": "Deepseek hat sein Budget-Modell V4 Flash mit dem Update \"0731\" deutlich verbessert: Im Artificial Analysis Intelligence Index springt es um zehn Punkte auf 50 und liegt damit nur einen Punkt hinter OpenAIs GPT-5.6 Luna, kostet aber rund 60 Prozent weniger pro Aufgabe. Der Artikel Neues Deepseek Flash-Modell gleichauf mit OpenAIs GPT-5.6 Luna bei rund 60 Prozent weniger Kosten erschien zuerst auf The Decoder .",
-      "keywords": [
-        "deepseek",
-        "openais",
-        "gpt-5",
-        "luna",
-        "rund",
-        "prozent"
-      ]
-    },
-    {
-      "title": "Tastaturen fürs Homeoffice: So findest du für dich das richtige Modell",
-      "url": "https://t3n.de/news/tastaturen-fuers-homeoffice-so-findest-du-fuer-dich-das-richtige-modell-1755382/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "title": "Smart Glasses: Warum Metas KI-Brillen in Deutschland bald verboten sein könnten",
+      "url": "https://t3n.de/news/smart-glasses-meta-verboten-1755959/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
       "source": "t3n Digital Pioneers",
       "lang": "de",
-      "published": "2026-08-01T07:00:55+00:00",
-      "summary": "Wer mehrere Tage pro Woche von zu Hause aus arbeitet, braucht die passende Grundausstattung. Dazu gehört auch eine externe Tastatur. Hier erfährst du, welche Hersteller sich lohnen – auch für kleinere Budgets. weiterlesen auf t3n.de",
+      "published": "2026-08-01T21:12:29+00:00",
+      "summary": "Der für Meta-Dienste in Deutschland zuständige Datenschutzbeauftragte Thomas Fuchs sieht in der Möglichkeit, mit Metas Smart Glasses heimlich in der Öffentlichkeit zu filmen, einen Verstoß gegen das Datenschutzrecht. Ein Verbot der KI-Brillen ist denkbar. weiterlesen auf t3n.de",
       "keywords": [
-        "auch",
-        "tastaturen",
-        "fürs",
-        "homeoffice",
-        "findest",
-        "dich"
+        "smart",
+        "glasses",
+        "metas",
+        "ki-brillen",
+        "deutschland",
+        "warum"
       ]
     },
     {
-      "title": "Man braucht gar keine Steam Machine: SteamOS auf Standard-PC getestet",
-      "url": "https://www.heise.de/news/Man-braucht-gar-keine-Steam-Machine-SteamOS-auf-Standard-PC-getestet-11392867.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-31T15:23:00+00:00",
-      "summary": "Seit Version 3.8 unterstützt SteamOS offiziell PCs mit AMD-Grafikkarten. Wir haben es mit einer RX 9060 XT (16 GByte) und einem Ryzen AI Max+ 395 ausprobiert.",
-      "keywords": [
-        "steamos",
-        "braucht",
-        "keine",
-        "steam",
-        "machine",
-        "standard-pc"
-      ]
-    },
-    {
-      "title": "Bis zu 30 Milliarden Euro für KI-Rechenzentren: EU bleibt im KI-Wettrennen chancenlos gegen die USA",
-      "url": "https://the-decoder.de/bis-zu-30-milliarden-euro-fuer-ki-rechenzentren-eu-bleibt-im-ki-wettrennen-chancenlos-gegen-die-usa/",
-      "source": "The Decoder",
-      "lang": "de",
-      "published": "2026-07-31T15:22:08+00:00",
-      "summary": "Die EU-Kommission hat eine Ausschreibung für bis zu sieben KI-Gigafabriken gestartet, die rund 30 Milliarden Euro aus öffentlichen und privaten Mitteln mobilisieren sollen. Zum Vergleich: Allein die großen US-Tech-Konzerne investieren dieses Jahr mehr als 600 Milliarden Dollar in Recheninfrastruktur. Der Artikel Bis zu 30 Milliarden Euro für KI-Rechenzentren: EU bleibt im KI-Wettrennen chancenlos gegen die USA erschien zuerst auf The Decoder .",
-      "keywords": [
-        "milliarden",
-        "euro",
-        "ki-rechenzentren",
-        "bleibt",
-        "ki-wettrennen",
-        "chancenlos"
-      ]
-    },
-    {
-      "title": "KI-Müdigkeit: Fast drei Viertel der Wissensarbeiter wollen die Zeit vor ChatGPT zurück",
-      "url": "https://t3n.de/news/ki-muedigkeit-wissensarbeiter-studie-1755296/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "title": "Chronoworking: Wie dieser Vorgesetzte den Schlaf seiner Mitarbeitenden retten will – und die Arbeitszeiten verändert",
+      "url": "https://t3n.de/news/chronoworking-arbeitszeiten-veraendern-1752998/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
       "source": "t3n Digital Pioneers",
       "lang": "de",
-      "published": "2026-08-01T06:05:00+00:00",
-      "summary": "Eigentlich sollte sie die Produktivität steigern – inzwischen blicken Mitarbeiter:innen aber vor allem mit Frust auf den Einsatz von KI. Viele würden die Technologie am liebsten sogar komplett abschaffen. weiterlesen auf t3n.de",
+      "published": "2026-08-01T18:45:00+00:00",
+      "summary": "Mitarbeitende der bayerischen Klinik Wartenberg hatten mit Schlafproblemen zu kämpfen, die sie stark belasteten. Klinik-Controller Norman Daßler und sein Team w weiterlesen auf t3n.de",
       "keywords": [
-        "ki-müdigkeit",
-        "fast",
-        "drei",
-        "viertel",
-        "wissensarbeiter",
-        "wollen"
-      ]
-    },
-    {
-      "title": "„Katastrophal teuer“: KI ließ bei Amazon Projekt-Kosten aus dem Ruder laufen",
-      "url": "https://www.heise.de/news/Um-860-Prozent-ueberzogen-KI-trieb-bei-Amazon-Kosten-mancher-Projekte-hoch-11394136.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-31T14:30:00+00:00",
-      "summary": "Kostenkontrolle beim KI-Einsatz stellt so manches Unternehmen vor Probleme. Ein Bericht zeigt, wo das bei Amazon in die Hose ging.",
-      "keywords": [
-        "amazon",
-        "katastrophal",
-        "teuer",
-        "ließ",
-        "projekt-kosten",
-        "ruder"
-      ]
-    },
-    {
-      "title": "Monitor-Bloatware: Die Katze ist aus dem Sack",
-      "url": "https://www.heise.de/meinung/Monitor-Bloatware-Die-Katze-ist-aus-dem-Sack-11390515.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-31T14:07:00+00:00",
-      "summary": "Auf Smart-TVs sind Werbung und Tracking seit Jahren üblich. Jetzt bahnt sich der Schmarrn auf Monitoren an. Ein Kommentar von Mark Mantel.",
-      "keywords": [
-        "monitor-bloatware",
-        "katze",
-        "sack",
-        "smart-tvs",
-        "werbung",
-        "tracking"
-      ]
-    },
-    {
-      "title": "Was passiert nach dem Crash?: Wenn die KI-Blase platzt, bleibt die Technik",
-      "url": "https://www.golem.de/news/was-passiert-nach-dem-crash-wenn-die-ki-blase-platzt-bleibt-die-technik-2608-211466.html",
-      "source": "Golem.de (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-08-01T05:30:01+00:00",
-      "summary": "Was bleibt vom KI-Boom, wenn überzogene Versprechen, Bewertungen und Geschäftsmodelle verschwinden? Ihr habt uns eure Meinung gesagt. ( KI , Börse )",
-      "keywords": [
-        "wenn",
-        "bleibt",
-        "passiert",
-        "crash",
-        "ki-blase",
-        "platzt"
-      ]
-    },
-    {
-      "title": "Natural Expressions Performance 7 im Test: Guter Mähroboter für kleine Flächen",
-      "url": "https://www.heise.de/bestenlisten/testbericht/natural-expressions-performance-7-im-test-guter-maehroboter-fuer-kleine-flaechen/1e3y9bt?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-31T14:00:00+00:00",
-      "summary": "Der Mähroboter Natural Expressions Performance 7 navigiert nur mit Kameras. Wie gut er sich in einem klar strukturierten Garten schlägt, zeigt der Test.",
-      "keywords": [
-        "natural",
-        "expressions",
-        "performance",
-        "test",
-        "mähroboter",
-        "guter"
-      ]
-    },
-    {
-      "title": "Lokale KI statt ChatGPT: Diese 4 Tools laufen komplett ohne Cloud",
-      "url": "https://t3n.de/news/lokale-ki-statt-chatgpt-4-tools-1751464/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "lang": "de",
-      "published": "2026-08-01T05:00:00+00:00",
-      "summary": "Kleinere Aufgaben lassen sich heute auch mit lokalen KI-Modellen erledigen – ganz ohne Cloud. Wir zeigen euch, mit welchen Tools Einsteiger, Fortgeschrittene un weiterlesen auf t3n.de",
-      "keywords": [
-        "tools",
-        "ohne",
-        "cloud",
-        "lokale",
-        "statt",
-        "chatgpt"
-      ]
-    },
-    {
-      "title": "KI-Update kompakt: KI-Kennzeichnungspflicht, Nudifyer, AlphaFold, Granola",
-      "url": "https://www.heise.de/news/KI-Update-kompakt-KI-Kennzeichnungspflicht-Nudifyer-AlphaFold-Granola-11381942.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-31T13:00:00+00:00",
-      "summary": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-      "keywords": [
-        "ki-update",
-        "kompakt",
-        "ki-kennzeichnungspflicht",
-        "nudifyer",
-        "alphafold",
-        "granola"
-      ]
-    },
-    {
-      "title": "Unpatchbarer Fehler in Apple A12 & A13: Forensik- verklagt Security-Firma",
-      "url": "https://www.heise.de/news/Unpatchbarer-Fehler-in-Apple-A12-A13-Forensik-verklagt-Security-Firma-11379656.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-31T11:18:00+00:00",
-      "summary": "Bis hin zum iPhone 11 stecken in Apple-Silicon-Chips nicht behebbare Lücken. Nun ist ein Streit darüber ausgebrochen, ob diese weitergegeben werden durften.",
-      "keywords": [
-        "unpatchbarer",
-        "fehler",
-        "apple",
-        "forensik-",
-        "verklagt",
-        "security-firma"
-      ]
-    },
-    {
-      "title": "#TGIQF: Das Sommernewsquiz - was war in dieser Woche los?",
-      "url": "https://www.heise.de/hintergrund/TGIQF-Das-Sommernewsquiz-was-war-in-dieser-Woche-los-11383039.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-31T11:03:00+00:00",
-      "summary": "Sommer High noon: Heiß waren auch die News dieser Woche. Haben Sie die wichtigsten Nachrichten auf dem Schirm? Dann knobeln Sie mit.",
-      "keywords": [
+        "chronoworking",
         "dieser",
-        "woche",
-        "tgiqf",
-        "sommernewsquiz",
-        "sommer",
-        "high"
+        "vorgesetzte",
+        "schlaf",
+        "seiner",
+        "mitarbeitenden"
       ]
     },
     {
-      "title": "Schlappe für Celonis: Kartellamt eröffnet kein Missbrauchsverfahren gegen SAP",
-      "url": "https://www.heise.de/news/Schlappe-fuer-Celonis-Kartellamt-eroeffnet-kein-Missbrauchsverfahren-gegen-SAP-11389474.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
+      "title": "Wenn KI den Job bedroht: In China ist der Wandel schon deutlich spürbar",
+      "url": "https://t3n.de/news/wenn-ki-den-job-bedroht-in-china-ist-der-wandel-schon-deutlich-spuerbar-1755938/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
       "lang": "de",
-      "published": "2026-07-31T10:55:00+00:00",
-      "summary": "Das Bundeskartellamt wird nach Vorermittlungen kein Verfahren gegen SAP eröffnen. Vorwürfe, dass SAP etwa den Datenzugang erschwere, ließen sich nicht erhärten.",
+      "published": "2026-08-01T18:41:53+00:00",
+      "summary": "Lange hat die Regierung in Peking die Entwicklung aktiv gefördert. Laut Analyst:innen hat jetzt aber ein Umdenken eingesetzt. Können chinesische Bürger:innen vor KI-bedingter Arbeitslosigkeit geschützt werden? weiterlesen auf t3n.de",
       "keywords": [
-        "kein",
-        "gegen",
-        "schlappe",
-        "celonis",
-        "kartellamt",
-        "eröffnet"
+        "innen",
+        "wenn",
+        "bedroht",
+        "china",
+        "wandel",
+        "schon"
       ]
     },
     {
-      "title": "Ex-OpenAI-Mitarbeiter scheitert mit riskantem KI-Hedgefonds an fallenden Techaktien",
-      "url": "https://the-decoder.de/ex-openai-mitarbeiter-scheitert-mit-riskantem-ki-hedgefonds-an-fallenden-techaktien/",
-      "source": "The Decoder",
+      "title": "Codeberg verbietet KI-generierten Code: Ein radikaler Gegenentwurf zu GitHub",
+      "url": "https://t3n.de/news/codeberg-ki-software-1755360/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
       "lang": "de",
-      "published": "2026-07-31T10:33:05+00:00",
-      "summary": "Leopold Aschenbrenners KI-Hedgefonds Situational Awareness musste nach hohen Verlusten durch gehebelte Positionen in KI-Aktien fast sein gesamtes börsennotiertes Portfolio an Ken Griffins Citadel verkaufen. Noch wenige Tage zuvor hatte Aschenbrenner eine Halbjahresrendite von 439 Prozent gemeldet und frisches Kapital eingeworben. Dann erzwangen Nachschussforderungen den Notverkauf. Der Artikel Ex-OpenAI-Mitarbeiter scheitert mit riskantem KI-Hedgefonds an fallenden Techaktien erschien zuerst auf The Decoder .",
+      "published": "2026-08-01T17:55:00+00:00",
+      "summary": "Die offene Software-Entwicklung steht vor einer massiven Zäsur. Eine renommierte Entwickler-Plattform zieht jetzt drastische Konsequenzen aus dem rasanten KI-Boom und ändert ihre Grundregeln. Das hat weitreichende Folgen. weiterlesen auf t3n.de",
       "keywords": [
-        "ki-hedgefonds",
-        "ex-openai-mitarbeiter",
-        "scheitert",
-        "riskantem",
-        "fallenden",
-        "techaktien"
-      ]
-    },
-    {
-      "title": "Auch Anthropics Claude hackte bei Sicherheitstests versehentlich echte Unternehmen übers Internet",
-      "url": "https://the-decoder.de/auch-anthropics-claude-hackte-bei-sicherheitstests-versehentlich-echte-unternehmen-uebers-internet/",
-      "source": "The Decoder",
-      "lang": "de",
-      "published": "2026-07-31T10:28:37+00:00",
-      "summary": "Drei Claude-Modelle haben bei Cybersecurity-Tests reale Unternehmen im Internet angegriffen, weil eine Fehlkonfiguration ihnen unbeabsichtigt Zugang gab. Ein Modell veröffentlichte sogar Malware auf PyPI, die 15 Systeme infizierte. Mindestens ein Modell griff zudem weiter an, obwohl es wusste, dass das Ziel real war. Anthropic spricht von einem Betriebsfehler. Der Artikel Auch Anthropics Claude hackte bei Sicherheitstests versehentlich echte Unternehmen übers Internet erschien zuerst auf The Decoder .",
-      "keywords": [
-        "unternehmen",
-        "internet",
-        "auch",
-        "anthropics",
-        "claude",
-        "hackte"
-      ]
-    },
-    {
-      "title": "Zu hohe KI-Nutzung: Apple erwägt Aufpreise für iCloud+",
-      "url": "https://www.heise.de/news/iCloud-Apple-plant-Aufpreise-fuer-KI-Vielnutzer-11388784.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-31T10:00:00+00:00",
-      "summary": "Mit Siri AI wird die KI-Verwendung auf Apple-Hardware zunehmen. Bereits bekannt war, dass iCloud+-Kunden sie stärker nutzen dürfen. Doch dabei bleibt es nicht.",
-      "keywords": [
-        "icloud",
-        "hohe",
-        "ki-nutzung",
-        "apple",
-        "erwägt",
-        "aufpreise"
-      ]
-    },
-    {
-      "title": "heise-Angebot: c’t-Webinar: Die faszinierende Welt der Quantenphysik verstehen",
-      "url": "https://www.heise.de/news/c-t-Webinar-Die-faszinierende-Welt-der-Quantenphysik-verstehen-11355979.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-31T10:00:00+00:00",
-      "summary": "Entdecken Sie die faszinierende Welt der Quantenphysik! Das Webinar führt kompakt durch die Grundlagen, von Schrödingers Katze bis zum Quantencomputer.",
-      "keywords": [
-        "faszinierende",
-        "welt",
-        "quantenphysik",
-        "heise-angebot",
-        "t-webinar",
-        "verstehen"
-      ]
-    },
-    {
-      "title": "KI-Ausbau: Techriesen haben mehr als eine Billion Dollar investiert",
-      "url": "https://www.heise.de/news/KI-Ausbau-der-Techriesen-Investitionen-ueberschreiten-eine-Billion-Dollar-11388989.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-31T09:45:00+00:00",
-      "summary": "Amazon, Alphabet, Meta und Microsoft treiben den KI-Ausbau mit beispiellosem Kapitaleinsatz voran, trotz wachsender Zweifel an der Tragfähigkeit des Booms.",
-      "keywords": [
-        "ki-ausbau",
-        "techriesen",
-        "haben",
-        "mehr",
-        "billion",
-        "dollar"
-      ]
-    },
-    {
-      "title": "KI-Musik: Suno unterliegt im Rechtsstreit gegen GEMA",
-      "url": "https://www.heise.de/news/KI-Musik-GEMA-gewinnt-Rechtsstreit-gegen-Suno-11388868.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-31T09:07:00+00:00",
-      "summary": "Im Rechtsstreit zwischen dem Rechteverwerter und dem Audio-KI-Anbieter Suno hat das Landgericht München I der GEMA-Klage stattgegeben.",
-      "keywords": [
-        "suno",
-        "rechtsstreit",
-        "ki-musik",
-        "unterliegt",
-        "gegen",
-        "gema"
-      ]
-    },
-    {
-      "title": "„CosmosEscape“ ermöglichte Übernahme aller Microsoft-Azure-Datenbanken",
-      "url": "https://www.heise.de/news/CosmosEscape-ermoeglichte-Uebernahme-aller-Microsoft-Azure-Datenbanken-11388708.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-31T09:02:00+00:00",
-      "summary": "Eine Verkettung von Sicherheitslücken ermöglichte vollen Zugang zu allen Azure-Cosmos-DB-Datenbanken.",
-      "keywords": [
-        "ermöglichte",
-        "cosmosescape",
-        "übernahme",
-        "aller",
-        "microsoft-azure-datenbanken",
-        "verkettung"
-      ]
-    },
-    {
-      "title": "IBM App Connect Enterprise: Angreifer können Daten manipulieren",
-      "url": "https://www.heise.de/news/IBM-App-Connect-Enterprise-Angreifer-koennen-Daten-manipulieren-11388535.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-31T09:02:00+00:00",
-      "summary": "IBMs Middleware-Plattform App Connect Enterprise ist über mehrere Sicherheitslücken attackierbar. Updates sind verfügbar.",
-      "keywords": [
-        "connect",
-        "enterprise",
-        "angreifer",
-        "können",
-        "daten",
-        "manipulieren"
-      ]
-    },
-    {
-      "title": "Microsofts eingestellter Metaverse-Pionier „AltspaceVR“ kehrt zurück",
-      "url": "https://www.heise.de/news/Microsofts-eingestellter-Metaverse-Pionier-AltspaceVR-kehrt-zurueck-11388780.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-07-31T08:52:00+00:00",
-      "summary": "Die einst von Microsoft eingestellte Social-VR-Plattform „AltspaceVR“ wird unter neuer Führung wiederbelebt und modernisiert.",
-      "keywords": [
-        "altspacevr",
-        "microsofts",
-        "eingestellter",
-        "metaverse-pionier",
-        "kehrt",
-        "zurück"
+        "codeberg",
+        "verbietet",
+        "ki-generierten",
+        "code",
+        "radikaler",
+        "gegenentwurf"
       ]
     }
   ]
