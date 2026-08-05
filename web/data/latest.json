@@ -1,742 +1,664 @@
 {
-  "generated_at": "2026-08-04T08:26:05.641035+00:00",
+  "generated_at": "2026-08-05T08:24:05.440930+00:00",
   "brief": {
-    "headline": "KI-Nutzung in der Suche steigt, Palantir übertrifft Umsatzprognosen",
-    "subheadline": "Wichtige Entwicklungen in der KI-Industrie und deren Auswirkungen auf den deutschen Mittelstand.",
-    "executive_summary": "<p>Diese Woche zeigt ein Anstieg der Nutzung von KI-gestützten Suchdiensten, wobei 40% der Deutschen bereits KI für lokale Suchen verwenden. Palantir meldet ein Umsatzplus von über 90%, was das Interesse an KI-Lösungen unterstreicht. OpenAI senkt die Preise für seine Modelle, um wettbewerbsfähig zu bleiben. Gleichzeitig hat Alibaba mit Qwen3.8-Max ein neues KI-Modell vorgestellt, das mit 2,4 Billionen Parametern aufwartet. Sicherheitsbedenken bleiben ein zentrales Thema, da 92% der Unternehmen bei KI-Sicherheitsvorfällen unzureichende Zugriffskontrollen aufweisen.</p>",
+    "headline": "Mittelstand muss sich auf KI-Integration und Automatisierung konzentrieren",
+    "subheadline": "Neue Technologien und Trends zeigen Chancen für digitale Transformation im deutschen Mittelstand auf.",
+    "executive_summary": "<p>Diese Woche stehen die Themen Automatisierung und KI im Fokus, insbesondere durch Initiativen wie die von Microagi, die Robotik zur Effizienzsteigerung in Europa nutzen wollen. Zudem zeigt der Erfolg von KI-Tools bei den Pulitzer-Preisen, wie wichtig diese Technologien für die Medienbranche sind. Die EU plant mit dem Scaleup-Europe-Fonds, 5 Milliarden Euro in vielversprechende Tech-Startups zu investieren, was auch für den Mittelstand von Bedeutung sein könnte. Gleichzeitig gibt es signifikante Entwicklungen in der IT-Arbeitsmarktsituation, die auf einen Rückgang bei IT-Jobangeboten hindeuten, während die Nachfrage nach KI-Expertise steigt. Unternehmen sollten diese Trends nutzen, um ihre digitale Transformation voranzutreiben.</p>",
     "trends": [
       {
-        "title": "Anstieg der KI-Nutzung in der lokalen Suche",
-        "what": "Laut einer Erhebung verwenden 40% der Deutschen KI für die Suche nach lokalen Unternehmen.",
-        "why": "Dies zeigt, dass KI zunehmend in den Alltag integriert wird und Unternehmen ihre Online-Präsenz anpassen müssen.",
+        "title": "Automatisierung als Schlüssel zur Wettbewerbsfähigkeit",
+        "what": "Unternehmen wie Microagi zeigen, dass Automatisierung entscheidend für die Wettbewerbsfähigkeit in Europa ist.",
+        "why": "Mittelständler müssen in Automatisierung investieren, um Effizienz und Produktivität zu steigern.",
         "signal": "hoch"
       },
       {
-        "title": "Palantir übertrifft Umsatzprognosen",
-        "what": "Palantirs Jahresumsatz stieg um über 90%, insbesondere im Unternehmenssektor.",
-        "why": "Dies signalisiert ein wachsendes Vertrauen in KI-Lösungen und deren Implementierung in Unternehmen.",
+        "title": "Zunehmender Einsatz von KI in der Medienbranche",
+        "what": "Bei den Pulitzer-Preisen nutzen zahlreiche Gewinner KI-Tools, um große Datenmengen zu verarbeiten.",
+        "why": "Dies zeigt, dass KI auch für KMUs in der Medienbranche eine wertvolle Ressource darstellt.",
         "signal": "hoch"
       },
       {
-        "title": "OpenAI senkt Preise für KI-Modelle",
-        "what": "OpenAI hat die Preise für seine Modelle auf das Niveau der Konkurrenz in China gesenkt.",
-        "why": "Diese Preissenkung könnte den Zugang zu KI-Technologien für Mittelständler erleichtern.",
+        "title": "EU-Fonds für Tech-Startups",
+        "what": "Die EU-Kommission hat einen Fonds von 5 Milliarden Euro für europäische Tech-Startups ins Leben gerufen.",
+        "why": "Mittelständler können von diesen Investitionen profitieren, um innovative Lösungen zu entwickeln.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Rückgang der IT-Jobangebote",
+        "what": "Die Zahl der offenen IT-Stellen sinkt, während die Arbeitslosigkeit steigt.",
+        "why": "Mittelständler sollten sich auf die Rekrutierung und Weiterbildung von KI-Experten konzentrieren.",
         "signal": "hoch"
       },
       {
-        "title": "Sicherheitslücken bei KI-Systemen",
-        "what": "92% der Unternehmen mit KI-bezogenen Sicherheitsvorfällen hatten unzureichende Zugriffskontrollen.",
-        "why": "Dies zeigt, dass Sicherheitsmaßnahmen in der KI-Implementierung dringend verbessert werden müssen.",
+        "title": "Neue NVMe-Spezifikationen für KI",
+        "what": "Die NVM Express-Organisation hat neue Standards veröffentlicht, die Speicherlösungen für KI sicherer machen.",
+        "why": "Mittelständler sollten diese Technologien in ihre IT-Infrastruktur integrieren, um wettbewerbsfähig zu bleiben.",
+        "signal": "mittel"
+      },
+      {
+        "title": "Deepfake-Warnsystem in Videokonferenzen",
+        "what": "Fraunhofer entwickelt ein Echtzeit-Warnsystem zur Erkennung von Deepfakes in Videokonferenzen.",
+        "why": "KMUs müssen sich gegen Sicherheitsrisiken wappnen, die durch Deepfakes entstehen können.",
         "signal": "hoch"
       },
       {
-        "title": "Alibaba bringt neues KI-Modell auf den Markt",
-        "what": "Das Qwen3.8-Max-Modell von Alibaba hat 2,4 Billionen Parameter und soll komplexe Aufgaben autonom erledigen.",
-        "why": "Dies könnte den Wettbewerb im KI-Bereich anheizen und neue Standards setzen.",
+        "title": "Steigende Nachfrage nach KI-Expertise",
+        "what": "Trotz des Rückgangs bei IT-Jobangeboten bleibt die Nachfrage nach KI-Experten hoch.",
+        "why": "Mittelständler sollten gezielt in die Ausbildung und Rekrutierung von KI-Fachkräften investieren.",
         "signal": "hoch"
       },
       {
-        "title": "Wachstum der KI-Industrie in Deutschland",
-        "what": "Die Nachfrage nach KI-Lösungen wächst, wie die hohen Umsätze von Unternehmen wie Palantir zeigen.",
-        "why": "Mittelständler sollten diese Trends nutzen, um eigene KI-Strategien zu entwickeln.",
-        "signal": "hoch"
-      },
-      {
-        "title": "Zunehmende Bedeutung von KI-Sicherheit",
-        "what": "Die Anzahl der KI-Sicherheitsvorfälle nimmt zu, was auf unzureichende Sicherheitsvorkehrungen hinweist.",
-        "why": "Unternehmen müssen proaktive Maßnahmen ergreifen, um ihre Systeme zu schützen.",
-        "signal": "hoch"
-      },
-      {
-        "title": "Markt für KI-gestützte Lösungen wächst",
-        "what": "Die steigende Nutzung von KI in der Suche und im Unternehmenssektor zeigt einen klaren Trend.",
-        "why": "Mittelständler sollten in KI-Lösungen investieren, um wettbewerbsfähig zu bleiben.",
-        "signal": "hoch"
+        "title": "Rechtsstreit zwischen Apple und OpenAI",
+        "what": "OpenAI veröffentlicht interne Chats als Reaktion auf Apples Klage wegen Geschäftsgeheimnissen.",
+        "why": "Transparenz in der KI-Entwicklung wird zunehmend wichtig, auch für den Mittelstand.",
+        "signal": "mittel"
       }
     ],
     "opportunities": [
       {
-        "title": "Entwicklung von KI-gestützten Suchlösungen",
-        "what": "Es besteht Bedarf an maßgeschneiderten KI-Lösungen für lokale Suchanfragen, um Unternehmen zu unterstützen.",
-        "who": "Lokale Unternehmen und Dienstleister.",
+        "title": "Entwicklung von Automatisierungslösungen",
+        "what": "Es besteht ein hoher Bedarf an maßgeschneiderten Automatisierungslösungen für den Mittelstand.",
+        "who": "KMUs in der Fertigungs- und Dienstleistungsbranche.",
         "how": "hoch",
-        "price": "5.000-15.000€ Setup + 500-1.000€/Monat",
-        "time": "Wochen"
-      },
-      {
-        "title": "Beratung zur Verbesserung der KI-Sicherheit",
-        "what": "Unternehmen benötigen Unterstützung bei der Implementierung effektiver Zugriffskontrollen für ihre KI-Systeme.",
-        "who": "Mittelständische Unternehmen mit KI-Anwendungen.",
-        "how": "hoch",
-        "price": "3.000-10.000€ Setup + 300-800€/Monat",
-        "time": "Wochen"
-      },
-      {
-        "title": "Schulungen zur KI-Nutzung",
-        "what": "Es gibt einen Bedarf an Schulungen für Mitarbeiter, um KI-Tools effektiv zu nutzen.",
-        "who": "Unternehmen, die KI-Lösungen implementieren.",
-        "how": "mittel",
-        "price": "1.500-5.000€ pro Schulung",
-        "time": "Tagen"
-      },
-      {
-        "title": "Entwicklung von Sicherheitslösungen für KI",
-        "what": "Unternehmen suchen nach Lösungen zur Sicherstellung der Sicherheit ihrer KI-Systeme.",
-        "who": "Unternehmen mit KI-Anwendungen.",
-        "how": "hoch",
-        "price": "10.000-25.000€ Setup + 1.000-2.000€/Monat",
+        "price": "10.000-50.000€ Setup + 1.000-2.000€/Monat Wartung",
         "time": "Monate"
       },
       {
-        "title": "Erstellung von KI-Implementierungsstrategien",
-        "what": "Mittelständler benötigen Unterstützung bei der Entwicklung von Strategien zur Implementierung von KI.",
-        "who": "Mittelständische Unternehmen in verschiedenen Branchen.",
+        "title": "Schulung von Mitarbeitern in KI",
+        "what": "Unternehmen benötigen Weiterbildungsmöglichkeiten für Mitarbeiter im Bereich KI und Datenanalyse.",
+        "who": "Mittelständische Unternehmen, die ihre digitale Transformation vorantreiben wollen.",
         "how": "hoch",
-        "price": "5.000-15.000€ Setup",
+        "price": "5.000-15.000€ für Schulungsprogramme",
         "time": "Wochen"
       },
       {
-        "title": "KI-gestützte Marketinglösungen",
-        "what": "Unternehmen suchen nach Möglichkeiten, KI für zielgerichtete Marketingkampagnen zu nutzen.",
-        "who": "Marketingabteilungen von Unternehmen.",
+        "title": "Implementierung von NVMe-Speicherlösungen",
+        "what": "Die Integration neuer NVMe-Spezifikationen könnte die Effizienz von IT-Systemen erhöhen.",
+        "who": "IT-Abteilungen in Unternehmen, die KI-Anwendungen nutzen.",
+        "how": "mittel",
+        "price": "20.000-100.000€ je nach Umfang",
+        "time": "Monate"
+      },
+      {
+        "title": "Entwicklung von Deepfake-Erkennungstools",
+        "what": "Es gibt einen Markt für Software zur Erkennung von Deepfakes in Unternehmenskommunikation.",
+        "who": "Unternehmen, die Videokonferenzen nutzen.",
         "how": "hoch",
-        "price": "3.000-10.000€ Setup + 500-1.000€/Monat",
+        "price": "15.000-30.000€ für die Entwicklung",
+        "time": "Monate"
+      },
+      {
+        "title": "Beratung zur Cloud-Strategie",
+        "what": "Viele Unternehmen benötigen Unterstützung beim Aufbau eines Cloud Competence Centers.",
+        "who": "Mittelständler, die ihre Cloud-Strategie optimieren wollen.",
+        "how": "hoch",
+        "price": "10.000-25.000€ für Beratungsdienste",
         "time": "Wochen"
+      },
+      {
+        "title": "Entwicklung von KI-gestützten Medienlösungen",
+        "what": "Es gibt Bedarf an KI-Tools zur Analyse und Aufbereitung von Mediendaten.",
+        "who": "Medienunternehmen und Marketingagenturen.",
+        "how": "hoch",
+        "price": "10.000-40.000€ für Entwicklung",
+        "time": "Monate"
       }
     ],
     "top_articles": [
       {
-        "title": "Wachstum der KI-Firma Palantir übertrifft Erwartungen",
-        "url": "https://www.heise.de/news/Palantir-mit-mehr-als-90-Prozent-Umsatzplus-11396086.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+        "title": "Europa retten mit Robotik: „Der Weg heraus ist Automatisierung“",
+        "url": "https://www.heise.de/hintergrund/Europa-retten-mit-Robotik-Der-Weg-heraus-ist-Automatisierung-11395842.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
         "source": "Heise Online",
-        "date": "2026-08-04",
-        "why": "Palantir's Umsatzsteigerung ist ein Indikator für das wachsende Interesse an KI-Lösungen.",
+        "date": "2026-08-05",
+        "why": "Der Artikel beleuchtet die Rolle von Automatisierung in der europäischen Wirtschaft und deren Bedeutung für den Mittelstand.",
         "tags": [
-          "Palantir",
-          "KI",
-          "Umsatz"
+          "automatisierung",
+          "robotik"
         ]
       },
       {
-        "title": "ChatGPT statt Google? So verändert KI die Suche nach Restaurants und Geschäften",
-        "url": "https://t3n.de/news/chatgpt-statt-google-so-veraendert-ki-die-suche-nach-restaurants-und-geschaeften-1756169/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-        "source": "t3n Digital Pioneers",
-        "date": "2026-08-04",
-        "why": "Die Nutzung von KI in der Suche zeigt, wie Unternehmen ihre Online-Präsenz anpassen müssen.",
-        "tags": [
-          "KI",
-          "Suche",
-          "Restaurants"
-        ]
-      },
-      {
-        "title": "OpenAI senkt Tokenpreise auf Chinaniveau",
-        "url": "https://www.heise.de/news/GPT-5-6-OpenAI-senkt-Preise-fuer-Luna-und-Terra-11395656.html?wt_mc=rss.red.ho.ho.atom.beitrag",
-        "source": "Heise Online",
-        "date": "2026-08-03",
-        "why": "Die Preissenkung könnte den Zugang zu KI-Technologien für Mittelständler erleichtern.",
-        "tags": [
-          "OpenAI",
-          "Preise",
-          "KI"
-        ]
-      },
-      {
-        "title": "KI-Fakes erkennen: Methoden, Tools und Rechtsfolgen im Check",
-        "url": "https://www.heise.de/ratgeber/KI-Fakes-erkennen-Methoden-Tools-und-Rechtsfolgen-im-Check-11380741.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-        "source": "Heise Online",
-        "date": "2026-08-04",
-        "why": "Wichtige Informationen über die Erkennung von KI-Fakes und deren rechtliche Implikationen.",
-        "tags": [
-          "KI",
-          "Fakes",
-          "Recht"
-        ]
-      },
-      {
-        "title": "Bei KI-Sicherheitsvorfällen fehlt fast immer die Zugriffskontrollen",
-        "url": "https://the-decoder.de/bei-ki-sicherheitsvorfaellen-fehlt-fast-immer-die-zugriffskontrollen/",
+        "title": "Pulitzer-Preise 2026: So viele Gewinner wie nie nutzen KI-Tools",
+        "url": "https://the-decoder.de/pulitzer-preise-2026-so-viele-gewinner-wie-nie-nutzen-ki-tools/",
         "source": "The Decoder",
-        "date": "2026-08-03",
-        "why": "Die Sicherheitslücken in KI-Systemen sind ein zentrales Problem für Unternehmen.",
-        "tags": [
-          "Sicherheit",
-          "KI",
-          "Zugriffskontrollen"
-        ]
-      },
-      {
-        "title": "Alibaba veröffentlicht Qwen3.8-Max mit 2,4 Billionen Parametern",
-        "url": "https://the-decoder.de/alibaba-veroeffentlicht-qwen3-8-max-mit-24-billionen-parametern-und-will-gewichte-freigeben/",
-        "source": "The Decoder",
-        "date": "2026-08-03",
-        "why": "Alibabas neues KI-Modell könnte den Wettbewerb im KI-Bereich anheizen.",
-        "tags": [
-          "Alibaba",
-          "KI",
-          "Modell"
-        ]
-      },
-      {
-        "title": "Wachstum der KI-Industrie in Deutschland",
-        "url": "https://www.t3n.de/news/wachstum-der-ki-industrie-in-deutschland-1756160/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-        "source": "t3n Digital Pioneers",
         "date": "2026-08-04",
-        "why": "Die Nachfrage nach KI-Lösungen wächst, was Chancen für den Mittelstand bietet.",
+        "why": "Der Artikel zeigt den zunehmenden Einfluss von KI in der Medienbranche und deren Anwendungsmöglichkeiten.",
         "tags": [
           "KI",
-          "Industrie",
-          "Wachstum"
+          "medien"
         ]
       },
       {
-        "title": "Software Testing: Vibe Coding und das fehlende Systemverständnis in der Praxis",
-        "url": "https://www.heise.de/blog/Software-Testing-Vibe-Coding-und-das-fehlende-Systemverstaendnis-in-der-Praxis-11384740.html?wt_mc=rss.red.ho.ho.atom.beitrag",
+        "title": "Scaleup-Europe-Fonds: 5 Milliarden Euro für Europas High-Tech-Hoffnungen",
+        "url": "https://www.heise.de/news/Scaleup-Europe-Fonds-5-Milliarden-Euro-fuer-Europas-High-Tech-Hoffnungen-11398894.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
         "source": "Heise Online",
         "date": "2026-08-04",
-        "why": "Diskussion über das fehlende Systemverständnis bei Entwicklern, was die Qualität von Software beeinträchtigen kann.",
+        "why": "Der Fonds könnte für Mittelständler neue Finanzierungsmöglichkeiten bieten.",
         "tags": [
-          "Software",
-          "Testing",
-          "Entwicklung"
+          "EU",
+          "finanzierung"
         ]
       },
       {
-        "title": "China verschärft Schutz für Chip-Designs",
-        "url": "https://www.heise.de/news/China-verschaerft-Schutz-fuer-Chip-Designs-11395974.html?wt_mc=rss.red.ho.ho.atom.beitrag",
+        "title": "Rückgang der IT-Jobangebote",
+        "url": "https://www.heise.de/news/IT-Jobs-Weniger-Stellenangebote-Arbeitslosigkeit-steigt-11398441.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
         "source": "Heise Online",
         "date": "2026-08-04",
-        "why": "Die neuen Regelungen könnten Auswirkungen auf die Chip-Industrie haben, die für KI-Anwendungen wichtig ist.",
+        "why": "Der Artikel diskutiert die aktuellen Herausforderungen auf dem IT-Arbeitsmarkt, die auch den Mittelstand betreffen.",
         "tags": [
-          "China",
-          "Chip",
-          "Designs"
+          "IT",
+          "arbeitsmarkt"
         ]
       },
       {
-        "title": "NuGet-Sicherheit: Microsoft verkürzt Gültigkeit von API-Keys auf 30 Tage",
-        "url": "https://www.heise.de/news/NuGet-Sicherheit-Microsoft-verkuerzt-Gueltigkeit-von-API-Keys-auf-30-Tage-11396124.html?wt_mc=rss.red.ho.ho.atom.beitrag",
-        "source": "Heise Online",
+        "title": "Neue NVMe-Spezifikationen: Mehr Sicherheit und Effizienz für schnelle SSDs",
+        "url": "https://www.heise.de/news/Neue-NVMe-Spezifikationen-Mehr-Sicherheit-und-Effizienz-fuer-schnelle-SSDs-11398343.html",
+        "source": "Heise iX",
         "date": "2026-08-04",
-        "why": "Die Änderungen zur API-Sicherheit sind relevant für Entwickler und Unternehmen, die auf NuGet setzen.",
+        "why": "Diese Spezifikationen könnten für den Mittelstand von Bedeutung sein, insbesondere bei der IT-Infrastruktur.",
         "tags": [
-          "Microsoft",
-          "API",
-          "Sicherheit"
+          "NVMe",
+          "technologie"
         ]
       },
       {
-        "title": "Wiederverwendbare europäische Rakete Themis besteht Generalprobe",
-        "url": "https://www.heise.de/news/Wiederverwendbare-europaeische-Rakete-Themis-besteht-Generalprobe-11396205.html?wt_mc=rss.red.ho.ho.atom.beitrag",
+        "title": "Deepfakes in Videokonferenzen: Fraunhofer entwickelt Echtzeit-Warnsystem",
+        "url": "https://www.heise.de/news/Deepfakes-in-Videokonferenzen-Fraunhofer-entwickelt-Echtzeit-Warnsystem-11397791.html",
         "source": "Heise Online",
         "date": "2026-08-04",
-        "why": "Der Erfolg dieser Rakete könnte Innovationen in der Raumfahrtindustrie fördern.",
+        "why": "Die Entwicklung eines Warnsystems gegen Deepfakes ist für Unternehmen in der digitalen Kommunikation wichtig.",
         "tags": [
-          "Raumfahrt",
-          "Rakete",
-          "Innovation"
-        ]
-      },
-      {
-        "title": "FLAPTrack: Eine Solaranlage, die bei Unwetter zusammenklappt und der Sonne folgt",
-        "url": "https://www.heise.de/news/Photovoltaik-Anlage-richtet-sich-zur-Sonne-aus-und-faltet-sich-bei-Sturm-ein-11395756.html?wt_mc=rss.red.ho.ho.atom.beitrag",
-        "source": "Heise Online",
-        "date": "2026-08-04",
-        "why": "Innovationen im Bereich erneuerbare Energien sind für Unternehmen von Interesse, die nachhaltige Lösungen suchen.",
-        "tags": [
-          "Energie",
-          "Solar",
-          "Innovation"
+          "deepfake",
+          "sicherheit"
         ]
       }
     ],
     "action_items": [
-      "Recherchieren Sie aktuelle Trends in der KI-Nutzung für lokale Suchen und erstellen Sie eine Präsentation für Ihr Team.",
-      "Überprüfen Sie die Sicherheitsprotokolle Ihrer KI-Systeme und identifizieren Sie Schwachstellen.",
-      "Planen Sie eine Schulung für Mitarbeiter zur effektiven Nutzung von KI-Tools.",
-      "Erstellen Sie einen Prototyp für eine KI-gestützte Lösung zur Verbesserung der Kundensuche.",
-      "Nehmen Sie Kontakt zu einem Experten auf, um eine Strategie zur Verbesserung der KI-Sicherheit zu entwickeln."
+      "Identifizieren Sie Automatisierungspotenziale in Ihrem Unternehmen und planen Sie entsprechende Maßnahmen.",
+      "Organisieren Sie Schulungen für Mitarbeiter im Bereich KI und Datenanalyse.",
+      "Überprüfen Sie Ihre IT-Infrastruktur auf neue NVMe-Spezifikationen und planen Sie Upgrades.",
+      "Erforschen Sie Möglichkeiten zur Implementierung von Deepfake-Erkennungstools in Ihre Videokommunikation.",
+      "Entwickeln Sie eine Cloud-Strategie und ziehen Sie den Aufbau eines Cloud Competence Centers in Betracht."
     ]
   },
   "raw_articles": [
     {
-      "title": "OpenAI wehrt sich gegen Apple-Klage und veröffentlicht Chatnachrichten als Beweis",
-      "url": "https://the-decoder.de/openai-wehrt-sich-gegen-apple-klage-und-veroeffentlicht-chatnachrichten-als-beweis/",
-      "source": "The Decoder",
+      "title": "Warner-Übernahme: Prozess gegen Paramount beginnt erst im März 2027",
+      "url": "https://www.heise.de/news/Warner-Uebernahme-Prozess-gegen-Paramount-beginnt-erst-im-Maerz-2027-11399261.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-08-04T08:23:53+00:00",
-      "summary": "OpenAI wehrt sich gegen Apples Klage wegen Geschäftsgeheimnisdiebstahls und veröffentlicht iMessage-Verläufe des Ex-Apple-Ingenieurs Chang Liu. Die Nachrichten zeigen, wie Apple-Mitarbeiter ihren ehemaligen Kollegen selbst aktiv um technische Hilfe und interne Dateien baten. Der Artikel OpenAI wehrt sich gegen Apple-Klage und veröffentlicht Chatnachrichten als Beweis erschien zuerst auf The Decoder .",
+      "published": "2026-08-05T08:09:00+00:00",
+      "summary": "Die Wettbewerbsklagen gegen Paramounts Warner-Übernahme werden erst im März 2027 verhandelt. Für Paramount wird die Wartezeit teuer.",
       "keywords": [
-        "openai",
-        "wehrt",
-        "sich",
+        "warner-übernahme",
         "gegen",
-        "veröffentlicht",
-        "apple-klage"
+        "paramount",
+        "erst",
+        "märz",
+        "2027"
       ]
     },
     {
-      "title": "Figure 03: Humanoider Roboter klettert autonom eine „Leiter“ hoch",
-      "url": "https://www.heise.de/news/Figure-03-Humanoider-Roboter-klettert-autonom-eine-Leiter-hoch-11396072.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "Europa retten mit Robotik: „Der Weg heraus ist Automatisierung“",
+      "url": "https://www.heise.de/hintergrund/Europa-retten-mit-Robotik-Der-Weg-heraus-ist-Automatisierung-11395842.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-08-04T08:09:00+00:00",
-      "summary": "Figure AI hat seinem humanoiden F.03-Roboter beigebracht, eine Leiter autonom hochzusteigen. Eigentlich handelt es sich wohl eher um eine Leitertreppe.",
+      "published": "2026-08-05T07:53:00+00:00",
+      "summary": "Microagi will die Robotik umkrempeln – und kommt aus München. Gründer und Chef Kilic über Training von und am Menschen und eine neue industrielle Revolution.",
       "keywords": [
-        "figure",
-        "autonom",
-        "leiter",
-        "humanoider",
-        "roboter",
-        "klettert"
+        "robotik",
+        "europa",
+        "retten",
+        "heraus",
+        "automatisierung",
+        "microagi"
       ]
     },
     {
-      "title": "heise-Angebot: c’t-Workshop: Container sicher planen, automatisieren und betreiben",
-      "url": "https://www.heise.de/news/c-t-Workshop-Container-sicher-planen-automatisieren-und-betreiben-11357403.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "Electronic Arts: Übernahme durch Saudi-Arabien ist durch",
+      "url": "https://www.heise.de/news/Electronic-Arts-Uebernahme-durch-Saudi-Arabien-ist-durch-11399124.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-08-04T08:00:00+00:00",
-      "summary": "Wer Container produktiv betreibt, muss mehr beherrschen als Docker-Befehle. Lernen Sie, Images sicher zu verwalten und Deployments gezielt zu automatisieren.",
+      "published": "2026-08-05T06:43:00+00:00",
+      "summary": "Das Konsortium um den saudischen Staatsfonds PIF hat die Übernahme von Electronic Arts abgeschlossen. EA ist nicht mehr börsennotiert.",
       "keywords": [
-        "container",
-        "sicher",
-        "automatisieren",
-        "heise-angebot",
-        "t-workshop",
-        "planen"
+        "electronic",
+        "arts",
+        "übernahme",
+        "durch",
+        "saudi-arabien",
+        "konsortium"
       ]
     },
     {
-      "title": "NuGet-Sicherheit: Microsoft verkürzt Gültigkeit von API-Keys auf 30 Tage",
-      "url": "https://www.heise.de/news/NuGet-Sicherheit-Microsoft-verkuerzt-Gueltigkeit-von-API-Keys-auf-30-Tage-11396124.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "heise+ | Linux fürs Firmennetz: Von Protokollstack bis Switch-Hardware",
+      "url": "https://www.heise.de/hintergrund/Linux-fuers-Firmennetz-Von-Protokollstack-bis-Switch-Hardware-11368579.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-08-04T07:36:00+00:00",
-      "summary": "Eine kürzere Gültigkeit von API-Keys zur Paketveröffentlichung soll die Sicherheit von NuGet stärken. Sie betrifft sowohl bestehende als auch neue Keys.",
+      "published": "2026-08-05T05:30:00+00:00",
+      "summary": "Nicht alle Distributionen eignen sich gleichermaßen: Routing-Stacks erweitern die Protokollunterstützung, Switching-Betriebssysteme steuern die Netzwerkhardware",
       "keywords": [
-        "gültigkeit",
-        "api-keys",
-        "nuget-sicherheit",
-        "microsoft",
-        "verkürzt",
-        "tage"
-      ]
-    },
-    {
-      "title": "Wiederverwendbare europäische Rakete Themis besteht Generalprobe",
-      "url": "https://www.heise.de/news/Wiederverwendbare-europaeische-Rakete-Themis-besteht-Generalprobe-11396205.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-08-04T07:12:00+00:00",
-      "summary": "Die ESA bereitet den ersten Hop Test einer wiederverwendbaren Rakete vor. Eine Generalprobe hat Themis erfolgreich bestanden.",
-      "keywords": [
-        "rakete",
-        "themis",
-        "generalprobe",
-        "wiederverwendbare",
-        "europäische",
-        "besteht"
-      ]
-    },
-    {
-      "title": "Wachstum der KI-Firma Palantir übertrifft Erwartungen",
-      "url": "https://www.heise.de/news/Palantir-mit-mehr-als-90-Prozent-Umsatzplus-11396086.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-08-04T07:09:00+00:00",
-      "summary": "Palantir Jahresumsatz übertrifft die Erwartungen. Der stärkste Anstieg lag beim Geschäft mit Unternehmen.",
-      "keywords": [
-        "palantir",
-        "übertrifft",
-        "erwartungen",
-        "wachstum",
-        "ki-firma",
-        "jahresumsatz"
-      ]
-    },
-    {
-      "title": "heise+ | KI-Fakes erkennen: Methoden, Tools und Rechtsfolgen im Check",
-      "url": "https://www.heise.de/ratgeber/KI-Fakes-erkennen-Methoden-Tools-und-Rechtsfolgen-im-Check-11380741.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-08-04T07:00:00+00:00",
-      "summary": "Echtes Foto oder KI-Fake? Wir zeigen, welche forensischen Methoden wirklich helfen und was ab August 2026 rechtlich gilt.",
-      "keywords": [
-        "methoden",
         "heise",
-        "ki-fakes",
-        "erkennen",
-        "tools",
-        "rechtsfolgen"
-      ]
-    },
-    {
-      "title": "Software Testing: Vibe Coding und das fehlende Systemverständnis in der Praxis",
-      "url": "https://www.heise.de/blog/Software-Testing-Vibe-Coding-und-das-fehlende-Systemverstaendnis-in-der-Praxis-11384740.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-08-04T06:23:00+00:00",
-      "summary": "Die Mittelschicht an Entwicklern bricht weg, was nicht ohne Konsequenzen bleibt. Darüber diskutiert Richard Seidl mit Marc Bless und Thomas Ronzon.",
-      "keywords": [
-        "software",
-        "testing",
-        "vibe",
-        "coding",
-        "fehlende",
-        "systemverständnis"
-      ]
-    },
-    {
-      "title": "China verschärft Schutz für Chip-Designs",
-      "url": "https://www.heise.de/news/China-verschaerft-Schutz-fuer-Chip-Designs-11395974.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-08-04T06:14:00+00:00",
-      "summary": "China überarbeitet erstmals seit 2001 den Schutz von IC-Layout-Designs. Ab Oktober drohen bei Verstößen Bußgelder bis zu 740.000 US-Dollar.",
-      "keywords": [
-        "china",
-        "schutz",
-        "verschärft",
-        "chip-designs",
-        "überarbeitet",
-        "erstmals"
-      ]
-    },
-    {
-      "title": "heise-Angebot: iX-Workshop: Kommunizieren und Entscheiden nach der Ransomware-Attacke",
-      "url": "https://www.heise.de/news/iX-Workshop-Kommunizieren-und-Entscheiden-nach-der-Ransomware-Attacke-11378582.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-08-04T06:00:00+00:00",
-      "summary": "Lernen Sie, wie Sie unter Druck klare Entscheidungen treffen und ruhig kommunizieren, um Ihr IT-Team sicher durch Krisensituationen zu steuern.",
-      "keywords": [
-        "kommunizieren",
-        "heise-angebot",
-        "ix-workshop",
-        "entscheiden",
-        "ransomware-attacke",
-        "lernen"
-      ]
-    },
-    {
-      "title": "heise+ | KI-Agenten verstehen: OpenClaw selbst gebaut",
-      "url": "https://www.heise.de/ratgeber/KI-Agenten-verstehen-OpenClaw-selbst-gebaut-11371835.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-08-04T05:30:00+00:00",
-      "summary": "Der KI-Assistent OpenClaw zeigt schnell, was er kann. Ein Weg, die ausgefeilte Architektur zu begreifen, ist die Nachbildung der Kernkonzepte in Python.",
-      "keywords": [
-        "openclaw",
-        "heise",
-        "ki-agenten",
-        "verstehen",
-        "selbst",
-        "gebaut"
-      ]
-    },
-    {
-      "title": "FLAPTrack: Eine Solaranlage, die bei Unwetter zusammenklappt und der Sonne folgt",
-      "url": "https://www.heise.de/news/Photovoltaik-Anlage-richtet-sich-zur-Sonne-aus-und-faltet-sich-bei-Sturm-ein-11395756.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-08-04T05:04:00+00:00",
-      "summary": "Forschende an der TU Graz haben eine PV-Anlage entwickelt, die sich zur Sonne ausrichtet und bei Unwetter automatisch zusammenfaltet.",
-      "keywords": [
-        "unwetter",
-        "sonne",
-        "flaptrack",
-        "solaranlage",
-        "zusammenklappt",
-        "folgt"
-      ]
-    },
-    {
-      "title": "Dienstag: EchoStar-Tochter beantragt Insolvenz. EU-Datenschützer wollen Klärung",
-      "url": "https://www.heise.de/news/Dienstag-EchoStar-Tochter-beantragt-Insolvenz-EU-Datenschuetzer-wollen-Klaerung-11395934.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-08-04T04:15:00+00:00",
-      "summary": "Insolvenzantrag nach Chapter 11 + Auswirkungen von US-Urteil + Studie zu Social-Media-Nutzung + Gericht kippt Drossel-Klausel + Verzicht auf AUR-Nutzung",
-      "keywords": [
-        "dienstag",
-        "echostar-tochter",
-        "beantragt",
-        "insolvenz",
-        "eu-datenschützer",
-        "wollen"
-      ]
-    },
-    {
-      "title": "Hughes: Satelliten-Internet-Sparte von EchoStar meldet Insolvenz an",
-      "url": "https://www.heise.de/news/Hughes-Satelliten-Internet-Sparte-von-EchoStar-meldet-Insolvenz-an-11395922.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-08-04T03:15:00+00:00",
-      "summary": "Die EchoStar-Tochter stellt in den USA einen freiwilligen Insolvenzantrag nach Chapter 11 und peilt eine finanzielle und operative Neuaufstellung an.",
-      "keywords": [
-        "hughes",
-        "satelliten-internet-sparte",
-        "echostar",
-        "meldet",
-        "insolvenz",
-        "echostar-tochter"
-      ]
-    },
-    {
-      "title": "Neue Malware-Welle: Arch Linux blockiert AUR-Updates",
-      "url": "https://www.heise.de/news/Neue-Malware-Welle-Arch-Linux-blockiert-AUR-Updates-11395880.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-08-03T19:25:00+00:00",
-      "summary": "Erneut verbreitet sich Malware über Arch User Repositorys. Daher gibt es vorerst überhaupt keine Updates für AUR.",
-      "keywords": [
-        "arch",
-        "neue",
-        "malware-welle",
         "linux",
-        "blockiert",
-        "aur-updates"
+        "fürs",
+        "firmennetz",
+        "protokollstack",
+        "switch-hardware"
       ]
     },
     {
-      "title": "iPhone 18 Pro: Analyst prognostiziert Preisschock von bis zu 300 US-Dollar",
-      "url": "https://www.heise.de/news/iPhone-18-Pro-Analyst-prognostiziert-Preisschock-von-bis-zu-300-US-Dollar-11395800.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "heise+ | Laden von Elektroautos: Die C-Rate schafft Vergleichbarkeit",
+      "url": "https://www.heise.de/hintergrund/Laden-von-Elektroautos-Die-C-Rate-schafft-Vergleichbarkeit-11360771.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-08-03T17:07:00+00:00",
-      "summary": "Das iPhone 18 Pro könnte laut Analyst Jeff Pu bis zu 300 US-Dollar teurer werden. Grund sind steigende Speicherpreise und die Kosten für neue 2-Nanometer-Chips.",
+      "published": "2026-08-05T05:00:00+00:00",
+      "summary": "Zur Einschätzung der Ladegeschwindigkeit von E-Auto-Akkus spielt die sogenannte C-Rate eine entscheidende Rolle. Was ist das?",
       "keywords": [
-        "iphone",
-        "analyst",
-        "us-dollar",
-        "prognostiziert",
-        "preisschock",
-        "könnte"
+        "c-rate",
+        "heise",
+        "laden",
+        "elektroautos",
+        "schafft",
+        "vergleichbarkeit"
       ]
     },
     {
-      "title": "Statt Angst vor Jobverlust: Alibaba verkauft Qwen-KI als Ticket zu mehr Freizeit",
-      "url": "https://the-decoder.de/statt-angst-vor-jobverlust-alibaba-verkauft-qwen-ki-als-ticket-zu-mehr-freizeit/",
+      "title": "Mittwoch: Ärger über Kinowerbung in BMWs, SpaceX-Verluste drücken Aktienkurs",
+      "url": "https://www.heise.de/news/Mittwoch-Aerger-ueber-Kinowerbung-in-BMWs-SpaceX-Verluste-druecken-Aktienkurs-11399046.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-05T04:15:00+00:00",
+      "summary": "Reklame beim Anlassen eines BMW + Starlink einziger SpaceX-Gewinner + AMD-Aktienrutsch trotz Wachstum + Spotify-Gewinne dank Bezahlabos + Solaranlage flexibel",
+      "keywords": [
+        "mittwoch",
+        "ärger",
+        "kinowerbung",
+        "bmws",
+        "spacex-verluste",
+        "drücken"
+      ]
+    },
+    {
+      "title": "SpaceX-Umsätze übertreffen Erwartungen, aber Verluste lassen Aktie fallen",
+      "url": "https://www.heise.de/news/SpaceX-Umsaetze-uebertreffen-Erwartungen-aber-Verluste-lassen-Aktie-fallen-11399036.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-05T03:03:00+00:00",
+      "summary": "Der erste Quartalsbericht seit dem SpaceX-Börsengang zeigt gemischte Ergebnisse. Nur Starlink verdient Geld, Raumfahrt und KI sind defizitär: Aktienkurs fällt.",
+      "keywords": [
+        "spacex-umsätze",
+        "übertreffen",
+        "erwartungen",
+        "aber",
+        "verluste",
+        "lassen"
+      ]
+    },
+    {
+      "title": "Trotz guter Zahlen: AMDs Aktie ohne erkennbaren Grund im Minus",
+      "url": "https://www.heise.de/news/Trotz-guter-Zahlen-AMDs-Aktie-ohne-erkennbaren-Grund-im-Minus-11399024.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-04T23:08:00+00:00",
+      "summary": "Eigentlich gibt es in AMDs Geschäftsbericht nichts zu meckern. Die Börse verpasst AMD trotzdem -9 Prozent.",
+      "keywords": [
+        "amds",
+        "trotz",
+        "guter",
+        "zahlen",
+        "aktie",
+        "ohne"
+      ]
+    },
+    {
+      "title": "Pulitzer-Preise 2026: So viele Gewinner wie nie nutzen KI-Tools",
+      "url": "https://the-decoder.de/pulitzer-preise-2026-so-viele-gewinner-wie-nie-nutzen-ki-tools/",
       "source": "The Decoder",
       "lang": "de",
-      "published": "2026-08-03T17:04:23+00:00",
-      "summary": "Alibaba bewirbt sein neues KI-Modell Qwen 3.8 mit einem Video, in dem die KI arbeitet und der Mensch seinen Hobbys nachgeht, ein Gegenentwurf zur Jobverlust-Rhetorik von OpenAI oder Anthropic. Am Ende bleibt es Marketing, nur eben mit positiver Rahmung statt Angst. Der Artikel Statt Angst vor Jobverlust: Alibaba verkauft Qwen-KI als Ticket zu mehr Freizeit erschien zuerst auf The Decoder .",
+      "published": "2026-08-04T17:18:03+00:00",
+      "summary": "Bei den diesjährigen Pulitzer-Preisen haben acht Preisträger und Finalisten den Einsatz von KI offengelegt, so viele wie nie zuvor. Redaktionen wie das Wall Street Journal, die Associated Press und die New York Times nutzten LLMs vor allem, um große Dokumentenmengen zu durchsuchen und zusammenzufassen. Der Artikel Pulitzer-Preise 2026: So viele Gewinner wie nie nutzen KI-Tools erschien zuerst auf The Decoder .",
       "keywords": [
-        "statt",
-        "angst",
-        "alibaba",
-        "jobverlust",
-        "verkauft",
-        "qwen-ki"
+        "viele",
+        "pulitzer-preise",
+        "2026",
+        "gewinner",
+        "nutzen",
+        "ki-tools"
       ]
     },
     {
-      "title": "EU-Datenschützer: Auswirkungen von US-Urteil auf Datentransferabkommen klären",
-      "url": "https://www.heise.de/news/EU-Datenschuetzer-Auswirkungen-von-US-Urteil-auf-Datentransferabkommen-klaeren-11395788.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
+      "title": "Google lagert Milliardenrisiken aus der Bilanz aus, um Anthropic mit KI-Hardware zu versorgen",
+      "url": "https://the-decoder.de/google-lagert-milliardenrisiken-aus-der-bilanz-aus-um-anthropic-mit-ki-hardware-zu-versorgen/",
+      "source": "The Decoder",
       "lang": "de",
-      "published": "2026-08-03T16:58:00+00:00",
-      "summary": "Nachdem der Supreme Court die Macht des US-Präsidenten über Bundesbehörden gestärkt hat, wollen EU-Datenschützer nun die Auswirkungen geklärt haben.",
+      "published": "2026-08-04T16:14:58+00:00",
+      "summary": "Google hat mit Broadcom, Apollo, Blackstone und Morgan Stanley ein milliardenschweres Finanzierungskonstrukt aufgebaut, um KI-Chips und Rechenzentren für Anthropic bereitzustellen, ohne sie selbst in der Bilanz zu halten. Rund 200 Milliarden Dollar an Verträgen hängen damit am wirtschaftlichen Erfolg eines einzigen Start-ups. Der Artikel Google lagert Milliardenrisiken aus der Bilanz aus, um Anthropic mit KI-Hardware zu versorgen erschien zuerst auf The Decoder .",
       "keywords": [
-        "eu-datenschützer",
-        "auswirkungen",
-        "us-urteil",
-        "datentransferabkommen",
-        "klären",
-        "nachdem"
+        "google",
+        "bilanz",
+        "anthropic",
+        "lagert",
+        "milliardenrisiken",
+        "ki-hardware"
       ]
     },
     {
-      "title": "Sophia Space und Caltech entwickeln modulare Weltraumrechenzentren",
-      "url": "https://www.heise.de/news/Sophia-Space-und-Caltech-entwickeln-modulare-Weltraumrechenzentren-11395796.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-08-03T16:39:00+00:00",
-      "summary": "Rechenzentren im Weltraum müssen anders aufgebaut sein als auf der Erde. Das Start-up Sophia Space hat ein Konzept dafür entwickelt.",
-      "keywords": [
-        "sophia",
-        "space",
-        "caltech",
-        "entwickeln",
-        "modulare",
-        "weltraumrechenzentren"
-      ]
-    },
-    {
-      "title": "Arbeitsmarkt: Mehr als 58.000 Ingenieure und IT-Fachkräfte ohne Job",
-      "url": "https://www.golem.de/news/arbeitsmarkt-mehr-als-58-000-ingenieure-und-it-fachkraefte-ohne-job-2608-211564.html",
+      "title": "OpenAI und Anthropic: KI-Modelle hacken sich erneut durchs Internet",
+      "url": "https://www.golem.de/news/openai-und-anthropic-ki-modelle-hacken-sich-erneut-durchs-internet-2608-211608.html",
       "source": "Golem.de (Hauptfeed)",
       "lang": "de",
-      "published": "2026-08-04T07:35:02+00:00",
-      "summary": "Vor allem in IT-Berufen geht die Zahl der offenen Stellen drastisch zurück. Der VDI betont aber: Deutschland braucht in Zukunft Ingenieure und Informatiker. ( Arbeit , Wirtschaft )",
-      "keywords": [
-        "ingenieure",
-        "arbeitsmarkt",
-        "mehr",
-        "it-fachkräfte",
-        "ohne",
-        "allem"
-      ]
-    },
-    {
-      "title": "OpenAI senkt Tokenpreise auf Chinaniveau",
-      "url": "https://www.heise.de/news/GPT-5-6-OpenAI-senkt-Preise-fuer-Luna-und-Terra-11395656.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "source": "Heise Online (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-08-03T15:44:00+00:00",
-      "summary": "OpenAI senkt die Tokenpreise für zwei seiner drei Modelle aus der GPT 5.6-Reihe. Sie rangieren damit auf Preisniveaus wie die chinesische Konkurrenz.",
+      "published": "2026-08-05T07:15:02+00:00",
+      "summary": "KI-Modelle von OpenAI und Anthropic haben bei Tests echte Ziele attackiert. Sie wollten unter anderem Schadcode in ein Open-Source-Projekt einschleusen. ( KI , Mythos )",
       "keywords": [
         "openai",
-        "senkt",
-        "tokenpreise",
-        "chinaniveau",
-        "zwei",
-        "seiner"
+        "anthropic",
+        "ki-modelle",
+        "hacken",
+        "sich",
+        "erneut"
       ]
     },
     {
-      "title": "ChatGPT statt Google? So verändert KI die Suche nach Restaurants und Geschäften",
-      "url": "https://t3n.de/news/chatgpt-statt-google-so-veraendert-ki-die-suche-nach-restaurants-und-geschaeften-1756169/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
+      "title": "Plane: Update der Open-Source-Alternative zu Jira",
+      "url": "https://www.heise.de/news/Plane-Update-der-Open-Source-Alternative-zu-Jira-11399132.html",
+      "source": "Heise iX (Magazin-Feed)",
       "lang": "de",
-      "published": "2026-08-04T07:10:26+00:00",
-      "summary": "Wer ein Restaurant, eine Arztpraxis oder ein Geschäft in der Umgebung sucht, greift zunehmend auch auf die KI-gestützte Suche zurück. Laut einer aktuellen Erhebung des Softwareanbieters Yext verwenden bereits vier von zehn Befragten in Deutschland künstliche Intelligenz für die Suche nach lokalen Unternehmen und Dienstleistern. weiterlesen auf t3n.de",
+      "published": "2026-08-05T06:56:00+00:00",
+      "summary": "Plane 1.4.0 bringt schlanke REST-APIs für Listenansichten und eine neue Übersetzungsarchitektur. Auch Webhooks und die Barrierefreiheit wurden verbessert.",
       "keywords": [
-        "suche",
-        "chatgpt",
-        "statt",
-        "google",
-        "verändert",
-        "restaurants"
+        "plane",
+        "update",
+        "open-source-alternative",
+        "jira",
+        "bringt",
+        "schlanke"
       ]
     },
     {
-      "title": "Welche Workstation für CAD, 3D und lokale KI? Warum Lenovo ThinkStations die richtige Wahl sind",
-      "url": "https://t3n.de/news/lenovo-thinkstation-p4-cad-3d-ki-workstation-1754966/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "lang": "de",
-      "published": "2026-08-04T07:05:53+00:00",
-      "summary": "Nicht jeder moderne Arbeitsplatz braucht maximale Leistung. Doch bei CAD, 3D oder lokaler KI zeigt sich schnell die Grenze dieser Systeme. Lenovo ThinkStations wie die ThinkStation P4 sind für professionelle Workloads ausgelegt. weiterlesen auf t3n.de",
-      "keywords": [
-        "lenovo",
-        "thinkstations",
-        "welche",
-        "workstation",
-        "lokale",
-        "warum"
-      ]
-    },
-    {
-      "title": "Bei KI-Sicherheitsvorfällen fehlt fast immer die Zugriffskontrollen",
-      "url": "https://the-decoder.de/bei-ki-sicherheitsvorfaellen-fehlt-fast-immer-die-zugriffskontrollen/",
-      "source": "The Decoder",
-      "lang": "de",
-      "published": "2026-08-03T15:37:01+00:00",
-      "summary": "Laut IBMs Cost of a Data Breach Report 2026 fehlten bei 92 Prozent der Unternehmen mit KI-bezogenem Sicherheitsvorfall ausreichende Zugriffskontrollen für ihre KI-Systeme. Das Einfallstor sind meist kompromittierte Schnittstellen und falsch konfigurierte Cloud-Dienste, nicht die Modelle selbst. Der Artikel Bei KI-Sicherheitsvorfällen fehlt fast immer die Zugriffskontrollen erschien zuerst auf The Decoder .",
-      "keywords": [
-        "zugriffskontrollen",
-        "ki-sicherheitsvorfällen",
-        "fehlt",
-        "fast",
-        "immer",
-        "laut"
-      ]
-    },
-    {
-      "title": "KI-generierte Bugs: Apple zieht die Notbremse",
-      "url": "https://www.heise.de/news/Apple-Limit-fuer-Bug-Meldungen-pro-Person-11395377.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "title": "High Bandwidth Flash für extrem schnellen KI-Speicher ist fertig",
+      "url": "https://www.heise.de/news/High-Bandwidth-Flash-fuer-extrem-schnellen-KI-Speicher-ist-fertig-11398882.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "source": "Heise Online (Hauptfeed)",
       "lang": "de",
-      "published": "2026-08-03T15:22:00+00:00",
-      "summary": "Apple reagiert auf die Flut von KI-generierten Sicherheitsmeldungen und begrenzt die Einreichungen pro Person.",
+      "published": "2026-08-04T15:23:00+00:00",
+      "summary": "Sandisk und SK Hynix haben HBF abschließend spezifiziert. 512-GByte-Stapel schaffen die Transferrate von HBM.",
       "keywords": [
-        "apple",
-        "ki-generierte",
-        "bugs",
-        "zieht",
-        "notbremse",
-        "reagiert"
+        "high",
+        "bandwidth",
+        "flash",
+        "extrem",
+        "schnellen",
+        "ki-speicher"
       ]
     },
     {
-      "title": "Vereinigtes Königreich: Hacker leaken Daten von über 100.000 Polizisten",
-      "url": "https://www.golem.de/news/vereinigtes-koenigreich-hacker-leaken-daten-von-ueber-100-000-polizisten-2608-211561.html",
-      "source": "Golem.de (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-08-04T06:40:05+00:00",
-      "summary": "Eine Cybergang hat eine Polizei-Datenbank des Vereinigten Königreichs geplündert und persönliche Daten unzähliger Strafverfolger veröffentlicht. ( Cybercrime , Datenschutz )",
-      "keywords": [
-        "daten",
-        "vereinigtes",
-        "königreich",
-        "hacker",
-        "leaken",
-        "polizisten"
-      ]
-    },
-    {
-      "title": "Betrugsverdacht bei Aufnahmeprüfung: KI-Überwachung versagt bei Test an Universität",
-      "url": "https://www.golem.de/news/betrugsverdacht-bei-aufnahmepruefung-ki-ueberwachung-versagt-bei-test-an-der-universitaet-2608-211562.html",
-      "source": "Golem.de (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-08-04T06:31:01+00:00",
-      "summary": "Auffällig hohe Ergebnisse bei der Onlineprüfung der UNAM zwingen 58.000 Bewerber zu einem neuen Test in Präsenz. ( Bildung , KI )",
-      "keywords": [
-        "test",
-        "betrugsverdacht",
-        "aufnahmeprüfung",
-        "ki-überwachung",
-        "versagt",
-        "universität"
-      ]
-    },
-    {
-      "title": "Telegram kurzzeitig aus dem App-Store geflogen: Das war der Grund",
-      "url": "https://t3n.de/news/telegram-app-store-1756207/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
-      "source": "t3n Digital Pioneers",
-      "lang": "de",
-      "published": "2026-08-04T06:30:37+00:00",
-      "summary": "Die Chat-App Telegram ist umstritten wegen Vorwürfen, nicht genug gegen Kriminelle und Extremisten zu unternehmen. Jetzt war der Messenger kurz aus Apples iPhone-App-Store verschwunden. weiterlesen auf t3n.de",
-      "keywords": [
-        "telegram",
-        "kurzzeitig",
-        "app-store",
-        "geflogen",
-        "grund",
-        "chat-app"
-      ]
-    },
-    {
-      "title": "In-Car-Entertainment: BMW zeigt Spider-Man-Werbung auf Auto-Displays",
-      "url": "https://www.golem.de/news/in-car-entertainment-bmw-zeigt-spider-man-werbung-auf-auto-displays-2608-211560.html",
-      "source": "Golem.de (Hauptfeed)",
-      "lang": "de",
-      "published": "2026-08-04T06:13:01+00:00",
-      "summary": "BMW spielt auf Fahrzeug-Displays eine Animation zum neuen Spider-Man-Film aus. Besitzer reagieren mit Kritik. ( BMW , Onlinewerbung )",
-      "keywords": [
-        "in-car-entertainment",
-        "zeigt",
-        "spider-man-werbung",
-        "auto-displays",
-        "spielt",
-        "fahrzeug-displays"
-      ]
-    },
-    {
-      "title": "Von Deepfakes bis Phishing: KI durchdringt laut Interpol alle Phasen der Cyberkriminalität in Afrika",
-      "url": "https://the-decoder.de/von-deepfakes-bis-phishing-ki-durchdringt-laut-interpol-alle-phasen-der-cyberkriminalitaet-in-afrika/",
+      "title": "Anthropic schließt Milliarden-Deal für Nvidia-Chips aus norwegischem Wasserkraft-Rechenzentrum",
+      "url": "https://the-decoder.de/anthropic-schliesst-milliarden-deal-fuer-nvidia-chips-aus-norwegischem-wasserkraft-rechenzentrum/",
       "source": "The Decoder",
       "lang": "de",
-      "published": "2026-08-03T14:37:28+00:00",
-      "summary": "Interpol meldet, dass KI inzwischen an 55 Prozent der gemeldeten Cyberverbrechen in Afrika beteiligt ist. Die finanziellen Schäden stiegen von 192 auf 484 Millionen US-Dollar. Allein 600.000 Fälle digitaler Erpressung mit Deepfakes wurden erfasst. Der Artikel Von Deepfakes bis Phishing: KI durchdringt laut Interpol alle Phasen der Cyberkriminalität in Afrika erschien zuerst auf The Decoder .",
+      "published": "2026-08-04T15:21:14+00:00",
+      "summary": "Anthropic sichert sich für 10 Milliarden US-Dollar Rechenkapazität bei dem erst wenige Monate alten Cloud-Startup Volta Infra Holdings. Der Artikel Anthropic schließt Milliarden-Deal für Nvidia-Chips aus norwegischem Wasserkraft-Rechenzentrum erschien zuerst auf The Decoder .",
       "keywords": [
-        "deepfakes",
-        "interpol",
-        "afrika",
-        "phishing",
-        "durchdringt",
-        "laut"
+        "anthropic",
+        "schließt",
+        "milliarden-deal",
+        "nvidia-chips",
+        "norwegischem",
+        "wasserkraft-rechenzentrum"
+      ]
+    },
+    {
+      "title": "Scaleup-Europe-Fonds: 5 Milliarden Euro für Europas High-Tech-Hoffnungen",
+      "url": "https://www.heise.de/news/Scaleup-Europe-Fonds-5-Milliarden-Euro-fuer-Europas-High-Tech-Hoffnungen-11398894.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-04T15:06:00+00:00",
+      "summary": "Die EU-Kommission und Geldgeber legen einen Milliardenfonds auf, damit vielversprechende Tech-Startups nicht länger zur Kapitalaufstockung ins Ausland müssen.",
+      "keywords": [
+        "scaleup-europe-fonds",
+        "milliarden",
+        "euro",
+        "europas",
+        "high-tech-hoffnungen",
+        "eu-kommission"
+      ]
+    },
+    {
+      "title": "Social-Media: Mehr Medienbildung soll Kinder in Mecklenburg-Vorpommern schützen",
+      "url": "https://www.heise.de/news/Social-Media-Mehr-Medienbildung-soll-Kinder-in-Mecklenburg-Vorpommern-schuetzen-11398647.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-04T14:41:00+00:00",
+      "summary": "Die noch amtierende Landesregierung will die Medienkompetenz von Kindern und Jugendlichen in Anbetracht von Social Media mehr fördern.",
+      "keywords": [
+        "mehr",
+        "social-media",
+        "medienbildung",
+        "soll",
+        "kinder",
+        "mecklenburg-vorpommern"
+      ]
+    },
+    {
+      "title": "LibreOffice Impress Remote: Präsentationen per Smartphone steuern",
+      "url": "https://www.heise.de/news/LibreOffice-Impress-Remote-Praesentationen-per-Smartphone-steuern-11398813.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-04T14:39:00+00:00",
+      "summary": "Mit der neuen Impress Remote-Erweiterung für LibreOffice lassen sich Präsentationen bequem per Smartphone oder Browser steuern.",
+      "keywords": [
+        "libreoffice",
+        "impress",
+        "präsentationen",
+        "smartphone",
+        "steuern",
+        "remote"
+      ]
+    },
+    {
+      "title": "SpaceX-Aktie fällt unter Ausgabepreis – Elon Musks Billion-Dollar-Prognose lässt Börse kalt",
+      "url": "https://t3n.de/news/spacex-aktie-elon-musk-1756402/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-08-05T06:00:49+00:00",
+      "summary": "Die Weltraumfirma SpaceX von Elon Musk nahm beim Börsengang so viel ein wie kein anderes Unternehmen zuvor. Doch ihr Geschäft wirft weiter Verluste ab &#8211; und Musks neue Versprechen lassen die Börse kalt. weiterlesen auf t3n.de",
+      "keywords": [
+        "elon",
+        "musks",
+        "börse",
+        "kalt",
+        "spacex-aktie",
+        "fällt"
+      ]
+    },
+    {
+      "title": "Bafa: Elektroautoprämie wird vornehmlich von Geringverdienern genutzt",
+      "url": "https://www.golem.de/news/bafa-elektroautopraemie-wird-vornehmlich-von-geringverdienern-genutzt-2608-211605.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-05T05:46:02+00:00",
+      "summary": "Neue Zahlen des Bafa zeigen erstmals, welche Einkommensgruppen die staatliche Kaufprämie für Elektroautos bislang am häufigsten nutzen. ( Elektroauto , Auto )",
+      "keywords": [
+        "bafa",
+        "elektroautoprämie",
+        "wird",
+        "vornehmlich",
+        "geringverdienern",
+        "genutzt"
+      ]
+    },
+    {
+      "title": "Amazfit Balance 3 im Test: Outdoor-Sportuhr als Garmin-Killer für 370 Euro?",
+      "url": "https://www.heise.de/bestenlisten/testbericht/amazfit-balance-3-im-test-outdoor-sportuhr-als-garmin-killer-fuer-370-euro/34gsf69?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-04T14:15:00+00:00",
+      "summary": "Robust, wasserdicht bis 10 ATM und fürs Freitauchen zugelassen. Kann die Amazfit Balance 3 etablierten Sportuhren das Wasser reichen?",
+      "keywords": [
+        "amazfit",
+        "balance",
+        "test",
+        "outdoor-sportuhr",
+        "garmin-killer",
+        "euro"
+      ]
+    },
+    {
+      "title": "Die Macht des Chatfensters: Was es bedeutet, wenn wir der KI unsere intimsten Dinge anvertrauen",
+      "url": "https://t3n.de/news/wirklich-vertraulich-wenn-chatbots-zu-unserer-intimsten-schnittstelle-zu-ki-werden-1756076/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-08-05T05:30:09+00:00",
+      "summary": "Chatbots unterwandern unser gesundes Misstrauen und entlocken uns unsere geheimsten Gedanken. Die Daten, die Konzerne dadurch über uns anhäufen, machen uns leic weiterlesen auf t3n.de",
+      "keywords": [
+        "unsere",
+        "macht",
+        "chatfensters",
+        "bedeutet",
+        "wenn",
+        "intimsten"
+      ]
+    },
+    {
+      "title": "Anthropic-KI manipuliert Menschen per E-Mail, um Schadcode in Software einzuschleusen",
+      "url": "https://t3n.de/news/anthropic-ki-manipuliert-menschen-per-e-mail-um-schadcode-in-software-einzuschleusen-1756393/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-08-05T05:20:11+00:00",
+      "summary": "Um eine Testaufgabe zu lösen, versuchte Künstliche Intelligenz ungeplant, öffentlich zugängliche Software zu infizieren &#8211; und Menschen mit Phishing-Mails zu manipulieren. Forscher schlagen Alarm. weiterlesen auf t3n.de",
+      "keywords": [
+        "menschen",
+        "software",
+        "anthropic-ki",
+        "manipuliert",
+        "e-mail",
+        "schadcode"
+      ]
+    },
+    {
+      "title": "Anzeige: Cloud Competence Center aufbauen: Strategie und Governance",
+      "url": "https://www.golem.de/news/anzeige-cloud-competence-center-aufbauen-strategie-und-governance-2608-211603.html",
+      "source": "Golem.de (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-05T05:15:05+00:00",
+      "summary": "Der Aufbau eines Cloud Competence Centers verlangt klare Strukturen, Rollen und eine durchdachte Governance. Ein Workshop vermittelt praxisnahe Ansätze für Strategie und Umsetzung. ( Golem Karrierewelt , Internet )",
+      "keywords": [
+        "cloud",
+        "competence",
+        "strategie",
+        "governance",
+        "anzeige",
+        "center"
+      ]
+    },
+    {
+      "title": "Rechtsstreit zwischen Apple und OpenAI: iMessage-Chats und Mails veröffentlicht",
+      "url": "https://www.heise.de/news/Rechtsstreit-zwischen-Apple-und-OpenAI-iMessage-Chats-und-Mails-veroeffentlicht-11398513.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-04T13:26:00+00:00",
+      "summary": "OpenAI reagiert auf Apples Klage wegen angeblichen Diebstahls von Geschäftsgeheimnissen mit der Veröffentlichung von E-Mails und Chatverläufen.",
+      "keywords": [
+        "openai",
+        "rechtsstreit",
+        "zwischen",
+        "apple",
+        "imessage-chats",
+        "mails"
+      ]
+    },
+    {
+      "title": "IT-Jobs: Weniger Stellenangebote, Arbeitslosigkeit steigt",
+      "url": "https://www.heise.de/news/IT-Jobs-Weniger-Stellenangebote-Arbeitslosigkeit-steigt-11398441.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-04T13:05:00+00:00",
+      "summary": "Die Schwäche der deutschen Wirtschaft spürt man IT-Arbeitsmarkt immer deutlicher. Die Zahl der Arbeitslosen steigt, während offene Stellen zurückgehen.",
+      "keywords": [
+        "steigt",
+        "it-jobs",
+        "weniger",
+        "stellenangebote",
+        "arbeitslosigkeit",
+        "schwäche"
+      ]
+    },
+    {
+      "title": "heise+ | Bit-Rauschen: AMD startet den Nvidia-Angriff und probabilistische Prozessoren",
+      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-AMD-startet-den-Nvidia-Angriff-und-probabilistische-Prozessoren-11338822.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-04T13:00:00+00:00",
+      "summary": "AMD schickt das KI-System Helios ins Rennen gegen Nvidia Vera Rubin NVL72. Mehrere Teams entwickeln ungenaue, aber effiziente Rechner. Die Raspi-Aktie hebt ab.",
+      "keywords": [
+        "heise",
+        "bit-rauschen",
+        "startet",
+        "nvidia-angriff",
+        "probabilistische",
+        "prozessoren"
+      ]
+    },
+    {
+      "title": "„Verfahren gegen sämtliche Raffineriebetreiber“: Kartellamt lässt nicht locker",
+      "url": "https://www.heise.de/news/Verfahren-gegen-saemtliche-Raffineriebetreiber-Kartellamt-laesst-nicht-locker-11398431.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-04T12:53:00+00:00",
+      "summary": "Nicht alle Mineralölunternehmen wollen zur Prüfung der Tankstellenpreise Daten liefern. Zuletzt erzielte das Kartellamt aber einen Zwischenerfolg.",
+      "keywords": [
+        "kartellamt",
+        "nicht",
+        "verfahren",
+        "gegen",
+        "sämtliche",
+        "raffineriebetreiber"
+      ]
+    },
+    {
+      "title": "Deutschland (nicht) digital: Die Verwaltung lädt noch",
+      "url": "https://www.heise.de/news/Deutschland-nicht-digital-Die-Verwaltung-laedt-noch-11398405.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "source": "Heise Online (Hauptfeed)",
+      "lang": "de",
+      "published": "2026-08-04T12:41:00+00:00",
+      "summary": "Im Bitkom-Digitalranking fällt Deutschland auf Platz 17 von 27 EU-Staaten zurück. Die Infrastruktur ist gut, ihre Nutzung nicht – und die Verwaltung desaströs.",
+      "keywords": [
+        "deutschland",
+        "nicht",
+        "verwaltung",
+        "digital",
+        "lädt",
+        "noch"
+      ]
+    },
+    {
+      "title": "Pilz zum Anziehen? Forscher züchten aus Mycel ein reißfestes Tuch – das sich selbst flicken und färben kann",
+      "url": "https://t3n.de/news/pilz-forscher-mycel-tuch-1755474/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed",
+      "source": "t3n Digital Pioneers",
+      "lang": "de",
+      "published": "2026-08-05T04:00:00+00:00",
+      "summary": "Stoff aus lebendem Pilzgeflecht kann sich selbst reparieren, reinigen und einfärben – und das deutlich umweltfreundlicher als herkömmliche Textilien. weiterlesen auf t3n.de",
+      "keywords": [
+        "sich",
+        "selbst",
+        "kann",
+        "pilz",
+        "anziehen",
+        "forscher"
+      ]
+    },
+    {
+      "title": "Machtkampf im Silicon Valley stoppt vorerst US-Verbote für Chinas KI-Modelle",
+      "url": "https://the-decoder.de/machtkampf-im-silicon-valley-stoppt-vorerst-us-verbote-fuer-chinas-ki-modelle/",
+      "source": "The Decoder",
+      "lang": "de",
+      "published": "2026-08-04T12:06:43+00:00",
+      "summary": "Die Trump-Regierung diskutierte laut der New York Times Sanktionen und Cloud-Sperren gegen chinesische Open-Weight-KI-Modelle. OpenAI und Anthropic drängten auf Beschränkungen, Nvidia, Google und Meta hielten dagegen. Nach Protesten aus dem Silicon Valley ruderte Washington vorerst zurück – ein Entscheid vor Xi Jinpings Besuch im September wird aber erwartet. Der Artikel Machtkampf im Silicon Valley stoppt vorerst US-Verbote für Chinas KI-Modelle erschien zuerst auf The Decoder .",
+      "keywords": [
+        "silicon",
+        "valley",
+        "vorerst",
+        "machtkampf",
+        "stoppt",
+        "us-verbote"
       ]
     }
   ]
